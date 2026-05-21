@@ -1,0 +1,4 @@
+deploy/
+screenshots/
+*.log
+research-queue.csv
