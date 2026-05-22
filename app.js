@@ -38,6 +38,8 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
+const DATA_VERSION = "2026-05-23-asu-collaborative-piano-v2";
+
 const state = {
   data: null,
   rows: [],
@@ -59,7 +61,9 @@ init();
 
 async function init() {
   try {
-    const response = await fetch("./data/schools.json");
+    const response = await fetch(`./data/schools.json?v=${DATA_VERSION}`, {
+      cache: "no-store",
+    });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.data = await response.json();
     state.rows = normalizeSchools(state.data.schools);
