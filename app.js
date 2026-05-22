@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-23-asu-collaborative-piano-v2";
+const DATA_VERSION = "2026-05-23-repertoire-format-v3";
 
 const state = {
   data: null,
@@ -313,12 +313,11 @@ function formatFieldValue(label, value) {
 }
 
 function formatRepertoireValue(text) {
-  const display = splitIntoDisplayItems(text);
-  const sections = classifyRepertoireItems(display.intro, display.items);
-  const intro = display.intro ? `<p class="field-intro">${escapeHtml(display.intro)}</p>` : "";
+  const { intro, sections } = parseRepertoireSections(text);
+  const introText = intro ? `<p class="field-intro">${escapeHtml(intro)}</p>` : "";
 
   return `
-    ${intro}
+    ${introText}
     <div class="repertoire-sections">
       ${renderRepertoireSection("Prescreening", sections.prescreening)}
       ${renderRepertoireSection("Final Audition", sections.final)}
@@ -332,9 +331,76 @@ function renderRepertoireSection(title, items) {
   return `
     <section class="repertoire-section">
       <h4>${escapeHtml(title)}</h4>
-      <ul>${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+      <ul class="repertoire-list">${items.map(renderRepertoireItem).join("")}</ul>
     </section>
   `;
+}
+
+function renderRepertoireItem(item) {
+  const nested = parseNestedRequirement(item);
+  if (!nested) return `<li>${escapeHtml(item)}</li>`;
+
+  return `
+    <li>
+      <span class="repertoire-item-label">${escapeHtml(nested.label)}</span>
+      <ul class="repertoire-subitems">
+        ${nested.items.map((subitem) => `<li>${escapeHtml(subitem)}</li>`).join("")}
+      </ul>
+    </li>
+  `;
+}
+
+function parseNestedRequirement(item) {
+  const colonIndex = item.indexOf(":");
+  if (colonIndex < 12 || colonIndex > 140) return null;
+
+  const label = item.slice(0, colonIndex + 1).trim();
+  const rest = item.slice(colonIndex + 1).trim();
+  const options = splitByStrongSeparators(rest).map((option) => option.replace(/^or\s+/i, "").trim());
+
+  if (options.length < 2) return null;
+  if (!/(following|choose|chosen|include|including|options|selections|songs|works)/i.test(label)) return null;
+
+  return { label, items: options };
+}
+
+function parseRepertoireSections(text) {
+  const markerMatches = [...text.matchAll(repertoireMarkerRegex())];
+  if (!markerMatches.length) {
+    const display = splitIntoDisplayItems(text);
+    return {
+      intro: display.intro,
+      sections: classifyRepertoireItems(display.intro, display.items),
+    };
+  }
+
+  const sections = {
+    prescreening: [],
+    final: [],
+    notes: [],
+  };
+  const intro = text.slice(0, markerMatches[0].index).trim().replace(/[.;]\s*$/, "");
+
+  markerMatches.forEach((match, index) => {
+    const marker = match[1];
+    const start = match.index + match[0].length;
+    const end = markerMatches[index + 1]?.index ?? text.length;
+    const item = text.slice(start, end).trim().replace(/^[.;]\s*/, "").replace(/[.;]\s*$/, "");
+    if (!item) return;
+    sections[sectionFromRepertoireMarker(marker)].push(item);
+  });
+
+  return { intro, sections };
+}
+
+function repertoireMarkerRegex() {
+  return /\b(Prescreening(?: requirements| repertoire)?|Pre-?screening(?: requirements| repertoire)?|Final audition(?: repertoire| requirements)?|Audition repertoire|Live audition(?: repertoire| requirements)?)\s*:\s*/gi;
+}
+
+function sectionFromRepertoireMarker(marker) {
+  if (/pre-?screen|prescreen/i.test(marker)) return "prescreening";
+  if (/final audition|audition repertoire|live audition/i.test(marker)) return "final";
+  return "notes";
 }
 
 function classifyRepertoireItems(intro, items) {

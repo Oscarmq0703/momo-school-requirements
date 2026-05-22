@@ -469,6 +469,33 @@ select {
   color: var(--blue);
 }
 
+.repertoire-list > li {
+  margin-top: 8px;
+}
+
+.repertoire-list > li:first-child {
+  margin-top: 0;
+}
+
+.repertoire-item-label {
+  display: block;
+  margin-bottom: 7px;
+  font-weight: 750;
+}
+
+.repertoire-subitems {
+  margin-top: 7px !important;
+  padding-left: 20px !important;
+}
+
+.repertoire-subitems li {
+  color: var(--ink);
+}
+
+.repertoire-subitems li::marker {
+  color: var(--subtle);
+}
+
 .repertoire-sections {
   display: grid;
   gap: 14px;
