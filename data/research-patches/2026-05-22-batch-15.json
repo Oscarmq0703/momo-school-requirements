@@ -1,0 +1,240 @@
+{
+  "schools": [
+    {
+      "id": "arizona-state-university",
+      "fields": {
+        "mm_piano_performance": {
+          "auditionRequirements": {
+            "value": "Master of Music Piano applicants may choose a recorded audition or on-campus audition. For recorded auditions, the audition link must be submitted in the music application by December 1. Recorded auditions must include video and audio, show the whole body including hands and pedals, and follow all repertoire requirements. Live piano auditions are offered on campus on listed January and February audition dates.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "ASU Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: Prepare a 45-minute memorized program. Final audition repertoire: The program must include three complete works in contrasting styles selected from Baroque, Classical, Romantic, Impressionism, 20th Century, and Contemporary. Final audition repertoire: Concertos are not accepted. Final audition repertoire: Shorter movements, pieces, or sections of longer works will not be accepted. Final audition repertoire: Memorization is required except for complex contemporary works.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "ASU Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "auditionRequirements": {
+            "value": "Collaborative Piano applicants must audition on one of the listed on-campus dates. Applicants must email repertoire choices to the listed ASU contact by January 10. Applicants may audition with their own partners or ask to be paired with an ASU singer and instrumentalist; ASU provides rehearsal time before the audition. The audition includes testing of sight-reading and foreign language skills; applicants will be asked to pronounce text in French, German, and Italian.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "ASU Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: Solo piano work of the applicant's choice, 10-15 minutes in length. Final audition repertoire: One German song chosen from Mozart, An Chloe; Schubert, Die junge Nonne; Schumann, Fruehlingsnacht; Strauss, Morgen!; or any Wolf song. Final audition repertoire: One French song chosen from Debussy, C'est l'extase from Ariettes oubliees; Debussy, Green from Ariettes oubliees; Faure, Prison from La Chanson d'Eve; Duparc, Phidyle; or Ravel, Sainte. Final audition repertoire: One English song chosen from Beach, Ah, Love But a Day; Rorem, Orchids from Six Songs for High Voice; or Argento, Spring from Six Elizabethan Songs. Final audition repertoire: One movement from the listed sonata options by Brahms, Debussy, Faure, or Franck. Final audition repertoire: Sight-reading and foreign-language pronunciation are part of the audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "ASU Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ball-state-university",
+      "officialSources": [
+        {
+          "label": "Ball State Graduate Auditions",
+          "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+        },
+        {
+          "label": "Ball State MM Performance Application",
+          "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-admissions/mm-performance"
+        },
+        {
+          "label": "Ball State Graduate Application Process",
+          "url": "https://www.bsu.edu/admissions/graduate-admissions/how-to-apply"
+        },
+        {
+          "label": "Ball State International Graduate Admissions",
+          "url": "https://www.bsu.edu/admissions/international/graduate-admissions"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply to the Ball State Graduate School and complete the School of Music graduate audition process for MM Performance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State MM Performance Application",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-admissions/mm-performance"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Graduate auditions are scheduled on listed February audition dates. Applications must be submitted by January 1 for students to be eligible for the audition dates. Piano Performance auditions include sight-reading.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: Piano Performance requires an audition of approximately 50 minutes. Final audition repertoire: Repertoire must include three contrasting styles of literature. Final audition repertoire: Sight-reading is required.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "January 1: applications must be submitted for students to be eligible for the listed February audition dates. February 7, February 15, February 20, and February 21: listed graduate audition dates. March 15: MM Performance fall application deadline. December 1: MM Performance spring application deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              },
+              {
+                "label": "Ball State MM Performance Application",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-admissions/mm-performance"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Ball State lists the related graduate area as Piano Chamber Music and Accompanying; apply to the Ball State Graduate School and complete the School of Music graduate audition process.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Piano Chamber Music and Accompanying applicants complete a graduate audition. Applications must be submitted by January 1 for students to be eligible for the listed February audition dates. The audition includes sight-reading.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: Piano Chamber Music and Accompanying requires approximately 40 minutes of vocal and instrumental repertoire. Final audition repertoire: Possible combinations include two vocal selections and one complete instrumental work, or two instrumental works and one vocal selection. Final audition repertoire: Applicants also prepare 20 minutes of solo repertoire. Final audition repertoire: Sight-reading is required.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "January 1: applications must be submitted for students to be eligible for the listed February audition dates. February 7, February 15, February 20, and February 21: listed graduate audition dates. Confirm the final program application deadline with Ball State Graduate School or the School of Music, because the public deadline page is posted by application plan.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "california-state-university-northridge",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_piano_performance": {
+          "deadlines": {
+            "value": "CSUN's official Dates & Deadlines page lists Music - All options under graduate program exceptions. Spring 2026 Music - All options deadline: October 15, 2025. Fall 2026 Music - All options deadline: January 31, 2026. Spring 2027 Music - All options deadline: October 15, 2026.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "CSUN Dates & Deadlines",
+                "url": "https://www.csun.edu/admissions-financial-aid/dates-deadlines"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "deadlines": {
+            "value": "CSUN's official Dates & Deadlines page lists Music - All options under graduate program exceptions. Spring 2026 Music - All options deadline: October 15, 2025. Fall 2026 Music - All options deadline: January 31, 2026. Spring 2027 Music - All options deadline: October 15, 2026.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "CSUN Dates & Deadlines",
+                "url": "https://www.csun.edu/admissions-financial-aid/dates-deadlines"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "cleveland-institute-of-music",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_piano_performance": {
+          "englishScores": {
+            "value": "Applicants from countries where English is not an official language must submit accepted English proficiency scores in the application by December 1. Scores must come from one single test, and TOEFL MyBest scores are not accepted. Bachelor/Master/Professional Studies minimums required to schedule an audition by December 1: TOEFL iBT 61, TOEFL Essentials 6.5, IELTS 6, PTE Academic 44, or Duolingo 100. Bachelor/Master/Professional Studies minimums required to be considered for unconditional acceptance by March 1: TOEFL iBT 79, TOEFL Essentials 9, IELTS 6.5, or PTE Academic 53. Duolingo scores submitted for audition scheduling must be accompanied by an official TOEFL, IELTS, or PTE Academic score by March 1. Bachelor and Master of Music applicants accepted with TOEFL iBT 61-78 or IELTS 6 must enroll in CIM's English Language Training Program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "CIM International Applicants",
+                "url": "https://www.cim.edu/admissions/apply/international"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "englishScores": {
+            "value": "Applicants from countries where English is not an official language must submit accepted English proficiency scores in the application by December 1. Scores must come from one single test, and TOEFL MyBest scores are not accepted. Bachelor/Master/Professional Studies minimums required to schedule an audition by December 1: TOEFL iBT 61, TOEFL Essentials 6.5, IELTS 6, PTE Academic 44, or Duolingo 100. Bachelor/Master/Professional Studies minimums required to be considered for unconditional acceptance by March 1: TOEFL iBT 79, TOEFL Essentials 9, IELTS 6.5, or PTE Academic 53. Duolingo scores submitted for audition scheduling must be accompanied by an official TOEFL, IELTS, or PTE Academic score by March 1. Bachelor and Master of Music applicants accepted with TOEFL iBT 61-78 or IELTS 6 must enroll in CIM's English Language Training Program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-22",
+            "sources": [
+              {
+                "label": "CIM International Applicants",
+                "url": "https://www.cim.edu/admissions/apply/international"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
