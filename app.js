@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-23-repertoire-format-v3";
+const DATA_VERSION = "2026-05-23-ball-state-audit-v4";
 
 const state = {
   data: null,

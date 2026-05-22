@@ -190,46 +190,50 @@
           "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
         },
         {
-          "label": "Ball State MM Performance Application",
-          "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-admissions/mm-performance"
+          "label": "Ball State Music MM Performance Application",
+          "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-performance"
         },
         {
-          "label": "Ball State Graduate Application Process",
-          "url": "https://www.bsu.edu/admissions/graduate-admissions/how-to-apply"
+          "label": "Ball State Music MM Piano Accompany Application",
+          "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-piano"
         },
         {
-          "label": "Ball State International Graduate Admissions",
-          "url": "https://www.bsu.edu/admissions/international/graduate-admissions"
+          "label": "Ball State English Proficiency Requirements",
+          "url": "https://www.bsu.edu/admissions/international/proficiency-requirements-and-conditional-admission-information"
+        },
+        {
+          "label": "Ball State International Steps to Admission",
+          "url": "https://www.bsu.edu/admissions/international/steps-to-admission"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply to the Ball State Graduate School and complete the School of Music graduate audition process for MM Performance.",
+            "value": "Apply through Ball State Graduate Admissions for Music (MM) - Performance. The program page states that materials are uploaded in the Cardinal Landing Portal, including the School of Music supplemental form, interview scheduling/contact step, letter of intent, three recommendation letters, current resume or curriculum vitae, and audition/portfolio materials. Performance applicants may schedule an in-person audition in the portal on a main audition day, arrange an alternate date when needed, or upload a recorded audition as the portfolio.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "Ball State MM Performance Application",
-                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-admissions/mm-performance"
+                "label": "Ball State Music MM Performance Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-performance"
               }
             ]
           },
           "applicationFee": {
-            "value": "Graduate application fee: $60 domestic; $60 international.",
+            "value": "Graduate applications are $60 per program and the fee is nonrefundable. Ball State lists fee waivers for currently enrolled Ball State students or alumni, eligible current employees, veterans or active-duty military, guest students seeking transfer credits, and prospective students who attended a Ball State graduate program information session.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "Ball State Graduate Application Process",
-                "url": "https://www.bsu.edu/admissions/graduate-admissions/how-to-apply"
+                "label": "Ball State Music MM Performance Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-performance"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Graduate auditions are scheduled on listed February audition dates. Applications must be submitted by January 1 for students to be eligible for the audition dates. Piano Performance auditions include sight-reading.",
+            "value": "Performance applicants must complete an audition for admission to the School of Music. For piano degree programs, Ball State strongly encourages a live audition but accepts recorded auditions. For on-campus auditions, applicants submit the completed School of Music application, including preferred audition date, by January 1. Video audition applicants select Recorded Audition in the application; faculty may follow up with a video interview. Applicants unable to attend published audition days may email musicaudition@bsu.edu about an ad hoc audition. For full graduate assistantship consideration, Ball State advises submitting the application and completing the audition by March 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Ball State Graduate Auditions",
@@ -238,9 +242,9 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Piano Performance requires an audition of approximately 50 minutes. Final audition repertoire: Repertoire must include three contrasting styles of literature. Final audition repertoire: Sight-reading is required.",
+            "value": "Final audition repertoire: Master of Music in Piano Performance requires a solo program of approximately 50 minutes in length with at least three contrasting styles represented. Final audition repertoire: Sight-reading is required. Final audition repertoire: Ball State strongly encourages a live audition for piano degree programs but accepts recorded auditions.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Ball State Graduate Auditions",
@@ -249,38 +253,46 @@
             ]
           },
           "deadlines": {
-            "value": "January 1: applications must be submitted for students to be eligible for the listed February audition dates. February 7, February 15, February 20, and February 21: listed graduate audition dates. March 15: MM Performance fall application deadline. December 1: MM Performance spring application deadline.",
+            "value": "Program application deadline for Music (MM) - Performance: February 1 to start in Fall; December 1 to start in Spring; for Summer, the application must be completed two weeks before the semester begins. On-campus School of Music audition scheduling deadline: January 1 for the completed School of Music application with preferred audition date. Listed on-campus audition dates: February 7, February 15, February 20, and February 21. Graduate assistantship full-consideration advisory date: submit the application and complete the audition by March 1. International applicants must submit all materials by the earliest applicable deadline, either the international deadline or the program deadline; Ball State lists international application deadlines as June 15 for Fall, November 15 for Spring, and March 15 for Summer.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
+              {
+                "label": "Ball State Music MM Performance Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-performance"
+              },
               {
                 "label": "Ball State Graduate Auditions",
                 "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
               },
               {
-                "label": "Ball State MM Performance Application",
-                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-admissions/mm-performance"
+                "label": "Ball State International Steps to Admission",
+                "url": "https://www.bsu.edu/admissions/international/steps-to-admission"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate admission requires English proficiency; Ball State lists minimum TOEFL iBT 79, IELTS 6.5, PTE 53, or Duolingo 110 for graduate applicants, unless an exemption applies.",
+            "value": "Ball State requires applicants with an education history outside the U.S. to submit English proficiency unless they qualify for a waiver. Official scores must be sent electronically to Ball State Admissions; school code 1051 and admissions@bsu.edu are listed. Scores are valid for 24 months. Required English proficiency scores include TOEFL 79, IELTS Academic 6.5, Duolingo 110, Pearson PTE 53, SAT Critical Reading or Evidence-Based Reading and Writing 500, or ACT English 21. Ball State accepts TOEFL iBT MyBest scores. The Academic Bridge Program may be available at slightly lower scores: Duolingo 100 or 105, TOEFL 75-78, IELTS Academic 6.0, or Pearson PTE 51-52. Ball State notes that academic programs or departments may have different English proficiency requirements.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "Ball State International Graduate Admissions",
-                "url": "https://www.bsu.edu/admissions/international/graduate-admissions"
+                "label": "Ball State English Proficiency Requirements",
+                "url": "https://www.bsu.edu/admissions/international/proficiency-requirements-and-conditional-admission-information"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Ball State lists the related graduate area as Piano Chamber Music and Accompanying; apply to the Ball State Graduate School and complete the School of Music graduate audition process.",
+            "value": "Apply through Ball State Graduate Admissions for Music (MM) - Piano Accompany. The program page states that materials are uploaded in the Cardinal Landing Portal, including the School of Music supplemental form, interview scheduling/contact step, letter of intent, three recommendation letters, current resume or curriculum vitae, and audition/portfolio materials. The audition page identifies the related audition area as Master of Music in Piano Chamber Music and Accompanying.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
+              {
+                "label": "Ball State Music MM Piano Accompany Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-piano"
+              },
               {
                 "label": "Ball State Graduate Auditions",
                 "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
@@ -288,31 +300,35 @@
             ]
           },
           "applicationFee": {
-            "value": "Graduate application fee: $60 domestic; $60 international.",
+            "value": "Graduate applications are $60 per program and the fee is nonrefundable. Ball State lists fee waivers for currently enrolled Ball State students or alumni, eligible current employees, veterans or active-duty military, guest students seeking transfer credits, and prospective students who attended a Ball State graduate program information session.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "Ball State Graduate Application Process",
-                "url": "https://www.bsu.edu/admissions/graduate-admissions/how-to-apply"
+                "label": "Ball State Music MM Piano Accompany Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-piano"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Piano Chamber Music and Accompanying applicants complete a graduate audition. Applications must be submitted by January 1 for students to be eligible for the listed February audition dates. The audition includes sight-reading.",
+            "value": "Piano Accompany applicants must complete an audition/portfolio for admission to the School of Music. For piano degree programs, Ball State strongly encourages a live audition but accepts recorded auditions. For on-campus auditions, applicants submit the completed School of Music application, including preferred audition date, by January 1. Video audition applicants select Recorded Audition in the application; faculty may follow up with a video interview. Applicants unable to attend published audition days may email musicaudition@bsu.edu about an ad hoc audition. For full graduate assistantship consideration, Ball State advises submitting the application and completing the audition by March 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Ball State Graduate Auditions",
                 "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              },
+              {
+                "label": "Ball State Music MM Piano Accompany Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-piano"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Piano Chamber Music and Accompanying requires approximately 40 minutes of vocal and instrumental repertoire. Final audition repertoire: Possible combinations include two vocal selections and one complete instrumental work, or two instrumental works and one vocal selection. Final audition repertoire: Applicants also prepare 20 minutes of solo repertoire. Final audition repertoire: Sight-reading is required.",
+            "value": "Final audition repertoire: Master of Music in Piano Chamber Music and Accompanying requires a 40-minute program containing any combination of chamber music/accompanying literature. Final audition repertoire: Applicants also prepare 20 minutes of solo repertoire. Final audition repertoire: Sight-reading is required. Final audition repertoire: Ball State strongly encourages a live audition for piano degree programs but accepts recorded auditions.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Ball State Graduate Auditions",
@@ -321,24 +337,32 @@
             ]
           },
           "deadlines": {
-            "value": "January 1: applications must be submitted for students to be eligible for the listed February audition dates. February 7, February 15, February 20, and February 21: listed graduate audition dates. Confirm the final program application deadline with Ball State Graduate School or the School of Music, because the public deadline page is posted by application plan.",
+            "value": "Program application deadline for Music (MM) - Piano Accompany: February 1 to start in Fall; December 1 to start in Spring; for Summer, the application must be completed two weeks before the semester begins. On-campus School of Music audition scheduling deadline: January 1 for the completed School of Music application with preferred audition date. Listed on-campus audition dates: February 7, February 15, February 20, and February 21. Graduate assistantship full-consideration advisory date: submit the application and complete the audition by March 1. International applicants must submit all materials by the earliest applicable deadline, either the international deadline or the program deadline; Ball State lists international application deadlines as June 15 for Fall, November 15 for Spring, and March 15 for Summer.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
+              {
+                "label": "Ball State Music MM Piano Accompany Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-piano"
+              },
               {
                 "label": "Ball State Graduate Auditions",
                 "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              },
+              {
+                "label": "Ball State International Steps to Admission",
+                "url": "https://www.bsu.edu/admissions/international/steps-to-admission"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate admission requires English proficiency; Ball State lists minimum TOEFL iBT 79, IELTS 6.5, PTE 53, or Duolingo 110 for graduate applicants, unless an exemption applies.",
+            "value": "Ball State requires applicants with an education history outside the U.S. to submit English proficiency unless they qualify for a waiver. Official scores must be sent electronically to Ball State Admissions; school code 1051 and admissions@bsu.edu are listed. Scores are valid for 24 months. Required English proficiency scores include TOEFL 79, IELTS Academic 6.5, Duolingo 110, Pearson PTE 53, SAT Critical Reading or Evidence-Based Reading and Writing 500, or ACT English 21. Ball State accepts TOEFL iBT MyBest scores. The Academic Bridge Program may be available at slightly lower scores: Duolingo 100 or 105, TOEFL 75-78, IELTS Academic 6.0, or Pearson PTE 51-52. Ball State notes that academic programs or departments may have different English proficiency requirements.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "Ball State International Graduate Admissions",
-                "url": "https://www.bsu.edu/admissions/international/graduate-admissions"
+                "label": "Ball State English Proficiency Requirements",
+                "url": "https://www.bsu.edu/admissions/international/proficiency-requirements-and-conditional-admission-information"
               }
             ]
           }
