@@ -1,0 +1,33 @@
+{
+  "schools": [
+    {
+      "id": "arizona-state-university",
+      "fields": {
+        "mm_collaborative_piano": {
+          "auditionRequirements": {
+            "value": "Collaborative Piano applicants audition on the listed on-campus dates. Applicants must email audition repertoire choices to the Collaborative Piano faculty by January 10 for fall admission. Applicants may bring their own collaborative partner or use one provided by ASU; if using ASU partners, repertoire substitutions are not allowed. Exact rehearsal and audition times are sent one week before the audition day. Tests in sight-reading and foreign languages are given, and applicants are asked about prior language study and assessed on pronunciation in French, German, and Italian.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: All of the following songs, in high key: Mozart, An Chloe; Debussy, Il pleure dans mon coeur; Strauss, Allerseelen; Beach, The Year's at the Spring. Final audition repertoire: One of the following works originally for orchestra: Puccini, Mi chiamano Mimi; Puccini, Quando m'en vo' from La Boheme; or the exposition of the Mozart Clarinet Concerto. Final audition repertoire: One of the following instrumental works: Schumann, Fantasiestucke, Op. 73; Brahms, Sonata in f minor, Op. 120, No. 1, Movement I; or Brahms, Sonata in E-flat major, Op. 120, No. 2, Movement I. Final audition repertoire: Three solo compositions from contrasting stylistic periods performed from memory; individual movements from larger works are allowed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
