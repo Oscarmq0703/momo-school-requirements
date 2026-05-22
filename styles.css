@@ -496,6 +496,37 @@ select {
   color: var(--subtle);
 }
 
+.structured-sections {
+  display: grid;
+  gap: 11px;
+}
+
+.structured-section {
+  padding: 12px;
+  border: 1px solid var(--line-soft);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.48);
+}
+
+.structured-section h4 {
+  margin: 0 0 8px;
+  color: var(--blue);
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.structured-section p,
+.structured-section ul {
+  margin: 0;
+}
+
+.structured-section ul {
+  display: grid;
+  gap: 6px;
+}
+
 .repertoire-sections {
   display: grid;
   gap: 14px;

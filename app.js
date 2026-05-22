@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-23-ball-state-audit-v4";
+const DATA_VERSION = "2026-05-23-asu-audit-v5";
 
 const state = {
   data: null,
@@ -297,6 +297,7 @@ function renderApplicationField(portalRecord, feeRecord) {
 function formatFieldValue(label, value) {
   const text = String(value).trim();
   if (label === "Repertoire Requirements") return formatRepertoireValue(text);
+  if (label === "English Scores") return formatEnglishScoresValue(text);
 
   const display = splitIntoDisplayItems(text);
 
@@ -310,6 +311,67 @@ function formatFieldValue(label, value) {
     : "";
 
   return `${intro}${list}`;
+}
+
+function formatEnglishScoresValue(text) {
+  const sections = parseLabeledSections(text, [
+    "Minimum scores",
+    "Validity",
+    "Timing",
+    "Exemptions",
+    "Notes",
+    "Program note",
+  ]);
+
+  if (!sections.length) {
+    const display = splitIntoDisplayItems(text);
+    const intro = display.intro ? `<p class="field-intro">${escapeHtml(display.intro)}</p>` : "";
+    const list = display.items.length
+      ? `<ul>${display.items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>`
+      : "";
+    return `${intro}${list || `<p>${escapeHtml(text)}</p>`}`;
+  }
+
+  return `
+    <div class="structured-sections">
+      ${sections
+        .map(
+          (section) => `
+            <section class="structured-section">
+              <h4>${escapeHtml(section.label)}</h4>
+              ${renderStructuredSectionBody(section.value)}
+            </section>
+          `,
+        )
+        .join("")}
+    </div>
+  `;
+}
+
+function renderStructuredSectionBody(value) {
+  const items = splitByStrongSeparators(value);
+  if (items.length <= 1) return `<p>${escapeHtml(value)}</p>`;
+
+  return `<ul>${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>`;
+}
+
+function parseLabeledSections(text, labels) {
+  const escapedLabels = labels.map(escapeRegExp).join("|");
+  const pattern = new RegExp(`\\b(${escapedLabels})\\s*:\\s*`, "gi");
+  const matches = [...text.matchAll(pattern)];
+  if (!matches.length) return [];
+
+  const intro = text.slice(0, matches[0].index).trim().replace(/[.;]\s*$/, "");
+  const sections = intro ? [{ label: "Overview", value: intro }] : [];
+
+  matches.forEach((match, index) => {
+    const start = match.index + match[0].length;
+    const end = matches[index + 1]?.index ?? text.length;
+    const value = text.slice(start, end).trim().replace(/^[.;]\s*/, "").replace(/[.;]\s*$/, "");
+    if (value) sections.push({ label: match[1], value });
+  });
+
+  return sections;
 }
 
 function formatRepertoireValue(text) {
@@ -558,4 +620,8 @@ function escapeHtml(value) {
 
 function escapeAttribute(value) {
   return escapeHtml(value).replaceAll("`", "&#096;");
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }

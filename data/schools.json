@@ -26,8 +26,12 @@
           "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
         },
         {
-          "label": "ASU Audition / Interview",
+          "label": "ASU Graduate Music Audition / Interview",
           "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+        },
+        {
+          "label": "ASU Graduate Admission Application",
+          "url": "https://admission.asu.edu/apply/graduate/admission"
         },
         {
           "label": "ASU Graduate English Proficiency",
@@ -37,9 +41,9 @@
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Submit the ASU Graduate Admission application; Music applicants must also submit School of Music, Dance and Theatre application materials in the assigned application portal.",
+            "value": "Step 1: submit the ASU Graduate Admission application; for Performance: Keyboard (Organ, Piano Solo), select Music Performance (MM). Step 2: submit the separate School of Music, Dance and Theatre music application through the Music Application Portal after ASU login information is available. The music application requires three reference contacts, a resume PDF, program-specific materials, proof of English proficiency for non-native English speakers, and optional recorded audition upload where permitted. Piano MM applicants must upload a repertoire list divided into works studied and works publicly performed.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "ASU Graduate Music Admission",
@@ -48,66 +52,78 @@
             ]
           },
           "applicationFee": {
-            "value": "ASU Graduate Admission application fee: $70 domestic, $115 international.",
+            "value": "ASU Graduate Admission application fee: $70 for U.S. citizen, U.S. permanent resident, applicant in permanent-residency process, DACA, or international online student studying outside the U.S.; $115 for international students on any nonimmigrant visa type studying in the U.S. School of Music, Dance and Theatre fees: music application $10; prescreening $15 when applicable; recorded audition $65; late application $40.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "ASU Graduate Admission Application",
                 "url": "https://admission.asu.edu/apply/graduate/admission"
-              }
-            ]
-          },
-          "auditionRequirements": {
-            "value": "Master of Music Piano applicants may choose a recorded audition or on-campus audition. For recorded auditions, the audition link must be submitted in the music application by December 1. Recorded auditions must include video and audio, show the whole body including hands and pedals, and follow all repertoire requirements. Live piano auditions are offered on campus on listed January and February audition dates.",
-            "status": "verified",
-            "retrievedAt": "2026-05-22",
-            "sources": [
-              {
-                "label": "ASU Audition / Interview",
-                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
-              }
-            ]
-          },
-          "repertoireRequirements": {
-            "value": "Final audition repertoire: Prepare a 45-minute memorized program. Final audition repertoire: The program must include three complete works in contrasting styles selected from Baroque, Classical, Romantic, Impressionism, 20th Century, and Contemporary. Final audition repertoire: Concertos are not accepted. Final audition repertoire: Shorter movements, pieces, or sections of longer works will not be accepted. Final audition repertoire: Memorization is required except for complex contemporary works.",
-            "status": "verified",
-            "retrievedAt": "2026-05-22",
-            "sources": [
-              {
-                "label": "ASU Audition / Interview",
-                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
-              }
-            ]
-          },
-          "deadlines": {
-            "value": "November 1: Priority application deadline for performance programs; December 1: Final application deadline for performance programs; January 5: Deadline for letters of recommendation, English proficiency scores, and transcripts; January 10-15: Audition/interview invitations sent; March 15: Admission decisions released; April 15: Graduate decision deadline.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
+              },
               {
                 "label": "ASU Graduate Music Admission",
                 "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
               }
             ]
           },
-          "englishScores": {
-            "value": "ASU Graduate Admission lists English proficiency options including TOEFL iBT 80, TOEFL Essentials 8.5, IELTS 6.5, PTE 60, Duolingo 105, or other ASU-approved pathways; Some programs may require higher scores.",
+          "auditionRequirements": {
+            "value": "Piano Solo MM audition dates: November 15, 2025 on campus for spring admission only; January 24, 2026 on campus; February 7, 2026 on campus; February 21, 2026 on campus and reserved for out-of-state applicants; recorded audition due February 1, 2026 and requires attendance at Virtual Experience Day on February 14, 2026. The recorded audition option is only available to master's applicants; in-person audition is highly recommended for scholarship and teaching-assistantship consideration. Recorded audition applicants join a large group meeting with keyboard faculty on February 14, 2026 and do not need to play piano on the virtual day. Recorded auditions are submitted in the music application through YouTube or Vimeo links and must follow ASU recording/submission guidelines. Applicants interested in a class-piano teaching assistantship must select Yes in the music application and upload a piano teaching demonstration in English with two complete lessons, preferably students at different levels; recommendation letters should address teaching ability.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: Solo recital program of a minimum of 45 minutes. Final audition repertoire: Three complete works representing a variety of styles are required. Final audition repertoire: Concertos are not accepted. Final audition repertoire: Memorization is required except for complex contemporary works. Final audition repertoire: Movements or sections of larger works are not acceptable. Final audition repertoire: Be prepared to answer questions related to the musical and historical background of your audition repertoire. Final audition repertoire: No interior piano performance allowed. Final audition repertoire: ASU keyboard faculty encourage applicants to perform music by women, BIPOC, and under-represented composers.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application deadline: Spring 2026 MM Performance: Voice, Music Theatre and Opera, Piano deadline is October 1, 2025. Application deadline: Fall 2026 Performance: Conducting, Instrumental, Keyboard, Voice, Music Theatre and Opera deadline is December 1, 2025. Application deadline: ASU asks applicants to submit the Graduate Application, Music Application, and Proof of English Proficiency by the program application deadline. Recorded audition deadline: Spring 2026 recorded auditions for performance, pedagogy, and therapy applicants are due November 1, 2025, but the fully submitted music application is still due by the program deadline. Recorded audition deadline: Fall 2026 recorded auditions for performance, pedagogy, and therapy applicants are due February 1, 2026, but the fully submitted music application is still due by December 1, 2025. Audition dates: Piano Solo on-campus dates are November 15, 2025 for spring admission only, January 24, 2026, February 7, 2026, and February 21, 2026 for out-of-state applicants. Decision deadline: April 15 is the national deadline for graduate admission decisions when an offer is made.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
+              },
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT taken in a testing center before January 21, 2026: 80; TOEFL iBT or TOEFL iBT Home Edition for exams taken on or after January 21, 2026: 4; IELTS Academic, IELTS Online, IELTS UKVI, or IELTS Indicator: 6.5 overall academic band; PTE: 60; Duolingo English Test: 105. Timing: The ASU music program requires proof of English proficiency before the program application deadline, and the School of Music, Dance and Theatre does not offer conditional admission. Test scores must be sent directly from the testing institution to ASU Graduate Admission Services. Validity: IELTS, PTE, TOEFL, or Duolingo exams must be taken no more than two years before the student's ASU start date. Exemptions: Automatic exemptions apply to U.S. citizens, U.S. permanent residents, and citizens of countries or territories on ASU's English-speaking country and territory list; other exemption routes require a form after applying, such as qualifying English-medium degree, U.S. degree, approved-country degree, eligible graduate coursework, eligible U.S. undergraduate coursework, or four years of U.S. high school education. Notes: ASU does not accept TOEFL iBT Paper Edition, accepts only electronic TOEFL score reports, ASU institutional code is 4007, and ASU does not accept PTE Academic Online. Program note: some programs may have higher requirements or may not accept certain tests, so the music deadline and program page remain the source of record for timing.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "ASU Graduate English Proficiency",
                 "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+              },
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Submit the ASU Graduate Admission application; Music applicants must also submit School of Music, Dance and Theatre application materials in the assigned application portal; ASU lists Collaborative Piano as a graduate performance area.",
+            "value": "Step 1: submit the ASU Graduate Admission application; for Performance: Collaborative Piano, select Piano, Collaborative (MM). Step 2: submit the separate School of Music, Dance and Theatre music application through the Music Application Portal after ASU login information is available. The music application requires three reference contacts, a resume PDF, program-specific materials, proof of English proficiency for non-native English speakers, and optional recorded audition upload where permitted. Collaborative Piano MM applicants must upload a repertoire list divided into works studied and works publicly performed.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "ASU Graduate Music Admission",
@@ -116,57 +132,73 @@
             ]
           },
           "applicationFee": {
-            "value": "ASU Graduate Admission application fee: $70 domestic, $115 international.",
+            "value": "ASU Graduate Admission application fee: $70 for U.S. citizen, U.S. permanent resident, applicant in permanent-residency process, DACA, or international online student studying outside the U.S.; $115 for international students on any nonimmigrant visa type studying in the U.S. School of Music, Dance and Theatre fees: music application $10; prescreening $15 when applicable; recorded audition $65; late application $40.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "ASU Graduate Admission Application",
                 "url": "https://admission.asu.edu/apply/graduate/admission"
-              }
-            ]
-          },
-          "auditionRequirements": {
-            "value": "Collaborative Piano applicants audition on the listed on-campus dates. Applicants must email audition repertoire choices to the Collaborative Piano faculty by January 10 for fall admission. Applicants may bring their own collaborative partner or use one provided by ASU; if using ASU partners, repertoire substitutions are not allowed. Exact rehearsal and audition times are sent one week before the audition day. Tests in sight-reading and foreign languages are given, and applicants are asked about prior language study and assessed on pronunciation in French, German, and Italian.",
-            "status": "verified",
-            "retrievedAt": "2026-05-23",
-            "sources": [
-              {
-                "label": "ASU Audition / Interview",
-                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
-              }
-            ]
-          },
-          "repertoireRequirements": {
-            "value": "Final audition repertoire: All of the following songs, in high key: Mozart, An Chloe; Debussy, Il pleure dans mon coeur; Strauss, Allerseelen; Beach, The Year's at the Spring. Final audition repertoire: One of the following works originally for orchestra: Puccini, Mi chiamano Mimi; Puccini, Quando m'en vo' from La Boheme; or the exposition of the Mozart Clarinet Concerto. Final audition repertoire: One of the following instrumental works: Schumann, Fantasiestucke, Op. 73; Brahms, Sonata in f minor, Op. 120, No. 1, Movement I; or Brahms, Sonata in E-flat major, Op. 120, No. 2, Movement I. Final audition repertoire: Three solo compositions from contrasting stylistic periods performed from memory; individual movements from larger works are allowed.",
-            "status": "verified",
-            "retrievedAt": "2026-05-23",
-            "sources": [
-              {
-                "label": "ASU Audition / Interview",
-                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
-              }
-            ]
-          },
-          "deadlines": {
-            "value": "November 1: Priority application deadline for performance programs; December 1: Final application deadline for performance programs; January 5: Deadline for letters of recommendation, English proficiency scores, and transcripts; January 10-15: Audition/interview invitations sent; March 15: Admission decisions released; April 15: Graduate decision deadline.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
+              },
               {
                 "label": "ASU Graduate Music Admission",
                 "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
               }
             ]
           },
-          "englishScores": {
-            "value": "ASU Graduate Admission lists English proficiency options including TOEFL iBT 80, TOEFL Essentials 8.5, IELTS 6.5, PTE 60, Duolingo 105, or other ASU-approved pathways; Some programs may require higher scores.",
+          "auditionRequirements": {
+            "value": "Collaborative Piano MM audition dates: November 15, 2025 on campus for spring admission only; January 31, 2026 on campus; February 14, 2026 on campus. An audition is required. Applicants must email audition repertoire choices to the Collaborative Piano faculty by January 10 for fall admission. Applicants may bring their own collaborative partner or use one provided by ASU; if using ASU partners, repertoire substitutions are not allowed. Exact rehearsal and audition times are sent one week before the audition day. Tests in sight-reading and foreign languages are given. Applicants are asked about prior language study and assessed on pronunciation in French, German, and Italian. ASU's graduate music application page lists the MM Piano Solo/Collaborative audition as live and in-person or uploaded recorded audition, but the Collaborative Piano audition page lists on-campus dates and partner logistics as the specific MM Collaborative Piano instructions.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              },
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: All of the following songs in high key: Mozart, An Chloe; Debussy, Il pleure dans mon coeur; Strauss, Allerseelen; Beach, The Year's at the Spring. Final audition repertoire: One of the following works originally for orchestra: Puccini, Mi chiamano Mimi; Puccini, Quando m'en vo' from La Boheme; the exposition of the Mozart Clarinet Concerto. Final audition repertoire: One of the following instrumental works: Schumann, Fantasiestucke, Op. 73; Brahms, Sonata in f minor, Op. 120, #1, Movement I; Brahms, Sonata in E-flat major, Op. 120, #2, Movement I. Final audition repertoire: Three solo compositions from contrasting stylistic periods performed from memory; individual movements from larger works are allowed. Final audition repertoire: ASU keyboard faculty encourage applicants to perform music by women, BIPOC, and under-represented composers.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application deadline: Spring 2026 MM Performance: Voice, Music Theatre and Opera, Piano deadline is October 1, 2025. Application deadline: Fall 2026 Performance: Conducting, Instrumental, Keyboard, Voice, Music Theatre and Opera deadline is December 1, 2025. Application deadline: ASU asks applicants to submit the Graduate Application, Music Application, and Proof of English Proficiency by the program application deadline. Collaborative Piano repertoire-choice email deadline: January 10 for fall admission. Audition dates: Collaborative Piano on-campus dates are November 15, 2025 for spring admission only, January 31, 2026, and February 14, 2026. Recorded audition deadline: Fall 2026 recorded auditions for performance, pedagogy, and therapy applicants are due February 1, 2026, but the Collaborative Piano audition page specifically lists on-campus audition dates and partner logistics. Decision deadline: April 15 is the national deadline for graduate admission decisions when an offer is made.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
+              },
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT taken in a testing center before January 21, 2026: 80; TOEFL iBT or TOEFL iBT Home Edition for exams taken on or after January 21, 2026: 4; IELTS Academic, IELTS Online, IELTS UKVI, or IELTS Indicator: 6.5 overall academic band; PTE: 60; Duolingo English Test: 105. Timing: The ASU music program requires proof of English proficiency before the program application deadline, and the School of Music, Dance and Theatre does not offer conditional admission. Test scores must be sent directly from the testing institution to ASU Graduate Admission Services. Validity: IELTS, PTE, TOEFL, or Duolingo exams must be taken no more than two years before the student's ASU start date. Exemptions: Automatic exemptions apply to U.S. citizens, U.S. permanent residents, and citizens of countries or territories on ASU's English-speaking country and territory list; other exemption routes require a form after applying, such as qualifying English-medium degree, U.S. degree, approved-country degree, eligible graduate coursework, eligible U.S. undergraduate coursework, or four years of U.S. high school education. Notes: ASU does not accept TOEFL iBT Paper Edition, accepts only electronic TOEFL score reports, ASU institutional code is 4007, and ASU does not accept PTE Academic Online. Program note: some programs may have higher requirements or may not accept certain tests, so the music deadline and program page remain the source of record for timing.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "ASU Graduate English Proficiency",
                 "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+              },
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
               }
             ]
           }
