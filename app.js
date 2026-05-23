@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-23-logo-polish-v7";
+const DATA_VERSION = "2026-05-23-baylor-audit-v8";
 
 const state = {
   data: null,

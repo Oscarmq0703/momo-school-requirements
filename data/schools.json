@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-22",
+    "generatedAt": "2026-05-23",
     "degree": "Master of Music",
     "focusMajors": [
       "Piano Performance",
@@ -414,24 +414,32 @@
       ],
       "officialSources": [
         {
-          "label": "Baylor Piano How to Apply",
-          "url": "https://music.baylor.edu/piano-app"
-        },
-        {
           "label": "Baylor School of Music How to Apply",
           "url": "https://music.baylor.edu/admissions/how-to-apply"
         },
         {
+          "label": "Baylor Piano How to Apply",
+          "url": "https://music.baylor.edu/piano-app"
+        },
+        {
           "label": "Baylor Graduate School Admission FAQs",
           "url": "https://graduate.baylor.edu/admissions/admission-faqs"
+        },
+        {
+          "label": "Baylor Graduate English Proficiency Examination",
+          "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination"
+        },
+        {
+          "label": "Baylor Graduate School Submitting Test Scores",
+          "url": "https://graduate.baylor.edu/admissions/how-apply/submitting-test-scores"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Graduate applicants apply to the Baylor Graduate School, apply to the School of Music through Acceptd, and then complete the required audition and/or application step for the intended music program.",
+            "value": "Step 1: apply to the Baylor Graduate School. Step 2: apply to the School of Music. Step 3: complete the required audition and/or application step for the music program. Baylor describes admission to the School of Music as a dual-acceptance process: graduate applicants must be accepted by both the Graduate School and the School of Music. If an alternate audition is approved, the applicant may upload the material to the School of Music application on Acceptd.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor School of Music How to Apply",
@@ -440,9 +448,9 @@
             ]
           },
           "applicationFee": {
-            "value": "Baylor Graduate School application fee is $50; programs using a professional common application system may have additional system costs; the $50 Baylor fee is waived for active or retired U.S. military and McNair Scholars.",
+            "value": "Baylor Graduate School application fee: $50. Fee waiver: the $50 Baylor fee is waived for active or retired U.S. military and McNair Scholars. Additional costs: programs using a professional common application system may have additional system costs; Baylor's official fee FAQ does not publish a separate School of Music/Acceptd fee amount on the page checked during this audit.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor Graduate School Admission FAQs",
@@ -451,24 +459,24 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Graduate piano applicants complete the School of Music audition process; students unable to attend an on-campus audition day must contact the appropriate instrument professor by email and request permission to be considered by alternate audition, and if permission is granted they may upload materials to Acceptd; graduate applicants selected for assistantships are notified separately by the School of Music.",
+            "value": "Audition/application step: graduate piano applicants complete the School of Music audition and/or application step after applying to the Graduate School and School of Music. On-campus conflict: students who cannot attend a scheduled on-campus audition day must email the appropriate instrument/voice professor and request permission to be considered by alternate audition; if approved, materials can be uploaded to Acceptd. Piano contact: the Piano page lists Shijun Wang, DMA, Associate Professor of Piano and Keyboard Division Director, as Piano Audition Assistance. Graduate assistantships: applicants in Piano Performance are among the areas considered for Graduate Associate positions; the Piano page says Graduate Associate positions begin in the fall and there are no new awards for students beginning graduate study in spring.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
-              {
-                "label": "Baylor Piano How to Apply",
-                "url": "https://music.baylor.edu/piano-app"
-              },
               {
                 "label": "Baylor School of Music How to Apply",
                 "url": "https://music.baylor.edu/admissions/how-to-apply"
+              },
+              {
+                "label": "Baylor Piano How to Apply",
+                "url": "https://music.baylor.edu/piano-app"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: For MM in Performance Piano, an audition program at least 30 minutes in duration of memorized solo repertoire from three style periods is required; Final audition repertoire: The program should include at least two major works, such as a complete sonata, major single-movement work, or similar major work.",
+            "value": "Final audition repertoire: An audition program, at least 30 minutes in duration, of memorized solo repertoire from three style periods is required for admission in Performance. Final audition repertoire: The program should include at least two major works, such as a complete sonata, major single-movement work, etc.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor Piano How to Apply",
@@ -477,21 +485,33 @@
             ]
           },
           "deadlines": {
-            "value": "All School of Music applications open August 1; for Graduate Admissions, the Baylor University Graduate School application deadline is February 15, the School of Music application deadline is February 15, the School of Music audition deadline is March 1, and the graduate deposit deadline is April 15.",
+            "value": "Applications open: August 1. Baylor University Graduate School application deadline for Graduate Admissions: February 15. School of Music application deadline for Graduate Admissions: February 15. School of Music audition deadline for Graduate Admissions: March 1. Graduate deposit deadline: April 15. Timing note: Graduate School online applications must be submitted by 10:59 PM Central Standard Time to be considered received on that date; Baylor also advises applicants to confirm the final application deadline and late-review policy with the department.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor School of Music How to Apply",
                 "url": "https://music.baylor.edu/admissions/how-to-apply"
+              },
+              {
+                "label": "Baylor Graduate School Admission FAQs",
+                "url": "https://graduate.baylor.edu/admissions/admission-faqs"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate applicants must demonstrate English-language proficiency by submitting TOEFL or IELTS scores; Baylor institution code is 6032; master's-degree minimums are TOEFL 550 paper-based, 213 computer-based, or 80 internet-based, IELTS 6.5, or Duolingo 125; applicants with a conferred U.S. degree or a degree from an institution where the medium of instruction is English may be exempt.",
+            "value": "Minimum scores: Duolingo English Test: 125; IELTS for all non-business programs: 6.5; TOEFL master's degree minimum on the current Graduate School English Proficiency Examination page: 4.0. Program note: Baylor School of Music's graduate FAQ still publishes master's-degree TOEFL equivalents as TOEFL paper: 550, TOEFL computer-based: 213, TOEFL internet-based: 80, with IELTS 6.5 and DuoLingo 125; because this is the music-specific page, keep these equivalents visible for applicant verification. Timing: Official scores must be sent directly from the testing agency to Baylor University Graduate Admissions, and Baylor advises taking standardized tests well in advance because results can take four to six weeks to arrive. Validity: Duolingo, TOEFL, and IELTS scores are valid for 2 years. Exemptions: an applicant may request exemption after uploading transcripts if they have a conferred bachelor's or higher degree from an accredited U.S. institution, have a conferred bachelor's or higher degree from an institution where English is the only language of instruction, or are a U.S. citizen or permanent resident including Puerto Rico. Notes: Baylor's TOEFL/CEEB institution code is 6032; IELTS should be sent to Graduate Admissions, Baylor University, One Bear Place #97264, Waco, TX 76798-7264; Baylor encourages applicants to confirm TOEFL/IELTS score expectations with the department.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
+              {
+                "label": "Baylor Graduate English Proficiency Examination",
+                "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination"
+              },
+              {
+                "label": "Baylor Graduate School Submitting Test Scores",
+                "url": "https://graduate.baylor.edu/admissions/how-apply/submitting-test-scores"
+              },
               {
                 "label": "Baylor School of Music How to Apply",
                 "url": "https://music.baylor.edu/admissions/how-to-apply"
@@ -501,20 +521,24 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Graduate applicants apply to the Baylor Graduate School, apply to the School of Music through Acceptd, and then complete the Collaborative Piano audition and/or application step.",
+            "value": "Step 1: apply to the Baylor Graduate School. Step 2: apply to the School of Music. Step 3: complete the Collaborative Piano audition and/or application step. Baylor describes admission to the School of Music as a dual-acceptance process: graduate applicants must be accepted by both the Graduate School and the School of Music. If an alternate audition is approved, the applicant may upload the material to the School of Music application on Acceptd.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor School of Music How to Apply",
                 "url": "https://music.baylor.edu/admissions/how-to-apply"
+              },
+              {
+                "label": "Baylor Piano How to Apply",
+                "url": "https://music.baylor.edu/piano-app"
               }
             ]
           },
           "applicationFee": {
-            "value": "Baylor Graduate School application fee is $50; programs using a professional common application system may have additional system costs; the $50 Baylor fee is waived for active or retired U.S. military and McNair Scholars.",
+            "value": "Baylor Graduate School application fee: $50. Fee waiver: the $50 Baylor fee is waived for active or retired U.S. military and McNair Scholars. Additional costs: programs using a professional common application system may have additional system costs; Baylor's official fee FAQ does not publish a separate School of Music/Acceptd fee amount on the page checked during this audit.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor Graduate School Admission FAQs",
@@ -523,24 +547,24 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano applicants complete a School of Music audition; students unable to attend an on-campus audition day must contact the appropriate instrument professor by email and request permission to be considered by alternate audition, and if permission is granted they may upload materials to Acceptd; Baylor invites Collaborative Piano candidates to contact Kae Hosoda-Ayer with questions about application, repertoire, and audition date.",
+            "value": "Audition/application step: Collaborative Piano applicants complete the School of Music audition and/or application step after applying to the Graduate School and School of Music. On-campus conflict: students who cannot attend a scheduled on-campus audition day must email the appropriate instrument/voice professor and request permission to be considered by alternate audition; if approved, materials can be uploaded to Acceptd. Collaborative Piano contact: Baylor invites Collaborative Piano candidates to communicate directly with Kae Hosoda-Ayer with questions about application, repertoire, and audition date. Graduate assistantships: applicants in Collaborative Piano are among the areas considered for Graduate Associate positions; the Piano page says Graduate Associate positions begin in the fall and there are no new awards for students beginning graduate study in spring.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
-              {
-                "label": "Baylor Piano How to Apply",
-                "url": "https://music.baylor.edu/piano-app"
-              },
               {
                 "label": "Baylor School of Music How to Apply",
                 "url": "https://music.baylor.edu/admissions/how-to-apply"
+              },
+              {
+                "label": "Baylor Piano How to Apply",
+                "url": "https://music.baylor.edu/piano-app"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: The audition for Collaborative Piano applicants consists of at least 10 minutes of memorized solo repertoire; Final audition repertoire: The audition also includes a collaborative repertoire component with a major instrumental work with piano and a vocal/piano work.",
+            "value": "Final audition repertoire: The audition for Collaborative Piano applicants will consist of at least 10 minutes of memorized solo repertoire. Final audition repertoire: The audition also includes a collaborative repertoire component that includes a major instrumental work with piano and a vocal/piano work.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor Piano How to Apply",
@@ -549,21 +573,33 @@
             ]
           },
           "deadlines": {
-            "value": "All School of Music applications open August 1; for Graduate Admissions, the Baylor University Graduate School application deadline is February 15, the School of Music application deadline is February 15, the School of Music audition deadline is March 1, and the graduate deposit deadline is April 15.",
+            "value": "Applications open: August 1. Baylor University Graduate School application deadline for Graduate Admissions: February 15. School of Music application deadline for Graduate Admissions: February 15. School of Music audition deadline for Graduate Admissions: March 1. Graduate deposit deadline: April 15. Timing note: Graduate School online applications must be submitted by 10:59 PM Central Standard Time to be considered received on that date; Baylor also advises applicants to confirm the final application deadline and late-review policy with the department.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "Baylor School of Music How to Apply",
                 "url": "https://music.baylor.edu/admissions/how-to-apply"
+              },
+              {
+                "label": "Baylor Graduate School Admission FAQs",
+                "url": "https://graduate.baylor.edu/admissions/admission-faqs"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate applicants must demonstrate English-language proficiency by submitting TOEFL or IELTS scores; Baylor institution code is 6032; master's-degree minimums are TOEFL 550 paper-based, 213 computer-based, or 80 internet-based, IELTS 6.5, or Duolingo 125; applicants with a conferred U.S. degree or a degree from an institution where the medium of instruction is English may be exempt.",
+            "value": "Minimum scores: Duolingo English Test: 125; IELTS for all non-business programs: 6.5; TOEFL master's degree minimum on the current Graduate School English Proficiency Examination page: 4.0. Program note: Baylor School of Music's graduate FAQ still publishes master's-degree TOEFL equivalents as TOEFL paper: 550, TOEFL computer-based: 213, TOEFL internet-based: 80, with IELTS 6.5 and DuoLingo 125; because this is the music-specific page, keep these equivalents visible for applicant verification. Timing: Official scores must be sent directly from the testing agency to Baylor University Graduate Admissions, and Baylor advises taking standardized tests well in advance because results can take four to six weeks to arrive. Validity: Duolingo, TOEFL, and IELTS scores are valid for 2 years. Exemptions: an applicant may request exemption after uploading transcripts if they have a conferred bachelor's or higher degree from an accredited U.S. institution, have a conferred bachelor's or higher degree from an institution where English is the only language of instruction, or are a U.S. citizen or permanent resident including Puerto Rico. Notes: Baylor's TOEFL/CEEB institution code is 6032; IELTS should be sent to Graduate Admissions, Baylor University, One Bear Place #97264, Waco, TX 76798-7264; Baylor encourages applicants to confirm TOEFL/IELTS score expectations with the department.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
+              {
+                "label": "Baylor Graduate English Proficiency Examination",
+                "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination"
+              },
+              {
+                "label": "Baylor Graduate School Submitting Test Scores",
+                "url": "https://graduate.baylor.edu/admissions/how-apply/submitting-test-scores"
+              },
               {
                 "label": "Baylor School of Music How to Apply",
                 "url": "https://music.baylor.edu/admissions/how-to-apply"
