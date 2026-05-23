@@ -1,0 +1,212 @@
+{
+  "schools": [
+    {
+      "id": "florida-state-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "FSU College of Music Graduate Admissions",
+          "url": "https://music.fsu.edu/study/admissions/graduate/"
+        },
+        {
+          "label": "FSU Keyboard Graduate Admissions",
+          "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+        },
+        {
+          "label": "FSU Keyboard Programs",
+          "url": "https://music.fsu.edu/programs/keyboard/"
+        },
+        {
+          "label": "FSU College of Music Admissions",
+          "url": "https://music.fsu.edu/study/admissions/"
+        },
+        {
+          "label": "FSU Graduate Application",
+          "url": "https://admissions.fsu.edu/gradapp"
+        },
+        {
+          "label": "FSU MM Piano Performance Program Sheet",
+          "url": "https://music.fsu.edu/wp-content/uploads/2022/04/MM-Performance-piano-1.pdf"
+        },
+        {
+          "label": "FSU MM Accompanying Program Sheet",
+          "url": "https://music.fsu.edu/wp-content/uploads/2022/04/MM-Accompanying-1.pdf"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Step 1: complete the Florida State University graduate application and pay the $30 application fee. Step 2: complete the College of Music Supplemental Application and required program materials; FSU says the Supplemental Application is added to the Application Checklist within 1-2 hours after submitting the FSU application and allows the applicant to select an audition date. Graduate GPA baseline: FSU states applicants must have a minimum 3.0 upper-division undergraduate GPA for regular graduate admission; applicants below that may be considered only by special exception and should address the deficiency in the Statement of Purpose. Master of Music in Piano Performance required College of Music materials: Comprehensive Solo Repertoire List of all significant solo works studied to date; Vita/Resume including education, background, experience, honors and awards, publications, former teachers, and other important information; Statement of Purpose, usually 1-2 pages; three letters of recommendation entered through Application Status Check; prescreening recordings by December 1 for all non-FSU applicants. Current FSU piano students are not required to submit prescreening materials.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              },
+              {
+                "label": "FSU Graduate Application",
+                "url": "https://admissions.fsu.edu/gradapp"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $30, paid with the Florida State University graduate application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Piano Performance requires prescreening for MM and DM; for MM Piano Performance, all non-FSU applicants must upload the prescreening requirements to the portfolio on Application Status Check by December 1. Current FSU piano students are not required to submit prescreening materials. Recording specifications: prescreening videos must be unedited and from within the last two years. Recorded audition option: FSU strongly encourages a live audition whenever possible, but accepts pre-recorded auditions if travel to campus presents a hardship; video and audio are required; each selection should be recorded in a separate, unedited video; the applicant should introduce themselves at the beginning of the video. Reaffirmation note from the Graduate Manual: performance majors accepted via recorded audition must reaffirm placement by live audition when they enter the College of Music. Assistantship auditions: piano performance majors are automatically considered for 1-to-1 teaching assistantships; collaborative piano and group piano teaching assistantship auditions are scheduled separately after passing the prescreen stage. Accompaniment note: classical instrumental auditions are unaccompanied.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              },
+              {
+                "label": "FSU College of Music Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: All Piano Performance and Piano Pedagogy applicants who are not current FSU students must submit a prescreening of video uploads, unedited, from within the last two years. Prescreening repertoire: MM applicants submit three contrasting works from differing style periods. Final audition repertoire: All works must be performed by memory. Final audition repertoire: MM applicants present contrasting pieces selected from three of the following four categories. Final audition repertoire: A major work by J. S. Bach, such as a Prelude and corresponding Fugue. Final audition repertoire: A complete sonata by Haydn, Mozart, Schubert, or Beethoven, excluding Op. 49 and Op. 79. Final audition repertoire: A Romantic work. Final audition repertoire: A twentieth- or twenty-first-century work. Additional repertoire notes: Applicants with questions about appropriate audition repertoire are directed by FSU to contact Dr. Heidi Louise Williams.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application and prescreening deadline for Piano Performance: December 1. Prescreening results released: December 15. Audition dates for Piano Performance and Piano Pedagogy: January 23, January 24, February 6, February 7, February 20, and February 21; other dates may be available by appointment. Decisions released: March. Merit-based financial assistance offers released: March and April.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: official English language proficiency results are required of applicants who are citizens of a country where English is not an official language, including applicants who have already studied in an English-speaking country for any length of time. College standard note: FSU states College of Music requirements exceed University minimum standards. Minimum scores: TOEFL iBT Masters 80; Doctoral/PhD 97. Minimum scores: IELTS Masters 6.5; Doctoral/PhD 7.5. Minimum scores: Duolingo English Test Masters 120; Doctoral 130. Assistantship speaking requirement: to be eligible for a teaching assistantship, students must score at least 26 on the speaking portion of the TOEFL iBT or achieve 50 on the FSU SPEAK Test.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              },
+              {
+                "label": "FSU College of Music Admissions",
+                "url": "https://music.fsu.edu/study/admissions/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "FSU's official master's-level program name is Master of Music in Performance - Piano Accompanying; the Keyboard program page lists Master of Music in Accompanying. Step 1: complete the Florida State University graduate application and pay the $30 application fee. Step 2: complete the College of Music Supplemental Application and required program materials; FSU says the Supplemental Application is added to the Application Checklist within 1-2 hours after submitting the FSU application and allows the applicant to select an audition date. Prerequisites for admission: completed bachelor's degree in piano performance or equivalent from an accredited institution; admission is based on demonstrated ability comparable to the technical and musical proficiency of an entering graduate-level performance major, plus the artistic qualities and technical skills needed for accompanying and ensemble playing. Required materials: Comprehensive Solo Repertoire List and programs showing extensive performance experience and acquaintance with appropriate vocal and instrumental repertoire, including a solo-works repertoire list; Vita/Resume; Statement of Purpose; three letters of recommendation entered through Application Status Check; prescreening recordings by December 1. Foreign language graduation prerequisite: proficiency in two of French, German, or Italian.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              },
+              {
+                "label": "FSU Keyboard Programs",
+                "url": "https://music.fsu.edu/programs/keyboard/"
+              },
+              {
+                "label": "FSU MM Accompanying Program Sheet",
+                "url": "https://music.fsu.edu/wp-content/uploads/2022/04/MM-Accompanying-1.pdf"
+              },
+              {
+                "label": "FSU Graduate Application",
+                "url": "https://admissions.fsu.edu/gradapp"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $30, paid with the Florida State University graduate application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: MM and DM Accompanying require prescreening. All Piano Accompanying applicants must upload prescreening requirements to the portfolio on Application Status Check by December 1. Recording specifications: prescreening video uploads must be unedited and from within the last two years, and both selections must be presented with a partner. Recorded audition restriction: accompanying applicants are not permitted to audition by recording. Audition format: on-campus audition required after successful prescreening. Additional assistantship note: only graduate students interested in auditioning for accompanying or group piano teaching assistantships are required to take an additional assistantship audition; the Graduate Admissions common questions say to contact College of Music Admissions for details. Piano performance majors seeking the collaborative piano assistantship are told to contact Dr. Qing Jiang after passing the prescreen stage to schedule the audition on Friday of the audition weekend.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              },
+              {
+                "label": "FSU College of Music Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Video uploads, unedited, from within the last two years; both selections must be presented with a partner. Prescreening repertoire: One song or aria. Prescreening repertoire: One movement from an instrumental sonata. Final audition repertoire: Vocal repertoire: MM applicants prepare three selections from the list; DM applicants prepare all listed selections. Final audition repertoire: Vocal repertoire list: Schubert, Die Forelle in D-flat major; Strauss, Allerseelen in E-flat major; Debussy, Il pleure dans mon coeur in G-sharp minor; Fauré, Clair de lune in B-flat minor; Argento, Spring in F major. Final audition repertoire: Instrumental repertoire: MM applicants prepare two selections, and DM applicants prepare three, from the following list. Final audition repertoire: Instrumental repertoire list: Franck, Violin Sonata in A major, second movement only; Hindemith, Trumpet Sonata, first movement only; Mozart, Violin Sonata in B-flat major, K. 378, first movement only; Prokofiev, Flute / Violin Sonata No. 2 in D major, second movement only. Final audition repertoire: Solo performance of one major work that demonstrates technical and musical command of the keyboard; memorization optional. Final audition repertoire: Sight-reading. Additional repertoire notes: Applicants with questions about appropriate audition repertoire or repertoire substitutions are directed by FSU to contact Dr. Qing Jiang.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application and prescreening deadline for Piano Performance, Piano Pedagogy, and Accompanying: December 1. Prescreening results released: December 15. Audition dates for Accompanying: January 16 and February 13. Decisions released: March. Merit-based financial assistance offers released: March and April.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: official English language proficiency results are required of applicants who are citizens of a country where English is not an official language, including applicants who have already studied in an English-speaking country for any length of time. College standard note: FSU states College of Music requirements exceed University minimum standards. Minimum scores: TOEFL iBT Masters 80; Doctoral/PhD 97. Minimum scores: IELTS Masters 6.5; Doctoral/PhD 7.5. Minimum scores: Duolingo English Test Masters 120; Doctoral 130. Assistantship speaking requirement: to be eligible for a teaching assistantship, students must score at least 26 on the speaking portion of the TOEFL iBT or achieve 50 on the FSU SPEAK Test.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "FSU Keyboard Graduate Admissions",
+                "url": "https://music.fsu.edu/study/admissions/graduate/?a=keyboard"
+              },
+              {
+                "label": "FSU College of Music Admissions",
+                "url": "https://music.fsu.edu/study/admissions/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
