@@ -71,17 +71,17 @@ select {
 .app-shell {
   width: min(1500px, calc(100% - 40px));
   margin: 0 auto;
-  padding: 28px 0 34px;
+  padding: 24px 0 34px;
 }
 
 .toolbar,
 .search-panel,
 .workspace > * {
-  border: 1px solid var(--line-soft);
-  background: var(--surface);
-  box-shadow: var(--shadow);
-  backdrop-filter: blur(24px) saturate(1.45);
-  -webkit-backdrop-filter: blur(24px) saturate(1.45);
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
 }
 
 .toolbar {
@@ -90,12 +90,10 @@ select {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  min-height: 116px;
-  padding: 20px 30px;
-  border-radius: 28px;
-  background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.6)),
-    linear-gradient(120deg, rgba(0, 113, 227, 0.12), rgba(52, 199, 89, 0.06));
+  min-height: 96px;
+  padding: 4px 4px 8px;
+  border-radius: 0;
+  background: transparent;
 }
 
 .toolbar h1,
@@ -122,14 +120,18 @@ select {
 .brand-highlight {
   display: block;
   width: fit-content;
-  background: linear-gradient(115deg, #0071e3 0%, #7c3aed 46%, #ff375f 100%);
+  background: linear-gradient(118deg, #1f6feb 0%, #8057d5 38%, #d64d87 70%, #b98735 100%);
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
-  font-size: 74px;
+  font-family:
+    "Arial Rounded MT Bold", "Avenir Next Rounded", "SF Pro Rounded", "Nunito",
+    "Microsoft YaHei", ui-rounded, system-ui, sans-serif;
+  font-size: 76px;
   font-weight: 900;
   letter-spacing: 0;
-  line-height: 0.9;
+  line-height: 0.92;
+  text-shadow: 0 14px 34px rgba(91, 65, 150, 0.16);
 }
 
 .brand-subtitle {
@@ -213,10 +215,10 @@ select {
   grid-template-columns: minmax(520px, 1fr) minmax(260px, 390px);
   align-items: end;
   gap: 14px;
-  margin-top: 14px;
-  padding: 14px;
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
+  margin-top: 12px;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 .workspace {
@@ -317,20 +319,19 @@ select {
 .detail {
   position: static;
   overflow: visible;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(255, 255, 255, 0.74)),
-    var(--surface);
-  box-shadow: var(--shadow-lg);
+  background: transparent;
+  box-shadow: none;
 }
 
 .detail-empty,
 .detail-content {
-  padding: 22px;
+  padding: 24px 0;
 }
 
 .detail-empty p,
 .detail-content p {
   color: var(--muted);
+  font-size: 14px;
   line-height: 1.55;
 }
 
@@ -414,7 +415,7 @@ select {
 }
 
 .field-card h3 {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 800;
 }
 
@@ -427,7 +428,7 @@ select {
 .subfield h4 {
   margin: 0 0 8px;
   color: var(--blue);
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 900;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -436,6 +437,7 @@ select {
 .field-value {
   margin: 12px 0 0;
   color: var(--ink);
+  font-size: 14px;
   line-height: 1.5;
 }
 
@@ -451,6 +453,7 @@ select {
 .field-intro {
   margin: 0 0 10px;
   color: var(--ink);
+  font-size: 14px;
   font-weight: 800;
 }
 
@@ -511,7 +514,7 @@ select {
 .structured-section h4 {
   margin: 0 0 8px;
   color: var(--blue);
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 900;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -542,9 +545,22 @@ select {
 .repertoire-section h4 {
   margin: 0 0 10px;
   color: var(--blue);
-  font-size: 13px;
+  font-size: 14px;
+  font-weight: 900;
   letter-spacing: 0.04em;
   text-transform: uppercase;
+}
+
+.score-highlight {
+  display: inline-flex;
+  align-items: center;
+  min-height: 22px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  color: #5b3f00;
+  background: linear-gradient(135deg, rgba(255, 214, 102, 0.38), rgba(255, 159, 10, 0.18));
+  box-shadow: inset 0 0 0 1px rgba(183, 122, 23, 0.16);
+  font-weight: 900;
 }
 
 .date-highlight {

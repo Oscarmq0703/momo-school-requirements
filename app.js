@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-23-asu-audit-v5";
+const DATA_VERSION = "2026-05-23-visual-refresh-v6";
 
 const state = {
   data: null,
@@ -350,9 +350,9 @@ function formatEnglishScoresValue(text) {
 
 function renderStructuredSectionBody(value) {
   const items = splitByStrongSeparators(value);
-  if (items.length <= 1) return `<p>${escapeHtml(value)}</p>`;
+  if (items.length <= 1) return `<p>${formatEnglishScoreText(value)}</p>`;
 
-  return `<ul>${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>`;
+  return `<ul>${items.map((item) => `<li>${formatEnglishScoreText(item)}</li>`).join("")}</ul>`;
 }
 
 function parseLabeledSections(text, labels) {
@@ -624,4 +624,13 @@ function escapeAttribute(value) {
 
 function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function formatEnglishScoreText(text) {
+  const testScorePattern =
+    /\b((?:TOEFL(?:\s+iBT|\s+Essentials)?|IELTS(?:\s+Academic)?|PTE(?:\s+Academic)?|Pearson\s+PTE|Duolingo(?:\s+English\s+Test)?|SAT(?:\s+Critical\s+Reading|\s+Evidence-Based\s+Reading\s+and\s+Writing)?|ACT(?:\s+English)?|Cambridge(?:\s+CPE|\s+CAE)?)(?:\s+(?:total|overall|score|scores|band))*\s+)(\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)?)/gi;
+
+  return escapeHtml(text)
+    .replace(testScorePattern, `$1<span class="score-highlight">$2</span>`)
+    .replace(/(:\s*)(\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)?)(?=\b)/g, `$1<span class="score-highlight">$2</span>`);
 }
