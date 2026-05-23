@@ -3456,11 +3456,11 @@
       ],
       "officialSources": [
         {
-          "label": "BYU Graduate Admissions",
+          "label": "BYU School of Music Graduate Admissions",
           "url": "https://music.byu.edu/admissions/graduate"
         },
         {
-          "label": "BYU MM Performance Auditions",
+          "label": "BYU MM in Performance Auditions",
           "url": "https://music.byu.edu/graduate/auditions/performance"
         },
         {
@@ -3468,45 +3468,69 @@
           "url": "https://music.byu.edu/graduate-entrance-exam"
         },
         {
-          "label": "BYU Graduate English Proficiency",
-          "url": "https://gradstudies.byu.edu/admissions/english-proficiency"
+          "label": "BYU Graduate Studies Applying Domestic",
+          "url": "https://gradstudies.byu.edu/admissions/applying"
         },
         {
-          "label": "BYU Graduate Applying",
-          "url": "https://gradstudies.byu.edu/admissions/applying"
+          "label": "BYU Graduate Studies Applying - International Applicants",
+          "url": "https://gradstudies.byu.edu/admissions/applying-international-applicants"
+        },
+        {
+          "label": "BYU Graduate English Proficiency",
+          "url": "https://gradstudies.byu.edu/admissions/english-proficiency"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply to Brigham Young University for graduate admission; upload School of Music supplemental materials including keyboard repertoire list in the online application.",
+            "value": "Step 1: apply to Brigham Young University through BYU Graduate Studies; use the domestic or international BYU graduate application as appropriate. Step 2: complete BYU account requirements before or during the application process, including NetID verification or creation, the CES Honor Code agreement, and the ecclesiastical endorsement required for all BYU applicants. Step 3: submit the School of Music supplemental materials in the online application. Keyboard applicants must upload a repertoire list of works both studied/completed with a teacher and performed; for performed works, include where and when the performance occurred. International note: BYU states that applicants to Music with foreign transcripts must complete an official foreign credential evaluation using a preferred vendor before they can be considered for admission. Funding note: all School of Music applicants are considered for financial awards and assistantships without an additional application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "BYU Graduate Admissions",
+                "label": "BYU School of Music Graduate Admissions",
                 "url": "https://music.byu.edu/admissions/graduate"
+              },
+              {
+                "label": "BYU MM in Performance Auditions",
+                "url": "https://music.byu.edu/graduate/auditions/performance"
+              },
+              {
+                "label": "BYU Graduate Studies Applying Domestic",
+                "url": "https://gradstudies.byu.edu/admissions/applying"
+              },
+              {
+                "label": "BYU Graduate Studies Applying - International Applicants",
+                "url": "https://gradstudies.byu.edu/admissions/applying-international-applicants"
               }
             ]
           },
           "applicationFee": {
-            "value": "BYU graduate application fee: $50.",
+            "value": "BYU Graduate Studies application fee: $50. The fee is required upon applying. Deadline note: program deadlines vary, and applicants may not submit after the deadline has passed; BYU says this is usually 12:00 AM Eastern Time, which is 10:00 PM in Utah. Practical note: BYU warns that it is unlikely an applicant can start and submit an application in one day because sections such as NetID/BYU ID are processed overnight.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "BYU Graduate Applying",
+                "label": "BYU Graduate Studies Applying Domestic",
                 "url": "https://gradstudies.byu.edu/admissions/applying"
+              },
+              {
+                "label": "BYU Graduate Studies Applying - International Applicants",
+                "url": "https://gradstudies.byu.edu/admissions/applying-international-applicants"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Performance specializations require an audition; audition is arranged directly with the intended studio teacher; if unable to attend an audition, a recording of the senior recital or equivalent performance is an acceptable alternative, accessible online via YouTube, Vimeo, Dropbox, etc., with link included in the online application portfolio; Graduate Entrance Exam is required of all School of Music applicants and should be completed by January 15.",
+            "value": "Audition required: the conducting and performance specializations have an additional audition requirement. Piano/keyboard audition scheduling: the audition is arranged directly with the intended studio teacher. Recorded audition option: if unable to attend an audition, a recording of the applicant's senior recital or an equivalent performance is acceptable; the recording must be accessible online through a service such as YouTube, Vimeo, or Dropbox, and the link must be included in the online application Portfolio section. Graduate Entrance Exam: the GEE is required of all School of Music applicants, is online/on-demand after access is granted, and must be completed by January 15. GEE score note: BYU describes the accepted-student score range as 60% or above; in exceptional cases, lower scores may lead to provisional admission, with required theory and/or history courses to be resolved within the first two semesters. Audition timing: the School of Music lists January 25 as a tentative graduate audition date, but says the actual date may be that day or another date as determined by individual areas; applicants should check with the area head for the primary instrument.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "BYU MM Performance Auditions",
+                "label": "BYU School of Music Graduate Admissions",
+                "url": "https://music.byu.edu/admissions/graduate"
+              },
+              {
+                "label": "BYU MM in Performance Auditions",
                 "url": "https://music.byu.edu/graduate/auditions/performance"
               },
               {
@@ -3516,23 +3540,23 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Piano audition repertoire must be performed from memory; Final audition repertoire: A complete major work by J.S. Bach, such as prelude and fugue, set of dances, toccata, etc.; Final audition repertoire: Inventions or other intermediate-level pieces are not acceptable; Final audition repertoire: A complete classical sonata by Beethoven, Mozart, Haydn, or Schubert; Final audition repertoire: A third work of your choice from Romantic or Contemporary periods; Final audition repertoire: The third work must be moderately difficult level or higher as defined in Maurice Hinson's Guide to the Pianist's Repertoire; Final audition repertoire: All major and three forms of minor scales at MM 152 in 16th notes; Final audition repertoire: All major and minor arpeggios at MM 152 in triplets.",
+            "value": "Prescreening repertoire: No separate graduate piano prescreening requirement is published on the official BYU MM in Performance page checked during this audit; if the applicant cannot attend an audition, BYU accepts an online recording of the senior recital or equivalent performance as the audition alternative. Final audition repertoire: Piano audition repertoire must be performed by memory. Final audition repertoire: A complete major work by J. S. Bach, such as prelude and fugue, set of dances, toccata, etc.; inventions or other intermediate-level pieces are not acceptable. Final audition repertoire: A complete classical sonata by Beethoven, Mozart, Haydn, or Schubert. Final audition repertoire: A third work of the applicant's choice from the Romantic or contemporary periods. Final audition repertoire: The third work must be of moderately difficult level or higher, as defined in Maurice Hinson's Guide to the Pianist's Repertoire. Final audition repertoire: All major and three forms of minor scales at MM 152 in 16th notes, and all major and minor arpeggios at MM 152 in triplets. Additional repertoire notes: Applicants with questions about piano audition materials should contact Dr. Stephen Beus at stephen_beus@byu.edu.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "BYU MM Performance Auditions",
+                "label": "BYU MM in Performance Auditions",
                 "url": "https://music.byu.edu/graduate/auditions/performance"
               }
             ]
           },
           "deadlines": {
-            "value": "December 1: Online graduate application deadline; January 15: Graduate Entrance Exam deadline; January 25: Tentative graduate audition date shown by BYU, with actual date determined by individual areas; Mid-March: Faculty hope to make admission decisions; April 1: Areas notify applicants of scholarship offers; May 1: BYU School of Music enrollment decision deadline.",
+            "value": "Applications open: September 15. Online application and all supplemental materials due: December 1; BYU School of Music notes that the application closes at 10:00 PM MST, not 11:59 PM. Graduate Entrance Exam deadline: January 15. Tentative graduate audition date: January 25, with the actual audition date determined by individual areas. Live audition completion deadline: March 1. Applicant file evaluations and notifications begin: March 1. Faculty hope to make decisions: mid-March. Areas notify applicants of scholarship offers: April 1. BYU School of Music enrollment decision deadline: May 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "BYU Graduate Admissions",
+                "label": "BYU School of Music Graduate Admissions",
                 "url": "https://music.byu.edu/admissions/graduate"
               },
               {
@@ -3542,13 +3566,17 @@
             ]
           },
           "englishScores": {
-            "value": "BYU Graduate Studies English minimums: CAE C1 Advanced 180/Grade C; IELTS total 7.0 with minimum 6.0 in each module; Duolingo overall at least 130 with minimum subscores 125 in listening, reading, speaking, and writing; TOEFL iBT overall at least 85 with speaking 22 and listening, reading, writing 21; BYU does not accept TOEFL ITP or Home Edition for graduate school; scores must be less than two years old at enrollment.",
+            "value": "Minimum scores: CAE C1 Advanced: 180 / Grade C or higher; IELTS Academic: overall 7.0 with minimum 6.0 in each module; Duolingo English Test: overall at least 130 with minimum 125 in listening, reading, speaking, and writing; TOEFL iBT scores until January 20, 2026: overall at least 85 with Speaking 22 and Listening, Reading, and Writing 21; TOEFL iBT new scoring as of January 21, 2026: overall at least 4.5 with minimum 4.0 in Listening, Reading, Speaking, and Writing. Timing: English proficiency is required for applicants unless an exemption or waiver applies. Validity: CAE, DET, IELTS, and TOEFL scores must be less than 2 years old at the time of enrollment, not the application date. Exemptions: applicants are exempt if they are citizens of BYU's listed English-proficiency exempt countries, or if they received a bachelor's degree or higher from one of those listed countries within the previous 24 months of the intended graduate-program start date. Notes: BYU Graduate Studies now accepts IELTS One Skill Retake, IELTS Online, and TOEFL Home Edition; BYU does not accept TOEFL iBT MyBest scores; not all programs accept every English proficiency test, so applicants should also confirm requirements in the program catalog and department.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "BYU Graduate English Proficiency",
                 "url": "https://gradstudies.byu.edu/admissions/english-proficiency"
+              },
+              {
+                "label": "BYU Graduate Studies Applying - International Applicants",
+                "url": "https://gradstudies.byu.edu/admissions/applying-international-applicants"
               }
             ]
           }
