@@ -1,0 +1,216 @@
+{
+  "schools": [
+    {
+      "id": "mannes-school-of-music",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Mannes How to Apply - Graduate",
+          "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+        },
+        {
+          "label": "Mannes Graduate Audition Requirements",
+          "url": "https://www.newschool.edu/mannes/graduate-audition-requirements/"
+        },
+        {
+          "label": "The New School Graduate Deadlines",
+          "url": "https://www.newschool.edu/admission/prospective-graduate-students/dates-deadlines/"
+        },
+        {
+          "label": "The New School Graduate How to Apply",
+          "url": "https://www.newschool.edu/admission/prospective-graduate-students/apply-graduate/"
+        },
+        {
+          "label": "Mannes Piano",
+          "url": "https://www.newschool.edu/mannes/piano/"
+        },
+        {
+          "label": "Mannes Collaborative Piano MM",
+          "url": "https://www.newschool.edu/mannes/collaborative-piano-masters-of-music/"
+        },
+        {
+          "label": "The New School Graduate Application Portal",
+          "url": "https://apply.newschool.edu/portal/GR"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through The New School Online Application for Mannes School of Music. Mannes accepts graduate applications in Piano, Collaborative Piano: Instrumental (MM only), Collaborative Piano: Vocal, and other listed areas. Graduate degree applicants must hold a bachelor's degree from an accredited U.S. college or university or the equivalent degree from a university outside the United States; applicants completing the degree may apply, but admission requires degree completion. Application materials include the online application, essay of up to 500 words, two letters of recommendation, college transcripts uploaded in the application, English proficiency test results when required, prescreen recordings for Piano, and final audition recording if the applicant does not audition live. Applicants must complete required fields and upload materials before submission; all supporting materials must be received before review.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              },
+              {
+                "label": "The New School Graduate Application Portal",
+                "url": "https://apply.newschool.edu/portal/GR"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $0 for 2026 terms. Mannes states that, effective November 7, 2025, The New School is not requiring an application fee to apply for any 2026 term. The general graduate application page still describes application fee waiver processes in case a fee waiver is needed in the online application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              },
+              {
+                "label": "The New School Graduate How to Apply",
+                "url": "https://www.newschool.edu/admission/prospective-graduate-students/apply-graduate/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: all applicants for the piano concentration must submit a preliminary audition video recording. Based on prescreening review, applicants may be invited to a live audition. Prescreening waiver: piano applicants currently enrolled in a Mannes degree program are not prescreened. Final audition format: applicants invited to the final round are encouraged to audition on campus, but Mannes also accepts final auditions on video. Recording option: the College of Performing Arts holds on-campus auditions for fall entry only; spring auditions must be submitted as recordings. Applicants who prefer recorded auditions may submit them, and recordings are evaluated with the same criteria and scrutiny as live auditions. Recording guidance: a professional video is not necessary, but sound quality should be high, an external microphone is strongly recommended, lighting should be adequate, and the camera should show full range of movement and use of instrument where applicable.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes Graduate Audition Requirements",
+                "url": "https://www.newschool.edu/mannes/graduate-audition-requirements/"
+              },
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A prelude and fugue from The Well-Tempered Clavier or two contrasting movements from a keyboard suite by J.S. Bach. Prescreening repertoire: A sonata by either Mozart or Beethoven, excluding Beethoven Op. 49 and Op. 79; a sonata by Haydn, except juvenilia, or Schubert may be substituted. Prescreening repertoire: A large-scale 19th-century solo piece, not a concerto. Prescreening repertoire: All pieces must be performed from memory. Final audition repertoire: A prelude and fugue from The Well-Tempered Clavier or two contrasting movements from a keyboard suite by J.S. Bach. Final audition repertoire: A sonata of either Mozart or Beethoven, excluding Beethoven Op. 49 and Op. 79; a sonata of Haydn, except juvenilia, or Schubert may be substituted. Final audition repertoire: A large-scale 19th-century solo piece, not a concerto. Final audition repertoire: A 20th- or 21st-century solo piece, not a concerto; an original composition or arrangement by the auditionee may be substituted. Final audition repertoire: All pieces must be performed from memory. Additional repertoire notes: Mannes celebrates performance of music of our time and welcomes contemporary repertoire composed after 1970. Additional repertoire notes: Mannes strongly encourages applicants to seek out, learn, and perform works by BIPOC, women, and gender-nonconforming composers.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes Graduate Audition Requirements",
+                "url": "https://www.newschool.edu/mannes/graduate-audition-requirements/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Mannes program page Fall deadline: Graduate Application Deadline December 1. Mannes program page Fall prescreen deadline: December 1 for Composition, Piano, Conducting, and Voice applicants only. Mannes program page Fall final audition recording or portfolio deadline for applicants not auditioning live: February 1. Mannes program page Spring deadline: Graduate Application Deadline extended to November 1. Mannes program page Spring prescreen deadline for Composition, Piano, Conducting, and Voice applicants only: extended to November 1. Mannes program page Spring final audition recording deadline, because live auditions are not available for spring entry: November 1. FAFSA deadlines: February 1 for Fall applicants and November 1 for Spring applicants. Central New School graduate deadlines page currently lists Mannes School of Music Spring Admission extended to December 1 and Fall Admission extended to January 1; applications received after priority deadlines are evaluated case by case on a rolling basis. Decision timing: Spring admission decisions are released on a rolling basis starting in November; Fall admission decisions are released on a rolling basis starting in late March.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              },
+              {
+                "label": "The New School Graduate Deadlines",
+                "url": "https://www.newschool.edu/admission/prospective-graduate-students/dates-deadlines/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: applicants whose first language is not English must submit valid English proficiency test results taken within the past two years. Minimum scores: TOEFL iBT 79. Minimum scores: IELTS 6.5. Minimum scores: PTE 53. Minimum scores: Duolingo English Test 115. Minimum scores: Cambridge English 176. TOEFL institution code: 2501. Not accepted: IELTS Indicator, IELTS for UKVI, iTEP, TOEFL Essentials, TOEFL ITP Plus for China, TOEFL MyBest Score, or the University College London preparatory certificate program. Exemptions: The New School does not require scores from applicants who studied in English as the primary language of instruction for all four consecutive years of high school/secondary school, unless they took ESL courses while in high school, or from transfer students who earned a four-year degree from a U.S. college/university or from a university where English is the primary language of instruction with at least three years' attendance. Additional review: after reviewing the application, the Office of Admission may still require an English proficiency score.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through The New School Online Application for Mannes School of Music. Mannes lists Collaborative Piano: Instrumental (MM only) and Collaborative Piano: Vocal as graduate application options; the Master of Music in Collaborative Piano page describes a two-year, full-time, on-campus MM with 42 credits for Instrumental and 45 credits for Voice, starting in Fall or Spring. Application materials include the online application, essay of up to 500 words, two letters of recommendation, college transcripts uploaded in the application, English proficiency test results when required, and final audition recording if the applicant does not audition live. Collaborative Piano is not listed among the prescreened programs on the Mannes How to Apply page; the prescreen list there is Composition, Conducting, Piano, and Voice.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              },
+              {
+                "label": "Mannes Collaborative Piano MM",
+                "url": "https://www.newschool.edu/mannes/collaborative-piano-masters-of-music/"
+              },
+              {
+                "label": "The New School Graduate Application Portal",
+                "url": "https://apply.newschool.edu/portal/GR"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $0 for 2026 terms. Mannes states that, effective November 7, 2025, The New School is not requiring an application fee to apply for any 2026 term. The general graduate application page still describes application fee waiver processes in case a fee waiver is needed in the online application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              },
+              {
+                "label": "The New School Graduate How to Apply",
+                "url": "https://www.newschool.edu/admission/prospective-graduate-students/apply-graduate/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Collaborative Piano is not listed among the programs requiring prescreen materials; the Mannes How to Apply page lists Composition, Conducting, Piano, and Voice for prescreening. Live audition logistics: for live auditions on the New York City campus, Mannes provides a singer and/or violinist for the audition time and a one-hour rehearsal. If an applicant brings their own partners, the applicant is responsible for their fees. Recorded audition option: applicants may upload a video recording of the audition with a partner of their own choosing. Substitutions: applicants wishing to substitute any required pieces must submit the request in writing to Cristina Stanescu at least four weeks before the scheduled audition; if approved, the applicant must bring their own partner for the substituted repertoire. Instrumental MM note: under the Collaborative Piano: Instrumental MM section, the page states that a Zoom interview will be scheduled after the application deadline; applicants should be prepared to perform during the live Zoom interview and to receive and play sight-reading material.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes Graduate Audition Requirements",
+                "url": "https://www.newschool.edu/mannes/graduate-audition-requirements/"
+              },
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No prescreening repertoire is required for Collaborative Piano; the Mannes How to Apply page lists prescreening only for Composition, Conducting, Piano, and Voice applicants. Final audition repertoire: Collaborative Piano: Instrumental (MM): Franck's Sonata for violin and piano, complete sonata. Final audition repertoire: Collaborative Piano: Instrumental (MM): choose one of the following complete sonatas: Beethoven's Sonata for violin and piano in C minor, Op. 30, No. 2; Brahms' Sonata for violin and piano in A major, Op. 100. Final audition repertoire: Collaborative Piano: Instrumental (MM): choose one of the following songs in high key: Schubert's Ganymed; Schubert's Liebesbotschaft; Brahms' Meine Liebe ist grün; Schumann's Die alten, bösen Lieder from Dichterliebe. Final audition repertoire: Collaborative Piano: Instrumental (MM): choose one of the following songs in high key: Debussy's Il pleure dans mon coeur from Ariettes Oubliées; Fauré's Mandoline. Final audition repertoire: Collaborative Piano: Instrumental (MM): choose one of the following, to be played and sung in the original language: Mozart, an aria of the applicant's choice; Puccini's Donde lieta from La Bohème. Final audition repertoire: Collaborative Piano: Instrumental (MM): a solo work of the applicant's choice, not to exceed ten minutes in length. Final audition repertoire: Collaborative Piano: Vocal (MM): choose one of the following in high key: Schubert, Ganymed; Schubert, Liebesbotschaft. Final audition repertoire: Collaborative Piano: Vocal (MM): choose one of the following in high key: Schumann, Die alten, bösen Lieder from Dichterliebe; Brahms, Meine Liebe ist grün. Final audition repertoire: Collaborative Piano: Vocal (MM): choose one of the following in high key: Debussy, Il pleure dans mon coeur from Ariettes Oubliées; Fauré, Mandoline. Final audition repertoire: Collaborative Piano: Vocal (MM): choose one of the following, to be played and sung in the original language: W.A. Mozart, an aria of the applicant's choice; Puccini, Donde lieta from La Bohème. Final audition repertoire: Collaborative Piano: Vocal (MM): choose one of the following complete sonatas: Beethoven, Sonata for violin and piano in C minor, Op. 30, No. 2; Brahms, Sonata for violin and piano in A major, Op. 100. Final audition repertoire: Collaborative Piano: Vocal (MM): a solo work of the applicant's choice, not to exceed ten minutes in length. Additional repertoire notes: Mannes provides singer and/or violinist plus one-hour rehearsal for live auditions, while recorded auditions use the applicant's chosen partner. Additional repertoire notes: Substitution requests must be sent to Cristina Stanescu at least four weeks before the scheduled audition, and approved substitutions require the applicant to bring their own partner for the substituted repertoire.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes Graduate Audition Requirements",
+                "url": "https://www.newschool.edu/mannes/graduate-audition-requirements/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Mannes program page Fall deadline: Graduate Application Deadline December 1. Collaborative Piano is not listed as a prescreen-required program; the Fall prescreen deadline of December 1 applies to Composition, Piano, Conducting, and Voice applicants only. Mannes program page Fall final audition recording or portfolio deadline for applicants not auditioning live: February 1. Mannes program page Spring deadline: Graduate Application Deadline extended to November 1. Spring final audition recording deadline, because live auditions are not available for spring entry: November 1. FAFSA deadlines: February 1 for Fall applicants and November 1 for Spring applicants. Central New School graduate deadlines page currently lists Mannes School of Music Spring Admission extended to December 1 and Fall Admission extended to January 1; applications received after priority deadlines are evaluated case by case on a rolling basis. Decision timing: Spring admission decisions are released on a rolling basis starting in November; Fall admission decisions are released on a rolling basis starting in late March.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              },
+              {
+                "label": "The New School Graduate Deadlines",
+                "url": "https://www.newschool.edu/admission/prospective-graduate-students/dates-deadlines/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: applicants whose first language is not English must submit valid English proficiency test results taken within the past two years. Minimum scores: TOEFL iBT 79. Minimum scores: IELTS 6.5. Minimum scores: PTE 53. Minimum scores: Duolingo English Test 115. Minimum scores: Cambridge English 176. TOEFL institution code: 2501. Not accepted: IELTS Indicator, IELTS for UKVI, iTEP, TOEFL Essentials, TOEFL ITP Plus for China, TOEFL MyBest Score, or the University College London preparatory certificate program. Exemptions: The New School does not require scores from applicants who studied in English as the primary language of instruction for all four consecutive years of high school/secondary school, unless they took ESL courses while in high school, or from transfer students who earned a four-year degree from a U.S. college/university or from a university where English is the primary language of instruction with at least three years' attendance. Additional review: after reviewing the application, the Office of Admission may still require an English proficiency score.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Mannes How to Apply - Graduate",
+                "url": "https://www.newschool.edu/mannes/how-to-apply-graduate/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
