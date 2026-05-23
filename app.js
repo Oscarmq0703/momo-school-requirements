@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-cim-audit-v14";
+const DATA_VERSION = "2026-05-24-depaul-audit-v15";
 
 const state = {
   data: null,

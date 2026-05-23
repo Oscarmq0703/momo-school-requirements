@@ -1,0 +1,248 @@
+{
+  "schools": [
+    {
+      "id": "depaul-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "DePaul Apply",
+          "url": "https://www.depaul.edu/apply"
+        },
+        {
+          "label": "DePaul Master's Application Process",
+          "url": "https://music.depaul.edu/admission/application-process/masters-students"
+        },
+        {
+          "label": "DePaul Graduate/Certificate Auditions",
+          "url": "https://music.depaul.edu/admission/auditions/graduate-certificate"
+        },
+        {
+          "label": "DePaul Graduate Piano Auditions",
+          "url": "https://music.depaul.edu/admission/auditions/graduate-certificate/piano"
+        },
+        {
+          "label": "DePaul Schedule Graduate Audition",
+          "url": "https://music.depaul.edu/admission/auditions/audition-reservations/schedule-graduate-audition"
+        },
+        {
+          "label": "DePaul International Students",
+          "url": "https://music.depaul.edu/admission/application-process/international-students"
+        },
+        {
+          "label": "DePaul Music Performance (MM) Catalog",
+          "url": "https://catalog.depaul.edu/programs/music-performance-mm/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through DePaul's School of Music application route and DePaul graduate online application. The School of Music master's application is due December 1. Required master's materials listed on the School of Music page include the online application, official undergraduate transcripts, three letters of recommendation, and any program-specific materials. DePaul School of Music does not require the GRE or another standardized test for graduate admission. For Performance and Jazz Studies (MM), prescreening video is required only for clarinet, classical voice, violin, and all jazz instruments; classical piano is not listed as prescreening-required on the audited page.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Apply",
+                "url": "https://www.depaul.edu/apply"
+              },
+              {
+                "label": "DePaul Master's Application Process",
+                "url": "https://music.depaul.edu/admission/application-process/masters-students"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee note: DePaul School of Music's international-student page states that international applicants must submit a non-refundable $75 international application fee for the application to be reviewed. The audited School of Music master's application page does not publish a separate domestic application fee amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul International Students",
+                "url": "https://music.depaul.edu/admission/application-process/international-students"
+              },
+              {
+                "label": "DePaul Master's Application Process",
+                "url": "https://music.depaul.edu/admission/application-process/masters-students"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Audition requirement: all graduate Performance and Jazz Studies applicants are required to audition. Format: DePaul encourages applicants to audition in person if possible; all instrumental auditions are unaccompanied. Live audition dates: Fall 2026 live auditions take place on weekends in February 2026; Classical Piano is listed for February 8 and February 15. Recorded audition option: recorded video auditions are available by request; applicants must email musicadmissions@depaul.edu by January 15 to request the recorded audition. If the request is approved by faculty/admissions, the recorded audition is uploaded to the application portal by February 1. Recorded interview video: applicants who select a recorded submission upload a video no longer than 2-3 minutes answering what their musical background is and why they are applying to DePaul.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Graduate/Certificate Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate"
+              },
+              {
+                "label": "DePaul Graduate Piano Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate/piano"
+              },
+              {
+                "label": "DePaul Schedule Graduate Audition",
+                "url": "https://music.depaul.edu/admission/auditions/audition-reservations/schedule-graduate-audition"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No classical piano prescreening repertoire is published on the audited Performance and Jazz Studies (MM) page; that page lists prescreening as required only for clarinet, classical voice, violin, and all jazz instruments. Final audition repertoire: Candidates must prepare a selection from each of the following categories. Final audition repertoire: A composition by a Baroque composer; e.g. Bach, Scarlatti, Rameau, Couperin. Final audition repertoire: A complete Classical sonata; e.g. Clementi, Haydn, Mozart, Beethoven, Schubert. Final audition repertoire: A composition from the 19th or 20th century. Final audition repertoire: A virtuoso etude; e.g. Chopin, Liszt, Rachmaninoff, Scriabin, Debussy, Ligeti, excluding Chopin's Opus 10, Nos. 3 and 6; Opus 25, No. 7; and the Trois nouvelles etudes. Additional repertoire notes: Memorization is required.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Master's Application Process",
+                "url": "https://music.depaul.edu/admission/application-process/masters-students"
+              },
+              {
+                "label": "DePaul Graduate Piano Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate/piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application deadline: December 1. Official undergraduate transcripts due: December 1. Three letters of recommendation due: December 1. Performance/Jazz prescreening materials, when required by instrument, due: December 1; classical piano is not listed as prescreening-required. Audition registration or recorded-audition request due: January 15. Approved recorded audition due: February 1. English proficiency proof for international students due: February 1. Classical Piano live audition dates for Fall 2026: February 8 and February 15, 2026. Admission decisions: audition results are reviewed in late March, and students are informed of results by March/April.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Master's Application Process",
+                "url": "https://music.depaul.edu/admission/application-process/masters-students"
+              },
+              {
+                "label": "DePaul Schedule Graduate Audition",
+                "url": "https://music.depaul.edu/admission/auditions/audition-reservations/schedule-graduate-audition"
+              },
+              {
+                "label": "DePaul International Students",
+                "url": "https://music.depaul.edu/admission/application-process/international-students"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Timing: international students must submit proof of English proficiency by February 1. Minimum scores: TOEFL iBT 80, with no section lower than 17. Minimum scores: for TOEFL iBT exams taken on or after January 21, 2026, DePaul states the ETS score scale changes and the minimum requirement is 4.0 with no subscore below 3.5 on the new 1-6 scale. Minimum scores: IELTS 6.5. Minimum scores: Duolingo English Test 115. Minimum scores: PTE Academic 53. Notes: DePaul University's institutional code is 1165. Alternatives/exemptions: English proficiency can also be shown through the equivalent of DePaul's WRD 103 and WRD 104 with grades of C or better at an accredited U.S. educational institution; if the applicant has completed a bachelor's degree in the U.S., the English proficiency requirement may be waived.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul International Students",
+                "url": "https://music.depaul.edu/admission/application-process/international-students"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "DePaul's catalog lists Collaborative Piano as a specialization inside Music Performance (MM). Apply through DePaul's School of Music application route and DePaul graduate online application by December 1. Required master's materials listed on the School of Music page include the online application, official undergraduate transcripts, three letters of recommendation, and any program-specific materials. DePaul School of Music does not require the GRE or another standardized test for graduate admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Apply",
+                "url": "https://www.depaul.edu/apply"
+              },
+              {
+                "label": "DePaul Master's Application Process",
+                "url": "https://music.depaul.edu/admission/application-process/masters-students"
+              },
+              {
+                "label": "DePaul Music Performance (MM) Catalog",
+                "url": "https://catalog.depaul.edu/programs/music-performance-mm/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee note: DePaul School of Music's international-student page states that international applicants must submit a non-refundable $75 international application fee for the application to be reviewed. The audited School of Music master's application page does not publish a separate domestic application fee amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul International Students",
+                "url": "https://music.depaul.edu/admission/application-process/international-students"
+              },
+              {
+                "label": "DePaul Master's Application Process",
+                "url": "https://music.depaul.edu/admission/application-process/masters-students"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Audition requirement: all graduate Performance and Jazz Studies applicants are required to audition. Format: DePaul encourages applicants to audition in person if possible; all instrumental auditions are unaccompanied. Live audition dates: Fall 2026 live auditions take place on weekends in February 2026. The published graduate audition schedule lists Piano (Classical) for February 8 and February 15, but it does not separately list Collaborative Piano. Recorded audition option: recorded video auditions are available by request; applicants must email musicadmissions@depaul.edu by January 15 to request the recorded audition. If the request is approved by faculty/admissions, the recorded audition is uploaded to the application portal by February 1. Recorded interview video: applicants who select a recorded submission upload a video no longer than 2-3 minutes answering what their musical background is and why they are applying to DePaul.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Graduate/Certificate Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate"
+              },
+              {
+                "label": "DePaul Graduate Piano Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate/piano"
+              },
+              {
+                "label": "DePaul Schedule Graduate Audition",
+                "url": "https://music.depaul.edu/admission/auditions/audition-reservations/schedule-graduate-audition"
+              },
+              {
+                "label": "DePaul Music Performance (MM) Catalog",
+                "url": "https://catalog.depaul.edu/programs/music-performance-mm/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: The audited official pages do not publish a separate MM Collaborative Piano prescreening repertoire list. Final audition repertoire: DePaul's catalog verifies that Collaborative Piano is a Music Performance (MM) specialization, but the public Graduate/Certificate audition pages reviewed here do not publish a separate Collaborative Piano repertoire list. Additional repertoire notes: The only public graduate piano audition repertoire section is labeled Master's in Piano Performance Requirements; it should not be assumed to govern Collaborative Piano without confirmation from musicadmissions@depaul.edu.",
+            "status": "needs_review",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Music Performance (MM) Catalog",
+                "url": "https://catalog.depaul.edu/programs/music-performance-mm/"
+              },
+              {
+                "label": "DePaul Graduate/Certificate Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate"
+              },
+              {
+                "label": "DePaul Graduate Piano Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate/piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application deadline: December 1. Official undergraduate transcripts due: December 1. Three letters of recommendation due: December 1. Audition registration or recorded-audition request due: January 15. Approved recorded audition due: February 1. English proficiency proof for international students due: February 1. Published Piano (Classical) live audition dates for Fall 2026: February 8 and February 15, 2026; DePaul does not separately list Collaborative Piano dates on the audited schedule. Admission decisions: audition results are reviewed in late March, and students are informed of results by March/April.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul Master's Application Process",
+                "url": "https://music.depaul.edu/admission/application-process/masters-students"
+              },
+              {
+                "label": "DePaul Schedule Graduate Audition",
+                "url": "https://music.depaul.edu/admission/auditions/audition-reservations/schedule-graduate-audition"
+              },
+              {
+                "label": "DePaul International Students",
+                "url": "https://music.depaul.edu/admission/application-process/international-students"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Timing: international students must submit proof of English proficiency by February 1. Minimum scores: TOEFL iBT 80, with no section lower than 17. Minimum scores: for TOEFL iBT exams taken on or after January 21, 2026, DePaul states the ETS score scale changes and the minimum requirement is 4.0 with no subscore below 3.5 on the new 1-6 scale. Minimum scores: IELTS 6.5. Minimum scores: Duolingo English Test 115. Minimum scores: PTE Academic 53. Notes: DePaul University's institutional code is 1165. Alternatives/exemptions: English proficiency can also be shown through the equivalent of DePaul's WRD 103 and WRD 104 with grades of C or better at an accredited U.S. educational institution; if the applicant has completed a bachelor's degree in the U.S., the English proficiency requirement may be waived.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "DePaul International Students",
+                "url": "https://music.depaul.edu/admission/application-process/international-students"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
