@@ -1,0 +1,240 @@
+{
+  "schools": [
+    {
+      "id": "carnegie-mellon-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "CMU Graduate Admission Requirements",
+          "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+        },
+        {
+          "label": "CMU Pre-screen, Audition & Portfolio Requirements",
+          "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-requirements.html"
+        },
+        {
+          "label": "CMU Audition & Portfolio Review Dates",
+          "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-dates.html"
+        },
+        {
+          "label": "CMU Piano Audition Requirements",
+          "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-audition-requirements.html"
+        },
+        {
+          "label": "CMU Collaborative Piano Audition Requirements",
+          "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/collaborative-piano-audition-requirements.html"
+        },
+        {
+          "label": "CMU MM Piano + Collaborative Piano Consideration",
+          "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-solo-collab-audition-requirements.html"
+        },
+        {
+          "label": "CMU International Students",
+          "url": "https://www.cmu.edu/cfa/music/apply/international-students.html"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Step 1: complete the Carnegie Mellon School of Music Acceptd application for graduate admission. Step 2: review and follow the audition/portfolio requirements for the intended program; Piano is one of the studios requiring pre-screen recordings. Step 3: submit the required Acceptd application materials, including the $130 application fee, Music Resume/CV, optional professional resume for assistantship consideration, repertoire list, 650-word personal statement, pre-screen recordings where applicable, audition-date selection, unofficial transcripts from U.S. institutions, and unofficial course-by-course credential evaluation for foreign institutions. Step 4: if invited after pre-screening, attend the assigned audition date selected in the application. International transcript note: CMU School of Music accepts course-by-course credential evaluations from WES, ECE, or The Evaluation Company / former SpanTran for application review; official evaluations are required after admission and enrollment.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              },
+              {
+                "label": "CMU International Students",
+                "url": "https://www.cmu.edu/cfa/music/apply/international-students.html"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $130 USD through the School of Music Acceptd application. Assistantship note: the application includes a Music Resume/CV and an optional professional resume to be considered for assistantships. GRE note: the School of Music is GRE test-optional for the current admissions cycle; Music & Technology MS applicants may submit GRE scores, but this does not apply as a required item for MM Piano Performance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Piano applicants are required to submit a pre-screening video recording in the School of Music online application by December 1; only complete applications fulfilling the pre-screening requirements are considered. Live audition: all performance candidates are required to complete an audition, and all graduate applicants to piano are expected to prepare the listed live audition requirements. Audition dates: all instrumental and voice auditions are held in person; on-campus Piano audition date listed for the current cycle is Sunday February 1; New York City regional instrumental auditions are listed for Saturday February 14 and are recorded, with CMU staff present but not faculty from every instrument area. Extenuating circumstances: applicants who cannot attend available in-person options should contact Belmary Lorcas to explore other department options. Piano plus Collaborative option: MM or AMS Piano candidates who also want Collaborative Piano consideration must submit an additional video under 10 minutes showing any form of collaboration with an instrument or vocalist; if selected to advance to the live audition, they will be asked for an online or in-person interview with Collaborative Piano faculty.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Piano Audition Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-audition-requirements.html"
+              },
+              {
+                "label": "CMU Pre-screen, Audition & Portfolio Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-requirements.html"
+              },
+              {
+                "label": "CMU Audition & Portfolio Review Dates",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-dates.html"
+              },
+              {
+                "label": "CMU MM Piano + Collaborative Piano Consideration",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-solo-collab-audition-requirements.html"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: The recording must be at least 20 minutes. Prescreening repertoire: A Baroque or Classical work, from the 17th century to Beethoven. Prescreening repertoire: A Romantic, 20th Century, or Contemporary work demonstrating the applicant's pianistic and artistic ability. Prescreening repertoire: Only works for solo piano, not concertos, are accepted. Final audition repertoire: A polyphonic work, late-Renaissance to contemporary. Final audition repertoire: One or more movements of a Classical Sonata by Haydn, Mozart, Clementi, Beethoven, or Schubert. Final audition repertoire: A fast etude by Chopin, Liszt, Scriabin, Rachmaninoff, Debussy, or Prokofiev. Final audition repertoire: A major Romantic work, such as a sonata by Chopin, Schumann, Brahms, Liszt, Scriabin, or Rachmaninoff, a Chopin Ballade or Scherzo, a cycle by Schumann, or any large-scale composition by Liszt; alternatively, a selection of characteristic pieces of contrasting moods, such as an opus of Chopin Mazurkas, selections from Liszt's Annees de Pelerinage, or Brahms Op. 116-119. Final audition repertoire: A 20th-century or contemporary work from Debussy onward. Final audition repertoire: A virtuoso composition, such as an etude by Clementi Gradus ad Parnassum, Czerny Op. 740, Chopin, Paganini/Schumann, Liszt, Scriabin, Rachmaninoff, Debussy, Bartok, Prokofiev, Stravinsky, or Ligeti; or a toccata or toccata-like movement by Czerny, Schumann, Liszt, Saint-Saens, Debussy, Ravel, Stravinsky, or Prokofiev. Final audition repertoire: Only works for solo piano, not concertos, are accepted. Additional repertoire notes: Piano applicants who also seek Collaborative Piano consideration must submit an additional collaboration video under 10 minutes, but applicants applying only for Collaborative Piano should follow the separate Collaborative Piano requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Piano Audition Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-audition-requirements.html"
+              },
+              {
+                "label": "CMU MM Piano + Collaborative Piano Consideration",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-solo-collab-audition-requirements.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: September 1. Application deadline: December 1; Acceptd application closes and all music application materials are due. Supporting materials deadline: January 5 for letters of recommendation, final English Proficiency test scores, and outstanding unofficial transcripts. Prescreening decisions and interview requests: January 10-15, with audition times assigned no later than January 15. Audition period: late January through February. Piano audition date listed on the current audition-date page: February 1 on campus; New York City regional instrumental audition date: February 14. Graduate decision release: March 15. Graduate student decision deadline: April 15. AMSC-only dates: March 1 priority deadline #2 and May 1 final AMSC application deadline are for Advanced Music Studies Certificates, not the regular MM application deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              },
+              {
+                "label": "CMU Pre-screen, Audition & Portfolio Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-requirements.html"
+              },
+              {
+                "label": "CMU Audition & Portfolio Review Dates",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-dates.html"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL for MM or MS: total 84, Reading 22, Listening 22, Speaking 18, Writing 22; IELTS for MM or MS: total 6.5, no subscore below 6, Reading 6.5, Listening 6.5, Speaking 6, Writing 7.5; Duolingo English Test for MM or MS: total 105, no subscore below 70, Literacy 105, Comprehension 115, Production 70, Conversation 95. Timing: all applicants whose native language is not English must submit TOEFL, IELTS, or Duolingo; applicants may upload unofficial score reports to Acceptd for review; all applicants must submit their highest single-test score by the December 1 application deadline, and admitted students who enroll must submit official scores to the School of Music. Validity: test results over 2 years old are not accepted. Exemptions: the School of Music page says all students whose native language is not English are required to submit a language test regardless of prior educational experience. Notes: CMU School of Music accepts only English proficiency scores from a single test date, not MyBest scores; TOEFL should be submitted electronically to institution code 2074 and department code Humanities-Music 19; IELTS and Duolingo should be sent electronically to Carnegie Mellon University School of Music.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU International Students",
+                "url": "https://www.cmu.edu/cfa/music/apply/international-students.html"
+              },
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Step 1: complete the Carnegie Mellon School of Music Acceptd application for graduate admission to MM Collaborative Piano. Step 2: review the Collaborative Piano audition requirements and choose the track/concentration: instrumental, vocal, or dual. Step 3: submit the required Acceptd application materials, including the $130 application fee, Music Resume/CV, optional professional resume for assistantship consideration, repertoire list, 650-word personal statement, audition-date selection, unofficial transcripts from U.S. institutions, and unofficial course-by-course credential evaluation for foreign institutions where applicable. Step 4: if applying only for Collaborative Piano, follow the separate Collaborative Piano audition requirements; if applying to MM Piano and also seeking Collaborative Piano consideration, follow the Piano plus Collaborative Piano page instead. International transcript note: CMU School of Music accepts course-by-course credential evaluations from WES, ECE, or The Evaluation Company / former SpanTran for application review; official evaluations are required after admission and enrollment.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              },
+              {
+                "label": "CMU Collaborative Piano Audition Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/collaborative-piano-audition-requirements.html"
+              },
+              {
+                "label": "CMU International Students",
+                "url": "https://www.cmu.edu/cfa/music/apply/international-students.html"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $130 USD through the School of Music Acceptd application. Assistantship note: the application includes a Music Resume/CV and an optional professional resume to be considered for assistantships. GRE note: the School of Music is GRE test-optional for the current admissions cycle; Music & Technology MS applicants may submit GRE scores, but this does not apply as a required item for MM Collaborative Piano.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Collaborative Piano pre-screening is not required at this time. Track/concentration: Collaborative Piano auditions are based on the track/concentration to which the applicant is applying: instrumental, vocal, or dual. Sight-reading: applicants will be asked to sight-read a short piece of music. Audition dates: all instrumental and voice auditions are held in person; the current on-campus date specifically listing Collaborative Piano is Sunday February 8. New York City regional auditions are listed generally for instrumentalists on Saturday February 14, recorded with CMU staff present but not faculty from every instrument area; applicants should confirm availability for Collaborative Piano with Music Admissions. Extenuating circumstances: applicants who cannot attend available in-person options should contact Belmary Lorcas to explore other department options. Related distinction: MM or AMS Piano candidates who also want Collaborative Piano consideration follow the Piano plus Collaborative Piano page and submit an additional collaboration video under 10 minutes, while applicants applying only for Collaborative Piano follow the separate Collaborative Piano requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Collaborative Piano Audition Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/collaborative-piano-audition-requirements.html"
+              },
+              {
+                "label": "CMU Audition & Portfolio Review Dates",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-dates.html"
+              },
+              {
+                "label": "CMU MM Piano + Collaborative Piano Consideration",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-solo-collab-audition-requirements.html"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Pre-screening is not required at this time for applicants applying only to MM Collaborative Piano. Final audition repertoire: Instrumental Track: prepare Cesar Franck, Sonata for Violin and Piano in A Major, Allegretto ben moderato and Allegro. Final audition repertoire: Instrumental Track: prepare Ludwig van Beethoven, Sonata for Piano and Violin No. 7 in C Minor, Op. 30, No. 2, Allegro con Brio, or Sonata for Piano and Cello No. 3 in A Major, Op. 69, Allegro ma non tanto. Final audition repertoire: Instrumental Track: prepare Johannes Brahms, Meine Liebe ist grun in b minor. Final audition repertoire: Instrumental Track: prepare Gabriel Faure, Toujours in e minor from Poeme d'un Jour. Final audition repertoire: Vocal Track: choose one movement from one of the listed instrumental works: Cesar Franck, Sonata for Violin and Piano in A Major, Allegretto ben moderato or Allegro; Ludwig van Beethoven, Sonata for Piano and Violin No. 7 in C Minor, Op. 30, No. 2, Allegro con Brio; or Sonata for Piano and Cello No. 3 in A Major, Op. 69, Allegro ma non tanto. Final audition repertoire: Vocal Track: prepare to sing and play all of the following selections: Johannes Brahms, Meine Liebe ist grun in b minor; Gabriel Faure, Toujours in e minor from Poeme d'un Jour; Samuel Barber, St. Ita's Vision from Hermit Songs; Wolfgang Amadeus Mozart, Giunse alfin il momento...Deh vieni, non tardar from Le Nozze di Figaro. Final audition repertoire: Dual Track: prepare Cesar Franck, Sonata for Violin and Piano in A Major, first movement, Allegretto ben moderato. Final audition repertoire: Dual Track: choose between Ludwig van Beethoven, Sonata for Piano and Violin No. 7 in C Minor, Op. 30, No. 2, Allegro con Brio, or Sonata for Piano and Cello No. 3 in A Major, Op. 69, Allegro ma non tanto. Final audition repertoire: Dual Track: choose three of the following and be prepared to sing and play one selection: Johannes Brahms, Meine Liebe ist grun in b minor; Gabriel Faure, Toujours in e minor from Poeme d'un Jour; Samuel Barber, St. Ita's Vision from Hermit Songs; Wolfgang Amadeus Mozart, Giunse alfin il momento...Deh vieni, non tardar from Le Nozze di Figaro. Final audition repertoire: Sight-reading is required.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Collaborative Piano Audition Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/collaborative-piano-audition-requirements.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: September 1. Application deadline: December 1; Acceptd application closes and all music application materials are due. Supporting materials deadline: January 5 for letters of recommendation, final English Proficiency test scores, and outstanding unofficial transcripts. Prescreening/interview release period: January 10-15; Collaborative Piano has no prescreening requirement at this time, but the general timeline also refers to interview requests. Audition period: late January through February. Collaborative Piano audition date listed on the current audition-date page: February 8 on campus. Graduate decision release: March 15. Graduate student decision deadline: April 15. AMSC-only dates: March 1 priority deadline #2 and May 1 final AMSC application deadline are for Advanced Music Studies Certificates, not the regular MM application deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              },
+              {
+                "label": "CMU Pre-screen, Audition & Portfolio Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-requirements.html"
+              },
+              {
+                "label": "CMU Audition & Portfolio Review Dates",
+                "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-dates.html"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL for MM or MS: total 84, Reading 22, Listening 22, Speaking 18, Writing 22; IELTS for MM or MS: total 6.5, no subscore below 6, Reading 6.5, Listening 6.5, Speaking 6, Writing 7.5; Duolingo English Test for MM or MS: total 105, no subscore below 70, Literacy 105, Comprehension 115, Production 70, Conversation 95. Timing: all applicants whose native language is not English must submit TOEFL, IELTS, or Duolingo; applicants may upload unofficial score reports to Acceptd for review; all applicants must submit their highest single-test score by the December 1 application deadline, and admitted students who enroll must submit official scores to the School of Music. Validity: test results over 2 years old are not accepted. Exemptions: the School of Music page says all students whose native language is not English are required to submit a language test regardless of prior educational experience. Notes: CMU School of Music accepts only English proficiency scores from a single test date, not MyBest scores; TOEFL should be submitted electronically to institution code 2074 and department code Humanities-Music 19; IELTS and Duolingo should be sent electronically to Carnegie Mellon University School of Music.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CMU International Students",
+                "url": "https://www.cmu.edu/cfa/music/apply/international-students.html"
+              },
+              {
+                "label": "CMU Graduate Admission Requirements",
+                "url": "https://www.cmu.edu/cfa/music/apply/graduate_admission/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
