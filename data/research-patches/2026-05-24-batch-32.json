@@ -1,0 +1,224 @@
+{
+  "schools": [
+    {
+      "id": "manhattan-school-of-music",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "MSM Application Requirements",
+          "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+        },
+        {
+          "label": "MSM College Dates & Deadlines",
+          "url": "https://www.msmnyc.edu/admission/dates-deadlines/college-dates-deadlines/"
+        },
+        {
+          "label": "MSM Piano Prescreening & Audition Procedures",
+          "url": "https://www.msmnyc.edu/programs/piano/prescreening-audition-procedures/"
+        },
+        {
+          "label": "MSM Collaborative Piano Prescreening & Audition Procedures",
+          "url": "https://www.msmnyc.edu/programs/collaborative-piano/prescreening-audition-procedures/"
+        },
+        {
+          "label": "MSM International Applicants",
+          "url": "https://www.msmnyc.edu/admission/international-applicants/"
+        },
+        {
+          "label": "MSM Admission FAQ",
+          "url": "https://www.msmnyc.edu/admission/admission-faq/"
+        },
+        {
+          "label": "MSM Application Portal",
+          "url": "https://apply.msmnyc.edu/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through MSM's online application. The online application is due December 1 and must include prescreening if applicable, academic history, personal background information, artistic resume, repertoire studied summary, essays, and recommender names/emails. Master of Music applicants submit two recommendation letters: one from the current primary-instrument teacher and one from another musical reference; letters are due January 15. All applicants except Musical Theatre upload a repertoire-studied list, usually 1-3 pages, with composer/title and collaborators or venue when applicable. Applicants also upload an artistic resume and two essay responses. Supplemental documents, including unofficial transcripts, are uploaded through the post-submission Status Portal and are due January 15. Graduate applicants do not need GRE or other standardized tests. MSM's recommended minimum GPA is 3.0, but applicants below that are still reviewed in context. Final official transcripts showing degree conferral are required only after admission if the applicant enrolls.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              },
+              {
+                "label": "MSM Admission FAQ",
+                "url": "https://www.msmnyc.edu/admission/admission-faq/"
+              },
+              {
+                "label": "MSM Application Portal",
+                "url": "https://apply.msmnyc.edu/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: official MSM pages currently conflict. The Application Requirements page states a $130 application fee, a reduced $80 fee for current MSM/Precollege students, MSM alumni, and Barnard/MSM Lesson Exchange applicants, no fee for exchange applicants from partner institutions abroad, and an additional $50 late fee for approved late applications. The Admission FAQ still states $125 and a reduced $75 fee. Verify the exact charged amount in the MSM application portal at submission; use the Application Requirements page as the more current published application checklist.",
+            "status": "needs_review",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              },
+              {
+                "label": "MSM Admission FAQ",
+                "url": "https://www.msmnyc.edu/admission/admission-faq/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Classical Piano applicants must submit prescreen video to be considered for an in-person or recorded final audition. Prescreen recordings are uploaded directly to the MSM application by December 1. Video rules: studio-quality production is not required, but sound should accurately represent musicianship; each piece or movement is uploaded as a separate unedited video; all works must be from memory. Final audition: applicants who pass prescreening are invited to audition and prepare all required audition repertoire from memory. Audition repertoire may differ from prescreen repertoire, though overlapping selections may be reused where allowed. Final audition format: MSM offers in-person and recorded final auditions for MM Piano; DMA and Artist Diploma require in-person audition. Video framing: submitted videos should show the pianist's right side of the face, hands on the keys, and feet on the pedals.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Piano Prescreening & Audition Procedures",
+                "url": "https://www.msmnyc.edu/programs/piano/prescreening-audition-procedures/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Two or more works of contrasting styles. Prescreening repertoire: Individual movements from multi-movement works may be included. Prescreening repertoire: Total playing time should be approximately 15-20 minutes. Prescreening repertoire: Applicants should choose works that best represent individual artistry. Prescreening repertoire: All works must be performed from memory. Final audition repertoire: A solo recital program of 50-65 minutes including pieces from at least three contrasting style periods. Final audition repertoire: One or more pieces must be written in the 20th or 21st century. Final audition repertoire: All audition works must be performed from memory. Additional repertoire notes: In addition to standard repertoire, MSM Piano faculty strongly encourages applicants to include works by composers from the applicant's home country or by underrepresented creators, including women, composers from Asia, African American composers, or others.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Piano Prescreening & Audition Procedures",
+                "url": "https://www.msmnyc.edu/programs/piano/prescreening-audition-procedures/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Online application opens: September 1. Priority application deadline: December 1. Prescreen videos due for prescreened majors: December 1. Official Duolingo English Test score due for applicants whose first language is not English: December 1, 2025. Prescreen results released: December 21. Deadline to schedule in-person auditions and eligible live virtual auditions for all programs except Musical Theatre and Conducting: January 15. CSS Profile deadline: January 15. FAFSA deadline: January 15. Supplemental materials, including unofficial transcripts and recommendation letters, due: January 15. Recorded audition deadline for eligible applicants: February 1. In-person auditions at MSM for Classical, Jazz, Contemporary, and Orchestral Performance applicants: February 27 - March 6. Admission decisions released: April 1. Graduate response deadline: April 15. Scholarship/financial aid acceptance deadline: May 15.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM College Dates & Deadlines",
+                "url": "https://www.msmnyc.edu/admission/dates-deadlines/college-dates-deadlines/"
+              },
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Current MSM English assessment policy: all applicants whose native language is not English must have an official Duolingo English Test score submitted to MSM by December 1, 2025. TOEFL and IELTS are not accepted as alternatives to the Duolingo requirement. Minimum score policy: MSM states there is no minimum English test score required in order to apply. Score guidance/outcomes: Duolingo 120+ is likely exempt from additional English language proficiency requirements. Score guidance/outcomes: Duolingo 115 may be considered for exemption or may lead to Summer English Session assignment. Score guidance/outcomes: Duolingo 85-110 is likely to lead to Summer English Session assignment. Score guidance/outcomes: Duolingo 65-80 may be considered for admission, but the applicant should study and submit a higher score for consideration for Summer English Session and MSM. Score guidance/outcomes: Duolingo 60 or less is not currently competitive. Timing: Duolingo must be taken after September 1, 2025 in the current application cycle; test scores are due with the application by December 1, 2025 and considered during prescreening; updated scores may be submitted until March 1, 2026. Notes: MSM evaluates Duolingo category scores as well as overall score. DMA applicants are held to a higher English proficiency standard.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM International Applicants",
+                "url": "https://www.msmnyc.edu/admission/international-applicants/"
+              },
+              {
+                "label": "MSM College Dates & Deadlines",
+                "url": "https://www.msmnyc.edu/admission/dates-deadlines/college-dates-deadlines/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through MSM's online application. The online application is due December 1 and must include academic history, personal background information, artistic resume, repertoire studied summary, essays, and recommender names/emails. Collaborative Piano has no prescreen requirement, but applicants prepare all required audition repertoire for the degree level. Master of Music applicants submit two recommendation letters: one from the current primary-instrument teacher and one from another musical reference; letters are due January 15. All applicants except Musical Theatre upload a repertoire-studied list, usually 1-3 pages, with composer/title and collaborators or venue when applicable. Applicants also upload an artistic resume and two essay responses. Supplemental documents, including unofficial transcripts, are uploaded through the post-submission Status Portal and are due January 15. Graduate applicants do not need GRE or other standardized tests. MSM's recommended minimum GPA is 3.0, but applicants below that are still reviewed in context. Final official transcripts showing degree conferral are required only after admission if the applicant enrolls.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              },
+              {
+                "label": "MSM Collaborative Piano Prescreening & Audition Procedures",
+                "url": "https://www.msmnyc.edu/programs/collaborative-piano/prescreening-audition-procedures/"
+              },
+              {
+                "label": "MSM Application Portal",
+                "url": "https://apply.msmnyc.edu/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: official MSM pages currently conflict. The Application Requirements page states a $130 application fee, a reduced $80 fee for current MSM/Precollege students, MSM alumni, and Barnard/MSM Lesson Exchange applicants, no fee for exchange applicants from partner institutions abroad, and an additional $50 late fee for approved late applications. The Admission FAQ still states $125 and a reduced $75 fee. Verify the exact charged amount in the MSM application portal at submission; use the Application Requirements page as the more current published application checklist.",
+            "status": "needs_review",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              },
+              {
+                "label": "MSM Admission FAQ",
+                "url": "https://www.msmnyc.edu/admission/admission-faq/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: there is no prescreen requirement for Collaborative Piano. Final audition: applicants prepare all required audition repertoire for the degree level. MSM offers in-person and recorded final auditions for MM Collaborative Piano; DMA and Artist Diploma require in-person audition. MSM provides the violinist for the sonata requirement and the singer for the song-pair requirement. Optional selection: applicants may add one selection representing their musical interests, a work by a composer from a historically underrepresented racial or ethnic group, gender, or culture, or a work representing their own cultural background.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Collaborative Piano Prescreening & Audition Procedures",
+                "url": "https://www.msmnyc.edu/programs/collaborative-piano/prescreening-audition-procedures/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No prescreening repertoire is required because Collaborative Piano has no prescreen requirement. Final audition repertoire: Choose one sonata to perform with the provided violinist: Beethoven Violin Sonata in F major, Op. 24; Brahms Violin Sonata in A major, Op. 100; or Mozart Violin Sonata in B-flat major, K. 454. Final audition repertoire: Choose one pair of songs to perform with the provided singer: Schubert, Liebesbotschaft in G major with Debussy, Claire de lune from Fêtes galantes in G-sharp minor; or Schumann, Mondnacht in E major with Fauré, Fleur jetée in F minor. Final audition repertoire: One prelude and fugue by J.S. Bach from either book of The Well-Tempered Clavier. Final audition repertoire: One solo piano piece of the applicant's choice written in the 19th or 20th century; the composer must be different from composers chosen for the sonata and song requirements; solo pieces do not need to be performed from memory. Final audition repertoire: One opera aria by W.A. Mozart with recitative from any vocal category, with both recitative and aria played and sung simultaneously by the applicant in the original language; the applicant plays and sings all parts and is judged on coordination ability, not vocal quality or vocal technical accomplishment. Final audition repertoire: A classical vocal work by an underrepresented composer, played and sung simultaneously by the applicant in the original language; the applicant plays and sings all parts and is judged on coordination ability, not vocal quality or vocal technical accomplishment. Final audition repertoire: Donizetti, Cavatina: Quel guardo il cavaliere from Don Pasquale, first 10 measures only; MSM says opera excerpts should demonstrate how well the applicant brings the orchestral score to the keyboard. Final audition repertoire: All major and melodic or harmonic minor scales, hands one octave apart, sixteenth notes, minimum quarter note = 112, four octaves in parallel motion. Final audition repertoire: All major and minor arpeggios in root position, hands one octave apart, sixteenth notes, minimum quarter note = 96, four octaves in parallel motion. Final audition repertoire: Sight-reading selections from vocal and instrumental literature. Additional repertoire notes: One additional optional selection may represent the applicant's interests and/or a work by an underrepresented composer or from the applicant's cultural background.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM Collaborative Piano Prescreening & Audition Procedures",
+                "url": "https://www.msmnyc.edu/programs/collaborative-piano/prescreening-audition-procedures/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Online application opens: September 1. Priority application deadline: December 1. Collaborative Piano has no prescreen requirement, but the general priority application deadline remains December 1. Official Duolingo English Test score due for applicants whose first language is not English: December 1, 2025. Deadline to schedule in-person auditions and eligible live virtual auditions for all programs except Musical Theatre and Conducting: January 15. CSS Profile deadline: January 15. FAFSA deadline: January 15. Supplemental materials, including unofficial transcripts and recommendation letters, due: January 15. Recorded audition deadline for eligible applicants: February 1. In-person auditions at MSM for Classical, Jazz, Contemporary, and Orchestral Performance applicants: February 27 - March 6. Admission decisions released: April 1. Graduate response deadline: April 15. Scholarship/financial aid acceptance deadline: May 15.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM College Dates & Deadlines",
+                "url": "https://www.msmnyc.edu/admission/dates-deadlines/college-dates-deadlines/"
+              },
+              {
+                "label": "MSM Collaborative Piano Prescreening & Audition Procedures",
+                "url": "https://www.msmnyc.edu/programs/collaborative-piano/prescreening-audition-procedures/"
+              },
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Current MSM English assessment policy: all applicants whose native language is not English must have an official Duolingo English Test score submitted to MSM by December 1, 2025. TOEFL and IELTS are not accepted as alternatives to the Duolingo requirement. Minimum score policy: MSM states there is no minimum English test score required in order to apply. Score guidance/outcomes: Duolingo 120+ is likely exempt from additional English language proficiency requirements. Score guidance/outcomes: Duolingo 115 may be considered for exemption or may lead to Summer English Session assignment. Score guidance/outcomes: Duolingo 85-110 is likely to lead to Summer English Session assignment. Score guidance/outcomes: Duolingo 65-80 may be considered for admission, but the applicant should study and submit a higher score for consideration for Summer English Session and MSM. Score guidance/outcomes: Duolingo 60 or less is not currently competitive. Timing: Duolingo must be taken after September 1, 2025 in the current application cycle; test scores are due with the application by December 1, 2025 and considered during prescreening if applicable; updated scores may be submitted until March 1, 2026. Notes: MSM evaluates Duolingo category scores as well as overall score. DMA applicants are held to a higher English proficiency standard.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSM International Applicants",
+                "url": "https://www.msmnyc.edu/admission/international-applicants/"
+              },
+              {
+                "label": "MSM College Dates & Deadlines",
+                "url": "https://www.msmnyc.edu/admission/dates-deadlines/college-dates-deadlines/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
