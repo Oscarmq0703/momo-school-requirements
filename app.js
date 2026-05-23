@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-cmu-audit-v13";
+const DATA_VERSION = "2026-05-24-cim-audit-v14";
 
 const state = {
   data: null,
@@ -454,7 +454,7 @@ function parseRepertoireSections(text) {
 }
 
 function repertoireMarkerRegex() {
-  return /\b(Prescreening(?: requirements| repertoire)?|Pre-?screening(?: requirements| repertoire)?|Final audition(?: repertoire| requirements)?|Audition repertoire|Live audition(?: repertoire| requirements)?)\s*:\s*/gi;
+  return /\b(Prescreening(?: requirements| repertoire)?|Pre-?screening(?: requirements| repertoire)?|Final audition(?: repertoire| requirements)?|Audition repertoire|Live audition(?: repertoire| requirements)?|Additional repertoire notes?)\s*:\s*/gi;
 }
 
 function sectionFromRepertoireMarker(marker) {
@@ -497,6 +497,8 @@ function parseRepertoireMarker(item) {
     [/^Audition\s*:\s*/i, "final"],
     [/^Live audition(?: repertoire| requirements)?\s*:\s*/i, "final"],
     [/^Live audition(?: repertoire| requirements)?\s+/i, "final"],
+    [/^Additional repertoire notes?\s*:\s*/i, "notes"],
+    [/^Additional repertoire notes?\s+/i, "notes"],
   ];
 
   for (const [pattern, section] of markers) {

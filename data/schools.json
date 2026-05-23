@@ -1706,6 +1706,14 @@
           "url": "https://www.cim.edu/admissions/apply"
         },
         {
+          "label": "CIM Audition",
+          "url": "https://www.cim.edu/admissions/audition"
+        },
+        {
+          "label": "CIM Live Auditions",
+          "url": "https://www.cim.edu/admissions/audition/live"
+        },
+        {
           "label": "CIM Prescreening",
           "url": "https://www.cim.edu/admissions/apply/prescreening"
         },
@@ -1721,9 +1729,9 @@
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through CIM's online application portal.",
+            "value": "Step 1: apply through CIM's online application portal. Step 2: upload the required prescreening video for Piano by the December 1 deadline. Step 3: upload all required application materials, including performance resume, 250-500 word essay, one-minute video introduction recorded inside the application system, transcripts, and recommendation information. Step 4: complete the online theory examination after prescreening decisions are released in late December; Master of Music applicants are among the applicants required to take the online theory exam. Graduate transcript note: Master of Music applicants submit the bachelor's degree transcript. Recommendation note: all conservatory applications require two confidential recommendation letters from qualified people unrelated to the applicant; recommendation letters are due January 15.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM Apply",
@@ -1732,9 +1740,9 @@
             ]
           },
           "applicationFee": {
-            "value": "Application fee: $125 nonrefundable; Fee increases to $175 at 12:00am on December 2.",
+            "value": "Application fee: $125 nonrefundable, submitted online with the application. Late fee timing: the application fee increases to $175 at 12:00am on December 2. Fee waiver note: CIM's published application-fee waiver language on the audited page is for eligible first-time freshman and undergraduate transfer applicants; the page does not publish a graduate application fee waiver route.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM Apply",
@@ -1743,13 +1751,21 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Piano requires a prescreening video; Applicants are strongly urged to submit applications well before the December 1 deadline; Each piece of repertoire must be unedited and recorded separately; Applicants auditioning for Master of Music take an online theory examination after prescreening decisions are released in late December; The online theory exam is due February 1; Within the application system, applicants record a one-minute video introduction with full name, area of study, degree sought, and a career-goal response.",
+            "value": "Prescreening: Piano requires a prescreening video. CIM strongly urges applicants to submit applications well before the December 1 deadline. Recording specifications: each piece of repertoire must be unedited and recorded separately; media files should be no larger than 5GB; use a single fixed-focus camera with no zooming that displays a full-body view of the performer and instrument; recordings must be uploaded into CIM's online application system, and CIM asks applicants not to mail CDs or DVDs. Video introduction: all applicants record a one-minute video inside the application with full name, area of study, degree sought, and a response about what a successful music career would look like. Admission exam: Master of Music applicants take the online theory examination after prescreening decisions are released in late December; the theory exam is due February 1. Live audition dates: CIM lists February 8, February 15, February 22, and March 1, 2026 as in-person audition dates. Area-specific schedule note: the Live Auditions page says specific Fall 2026 Piano audition dates will be announced soon.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM Apply",
                 "url": "https://www.cim.edu/admissions/apply"
+              },
+              {
+                "label": "CIM Prescreening",
+                "url": "https://www.cim.edu/admissions/apply/prescreening"
+              },
+              {
+                "label": "CIM Live Auditions",
+                "url": "https://www.cim.edu/admissions/audition/live"
               },
               {
                 "label": "CIM Audition Repertoire",
@@ -1758,9 +1774,9 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening requirements: Must be played from memory; Prescreening repertoire: A J.S. Bach work featuring a fugue, such as Well-Tempered Clavier Preludes and Fugues, Toccatas, Chromatic Fantasy and Fugue, etc.; Prescreening repertoire: Two contrasting movements from a Classical Sonata by Haydn, Mozart, Beethoven or Schubert; Prescreening repertoire: One Chopin etude of virtuosity; Prescreening repertoire: A Romantic OR 20th century work of your choice; Final audition repertoire: Must be played from memory; Final audition repertoire: A J.S. Bach work featuring a fugue, such as Well-Tempered Clavier Preludes and Fugues, Toccatas, Chromatic Fantasy and Fugue, etc.; Final audition repertoire: Complete classical sonata by Haydn, Mozart, Beethoven or Schubert; Final audition repertoire: One substantial romantic work from the 19th century; Final audition repertoire: One work from the 20th or 21st century; Final audition repertoire: One Chopin etude of virtuosity.",
+            "value": "Prescreening repertoire: Must be played from memory. Prescreening repertoire: A J.S. Bach work featuring a fugue, such as Well-Tempered Clavier Preludes and Fugues, Toccatas, Chromatic Fantasy and Fugue, etc. Prescreening repertoire: Two contrasting movements from a Classical Sonata by Haydn, Mozart, Beethoven or Schubert. Prescreening repertoire: One Chopin etude of virtuosity. Prescreening repertoire: A Romantic OR 20th century work of your choice. Final audition repertoire: Must be played from memory. Final audition repertoire: A J.S. Bach work featuring a fugue, such as Well-Tempered Clavier Preludes and Fugues, Toccatas, Chromatic Fantasy and Fugue, etc. Final audition repertoire: Complete classical sonata by Haydn, Mozart, Beethoven or Schubert. Final audition repertoire: One substantial romantic work from the 19th century. Final audition repertoire: One work from the 20th or 21st century. Final audition repertoire: One Chopin etude of virtuosity. Additional repertoire notes: CIM encourages applicants to expand beyond the traditional canon where requirements allow flexible repertoire choices and points applicants to its underrepresented-composer resource database.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM Audition Repertoire",
@@ -1769,44 +1785,68 @@
             ]
           },
           "deadlines": {
-            "value": "September 1, 2025: Application opens; December 1, 2025: Application and prescreening video deadline; January 15: Recommendation letters and transcripts due; February 1: Online theory exam due; February 8, 15, 22 and March 1, 2026: In-person auditions; Late March 2026: Admission decisions and scholarship awards announced; April 15, 2026: Graduate decision deadline; October 1: Spring-entry deadline.",
+            "value": "Application opens: September 1, 2025. Application and prescreening video deadline: December 1, 2025. Application fee increase: 12:00am on December 2. Recommendation letters and transcripts due: January 15. Online theory examination due: February 1. In-person audition dates: February 8, February 15, February 22, and March 1, 2026. Admission decisions and scholarship awards: late March 2026. Graduate decision deadline: April 15, 2026. Spring entry deadline: October 1. Prescreening decisions: late December, after faculty review prescreening videos.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM Apply",
                 "url": "https://www.cim.edu/admissions/apply"
+              },
+              {
+                "label": "CIM Audition",
+                "url": "https://www.cim.edu/admissions/audition"
+              },
+              {
+                "label": "CIM Live Auditions",
+                "url": "https://www.cim.edu/admissions/audition/live"
+              },
+              {
+                "label": "CIM Prescreening",
+                "url": "https://www.cim.edu/admissions/apply/prescreening"
               }
             ]
           },
           "englishScores": {
-            "value": "Applicants from countries where English is not an official language must submit accepted English proficiency scores in the application by December 1. Scores must come from one single test, and TOEFL MyBest scores are not accepted. Bachelor/Master/Professional Studies minimums required to schedule an audition by December 1: TOEFL iBT 61, TOEFL Essentials 6.5, IELTS 6, PTE Academic 44, or Duolingo 100. Bachelor/Master/Professional Studies minimums required to be considered for unconditional acceptance by March 1: TOEFL iBT 79, TOEFL Essentials 9, IELTS 6.5, or PTE Academic 53. Duolingo scores submitted for audition scheduling must be accompanied by an official TOEFL, IELTS, or PTE Academic score by March 1. Bachelor and Master of Music applicants accepted with TOEFL iBT 61-78 or IELTS 6 must enroll in CIM's English Language Training Program.",
+            "value": "Minimum scores: Scores required to schedule an audition by December 1 for Master of Music: TOEFL iBT 61; TOEFL Essentials 6.5; IELTS 6; PTE Academic 44; Duolingo 100. Minimum scores: Scores required to be considered for unconditional acceptance by March 1 for Master of Music: TOEFL iBT 79; TOEFL Essentials 9; IELTS 6.5; PTE Academic 53. Timing: applicants from countries where English is not an official language must submit English language test scores in the application by December 1; no audition will be scheduled without the required English proficiency exam; Duolingo scores submitted for audition scheduling must be accompanied by an official TOEFL, IELTS, or PTE Academic score by March 1. Validity: exams taken more than two years before the application period are not accepted. Exemptions: TOEFL/IELTS waivers are not guaranteed, but applicants with three or more consecutive years in an English-speaking institution are eligible to apply; waiver review occurs case by case after a complete application is submitted, and applicants should submit the request and application before December 1. Notes: minimum scores must come from one single test; CIM does not accept TOEFL MyBest scores; CIM may require additional language training if scores do not reflect actual English proficiency or if English skills are assessed as insufficient; Bachelor and Master of Music applicants accepted with TOEFL iBT 61-78 or IELTS 6 must enroll in CIM's English Language Training Program.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM International Applicants",
                 "url": "https://www.cim.edu/admissions/apply/international"
+              },
+              {
+                "label": "CIM English Score Chart",
+                "url": "https://www.cim.edu/sites/default/files/inline-images/Audition%20Scores%20-%20for%20Web_0.png"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply through CIM's online application portal.",
+            "value": "Step 1: apply through CIM's online application portal for Master of Music in Collaborative Piano. Step 2: because prescreening recording is optional for MM Collaborative Piano, upload a recording only if desired; optional recordings should consist of selections from the audition repertoire. Step 3: upload all required application materials, including performance resume, 250-500 word essay, one-minute video introduction recorded inside the application system, transcripts, and recommendation information. Step 4: complete the online theory examination after prescreening decisions are released in late December; Master of Music applicants are among the applicants required to take the online theory exam. Graduate transcript note: Master of Music applicants submit the bachelor's degree transcript. Recommendation note: all conservatory applications require two confidential recommendation letters from qualified people unrelated to the applicant; recommendation letters are due January 15.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM Apply",
                 "url": "https://www.cim.edu/admissions/apply"
+              },
+              {
+                "label": "CIM Prescreening",
+                "url": "https://www.cim.edu/admissions/apply/prescreening"
+              },
+              {
+                "label": "CIM Collaborative Piano",
+                "url": "https://www.cim.edu/academic-programs/collaborative-piano"
               }
             ]
           },
           "applicationFee": {
-            "value": "Application fee: $125 nonrefundable; Fee increases to $175 at 12:00am on December 2.",
+            "value": "Application fee: $125 nonrefundable, submitted online with the application. Late fee timing: the application fee increases to $175 at 12:00am on December 2. Fee waiver note: CIM's published application-fee waiver language on the audited page is for eligible first-time freshman and undergraduate transfer applicants; the page does not publish a graduate application fee waiver route.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM Apply",
@@ -1815,10 +1855,18 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano prescreening recording is not required for Master of Music applicants; Optional uploaded recording should consist of selections from the audition repertoire; A singer will be provided for live auditions in Cleveland; One of the three art-song selections should be prepared both to be played and sung; This singing is not a vocal-talent test but checks coaching-related multitasking, diction, and textual expression; Applicants record a one-minute video introduction within the application system.",
+            "value": "Prescreening: Collaborative Piano is listed under optional recordings; a prescreening recording is not required for MM Collaborative Piano, except that all DMA and Artist Diploma applicants must submit prescreening videos. Optional recording: if the applicant uploads a video recording, it should consist of selections from the audition repertoire. In-person requirement: CIM's Audition page says all applicants in Collaborative Piano require an in-person audition in Cleveland. Live audition dates: CIM lists February 8, February 15, February 22, and March 1, 2026 as in-person audition dates; the Live Auditions page says specific Fall 2026 Collaborative Piano audition dates will be announced soon. Audition logistics: a singer will be provided for live auditions in Cleveland; one of the three art songs should be prepared both to be played and sung, and CIM states this is not a vocal-talent test but a check of coaching-related multitasking, diction, and textual expression. Admission exam: Master of Music applicants take the online theory examination after prescreening decisions are released in late December; the theory exam is due February 1. Video introduction: all applicants record a one-minute video inside the application with full name, area of study, degree sought, and a response about what a successful music career would look like.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
+              {
+                "label": "CIM Audition",
+                "url": "https://www.cim.edu/admissions/audition"
+              },
+              {
+                "label": "CIM Live Auditions",
+                "url": "https://www.cim.edu/admissions/audition/live"
+              },
               {
                 "label": "CIM Prescreening",
                 "url": "https://www.cim.edu/admissions/apply/prescreening"
@@ -1826,39 +1874,63 @@
               {
                 "label": "CIM Audition Repertoire",
                 "url": "https://www.cim.edu/admissions/audition/repertoire"
-              }
-            ]
-          },
-          "repertoireRequirements": {
-            "value": "Final audition repertoire: Perform one solo piece of your choosing; Final audition repertoire: Choose one sonata from Beethoven Sonata #5, Violin and Piano, Opus 24, Beethoven Sonata #7, Violin and Piano, Opus 30 #2, Beethoven Sonata #3, Cello and Piano, Opus 69, Brahms Sonata for Violin and Piano #2 Opus 100 in A major, Brahms Sonata for Violin and Piano #3 Opus 108 in D minor, Brahms Sonata for Cello and Piano #1 Opus 38 in E minor, Brahms Sonata for Cello and Piano #2 Opus 99 in F major, Debussy Sonata for Violin and Piano, Debussy Sonata for Cello and Piano, Franck Sonata in A major, or Faure Sonata in A major Opus 13; Final audition repertoire: Choose one concerto reduction from Tchaikovsky Violin Concerto Opus 35 in D major, Sibelius Violin Concerto in D minor Opus 47, Mozart Violin Concerto #5 K. 219 in A major, Elgar Cello Concerto Opus 85, or Dvorak Cello Concerto Opus 104 in B minor; Final audition repertoire: Choose one from Kreisler Songs My Mother Taught Me, Tambourin Chinois Opus 3, or Marche miniature Viennoise; Final audition repertoire: Choose three contrasting art songs to be played in the high/soprano key; Final audition repertoire: German song options include Brahms Botschaft, Schubert An die Musik or Du bist die Ruh, Schumann Postlude of Frauenlieben und Leben or Dichterliebe, Strauss Standchen, Wolf Er ist's or Ich hab' in Penna; Final audition repertoire: French song options include Chausson Le colibri or Les papillons, Debussy Ariettes oubliees: C'est l'extase or Il pleure dans mon coeur, Duparc Chanson triste, Faure En sourdine, Poulenc Fiancailles pour rire: Violon or Il vole; Final audition repertoire: English song options include Barber Hermit Songs: St. Ita's Vision, The Monk and His Cat, or The Desire for Hermitage, Bridge Love Went A-Riding, Copland Twelve Poems of Emily Dickinson: Nature, the gentlest mother, Heart, we will forget him, or Going to Heaven!; Final audition repertoire: Choose one aria from Mozart Countess's Recitative/Aria E Susanna...Dove Sono from The Marriage of Figaro or Puccini Musetta's Waltz Quando m'en vo from La Boheme.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "CIM Audition Repertoire",
-                "url": "https://www.cim.edu/admissions/audition/repertoire"
-              }
-            ]
-          },
-          "deadlines": {
-            "value": "September 1, 2025: Application opens; December 1, 2025: Application and prescreening video deadline; January 15: Recommendation letters and transcripts due; February 1: Online theory exam due; February 8, 15, 22 and March 1, 2026: In-person auditions; Late March 2026: Admission decisions and scholarship awards announced; April 15, 2026: Graduate decision deadline; October 1: Spring-entry deadline.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
+              },
               {
                 "label": "CIM Apply",
                 "url": "https://www.cim.edu/admissions/apply"
               }
             ]
           },
-          "englishScores": {
-            "value": "Applicants from countries where English is not an official language must submit accepted English proficiency scores in the application by December 1. Scores must come from one single test, and TOEFL MyBest scores are not accepted. Bachelor/Master/Professional Studies minimums required to schedule an audition by December 1: TOEFL iBT 61, TOEFL Essentials 6.5, IELTS 6, PTE Academic 44, or Duolingo 100. Bachelor/Master/Professional Studies minimums required to be considered for unconditional acceptance by March 1: TOEFL iBT 79, TOEFL Essentials 9, IELTS 6.5, or PTE Academic 53. Duolingo scores submitted for audition scheduling must be accompanied by an official TOEFL, IELTS, or PTE Academic score by March 1. Bachelor and Master of Music applicants accepted with TOEFL iBT 61-78 or IELTS 6 must enroll in CIM's English Language Training Program.",
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No prescreening recording is required for MM Collaborative Piano; if a recording is uploaded, it should consist of selections from the audition repertoire. Final audition repertoire: Perform one solo piece of your choosing. Final audition repertoire: Choose one sonata from the following: Beethoven Sonata #5, Violin and Piano, Opus 24; Beethoven Sonata #7, Violin and Piano, Opus 30, #2; Beethoven Sonata #3, Cello and Piano, Opus 69; Brahms Sonata for Violin and Piano #2, Opus 100 in A major; Brahms Sonata for Violin and Piano #3, Opus 108 in D minor; Brahms Sonata for Cello and Piano #1, Opus 38 in E minor; Brahms Sonata for Cello and Piano #2, Opus 99 in F major; Debussy Sonata for Violin and Piano; Debussy Sonata for Cello and Piano; Franck Sonata in A major; Faure Sonata in A major, Opus 13. Final audition repertoire: Choose one concerto reduction from the following: Tchaikovsky Violin Concerto, Opus 35 in D major; Sibelius Violin Concerto in D minor, Opus 47; Mozart Violin Concerto #5, K. 219 in A major; Elgar Cello Concerto, Opus 85; Dvorak Cello Concerto, Opus 104 in B minor. Final audition repertoire: Choose one from the following three pieces: Kreisler, Songs My Mother Taught Me; Tambourin Chinois, Opus 3; Marche miniature Viennoise. Final audition repertoire: Choose three contrasting art songs to be played in the high/soprano key; German options include Brahms, Botschaft; Schubert, An die Musik or Du bist die Ruh; Schumann, Postlude of Frauenlieben und Leben or Dichterliebe; Strauss, Standchen; Wolf, Er ist's or Ich hab' in Penna. Final audition repertoire: French art-song options include Chausson, Le colibri or Les papillons; Debussy, Ariettes oubliees: C'est l'extase or Il pleure dans mon coeur; Duparc, Chanson triste; Faure, En sourdine; Poulenc, Fiancailles pour rire: Violon or Il vole. Final audition repertoire: English art-song options include Barber, Hermit Songs: St. Ita's Vision, The Monk and His Cat, or The Desire for Hermitage; Bridge, Love Went A-Riding; Copland, Twelve Poems of Emily Dickinson: Nature, the gentlest mother, Heart, we will forget him, or Going to Heaven! Final audition repertoire: Choose one aria from Mozart, Countess's Recitative/Aria, E Susanna...Dove Sono from The Marriage of Figaro, or Puccini, Musetta's Waltz, Quando m'en vo from La Boheme. Additional repertoire notes: A singer will be provided for live auditions in Cleveland; one of the three art-song selections should be prepared both to be played and sung.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CIM Audition Repertoire",
+                "url": "https://www.cim.edu/admissions/audition/repertoire"
+              },
+              {
+                "label": "CIM Prescreening",
+                "url": "https://www.cim.edu/admissions/apply/prescreening"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: September 1, 2025. Application and prescreening video deadline: December 1, 2025; for MM Collaborative Piano, prescreening recording is optional, but the application deadline remains December 1. Application fee increase: 12:00am on December 2. Recommendation letters and transcripts due: January 15. Online theory examination due: February 1. In-person audition dates: February 8, February 15, February 22, and March 1, 2026. Admission decisions and scholarship awards: late March 2026. Graduate decision deadline: April 15, 2026. Spring entry deadline: October 1. Area-specific schedule note: the Live Auditions page says specific Fall 2026 Collaborative Piano audition dates will be announced soon, while the main application/audition pages list the general in-person audition dates.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "CIM Apply",
+                "url": "https://www.cim.edu/admissions/apply"
+              },
+              {
+                "label": "CIM Audition",
+                "url": "https://www.cim.edu/admissions/audition"
+              },
+              {
+                "label": "CIM Live Auditions",
+                "url": "https://www.cim.edu/admissions/audition/live"
+              },
+              {
+                "label": "CIM Prescreening",
+                "url": "https://www.cim.edu/admissions/apply/prescreening"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: Scores required to schedule an audition by December 1 for Master of Music: TOEFL iBT 61; TOEFL Essentials 6.5; IELTS 6; PTE Academic 44; Duolingo 100. Minimum scores: Scores required to be considered for unconditional acceptance by March 1 for Master of Music: TOEFL iBT 79; TOEFL Essentials 9; IELTS 6.5; PTE Academic 53. Timing: applicants from countries where English is not an official language must submit English language test scores in the application by December 1; no audition will be scheduled without the required English proficiency exam; Duolingo scores submitted for audition scheduling must be accompanied by an official TOEFL, IELTS, or PTE Academic score by March 1. Validity: exams taken more than two years before the application period are not accepted. Exemptions: TOEFL/IELTS waivers are not guaranteed, but applicants with three or more consecutive years in an English-speaking institution are eligible to apply; waiver review occurs case by case after a complete application is submitted, and applicants should submit the request and application before December 1. Notes: minimum scores must come from one single test; CIM does not accept TOEFL MyBest scores; CIM may require additional language training if scores do not reflect actual English proficiency or if English skills are assessed as insufficient; Bachelor and Master of Music applicants accepted with TOEFL iBT 61-78 or IELTS 6 must enroll in CIM's English Language Training Program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "CIM International Applicants",
                 "url": "https://www.cim.edu/admissions/apply/international"
+              },
+              {
+                "label": "CIM English Score Chart",
+                "url": "https://www.cim.edu/sites/default/files/inline-images/Audition%20Scores%20-%20for%20Web_0.png"
               }
             ]
           }
