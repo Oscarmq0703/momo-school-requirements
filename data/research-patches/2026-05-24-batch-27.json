@@ -1,0 +1,220 @@
+{
+  "schools": [
+    {
+      "id": "eastman-school-of-music",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Eastman Graduate Admissions",
+          "url": "https://www.esm.rochester.edu/admissions/grad/"
+        },
+        {
+          "label": "Eastman Application Portal",
+          "url": "https://apply.esm.rochester.edu/"
+        },
+        {
+          "label": "Eastman Piano Audition Requirements",
+          "url": "https://www.esm.rochester.edu/portfolio/piano/"
+        },
+        {
+          "label": "Eastman Piano Accompanying Audition Requirements",
+          "url": "https://www.esm.rochester.edu/portfolio/accompanying/"
+        },
+        {
+          "label": "Eastman Accompanying Audition Repertoire List",
+          "url": "https://www.esm.rochester.edu/uploads/Accompanying-Audition-Rep-List-2025.pdf"
+        },
+        {
+          "label": "Eastman Piano Accompanying Program",
+          "url": "https://www.esm.rochester.edu/piano/accompanying/"
+        },
+        {
+          "label": "Eastman International Applicants",
+          "url": "https://www.esm.rochester.edu/admissions/international/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through Eastman's separate online application portal. These instructions apply to programs beginning in Spring, Summer, or Fall 2026. Master of Music required materials include application and application fee; prescreen recording and audition according to the audition repertoire page; a repertoire list uploaded in the application showing significant repertoire studied in the last 5 years; personal statement and resume uploaded online; three recommendations; transcripts representing all collegiate study; and online interview or faculty interaction for most programs. Eastman states that applicants are responsible for complete applications and incomplete applications cannot be processed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              },
+              {
+                "label": "Eastman Application Portal",
+                "url": "https://apply.esm.rochester.edu/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $100 for Spring applicants and $100 for Fall/Summer applicants. The application fee is non-refundable and payable by credit card at the end of the online application; applications are not processed without the fee. Fee waiver/discount notes: veterans of the U.S. military or active-duty applicants are eligible for an automatic waiver when they identify that status in the online application; a discount is automatically applied for current and former students of Eastman, the University of Rochester, or the Eastman Community Music School. Eastman application fee is separate from any application fee paid to another University of Rochester school.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: MM Performance & Literature applicants in piano must upload a preliminary audition recording by December 1. Remote audition option: any undergraduate or graduate applicant who wants to audition virtually should upload the prescreening requirements within the application by December 1; if approved, the applicant submits the final audition recording by February 1. Rochester audition dates: Graduate Piano auditions are on Saturdays February 14, February 21, and February 28, 2026. Recording rules from the graduate admissions page: recordings must be video, audio-only files are not acceptable; accepted file formats include .avi, .flv, .m1v, .m2v, .m4v, .mkv, .mov, .mpeg, .mpg, .mp4, and .wmv; files can be uploaded in the Portfolio section of the application and, after submission, at the bottom of the Applicant Status page until the recording deadline; recordings should not be sent to faculty; recordings must follow repertoire requirements and should have been recorded within the past twelve months; each piece, excerpt, or movement should be recorded as a separate video file unless the repertoire page states otherwise.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              },
+              {
+                "label": "Eastman Piano Audition Requirements",
+                "url": "https://www.esm.rochester.edu/portfolio/piano/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: MM and DMA Performance & Literature applicants must upload a preliminary audition recording by December 1. Prescreening repertoire: The prescreening recording must be a minimum of 30 minutes in duration of solo music. Prescreening repertoire: Repertoire must include at least two complete works representing different styles, plus one virtuoso etude by Chopin, Liszt, Rachmaninoff, Scriabin, Debussy, Prokofiev, Stravinsky, Bartok, or Ligeti. Prescreening repertoire: Etudes in slow tempos such as Chopin Op. 10 No. 3, Op. 10 No. 6, Op. 25 No. 7, or Rachmaninoff Op. 39 No. 2 are not acceptable. Prescreening repertoire: Applicants may record each movement of multi-movement works on a separate, unedited track. Final audition repertoire: MM and DMA applicants must prepare an audition program, minimum 60 minutes, to be performed from memory. Final audition repertoire: One virtuoso concert etude by Chopin, Liszt, Rachmaninoff, Scriabin, Debussy, Prokofiev, Stravinsky, Bartok, or Ligeti; etudes in slow tempos such as Chopin Op. 10 No. 3, Op. 10 No. 6, Op. 25 No. 7, or Rachmaninoff Op. 39 No. 2 are not acceptable. Final audition repertoire: At least three complete works representing different styles. Additional repertoire notes: Eastman encourages applicants, when choosing audition repertoire, to explore works of underrepresented composers who reflect different racial, gender, ethnic, and cultural traditions. Additional repertoire notes: Complete works policy: all sonatas, variations, suites, and other individual works written with multiple movements must be prepared in their entirety; sets of pieces intended to be performed together must be prepared in their entirety; selections from sets not necessarily intended to be performed together are acceptable but must total at least eight minutes in length.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Piano Audition Requirements",
+                "url": "https://www.esm.rochester.edu/portfolio/piano/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: September 1. Spring enrollment application deadline: October 1. Fall and Summer final application deadline: December 1. Piano Performance & Literature prescreening deadline: December 1. Remote final audition recording deadline, if prescreening is approved: February 1. Graduate Piano Rochester audition dates: February 14, February 21, and February 28, 2026. Auditions/interviews: January-February. Graduate admission decisions are normally sent between March 15 and April 1. Graduate response deadline: April 15.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              },
+              {
+                "label": "Eastman Piano Audition Requirements",
+                "url": "https://www.esm.rochester.edu/portfolio/piano/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Timing: all international applicants whose native language is not English must submit English proficiency materials by December 1, in addition to all other general admissions requirements. Minimum scores for Master's degree applicants: TOEFL iBT taken after January 21, 2026: 4.5. Minimum scores for Master's degree applicants: TOEFL iBT taken before January 21, 2026: 88 iBT. Minimum scores for Master's degree applicants: Duolingo English Test 120. Minimum scores for Master's degree applicants: IELTS 6.5. Minimum scores for Master's degree applicants: Cambridge English B2 First, C1 Advanced, or C2 Proficiency 176. Validity: English test scores should be no more than two years old and must be sent directly to Eastman by the test agency. Notes: TOEFL Home Edition is accepted; Eastman's TOEFL school code is 2224; the score chart is a minimum-score guideline and not a direct comparison across exams. Exemptions: non-native speakers who moved permanently to a country where the primary language is English before starting high school and have lived there continuously since are exempt from the test-score requirement, but must still upload the Non-Native English Essay and transcripts; graduate applicants in this situation must also submit high school transcripts. Additional requirement: all applicants whose native language is not English must submit a one-page Non-Native English Essay in the Eastman application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman International Applicants",
+                "url": "https://www.esm.rochester.edu/admissions/international/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through Eastman's separate online application portal. Eastman's official degree/program naming for this collaborative-piano track is Piano Accompanying and Chamber Music; the program page lists a Master of Music with a major in Piano Accompanying and Chamber Music. Master of Music required materials include application and application fee; prescreen recording and audition according to the audition repertoire page; a repertoire list uploaded in the application showing significant repertoire studied in the last 5 years; personal statement and resume uploaded online; three recommendations; transcripts representing all collegiate study; and online interview or faculty interaction for most programs. For Piano Accompanying specifically, all applicants must submit their repertoire selections within the online application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              },
+              {
+                "label": "Eastman Application Portal",
+                "url": "https://apply.esm.rochester.edu/"
+              },
+              {
+                "label": "Eastman Piano Accompanying Program",
+                "url": "https://www.esm.rochester.edu/piano/accompanying/"
+              },
+              {
+                "label": "Eastman Piano Accompanying Audition Requirements",
+                "url": "https://www.esm.rochester.edu/portfolio/accompanying/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $100 for Spring applicants and $100 for Fall/Summer applicants. The application fee is non-refundable and payable by credit card at the end of the online application; applications are not processed without the fee. Fee waiver/discount notes: veterans of the U.S. military or active-duty applicants are eligible for an automatic waiver when they identify that status in the online application; a discount is automatically applied for current and former students of Eastman, the University of Rochester, or the Eastman Community Music School. Eastman application fee is separate from any application fee paid to another University of Rochester school.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: there is no prescreening recording required for Piano Accompanying. Audition format: applicants may choose to audition either on campus or remotely by video upload; the required repertoire is the same for both audition types. On-campus auditions: 2026 on-campus audition dates are Saturdays February 14, February 21, and February 28. Partner/sight-reading note: Eastman says every effort will be made to find partners for on-campus auditions; applicants will be required to sight-read with and/or without a provided partner. Remote audition option: applicants who choose video recording should submit all other application materials by December 1 and upload audition videos by February 1. Remote applicants will be notified no later than March 1, 2026 if invited to a final-round Zoom interview. Recording rules from the graduate admissions page: recordings must be video, audio-only files are not acceptable; files can be uploaded in the Portfolio section of the application and should follow repertoire requirements; each piece, excerpt, or movement should be recorded as a separate video file unless otherwise specified.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              },
+              {
+                "label": "Eastman Piano Accompanying Audition Requirements",
+                "url": "https://www.esm.rochester.edu/portfolio/accompanying/"
+              },
+              {
+                "label": "Eastman Accompanying Audition Repertoire List",
+                "url": "https://www.esm.rochester.edu/uploads/Accompanying-Audition-Rep-List-2025.pdf"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No prescreening recording is required for Piano Accompanying. Final audition repertoire: MM and DMA audition requirements comprise two complete, contrasting instrumental works selected from the Accompanying Audition Repertoire List Group A; four songs selected from Groups B and C; one aria selected from Group D; one concerto reduction selected from Group E; and either play and sing one art song or aria of the candidate's choice or present a short solo piano work. Final audition repertoire: Group A - Instrumental Sonatas: choose two complete sonatas by two different composers: Beethoven Cello Sonata in A major, Op. 69; Beethoven Cello Sonata in C major, Op. 102 No. 1; Beethoven Violin Sonata in F major, Op. 24 Spring; Beethoven Violin Sonata in c minor, Op. 30 No. 2; Brahms Cello Sonata in e minor, Op. 38; Brahms Cello Sonata in F major, Op. 99; Brahms Clarinet Sonata in f minor, Op. 120 No. 1; Brahms Clarinet Sonata in E-flat major, Op. 120 No. 2; Brahms Viola Sonata in f minor, Op. 120 No. 1; Brahms Viola Sonata in E-flat major, Op. 120 No. 2; Brahms Violin Sonata in G major, Op. 78; Brahms Violin Sonata in A major, Op. 100; Brahms Violin Sonata in d minor, Op. 108; Chopin Cello Sonata in G minor, Op. 65; Fauré Violin Sonata in A major, Op. 13; Franck Violin Sonata in A major; Hindemith Viola Sonata in F major, Op. 11 No. 4; Prokofiev Flute Sonata in D major, Op. 94; Prokofiev Violin Sonata in D major, Op. 94a; Rachmaninoff Cello Sonata in g minor, Op. 19. Final audition repertoire: Group B - German Lieder: choose two German Lieder by two different composers: Brahms Meine Liebe ist grün (F-sharp); Schubert Liebesbotschaft (G); Schubert Suleika I (b); Schubert Suleika II (Bb); Strauss Cäcilie (E); Strauss Ständchen (F-sharp); Wolf Ich hab' in Penna (F). Final audition repertoire: Group C - French mélodies: choose two French mélodies by two different composers: Debussy Apparition from Quatre chansons de jeunesse; Debussy Il pleure dans mon coeur from Ariettes oubliées (g-sharp); Debussy Green from Ariettes oubliées (G-flat); Duparc Chanson triste (E-flat); Fauré En sourdine (F-sharp); Poulenc Il vole from Fiançailles pour rire (E-flat). Final audition repertoire: Group D - Mozart Aria: choose one Mozart aria: Così fan tutte, Ah scostati! ... Smanie implacabili; Così fan tutte, Temerari ... Come scoglio; Der Schauspieldirektor, Bester Jüngling. Final audition repertoire: Group E - Concerto Reduction: choose one set of excerpts: Dvořák Cello Concerto in B minor, Op. 104, 1st movement mm. 1-86; Tchaikovsky Violin Concerto in D major, Op. 35, 1st movement mm. 1-23, 127-160, and 188-211. Final audition repertoire: Group F: choose one: play and sing either one art song or one aria of your choice in any language; or a short solo piano work of your choice. Additional repertoire notes: Applicants will be required to sight-read with and/or without a provided partner. Additional repertoire notes: All applicants must submit their repertoire selections within the online application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Piano Accompanying Audition Requirements",
+                "url": "https://www.esm.rochester.edu/portfolio/accompanying/"
+              },
+              {
+                "label": "Eastman Accompanying Audition Repertoire List",
+                "url": "https://www.esm.rochester.edu/uploads/Accompanying-Audition-Rep-List-2025.pdf"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: September 1. Spring enrollment application deadline: October 1. Fall and Summer final application deadline: December 1. Piano Accompanying prescreening: no prescreening recording is required. Remote applicants submit all other application materials by December 1 and upload audition videos by February 1. Piano Accompanying on-campus audition dates: February 14, February 21, and February 28, 2026. Remote final-round Zoom interview notification: no later than March 1, 2026. Graduate admission decisions are normally sent between March 15 and April 1. Graduate response deadline: April 15.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman Graduate Admissions",
+                "url": "https://www.esm.rochester.edu/admissions/grad/"
+              },
+              {
+                "label": "Eastman Piano Accompanying Audition Requirements",
+                "url": "https://www.esm.rochester.edu/portfolio/accompanying/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Timing: all international applicants whose native language is not English must submit English proficiency materials by December 1, in addition to all other general admissions requirements. Minimum scores for Master's degree applicants: TOEFL iBT taken after January 21, 2026: 4.5. Minimum scores for Master's degree applicants: TOEFL iBT taken before January 21, 2026: 88 iBT. Minimum scores for Master's degree applicants: Duolingo English Test 120. Minimum scores for Master's degree applicants: IELTS 6.5. Minimum scores for Master's degree applicants: Cambridge English B2 First, C1 Advanced, or C2 Proficiency 176. Validity: English test scores should be no more than two years old and must be sent directly to Eastman by the test agency. Notes: TOEFL Home Edition is accepted; Eastman's TOEFL school code is 2224; the score chart is a minimum-score guideline and not a direct comparison across exams. Exemptions: non-native speakers who moved permanently to a country where the primary language is English before starting high school and have lived there continuously since are exempt from the test-score requirement, but must still upload the Non-Native English Essay and transcripts; graduate applicants in this situation must also submit high school transcripts. Additional requirement: all applicants whose native language is not English must submit a one-page Non-Native English Essay in the Eastman application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Eastman International Applicants",
+                "url": "https://www.esm.rochester.edu/admissions/international/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
