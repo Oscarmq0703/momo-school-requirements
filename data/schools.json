@@ -1206,16 +1206,28 @@
       ],
       "officialSources": [
         {
-          "label": "CSUN Music MM",
-          "url": "https://www.csun.edu/academics/majors-and-programs/music-mm"
+          "label": "CSUN Graduate Admissions",
+          "url": "https://www.csun.edu/prospective-students/graduate/masters"
         },
         {
-          "label": "CSUN MM Piano",
-          "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-piano"
+          "label": "CSUN Music Prospective Students",
+          "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
         },
         {
-          "label": "CSUN MM Collaborative Piano",
-          "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-collaborative-piano"
+          "label": "CSUN MM Piano Performance",
+          "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-piano"
+        },
+        {
+          "label": "CSUN Collaborative Piano Audition Requirements",
+          "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/prospective-students/audition-placement/collaborative"
+        },
+        {
+          "label": "CSUN Music MM Performance Catalog",
+          "url": "https://catalog.csun.edu/academics/mus/programs/mm-music-iii/performance/"
+        },
+        {
+          "label": "CSUN Music MM Collaborative Piano Catalog",
+          "url": "https://catalog.csun.edu/academics/mus/programs/mm-music-iv/collaborative-piano-performance/"
         },
         {
           "label": "CSUN International Graduate Students",
@@ -1229,25 +1241,33 @@
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through Cal State Apply and complete the Department of Music graduate/audition process; CSUN states master's applicants typically apply both to the university and to the academic department.",
+            "value": "Step 1: apply through Cal State Apply to CSU Northridge. CSUN Graduate Admissions says two applications are often required for graduate programs: one to the university and one to the individual graduate program. Step 2: after completing the CSU application, the Music Department emails the Music Department Audition link; applicants should check their new CSUN email and spam folder and must have a CSUN ID before starting the music application, because Music says applications without CSUN credentials will not be reviewed. Step 3: complete the Music Department audition application, selecting the program option and instrument; upload video materials if electing a video audition and any supplemental items. Step 4: Piano Performance applicants also submit a comprehensive solo repertoire list and a brief statement discussing background and goals. Graduate admission note: CSUN first checks university eligibility, then the graduate department reviews the application according to program criteria.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "CSUN Apply Graduate Student",
-                "url": "https://www.csun.edu/admissions-records/apply-graduate-student"
+                "label": "CSUN Graduate Admissions",
+                "url": "https://www.csun.edu/prospective-students/graduate/masters"
               },
               {
-                "label": "CSUN Music MM",
-                "url": "https://www.csun.edu/academics/majors-and-programs/music-mm"
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
+              },
+              {
+                "label": "CSUN MM Piano Performance",
+                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-piano"
               }
             ]
           },
           "applicationFee": {
-            "value": "Cal State Apply fee: $70 per campus per admission term.",
+            "value": "Cal State Apply application fee: $70 per campus per admission term. CSUN graduate admissions notes that applicants may apply to many campuses, each with a $70 application fee, but can apply to only one program per campus per admission term. CSUN states no refund is available if the applicant chooses two programs or submits two applications for the same term, so applicants should choose the program carefully. International graduate applicants also need a credit or debit card for the $70 application fee at submission.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
+              {
+                "label": "CSUN Graduate Admissions",
+                "url": "https://www.csun.edu/prospective-students/graduate/masters"
+              },
               {
                 "label": "CSUN International Graduate Students",
                 "url": "https://www.csun.edu/prospective-students/international-student-international-graduate"
@@ -1255,42 +1275,66 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Piano Performance applicants must audition; Students unable to be present for the live incoming graduate audition may submit a DVD of their performance in lieu of a live audition; Applicants provide recital programs and repertoire lists to audition personnel.",
+            "value": "Audition required: all prospective music students must audition. Music Department process: after Cal State Apply, applicants receive the Music Department Audition Site link; in-person applicants choose an audition day/time there, and video-audition applicants upload videos there. Video audition rule: CSUN Music says video auditions are accepted in all areas except Jazz. Prescreening rule: the Music prospective page says only Jazz programs require a pre-screen video; Piano Performance is not listed as requiring a separate prescreen. Piano Performance entrance items: potential graduate students should have completed an undergraduate degree in music or equivalent; applicants submit a comprehensive repertoire list of solo music performed and a brief statement discussing background and goals. Live/recorded option: students unable to be present for live incoming graduate auditions may submit a DVD of their performance in lieu of a live audition. Interview/placement: older CSUN Piano wording and current catalog requirements indicate an entrance audition and graduate placement tests in theory/analysis and music history; accepted students receive a musicianship/theory test and keyboard experience questionnaire for course placement.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "CSUN MM Piano",
-                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-piano"
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
+              },
+              {
+                "label": "CSUN MM Piano Performance",
+                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-piano"
+              },
+              {
+                "label": "CSUN Music MM Performance Catalog",
+                "url": "https://catalog.csun.edu/academics/mus/programs/mm-music-iii/performance/"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: One Baroque work comparable to a Bach Toccata, Suite or Partita; Final audition repertoire: One complete Classical sonata; Final audition repertoire: One major Romantic, Post-Romantic, or Twentieth Century work; Final audition repertoire: One virtuoso etude.",
+            "value": "Prescreening repertoire: No separate prescreening repertoire is published for Piano Performance on the official CSUN pages checked during this audit; the Music prospective page says only Jazz programs require a pre-screen video. Final audition repertoire: One Baroque work, comparable to a Bach Prelude and Fugue, Toccata, Suite or Partita. Final audition repertoire: One complete classical sonata. Final audition repertoire: One major Romantic/Post-Romantic or Twentieth Century work. Final audition repertoire: One virtuoso etude.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "CSUN MM Piano",
-                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-piano"
+                "label": "CSUN MM Piano Performance",
+                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-piano"
+              },
+              {
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
               }
             ]
           },
           "deadlines": {
-            "value": "CSUN's official Dates & Deadlines page lists Music - All options under graduate program exceptions. Spring 2026 Music - All options deadline: October 15, 2025. Fall 2026 Music - All options deadline: January 31, 2026. Spring 2027 Music - All options deadline: October 15, 2026.",
+            "value": "Fall 2026 university application deadline for Music - All options: January 31, 2026. Fall 2026 Music Department application deadline: completed Music Application with video upload if elected and supplementary items due no later than 11:59 PM February 7, 2026. Fall 2026 in-person music audition dates: February 7, 2026; February 18, 2026 as printed on the official Music page with a Saturday label conflict; February 28, 2026. Spring 2027 Dates & Deadlines page: Music - All options Spring 2027 deadline October 15, 2026. Graduate timing note: CSUN Graduate Admissions says Fall graduate applications begin October 1 and Spring graduate applications begin July 1, but each master's program has its own application deadline and may require a separate program application; applicants should verify the program-specific closing date in Cal State Apply and with the Music Department. International general deadline note: CSUN International Graduate Students page lists general international graduate deadlines as Fall May 31 with documents June 15 and Spring October 31 with documents November 15, but it explicitly says the individual graduate program deadline may be earlier.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "CSUN Dates & Deadlines",
                 "url": "https://www.csun.edu/admissions-financial-aid/dates-deadlines"
+              },
+              {
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
+              },
+              {
+                "label": "CSUN Graduate Admissions",
+                "url": "https://www.csun.edu/prospective-students/graduate/masters"
+              },
+              {
+                "label": "CSUN International Graduate Students",
+                "url": "https://www.csun.edu/prospective-students/international-student-international-graduate"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate minimums listed by CSUN include TOEFL iBT 80, TOEFL paper 550, IELTS Academic 6.5, iTEP Academic 4.0, PTE Academic 58, and Duolingo 105; TOEFL ITP is not accepted; CSUN school code is 4707 for TOEFL.",
+            "value": "Minimum scores: Cambridge C1 Advanced: 180; Duolingo English Test: 105; EIKEN CSE: 2630; GTEC CBT: 1200; IELTS Academic: 6.5; iTEP Academic: 4.0; PTE Academic: 58; TOEFL iBT: 80; TOEFL paper-based: 550. Timing: English proficiency results are required for international graduate applicants unless an exemption applies, and results may be uploaded in Cal State Apply/program materials or sent by the testing agency according to CSUN instructions. Validity: the official CSUN International Graduate page checked during this audit does not state a test-score validity period. Exemptions: the TOEFL or other English language proficiency exam is not required if the applicant earned a bachelor's or master's degree from a college or university in the U.S.; it is also not required if the applicant earned a bachelor's or master's degree outside the U.S. where English is the principal language of instruction. Notes: CSUN does not accept TOEFL ITP; TOEFL scores should use CSUN school code 4707; CSUN interprets English as principal language of instruction as a school located in a country where English is the daily medium of communication for the majority of residents and where students receive academic instruction in English at all levels.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "CSUN International Graduate Students",
@@ -1301,21 +1345,33 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply through Cal State Apply and complete the Department of Music graduate/audition process for the MM Collaborative Piano option; Applicants must submit a resume detailing education, collaborative piano experience, and a collaborative repertoire list.",
+            "value": "Step 1: apply via Cal State Apply to CSU Northridge. Step 2: after submitting the CSU application, wait for the Music Department audition application link by email; CSUN Music says applicants should check CSUN email and spam and have a CSUN ID ready before beginning the Music Application. Step 3: complete the Music Department audition application for the Collaborative Piano option. Step 4: submit a resume detailing education, collaborative piano experience, and a collaborative repertoire list; the Collaborative Piano audition page says these items can be uploaded directly to the music audition application. Program prerequisite: undergraduate degree in classical piano performance or equivalent background. Graduate admission note: CSUN first checks university eligibility, then the graduate department reviews the application according to program criteria.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "CSUN MM Collaborative Piano",
-                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-collaborative-piano"
+                "label": "CSUN Graduate Admissions",
+                "url": "https://www.csun.edu/prospective-students/graduate/masters"
+              },
+              {
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
+              },
+              {
+                "label": "CSUN Collaborative Piano Audition Requirements",
+                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/prospective-students/audition-placement/collaborative"
               }
             ]
           },
           "applicationFee": {
-            "value": "Cal State Apply fee: $70 per campus per admission term.",
+            "value": "Cal State Apply application fee: $70 per campus per admission term. CSUN graduate admissions notes that applicants may apply to many campuses, each with a $70 application fee, but can apply to only one program per campus per admission term. CSUN states no refund is available if the applicant chooses two programs or submits two applications for the same term, so applicants should choose the program carefully. International graduate applicants also need a credit or debit card for the $70 application fee at submission.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
+              {
+                "label": "CSUN Graduate Admissions",
+                "url": "https://www.csun.edu/prospective-students/graduate/masters"
+              },
               {
                 "label": "CSUN International Graduate Students",
                 "url": "https://www.csun.edu/prospective-students/international-student-international-graduate"
@@ -1323,42 +1379,66 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano applicants must audition; Applicants will be asked to sight-read a musical selection; Applicants should bring a resume, collaborative experience, and repertoire list to the audition; The official page provides a link to apply for an arranged audition.",
+            "value": "Audition required: Collaborative Piano catalog requirements list an entrance audition, and the official audition page provides the audition program requirements. Music Department process: after Cal State Apply, applicants receive the Music Department Audition Site link; in-person applicants choose an audition day/time there, and video-audition applicants upload videos there. Video audition rule: CSUN Music says video auditions are accepted in all areas except Jazz. Prescreening rule: the Music prospective page says only Jazz programs require a pre-screen video, so Collaborative Piano does not have a separate published prescreening step on the official pages checked. Application materials: collaborative pianists must submit a resume detailing education, collaborative piano experience, and a collaborative repertoire list; all items can be uploaded directly onto the music audition application. Audition task: in addition to prepared repertoire, applicants will be asked to sight-read a musical selection. Advising: applicants with repertoire questions or who need to verify suitability of choices are directed to Dr. Tali Tadmor.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "CSUN MM Collaborative Piano",
-                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-collaborative-piano"
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
+              },
+              {
+                "label": "CSUN Collaborative Piano Audition Requirements",
+                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/prospective-students/audition-placement/collaborative"
+              },
+              {
+                "label": "CSUN Music MM Collaborative Piano Catalog",
+                "url": "https://catalog.csun.edu/academics/mus/programs/mm-music-iv/collaborative-piano-performance/"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: One solo piano piece of your choice, memorized; Final audition repertoire: Two movements from two different instrumental sonatas, contrasting in style, for example movements from Mozart and Franck violin sonatas, with at least one fast movement; Final audition repertoire: Two art songs representing two different languages; Final audition repertoire: One opera aria originally composed for voice and orchestra.",
+            "value": "Prescreening repertoire: No separate prescreening repertoire is published for Collaborative Piano on the official CSUN pages checked during this audit; the Music prospective page says only Jazz programs require a pre-screen video. Final audition repertoire: One solo piano piece of your choice, memorized. Final audition repertoire: Two movements from two different instrumental sonatas; they must contrast in style, for example movements from Mozart and Franck violin sonatas, and at least one movement should be a fast movement. Final audition repertoire: Two art songs representing two different languages. Final audition repertoire: One opera aria originally composed for voice and orchestra.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
-                "label": "CSUN MM Collaborative Piano",
-                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/programs/performance/master-music-degrees/mm-collaborative-piano"
+                "label": "CSUN Collaborative Piano Audition Requirements",
+                "url": "https://www.csun.edu/mike-curb-arts-media-communication/music/prospective-students/audition-placement/collaborative"
+              },
+              {
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
               }
             ]
           },
           "deadlines": {
-            "value": "CSUN's official Dates & Deadlines page lists Music - All options under graduate program exceptions. Spring 2026 Music - All options deadline: October 15, 2025. Fall 2026 Music - All options deadline: January 31, 2026. Spring 2027 Music - All options deadline: October 15, 2026.",
+            "value": "Fall 2026 university application deadline for Music - All options: January 31, 2026. Fall 2026 Music Department application deadline: completed Music Application with video upload if elected and supplementary items due no later than 11:59 PM February 7, 2026. Fall 2026 in-person music audition dates: February 7, 2026; February 18, 2026 as printed on the official Music page with a Saturday label conflict; February 28, 2026. Spring 2027 Dates & Deadlines page: Music - All options Spring 2027 deadline October 15, 2026. Graduate timing note: CSUN Graduate Admissions says Fall graduate applications begin October 1 and Spring graduate applications begin July 1, but each master's program has its own application deadline and may require a separate program application; applicants should verify the program-specific closing date in Cal State Apply and with the Music Department. International general deadline note: CSUN International Graduate Students page lists general international graduate deadlines as Fall May 31 with documents June 15 and Spring October 31 with documents November 15, but it explicitly says the individual graduate program deadline may be earlier.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "CSUN Dates & Deadlines",
                 "url": "https://www.csun.edu/admissions-financial-aid/dates-deadlines"
+              },
+              {
+                "label": "CSUN Music Prospective Students",
+                "url": "https://w2.csun.edu/mike-curb-arts-media-communication/music/prospective-students"
+              },
+              {
+                "label": "CSUN Graduate Admissions",
+                "url": "https://www.csun.edu/prospective-students/graduate/masters"
+              },
+              {
+                "label": "CSUN International Graduate Students",
+                "url": "https://www.csun.edu/prospective-students/international-student-international-graduate"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate minimums listed by CSUN include TOEFL iBT 80, TOEFL paper 550, IELTS Academic 6.5, iTEP Academic 4.0, PTE Academic 58, and Duolingo 105; TOEFL ITP is not accepted; CSUN school code is 4707 for TOEFL.",
+            "value": "Minimum scores: Cambridge C1 Advanced: 180; Duolingo English Test: 105; EIKEN CSE: 2630; GTEC CBT: 1200; IELTS Academic: 6.5; iTEP Academic: 4.0; PTE Academic: 58; TOEFL iBT: 80; TOEFL paper-based: 550. Timing: English proficiency results are required for international graduate applicants unless an exemption applies, and results may be uploaded in Cal State Apply/program materials or sent by the testing agency according to CSUN instructions. Validity: the official CSUN International Graduate page checked during this audit does not state a test-score validity period. Exemptions: the TOEFL or other English language proficiency exam is not required if the applicant earned a bachelor's or master's degree from a college or university in the U.S.; it is also not required if the applicant earned a bachelor's or master's degree outside the U.S. where English is the principal language of instruction. Notes: CSUN does not accept TOEFL ITP; TOEFL scores should use CSUN school code 4707; CSUN interprets English as principal language of instruction as a school located in a country where English is the daily medium of communication for the majority of residents and where students receive academic instruction in English at all levels.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-23",
             "sources": [
               {
                 "label": "CSUN International Graduate Students",
