@@ -2854,54 +2854,82 @@
           "url": "https://www.kent.edu/music/piano"
         },
         {
-          "label": "Kent State Apply",
+          "label": "Kent State Apply to Glauser School of Music",
           "url": "https://www.kent.edu/music/apply"
+        },
+        {
+          "label": "Kent State Graduate Admissions Requirements",
+          "url": "https://www.kent.edu/admissions/graduate-admissions-requirements"
+        },
+        {
+          "label": "Kent State English Language Proficiency",
+          "url": "https://www.kent.edu/admissions/english-language-proficiency"
         },
         {
           "label": "Kent State Graduate Programs",
           "url": "https://www.kent.edu/music/graduate-programs-0"
+        },
+        {
+          "label": "Kent State Music Performance M.M. Catalog",
+          "url": "https://catalog.kent.edu/colleges/ca/mus/music-performance-mm/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Complete the Kent State University application and request an audition for performance-based master's programs; No separate application is required for admission to the Glauser School of Music.",
+            "value": "Apply through the Kent State University graduate application, then request the required audition for the Glauser School of Music. Kent State's Glauser School page states there is no separate application required for admission to the Glauser School of Music. Graduate audition requirement: all students pursuing a graduate degree in Performance, Composition, or Conducting must complete an audition or interview. Program admission requirements for Music Performance M.M. include an official transcript or copy of an official transcript from each college or university attended, three letters of recommendation, goal statement, resume or curriculum vitae, and audition. Music GPA note: the Music Performance M.M. catalog lists a minimum 3.0 undergraduate GPA for unconditional admission.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Kent State Apply",
+                "label": "Kent State Apply to Glauser School of Music",
                 "url": "https://www.kent.edu/music/apply"
+              },
+              {
+                "label": "Kent State Graduate Audition",
+                "url": "https://www.kent.edu/music/graduate-audition"
+              },
+              {
+                "label": "Kent State Music Performance M.M. Catalog",
+                "url": "https://catalog.kent.edu/colleges/ca/mus/music-performance-mm/"
               }
             ]
           },
           "applicationFee": {
-            "value": "Kent State graduate application fee should be verified in the application portal at submission; the Glauser School of Music application page states no separate School of Music application is required.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Application fee: domestic application fee $50; international application fee $70. Kent State says the application fee is required, non-refundable, payable with electronic check or credit card, and that no fee waivers are available.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Kent State Apply",
-                "url": "https://www.kent.edu/music/apply"
+                "label": "Kent State Graduate Admissions Requirements",
+                "url": "https://www.kent.edu/admissions/graduate-admissions-requirements"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Graduate students pursuing an M.M. in Performance must audition or interview; Kent State offers live in-person auditions and virtual auditions; Prescreenings are not required for most candidates, with conducting listed as the exception; Recorded video auditions are accepted; Pre-recorded audition videos for scholarship and graduate assistantship priority consideration are due February 28, 2026; General admission recorded videos are accepted until August 7, 2026 at 11:59 p.m. EST; Live virtual auditions must be completed by February 28, 2026 for scholarship or graduate assistantship consideration.",
+            "value": "Audition requirement: graduate students pursuing the M.M. in Performance must audition or interview. Prescreening: Kent State states that prescreenings are not required for most candidates, with conducting named as the exception; the Piano & Collaborative Piano page does not publish a piano prescreening requirement. Audition formats: students may complete the audition live in person, live virtually, or by pre-recorded video. Live virtual auditions: for scholarship and graduate assistantship consideration, live virtual auditions should be completed by February 28, 2026. Pre-recorded video audition: applicants should submit one video for each required piece or selection; for scholarship and graduate assistantship priority consideration, pre-recorded videos must be submitted by February 28, 2026. General admission video deadline: pre-recorded audition videos are accepted until August 7, 2026 at 11:59 p.m. EST. Piano page notes: sight-reading may be included in the audition.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Kent State Graduate Audition",
                 "url": "https://www.kent.edu/music/graduate-audition"
+              },
+              {
+                "label": "Kent State Piano & Collaborative Piano",
+                "url": "https://www.kent.edu/music/piano"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Four works representing at least three different style periods; Final audition repertoire: Repertoire must include a complete Classical Sonata; Final audition repertoire: All selections composed prior to 1950 should be memorized; Final audition repertoire: Sight-reading may be included.",
+            "value": "Prescreening repertoire: No prescreening repertoire is published for Piano Performance; Kent State states prescreenings are not required for most candidates, with conducting listed as the exception. Final audition repertoire: Four works representing at least three different style periods. Final audition repertoire: The program must include a complete classical sonata. Final audition repertoire: All selections composed prior to 1950 should be memorized. Additional repertoire notes: Sight-reading may be included.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
+              {
+                "label": "Kent State Graduate Audition",
+                "url": "https://www.kent.edu/music/graduate-audition"
+              },
               {
                 "label": "Kent State Piano & Collaborative Piano",
                 "url": "https://www.kent.edu/music/piano"
@@ -2909,59 +2937,75 @@
             ]
           },
           "deadlines": {
-            "value": "February 28, 2026: Pre-recorded audition video deadline for music scholarship and graduate assistantship consideration; August 7, 2026 at 11:59 p.m. EST: General admission deadline for pre-recorded audition videos; Live virtual auditions should be completed by February 28, 2026 for scholarship or assistantship consideration.",
+            "value": "Scholarship and graduate assistantship priority deadline for pre-recorded video auditions: February 28, 2026. Live virtual auditions should be completed by February 28, 2026 for scholarship and graduate assistantship consideration. General admission deadline for pre-recorded audition videos: August 7, 2026 at 11:59 p.m. EST. International graduate application deadline for Fall admission: May 15. International application deadline for Spring admission: November 1. International application deadline for Summer admission: March 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Kent State Graduate Audition",
                 "url": "https://www.kent.edu/music/graduate-audition"
+              },
+              {
+                "label": "Kent State Graduate Admissions Requirements",
+                "url": "https://www.kent.edu/admissions/graduate-admissions-requirements"
               }
             ]
           },
           "englishScores": {
-            "value": "Graduate piano page lists international graduate English proficiency minimums: TOEFL PBT 525, TOEFL iBT 71, MELAB 74, IELTS 6.0, PTE 50, or Duolingo 100.",
+            "value": "Applicability: all international applicants must provide proof of English language proficiency unless they meet Kent State's published exceptions. Program-specific graduate Music Performance minimum scores: TOEFL PBT 525. Program-specific graduate Music Performance minimum scores: TOEFL iBT 71. Program-specific graduate Music Performance minimum scores: MELAB 74. Program-specific graduate Music Performance minimum scores: IELTS 6.0. Program-specific graduate Music Performance minimum scores: PTE Academic 50. Program-specific graduate Music Performance minimum scores: Duolingo English Test 100. Notes: Kent State states that individual graduate programs may require higher scores than the general university minimums; the Music Performance M.M. catalog uses the scores listed here. General English proficiency page note: official TOEFL scores must be sent directly from ETS and Kent State's institution code is 1367.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Kent State Piano & Collaborative Piano",
                 "url": "https://www.kent.edu/music/piano"
+              },
+              {
+                "label": "Kent State Music Performance M.M. Catalog",
+                "url": "https://catalog.kent.edu/colleges/ca/mus/music-performance-mm/"
+              },
+              {
+                "label": "Kent State English Language Proficiency",
+                "url": "https://www.kent.edu/admissions/english-language-proficiency"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Kent State lists M.M. in Performance: Collaborative Piano; Complete the Kent State University application and request an audition for performance-based master's programs; No separate application is required for admission to the Glauser School of Music.",
+            "value": "Kent State lists M.M. in Performance: Collaborative Piano on the Piano & Collaborative Piano page. Apply through the Kent State University graduate application, then request the required audition for the Glauser School of Music. Kent State's Glauser School page states there is no separate application required for admission to the Glauser School of Music. Program admission requirements for Music Performance M.M. include an official transcript or copy of an official transcript from each college or university attended, three letters of recommendation, goal statement, resume or curriculum vitae, and audition. Music GPA note: the Music Performance M.M. catalog lists a minimum 3.0 undergraduate GPA for unconditional admission.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Kent State Piano & Collaborative Piano",
                 "url": "https://www.kent.edu/music/piano"
               },
               {
-                "label": "Kent State Apply",
+                "label": "Kent State Apply to Glauser School of Music",
                 "url": "https://www.kent.edu/music/apply"
+              },
+              {
+                "label": "Kent State Music Performance M.M. Catalog",
+                "url": "https://catalog.kent.edu/colleges/ca/mus/music-performance-mm/"
               }
             ]
           },
           "applicationFee": {
-            "value": "Kent State graduate application fee should be verified in the application portal at submission; the Glauser School of Music application page states no separate School of Music application is required.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Application fee: domestic application fee $50; international application fee $70. Kent State says the application fee is required, non-refundable, payable with electronic check or credit card, and that no fee waivers are available.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Kent State Apply",
-                "url": "https://www.kent.edu/music/apply"
+                "label": "Kent State Graduate Admissions Requirements",
+                "url": "https://www.kent.edu/admissions/graduate-admissions-requirements"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Graduate students pursuing an M.M. in Performance must audition or interview; Kent State offers live in-person auditions and virtual auditions; Prescreenings are not required for most candidates, with conducting listed as the exception; Recorded video auditions are accepted; Pre-recorded audition videos for scholarship and graduate assistantship priority consideration are due February 28, 2026; General admission recorded videos are accepted until August 7, 2026 at 11:59 p.m. EST; Live virtual auditions must be completed by February 28, 2026 for scholarship or graduate assistantship consideration.",
+            "value": "Audition requirement: graduate students pursuing the M.M. in Performance must audition or interview. Prescreening: Kent State states that prescreenings are not required for most candidates, with conducting named as the exception; the Piano & Collaborative Piano page does not publish a collaborative piano prescreening requirement. Audition formats: students may complete the audition live in person, live virtually, or by pre-recorded video. Pre-recorded video audition: applicants should submit one video for each required piece or selection; for scholarship and graduate assistantship priority consideration, pre-recorded videos must be submitted by February 28, 2026. Live virtual auditions: for scholarship and graduate assistantship consideration, live virtual auditions should be completed by February 28, 2026. General admission video deadline: pre-recorded audition videos are accepted until August 7, 2026 at 11:59 p.m. EST. Collaborative audition logistics: for the song or aria requirement, a singer may be provided if available; sight-reading may be included.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Kent State Graduate Audition",
@@ -2974,10 +3018,14 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: The official Piano & Collaborative Piano page confirms the M.M. in Performance: Collaborative Piano option but does not publish a separate collaborative repertoire list in the retrieved public page; Applicants should confirm repertoire directly with the piano division or Glauser School Admissions.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Prescreening repertoire: No prescreening repertoire is published for Collaborative Piano; Kent State states prescreenings are not required for most candidates, with conducting listed as the exception. Final audition repertoire: One solo piano work. Final audition repertoire: One song or aria; a singer may be provided if available. Final audition repertoire: One instrumental collaboration work. Additional repertoire notes: Sight-reading may be included.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
+              {
+                "label": "Kent State Graduate Audition",
+                "url": "https://www.kent.edu/music/graduate-audition"
+              },
               {
                 "label": "Kent State Piano & Collaborative Piano",
                 "url": "https://www.kent.edu/music/piano"
@@ -2985,24 +3033,36 @@
             ]
           },
           "deadlines": {
-            "value": "February 28, 2026: Pre-recorded audition video deadline for music scholarship and graduate assistantship consideration; August 7, 2026 at 11:59 p.m. EST: General admission deadline for pre-recorded audition videos; Live virtual auditions should be completed by February 28, 2026 for scholarship or assistantship consideration.",
+            "value": "Scholarship and graduate assistantship priority deadline for pre-recorded video auditions: February 28, 2026. Live virtual auditions should be completed by February 28, 2026 for scholarship and graduate assistantship consideration. General admission deadline for pre-recorded audition videos: August 7, 2026 at 11:59 p.m. EST. International graduate application deadline for Fall admission: May 15. International application deadline for Spring admission: November 1. International application deadline for Summer admission: March 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Kent State Graduate Audition",
                 "url": "https://www.kent.edu/music/graduate-audition"
+              },
+              {
+                "label": "Kent State Graduate Admissions Requirements",
+                "url": "https://www.kent.edu/admissions/graduate-admissions-requirements"
               }
             ]
           },
           "englishScores": {
-            "value": "Graduate piano page lists international graduate English proficiency minimums: TOEFL PBT 525, TOEFL iBT 71, MELAB 74, IELTS 6.0, PTE 50, or Duolingo 100.",
+            "value": "Applicability: all international applicants must provide proof of English language proficiency unless they meet Kent State's published exceptions. Program-specific graduate Music Performance minimum scores: TOEFL PBT 525. Program-specific graduate Music Performance minimum scores: TOEFL iBT 71. Program-specific graduate Music Performance minimum scores: MELAB 74. Program-specific graduate Music Performance minimum scores: IELTS 6.0. Program-specific graduate Music Performance minimum scores: PTE Academic 50. Program-specific graduate Music Performance minimum scores: Duolingo English Test 100. Notes: Kent State states that individual graduate programs may require higher scores than the general university minimums; the Music Performance M.M. catalog uses the scores listed here. General English proficiency page note: official TOEFL scores must be sent directly from ETS and Kent State's institution code is 1367.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Kent State Piano & Collaborative Piano",
                 "url": "https://www.kent.edu/music/piano"
+              },
+              {
+                "label": "Kent State Music Performance M.M. Catalog",
+                "url": "https://catalog.kent.edu/colleges/ca/mus/music-performance-mm/"
+              },
+              {
+                "label": "Kent State English Language Proficiency",
+                "url": "https://www.kent.edu/admissions/english-language-proficiency"
               }
             ]
           }
