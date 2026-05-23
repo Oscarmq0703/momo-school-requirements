@@ -1,0 +1,200 @@
+{
+  "schools": [
+    {
+      "id": "northwestern-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Bienen MM & DMA Application Timeline",
+          "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+        },
+        {
+          "label": "Bienen MM Piano Audition Requirements",
+          "url": "https://www.music.northwestern.edu/admission/auditions/mm/piano"
+        },
+        {
+          "label": "Bienen MM Collaborative Piano Audition Requirements",
+          "url": "https://music.northwestern.edu/admission/auditions/mm/collaborative-piano"
+        },
+        {
+          "label": "Bienen International Students",
+          "url": "https://music.northwestern.edu/admission/international"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the Bienen School of Music MM/DMA Graduate Application. The Fall 2026 graduate application opens August 1, 2025 and the application deadline is December 1, 2025. Required materials include the application, prescreening materials where required, transcripts, recommendations, resume or repertoire list as applicable, personal statement or essays as applicable, and official English proficiency score reports for applicants who are required to submit them. MM Piano applicants must upload prescreening video recordings with the application by the December 1 deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              },
+              {
+                "label": "Bienen MM Piano Audition Requirements",
+                "url": "https://www.music.northwestern.edu/admission/auditions/mm/piano"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $100 non-refundable application fee.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: MM Piano applicants must submit video prescreening materials by the application deadline. Video requirements: hands must be visible at all times; prescreening recordings must be uploaded as separate video files. Prescreening content: minimum 30 minutes of repertoire from the required categories, performed from memory. Final audition invitation: applicants are notified December through early January whether they are invited for the audition round. Final audition dates: Fall 2026 MM Piano audition dates are February 9-10, 2026 and February 14-15, 2026. Final audition format: invited applicants perform the required audition repertoire, and all works must be performed from memory. Repertoire list: applicants should bring to the audition a repertoire list containing significant solo repertoire studied.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM Piano Audition Requirements",
+                "url": "https://www.music.northwestern.edu/admission/auditions/mm/piano"
+              },
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Minimum 30 minutes of repertoire, performed from memory. Prescreening repertoire: A sonata-allegro movement from a Classical sonata. Prescreening repertoire: One work from the Romantic period. Prescreening repertoire: Additional pieces may be included. Final audition repertoire: One work by J.S. Bach. Final audition repertoire: A complete sonata by Beethoven, Mozart, Haydn, or Schubert. Final audition repertoire: One work from the Romantic period. Final audition repertoire: One Impressionist or contemporary work. Final audition repertoire: One virtuoso etude. Final audition repertoire: All works must be performed from memory. Additional repertoire notes: Applicants should bring to the audition a repertoire list containing significant solo repertoire studied.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM Piano Audition Requirements",
+                "url": "https://www.music.northwestern.edu/admission/auditions/mm/piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: August 1, 2025 for Fall 2026 MM and DMA applicants. Application and prescreening deadline: December 1, 2025. Audition invitations: December through early January. On-campus auditions: February 6-15, 2026. MM Piano audition dates: February 9-10, 2026 and February 14-15, 2026. Admission decisions: mid-March. Enrollment deposit deadline: April 15.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              },
+              {
+                "label": "Bienen MM Piano Audition Requirements",
+                "url": "https://www.music.northwestern.edu/admission/auditions/mm/piano"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: applicants whose first language is not English must certify English proficiency through TOEFL, IELTS, or Duolingo English Test unless they qualify for a waiver. Minimum scores: TOEFL iBT 85 with no section score below 17; IELTS 6.5 with no section band below 6.5; Duolingo English Test 125. Timing: official score reports for TOEFL, IELTS, or Duolingo English Test are due December 1. Validity: scores are valid for two years after the test date. Program note: MM applicants who do not meet the listed minimums are denied admission. TOEFL reporting: use institution code 1565, department code 01. IELTS reporting: use Bienen School of Music, Northwestern University, Office of Music Admission and Financial Aid. Duolingo reporting: send scores to Northwestern University, Bienen School of Music. Waiver: the English proficiency requirement is waived for applicants who hold a bachelor's degree or higher from an accredited institution where the language of instruction is English.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen International Students",
+                "url": "https://music.northwestern.edu/admission/international"
+              },
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through the Bienen School of Music MM/DMA Graduate Application. The Fall 2026 graduate application opens August 1, 2025 and the application deadline is December 1, 2025. MM Collaborative Piano applicants must upload video prescreening materials with the application by the December 1 deadline. Required materials also include application items listed by Bienen, official English proficiency score reports when required, and audition materials for the program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              },
+              {
+                "label": "Bienen MM Collaborative Piano Audition Requirements",
+                "url": "https://music.northwestern.edu/admission/auditions/mm/collaborative-piano"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $100 non-refundable application fee.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: MM Collaborative Piano applicants must submit video prescreening materials by the application deadline. Video requirements: hands must be visible at all times; prescreening recordings must be uploaded as separate video files. Final audition invitation: applicants are notified December through early January whether they are invited for the audition round. Final audition dates: Fall 2026 MM Collaborative Piano audition dates are February 9, 2026 and February 14-15, 2026. Partner policy: for the audition, applicants may bring a partner or one will be provided. Final audition includes prepared repertoire and sight-reading.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM Collaborative Piano Audition Requirements",
+                "url": "https://music.northwestern.edu/admission/auditions/mm/collaborative-piano"
+              },
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Two contrasting art songs, with singer. Prescreening repertoire: One movement of an instrumental sonata, with instrumentalist. Final audition repertoire: Three art songs, one chosen from each category. Final audition repertoire: Category 1, choose one: Beethoven, Ah Perfido!; Mozart, Vorrei spiegarvi, oh Dio!; Schubert, Auf dem Strom; or Spohr, Sechs deutsche Lieder, Op. 103. Final audition repertoire: Category 2, choose one: Barber, Knoxville: Summer of 1915; Berlioz, Les nuits d'été, Villanelle; Chausson, Chanson Perpétuelle; Ravel, Shéhérazade, La Flûte enchantée; or Szymanowski, Songs of a Fairytale Princess, Op. 31, No. 2, The Nightingale. Final audition repertoire: Category 3, choose one: Brahms, Von ewiger Liebe; Debussy, Apparition; Fauré, En sourdine; Poulenc, C; Rachmaninoff, Ne poy, krasavitsa; Schubert, Gruppe aus dem Tartarus; Strauss, Frühlingsgedränge; or Wolf, Ich hab' in Penna. Final audition repertoire: One complete Classical sonata, selected from Beethoven, Sonata for Piano and Violin in C minor, Op. 30, No. 2; Beethoven, Sonata for Piano and Cello in C major, Op. 102, No. 1; Mozart, Sonata for Piano and Violin in B-flat major, K. 454; or Mozart, Sonata for Piano and Violin in A major, K. 526. Final audition repertoire: One first movement from a Romantic sonata, selected from Brahms, Sonata for Violin and Piano in G major, Op. 78; Brahms, Sonata for Violin and Piano in A major, Op. 100; Brahms, Sonata for Cello and Piano in F major, Op. 99; Prokofiev, Sonata for Flute and Piano in D major, Op. 94; Rachmaninoff, Sonata for Cello and Piano in G minor, Op. 19; or Schumann, Sonata for Violin and Piano in A minor, Op. 105. Final audition repertoire: Tchaikovsky, Violin Concerto, first movement, piano introduction to the exposition. Final audition repertoire: Mozart, recitativo, played and sung by the applicant, selected from Così fan tutte, Temerari!...Come scoglio; Così fan tutte, Ei parte...Per pietà; or Le nozze di Figaro, E Susanna non vien...Dove sono. Final audition repertoire: Sight-reading. Additional repertoire notes: Applicants may bring a partner or one will be provided.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM Collaborative Piano Audition Requirements",
+                "url": "https://music.northwestern.edu/admission/auditions/mm/collaborative-piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: August 1, 2025 for Fall 2026 MM and DMA applicants. Application and prescreening deadline: December 1, 2025. Audition invitations: December through early January. On-campus auditions: February 6-15, 2026. MM Collaborative Piano audition dates: February 9, 2026 and February 14-15, 2026. Admission decisions: mid-March. Enrollment deposit deadline: April 15.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              },
+              {
+                "label": "Bienen MM Collaborative Piano Audition Requirements",
+                "url": "https://music.northwestern.edu/admission/auditions/mm/collaborative-piano"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: applicants whose first language is not English must certify English proficiency through TOEFL, IELTS, or Duolingo English Test unless they qualify for a waiver. Minimum scores: TOEFL iBT 85 with no section score below 17; IELTS 6.5 with no section band below 6.5; Duolingo English Test 125. Timing: official score reports for TOEFL, IELTS, or Duolingo English Test are due December 1. Validity: scores are valid for two years after the test date. Program note: MM applicants who do not meet the listed minimums are denied admission. TOEFL reporting: use institution code 1565, department code 01. IELTS reporting: use Bienen School of Music, Northwestern University, Office of Music Admission and Financial Aid. Duolingo reporting: send scores to Northwestern University, Bienen School of Music. Waiver: the English proficiency requirement is waived for applicants who hold a bachelor's degree or higher from an accredited institution where the language of instruction is English.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Bienen International Students",
+                "url": "https://music.northwestern.edu/admission/international"
+              },
+              {
+                "label": "Bienen MM & DMA Application Timeline",
+                "url": "https://music.northwestern.edu/admission/graduate/application-timeline"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

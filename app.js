@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-nec-audit-v24";
+const DATA_VERSION = "2026-05-24-northwestern-audit-v25";
 
 const state = {
   data: null,
