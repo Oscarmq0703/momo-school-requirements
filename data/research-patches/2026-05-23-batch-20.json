@@ -1,0 +1,200 @@
+{
+  "schools": [
+    {
+      "id": "boston-conservatory-at-berklee",
+      "sourceStatus": "verified",
+      "officialSources": [
+        {
+          "label": "Boston Conservatory Application Steps",
+          "url": "https://bostonconservatory.berklee.edu/admissions/application-steps"
+        },
+        {
+          "label": "Boston Conservatory Application Deadlines",
+          "url": "https://bostonconservatory.berklee.edu/admissions/deadlines"
+        },
+        {
+          "label": "Boston Conservatory Audition Process",
+          "url": "https://bostonconservatory.berklee.edu/admissions/audition-process"
+        },
+        {
+          "label": "Boston Conservatory Audition Dates and Locations",
+          "url": "https://bostonconservatory.berklee.edu/admissions/audition-dates-and-locations"
+        },
+        {
+          "label": "Boston Conservatory Graduate Music Audition Requirements",
+          "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Step 1: submit the Boston Conservatory at Berklee online application. Step 2: after submitting the online application, complete the required music pre-screen through SlideRoom; instructions are emailed after application submission. Step 3: submit supporting materials, including official transcripts, English proficiency material if required, and music recommendation material. Music applicants need at least one recommendation letter, and recommender information is entered in the supplemental application through SlideRoom. Admission requires both academic and artistic acceptance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Steps",
+                "url": "https://bostonconservatory.berklee.edu/admissions/application-steps"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $75 for applications submitted through November 1; $150 for applications submitted through December 1. The fee is nonrefundable and paid online in the application portal. Fee waiver route: Boston Conservatory accepts application fee waivers from the College Board, NACAC, or the applicant's guidance office, sent to admissions@berklee.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Steps",
+                "url": "https://bostonconservatory.berklee.edu/admissions/application-steps"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Piano requires a pre-screen; all piano applicants must submit a pre-screen video recording by the application deadline before they can be considered for a live audition. Scheduling: after the application is submitted, applicants receive instructions to register for an audition in the application portal under My Events; if the major requires a pre-screen, the pre-screen must be submitted by the deadline first. Audition format: Boston Conservatory strongly encourages in-person auditions when possible, but offers regional and online alternatives as permitted; online auditions are held live on Zoom and use the same audition requirements as in-person auditions. 2026 Piano audition dates: January 18, 2026 on campus; February 8, 2026 on campus; February 15, 2026 on campus; February 21, 2026 on campus.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Audition Process",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-process"
+              },
+              {
+                "label": "Boston Conservatory Audition Dates and Locations",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-dates-and-locations"
+              },
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Minimum 30-minute pre-screen video recording. Prescreening repertoire: Must include the virtuosic etude and at least three additional pieces chosen from the audition requirements. Prescreening repertoire: A movement or movements from the classical sonata or from multi-movement Romantic or contemporary pieces may be used if the total pre-screen program is at least 30 minutes. Final audition repertoire: Prepare every required category. Final audition repertoire: A prelude and fugue from The Well-Tempered Clavier, or another Bach work that includes a fugue. Final audition repertoire: A complete sonata by Haydn, Mozart, Beethoven, or Schubert. Final audition repertoire: A major solo piano work from the Romantic era, including Rachmaninoff. Final audition repertoire: A solo piano piece from the 20th or 21st century. Final audition repertoire: One virtuosic etude, such as Chopin, Liszt, Debussy, Rachmaninoff, Scriabin, or Ligeti. Final audition repertoire: Multi-movement works must be prepared in their entirety. Final audition repertoire: All works must be performed from memory. Final audition repertoire: Incomplete audition requirements will not be accepted. Additional repertoire notes: Applicants are encouraged to program creatively and show something unique about themselves as musicians.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: July 1. Recommended pre-screen deadline for Regular Action: November 1. Regular Action application and required pre-screen materials deadline: December 1. Supporting documents deadline: January 15, including transcripts, TOEFL, and recommendation letters. Graduate admission and financial aid notification date: March 15. Graduate tuition deposit deadline: April 15. Late applications: late applications may be accepted for select majors only; applicants should contact bcb@berklee.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Deadlines",
+                "url": "https://bostonconservatory.berklee.edu/admissions/deadlines"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: Master of Music in Performance, Composition, or Conducting: TOEFL iBT exams taken before January 21, 2026: 79; TOEFL iBT exams taken on or after January 21, 2026: 4; IELTS overall band guideline: 6.5; Duolingo English Test: 115. Timing: English proficiency scores are part of the supporting documents due January 15. Validity: the official page does not state a score-validity period on the audited page; applicants should follow the testing agency validity rules and confirm with admissions if needed. Exemptions: the English test requirement can be waived for an IB Diploma, excluding the IB Bilingual Diploma; it can also be waived after transcript review for applicants who studied for two years of high school or two semesters of college entirely in English. Notes: Required for degree-program applicants whose first language is not English; Boston Conservatory does not accept TOEFL Special Home Edition, TOEFL Essentials, TOEFL ITP, or IELTS Indicator; TOEFL ETS code is 3084; IELTS section scores are evaluated in addition to the overall band guideline; applicants below the minimum may be invited to the Music and English Intensive Program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Steps",
+                "url": "https://bostonconservatory.berklee.edu/admissions/application-steps"
+              },
+              {
+                "label": "Boston Conservatory Application Deadlines",
+                "url": "https://bostonconservatory.berklee.edu/admissions/deadlines"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Step 1: submit the Boston Conservatory at Berklee online application. Step 2: because Collaborative Piano does not require a pre-screen, complete the supplemental application through SlideRoom after submitting the online application; this is where applicants may provide an artistic resume, recommendation letters, and other supporting materials. Step 3: submit supporting materials, including official transcripts and English proficiency material if required. Music applicants need at least one recommendation letter, and recommender information is entered in the supplemental application through SlideRoom. Admission requires both academic and artistic acceptance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Steps",
+                "url": "https://bostonconservatory.berklee.edu/admissions/application-steps"
+              },
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $75 for applications submitted through November 1; $150 for applications submitted through December 1. The fee is nonrefundable and paid online in the application portal. Fee waiver route: Boston Conservatory accepts application fee waivers from the College Board, NACAC, or the applicant's guidance office, sent to admissions@berklee.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Steps",
+                "url": "https://bostonconservatory.berklee.edu/admissions/application-steps"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Collaborative Piano does not require a pre-screen. On-campus audition logistics: for auditions in Boston, the Conservatory provides a violinist and singers for the live audition, plus a rehearsal period before the audition. Scheduling: after the application is submitted, applicants receive instructions to register for an audition in the application portal under My Events. Audition format: Boston Conservatory strongly encourages in-person auditions when possible, but offers regional and online alternatives as permitted; online auditions are held live on Zoom and use the same audition requirements as in-person auditions. 2026 Collaborative Piano audition date: February 8, 2026 on campus.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Audition Process",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-process"
+              },
+              {
+                "label": "Boston Conservatory Audition Dates and Locations",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-dates-and-locations"
+              },
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No pre-screen required. Final audition repertoire: Solo piano work or movement, less than 10 minutes in length, memorized. Final audition repertoire: Songs, all prepared in high keys: Franz Schubert, Ganymed; Clara Schumann, Er ist gekommen in Sturm und Regen; Samuel Barber, St. Ita's Vision from Hermit Songs. Final audition repertoire: Prepare Ludwig van Beethoven, Violin Sonata No. 1 in D Major, Op. 12, first movement only. Final audition repertoire: Prepare Adolphus Hailstork, Sanctum, for clarinet and piano or viola and piano. Final audition repertoire: Sight-reading.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: July 1. Recommended pre-screen deadline for Regular Action: November 1; Collaborative Piano does not require a pre-screen, but this remains the Conservatory's music pre-screen timeline for applicable majors. Regular Action application deadline: December 1. Supporting documents deadline: January 15, including transcripts, TOEFL, and recommendation letters. Graduate admission and financial aid notification date: March 15. Graduate tuition deposit deadline: April 15. Late applications: late applications may be accepted for select majors only; applicants should contact bcb@berklee.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Deadlines",
+                "url": "https://bostonconservatory.berklee.edu/admissions/deadlines"
+              },
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: Master of Music in Performance, Composition, or Conducting: TOEFL iBT exams taken before January 21, 2026: 79; TOEFL iBT exams taken on or after January 21, 2026: 4; IELTS overall band guideline: 6.5; Duolingo English Test: 115. Timing: English proficiency scores are part of the supporting documents due January 15. Validity: the official page does not state a score-validity period on the audited page; applicants should follow the testing agency validity rules and confirm with admissions if needed. Exemptions: the English test requirement can be waived for an IB Diploma, excluding the IB Bilingual Diploma; it can also be waived after transcript review for applicants who studied for two years of high school or two semesters of college entirely in English. Notes: Required for degree-program applicants whose first language is not English; Boston Conservatory does not accept TOEFL Special Home Edition, TOEFL Essentials, TOEFL ITP, or IELTS Indicator; TOEFL ETS code is 3084; IELTS section scores are evaluated in addition to the overall band guideline; applicants below the minimum may be invited to the Music and English Intensive Program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "Boston Conservatory Application Steps",
+                "url": "https://bostonconservatory.berklee.edu/admissions/application-steps"
+              },
+              {
+                "label": "Boston Conservatory Application Deadlines",
+                "url": "https://bostonconservatory.berklee.edu/admissions/deadlines"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
