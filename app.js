@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-23-visual-refresh-v6";
+const DATA_VERSION = "2026-05-23-logo-polish-v7";
 
 const state = {
   data: null,
@@ -169,11 +169,9 @@ function renderDetail(school) {
   els.detail.innerHTML = `
     <div class="detail-title">
       <div>
-        <p class="eyebrow">School Detail</p>
         <h2>${escapeHtml(school.name)}</h2>
         <div class="detail-meta">${escapeHtml(school.city)}, ${escapeHtml(school.state)} | ${school.control}</div>
       </div>
-      ${statusBadge(school.sourceStatus)}
     </div>
 
     <div class="program-tabs" role="tablist" aria-label="Program">

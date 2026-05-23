@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>MoMo School Requirements Database</title>
-    <link rel="stylesheet" href="./styles.css?v=2026-05-23-visual-refresh-v6" />
+    <link rel="stylesheet" href="./styles.css?v=2026-05-23-logo-polish-v7" />
   </head>
   <body>
     <main class="app-shell">
@@ -17,26 +17,24 @@
         </div>
         <div class="toolbar-side">
           <div class="toolbar-actions">
-            <a class="ghost-link" href="./data/schools.json?v=2026-05-23-visual-refresh-v6" target="_blank" rel="noreferrer">Data</a>
+            <a class="ghost-link" href="./data/schools.json?v=2026-05-23-logo-polish-v7" target="_blank" rel="noreferrer">Data</a>
             <a class="ghost-link" href="./README.md" target="_blank" rel="noreferrer">Notes</a>
           </div>
           <p class="data-date" id="dataDate">Data date: loading</p>
         </div>
       </section>
 
-      <section class="search-panel" aria-label="Search">
+      <section class="search-panel" aria-label="Filters">
         <div class="school-picker">
-          <label class="field-label" for="schoolSelect">School List</label>
-          <select id="schoolSelect" class="school-select" aria-label="School List"></select>
+          <select id="schoolSelect" class="school-select" aria-label="Schools"></select>
         </div>
         <div class="search-box">
-          <label class="field-label" for="searchInput">Search</label>
-          <input id="searchInput" class="search-input" type="search" placeholder="School, city, state, type" autocomplete="off" />
+          <input id="searchInput" class="search-input" type="search" placeholder="School, city, state, type" autocomplete="off" aria-label="Keyword" />
         </div>
       </section>
 
       <section class="workspace">
-        <aside class="detail" aria-label="School detail">
+        <aside class="detail" aria-label="Details">
           <div id="schoolDetail" class="detail-empty">
             <h2>Select a school</h2>
             <p>Application portal, audition requirements, repertoire, deadlines, English scores, fees, and official sources will appear here.</p>
@@ -45,6 +43,6 @@
       </section>
     </main>
 
-    <script src="./app.js?v=2026-05-23-visual-refresh-v6" type="module"></script>
+    <script src="./app.js?v=2026-05-23-logo-polish-v7" type="module"></script>
   </body>
 </html>
