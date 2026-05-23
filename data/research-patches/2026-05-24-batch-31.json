@@ -1,0 +1,220 @@
+{
+  "schools": [
+    {
+      "id": "longy-school-of-music",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Longy How to Apply",
+          "url": "https://longy.edu/admissions/how-to-apply/"
+        },
+        {
+          "label": "Longy Audition",
+          "url": "https://longy.edu/admissions/audition/"
+        },
+        {
+          "label": "Longy International Students",
+          "url": "https://longy.edu/admissions/international-students/"
+        },
+        {
+          "label": "Longy Master of Music",
+          "url": "https://longy.edu/master-of-music/"
+        },
+        {
+          "label": "Longy Keyboard Studies",
+          "url": "https://longy.edu/study/piano-and-collaborative-piano/"
+        },
+        {
+          "label": "Longy Application Portal",
+          "url": "https://apply.longy.edu/portal/lgy_app"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through Longy's online application portal. Master of Music admissions requirements include a bachelor's degree, post-secondary conservatory diploma, or demonstrated equivalent credential; academic and performance record showing capacity for full-time study; and an audition for performance applicants. Required application materials include an artistic resume with headshot, contact information, educational background, past teachers of the primary instrument, and relevant artistic achievements; a 500-word personal statement responding to Longy's musicians-as-agents-of-change prompt; two letters of recommendation submitted by professional references; unofficial transcripts uploaded in English; and English proficiency scores for non-native English speakers. Longy does not require a repertoire list with the application. Official transcripts and official English test scores are required only after an offer of admission is accepted.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              },
+              {
+                "label": "Longy Master of Music",
+                "url": "https://longy.edu/master-of-music/"
+              },
+              {
+                "label": "Longy Application Portal",
+                "url": "https://apply.longy.edu/portal/lgy_app"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $0. Longy states that it does not charge an application fee as part of its commitment to lowering barriers in the admissions process.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Longy does not do prescreening. Spring performance applicants audition by uploading video recordings to the online application. Early Action Fall performance applicants also audition by uploading video recordings, and the uploaded portfolio videos are considered final for admission review. Regular Action Fall performance applicants may choose either live auditions in February or video-recorded auditions through the online application. Longy states that applicants who audition by video recording are not disadvantaged. Live audition date for Piano: Sunday, February 8, 2026. Upload note: videos uploaded to the Portfolio section are final and will be used to adjudicate admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy Audition",
+                "url": "https://longy.edu/admissions/audition/"
+              },
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No prescreening repertoire is required because Longy does not do prescreening. Final audition repertoire: Master of Music and Graduate Performance Diploma Piano applicants prepare 15 minutes of music. Final audition repertoire: The 15-minute program must include at least three contrasting pieces. Final audition repertoire: Repertoire should best represent the applicant's artistic interests, focus, and profile. Final audition repertoire: Longy publishes no repertoire limitations for Piano. Final audition repertoire: Applicants auditioning by video recording may upload files individually by piece or as a single continuous file.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy Audition",
+                "url": "https://longy.edu/admissions/audition/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: September 15. Spring in-person application deadline: November 1; Spring admissions decisions: November 10; Spring offer reply due: November 20; Spring I-20 documentation due for international students: November 25. Early Action in-person application deadline: December 1; Early Action admissions decisions: January 31; FAFSA priority filing for U.S. citizens and permanent residents: February 15; Early Action offer reply due: April 15. Regular Action in-person application deadline: January 5; rolling admissions option: apply by February 1 to receive a decision by March 1; live auditions on campus: February 7-10; FAFSA priority deadline: February 15; Regular Action decisions released: March 15; standard offer reply due: April 15. Final deadline applicants: July 1 final application due; July 10 final admissions decisions released; July 15 final offer reply due. First day of classes: August 25. Piano live audition date: Sunday, February 8, 2026. Longy Visit Day: Sunday, March 29, 2026.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              },
+              {
+                "label": "Longy Audition",
+                "url": "https://longy.edu/admissions/audition/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: all applicants for whom English is not a first or primary language must submit TOEFL or TOEFL Home Edition, IELTS, or Duolingo English Test results. Minimum/recommended scores for MM admission: TOEFL 63. Minimum/recommended scores for MM admission: IELTS 5.5. Minimum/recommended scores for MM admission: Duolingo English Test 90. TOEFL code: 3467. Submission timing: unofficial English scores are required for the application; official scores are required only after an offer of admission is accepted. Notes: Longy requires both total score and individual subscores and reviews subscores for consistency across English-language skills. Conditional English support: applicants with subscores below Longy's minimums, or TOEFL subscores below 16, may be accepted with English language acquisition requirements in the offer letter. Waiver: completion of a full-time degree program at a college or university where English is the language of instruction may be grounds for a waiver; students seeking this waiver must email bgross@longy.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy International Students",
+                "url": "https://longy.edu/admissions/international-students/"
+              },
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through Longy's online application portal. Longy's Master of Music page lists Piano and Collaborative Piano among the major areas, and the Keyboard Studies page lists MM study in Piano and Collaborative Piano. Master of Music admissions requirements include a bachelor's degree, post-secondary conservatory diploma, or demonstrated equivalent credential; academic and performance record showing capacity for full-time study; and an audition for performance applicants. Required application materials include an artistic resume with headshot, contact information, educational background, past teachers of the primary instrument, and relevant artistic achievements; a 500-word personal statement responding to Longy's musicians-as-agents-of-change prompt; two letters of recommendation submitted by professional references; unofficial transcripts uploaded in English; and English proficiency scores for non-native English speakers. Official transcripts and official English test scores are required only after an offer of admission is accepted.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              },
+              {
+                "label": "Longy Master of Music",
+                "url": "https://longy.edu/master-of-music/"
+              },
+              {
+                "label": "Longy Keyboard Studies",
+                "url": "https://longy.edu/study/piano-and-collaborative-piano/"
+              },
+              {
+                "label": "Longy Application Portal",
+                "url": "https://apply.longy.edu/portal/lgy_app"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $0. Longy states that it does not charge an application fee as part of its commitment to lowering barriers in the admissions process.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Longy does not do prescreening. Spring performance applicants audition by uploading video recordings to the online application. Early Action Fall performance applicants also audition by uploading video recordings, and the uploaded portfolio videos are considered final for admission review. Regular Action Fall performance applicants may choose either live auditions in February or video-recorded auditions through the online application. Longy states that applicants who audition by video recording are not disadvantaged. Live audition date for Collaborative Piano: Sunday, February 8, 2026. Upload note: videos uploaded to the Portfolio section are final and will be used to adjudicate admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy Audition",
+                "url": "https://longy.edu/admissions/audition/"
+              },
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No prescreening repertoire is required because Longy does not do prescreening. Final audition repertoire: Master of Music and Graduate Performance Diploma Collaborative Piano applicants prepare 15 minutes of music. Final audition repertoire: Repertoire should best represent the applicant's artistic interests, focus, and profile. Final audition repertoire: Repertoire should feature at least one instrumentalist and one singer, not necessarily at the same time, and one piece for solo piano. Final audition repertoire: Longy publishes no specific repertoire limitations for Collaborative Piano. Final audition repertoire: Applicants auditioning by video recording may upload files individually by piece or as a single continuous file. Additional repertoire notes: Collaborative piano repertoire does not need to be played from memory.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy Audition",
+                "url": "https://longy.edu/admissions/audition/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application opens: September 15. Spring in-person application deadline: November 1; Spring admissions decisions: November 10; Spring offer reply due: November 20; Spring I-20 documentation due for international students: November 25. Early Action in-person application deadline: December 1; Early Action admissions decisions: January 31; FAFSA priority filing for U.S. citizens and permanent residents: February 15; Early Action offer reply due: April 15. Regular Action in-person application deadline: January 5; rolling admissions option: apply by February 1 to receive a decision by March 1; live auditions on campus: February 7-10; FAFSA priority deadline: February 15; Regular Action decisions released: March 15; standard offer reply due: April 15. Final deadline applicants: July 1 final application due; July 10 final admissions decisions released; July 15 final offer reply due. First day of classes: August 25. Collaborative Piano live audition date: Sunday, February 8, 2026. Longy Visit Day: Sunday, March 29, 2026.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              },
+              {
+                "label": "Longy Audition",
+                "url": "https://longy.edu/admissions/audition/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: all applicants for whom English is not a first or primary language must submit TOEFL or TOEFL Home Edition, IELTS, or Duolingo English Test results. Minimum/recommended scores for MM admission: TOEFL 63. Minimum/recommended scores for MM admission: IELTS 5.5. Minimum/recommended scores for MM admission: Duolingo English Test 90. TOEFL code: 3467. Submission timing: unofficial English scores are required for the application; official scores are required only after an offer of admission is accepted. Notes: Longy requires both total score and individual subscores and reviews subscores for consistency across English-language skills. Conditional English support: applicants with subscores below Longy's minimums, or TOEFL subscores below 16, may be accepted with English language acquisition requirements in the offer letter. Waiver: completion of a full-time degree program at a college or university where English is the language of instruction may be grounds for a waiver; students seeking this waiver must email bgross@longy.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Longy International Students",
+                "url": "https://longy.edu/admissions/international-students/"
+              },
+              {
+                "label": "Longy How to Apply",
+                "url": "https://longy.edu/admissions/how-to-apply/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

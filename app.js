@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-kent-state-audit-v19";
+const DATA_VERSION = "2026-05-24-longy-audit-v20";
 
 const state = {
   data: null,
