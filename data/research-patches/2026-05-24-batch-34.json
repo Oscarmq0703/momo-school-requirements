@@ -1,0 +1,244 @@
+{
+  "schools": [
+    {
+      "id": "michigan-state-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "MSU College of Music How to Apply and Timeline",
+          "url": "https://music.msu.edu/admissions/masters-admissions/how-to-apply-and-timeline/"
+        },
+        {
+          "label": "MSU Master of Music in Performance",
+          "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-performance/"
+        },
+        {
+          "label": "MSU Piano Performance Audition Material",
+          "url": "https://music.msu.edu/admissions/masters-admissions/piano-audition-material-ma-2/"
+        },
+        {
+          "label": "MSU Master of Music in Collaborative Piano",
+          "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-collaborative-piano/"
+        },
+        {
+          "label": "MSU Collaborative Piano Audition Material",
+          "url": "https://music.msu.edu/admissions/masters-admissions/collaborative-piano-audition-material-ma/"
+        },
+        {
+          "label": "MSU Graduate Application Instructions - Domestic",
+          "url": "https://grad.msu.edu/admissions/apply/applicant-instructions---domestic"
+        },
+        {
+          "label": "MSU Graduate Application Instructions - International",
+          "url": "https://grad.msu.edu/admissions/apply/applicant-instructions-international"
+        },
+        {
+          "label": "MSU Graduate English Language Competency",
+          "url": "https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency"
+        },
+        {
+          "label": "MSU Academic Programs Catalog - English Language Competency",
+          "url": "https://reg.msu.edu/AcademicPrograms/Text.aspx?Section=111#s336"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through both required applications: the MSU Graduate Application and the College of Music Supplemental Application. The College of Music page for MM Performance states that applicants must file both applications by December 1. Piano applicants must also submit the required prescreening recording by December 1 through the Digital Portfolio section of the College of Music Supplemental Application after the supplemental application is submitted. Current MSU College of Music students applying for a graduate program do not need to file the MSU Graduate Application, but they do need to file the College of Music Supplemental Application and pay the appropriate fee.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Master of Music in Performance",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-performance/"
+              },
+              {
+                "label": "MSU Piano Performance Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/piano-audition-material-ma-2/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "MSU Graduate Application fee: $75 non-refundable application fee. The College of Music also requires a College of Music Supplemental Application; the public MM Performance page refers current MSU music students to the Supplemental Application with the appropriate fee, but the current public MM Performance page does not publish a separate fixed supplemental fee amount. Verify any College of Music supplemental fee inside the application portal before submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Graduate Application Instructions - Domestic",
+                "url": "https://grad.msu.edu/admissions/apply/applicant-instructions---domestic"
+              },
+              {
+                "label": "MSU Graduate Application Instructions - International",
+                "url": "https://grad.msu.edu/admissions/apply/applicant-instructions-international"
+              },
+              {
+                "label": "MSU Master of Music in Performance",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-performance/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: MM Piano Performance applicants must submit a prescreening recording by December 1; video is required. Upload process: videos are uploaded to the Digital Portfolio section of the College of Music Supplemental Application after the supplemental application is submitted. Video exception: if video is not possible, applicants should contact the College of Music Admissions Office to request an exception. Review process: recordings are reviewed beginning the week after the December 1 deadline, and applicants are notified by email whether they are invited for a live audition. Final audition format: graduate piano performance applicants are required to perform a live audition; recordings are accepted only in rare cases. If a live audition is not possible, applicants should contact the College of Music Admissions Office before applying.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Piano Performance Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/piano-audition-material-ma-2/"
+              },
+              {
+                "label": "MSU Master of Music in Performance",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-performance/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Recording quality must be sufficient to make a reasonable judgment of the applicant's ability. Prescreening repertoire: The recording should contain three major works of contrasting periods. Final audition repertoire: Invited applicants perform a live audition. Final audition repertoire: Prepare at least three significant compositions representing three contrasting periods. Additional repertoire notes: Graduate piano performance applicants are expected to audition live, with recordings accepted only in rare cases after contacting the College of Music Admissions Office.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Piano Performance Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/piano-audition-material-ma-2/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Fall application deadline: December 1 for both the MSU Graduate Application and the College of Music Supplemental Application. Prescreening deadline: December 1 for MM Piano Performance prescreening videos. Timeline: prescreening recordings are reviewed beginning the week after the December 1 deadline. Timeline: applicants are notified by email whether they are invited for a live audition. Decision timing: MM Performance applicants are notified of audition results by the end of March.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU College of Music How to Apply and Timeline",
+                "url": "https://music.msu.edu/admissions/masters-admissions/how-to-apply-and-timeline/"
+              },
+              {
+                "label": "MSU Master of Music in Performance",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-performance/"
+              },
+              {
+                "label": "MSU Piano Performance Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/piano-audition-material-ma-2/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicants whose first language is not English must demonstrate English language competency through MSU-approved evidence or tests. Minimum scores: TOEFL iBT 80 with no subscore below 19 and writing 22 for tests before January 21, 2026; TOEFL PBT: 550 with no subscores below 52 for tests before January 21, 2026; TOEFL after January 21, 2026: 4.5 total with reading and speaking at least 4 and listening and writing at least 4.5; IELTS: 6.5 with no subscore below 6.0; MSUELT: 80-85 average with no subscore below 80, or average 85 with no subscore below 78; PTE Academic: 53 overall with no reading, listening, or speaking subscore below 51 and writing not below 59; CELP: 65 with no subscore below 15 and writing 17. Validity: English language test scores are valid for two years. Notes: MSU's English Language Competency page refers applicants to the Academic Programs catalog for the current list of accepted tests and minimums; applicants should confirm score-reporting instructions in the application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Graduate English Language Competency",
+                "url": "https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency"
+              },
+              {
+                "label": "MSU Academic Programs Catalog - English Language Competency",
+                "url": "https://reg.msu.edu/AcademicPrograms/Text.aspx?Section=111#s336"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through both required applications: the MSU Graduate Application and the College of Music Supplemental Application. The College of Music page for MM Collaborative Piano states that applicants must file both applications by December 1. Collaborative Piano applicants must submit the required prescreening recording by December 1 through the Digital Portfolio section of the College of Music Supplemental Application after the supplemental application is submitted. Applicants seeking piano teaching assistantship consideration must file the Piano Assistantship form at least two weeks before the scheduled audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Master of Music in Collaborative Piano",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-collaborative-piano/"
+              },
+              {
+                "label": "MSU Collaborative Piano Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/collaborative-piano-audition-material-ma/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "MSU Graduate Application fee: $75 non-refundable application fee. The College of Music also requires a College of Music Supplemental Application; the current public MM Collaborative Piano page refers applicants to the required supplemental application but does not publish a separate fixed supplemental fee amount. Verify any College of Music supplemental fee inside the application portal before submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Graduate Application Instructions - Domestic",
+                "url": "https://grad.msu.edu/admissions/apply/applicant-instructions---domestic"
+              },
+              {
+                "label": "MSU Graduate Application Instructions - International",
+                "url": "https://grad.msu.edu/admissions/apply/applicant-instructions-international"
+              },
+              {
+                "label": "MSU Master of Music in Collaborative Piano",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-collaborative-piano/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: MM Collaborative Piano applicants must submit a prescreening recording by December 1; video is required. Upload process: videos are uploaded to the Digital Portfolio section of the College of Music Supplemental Application after the supplemental application is submitted. Video exception: if video is not possible, applicants should contact the College of Music Admissions Office to request an exception. Review process: recordings are reviewed beginning the week after the December 1 deadline, and applicants are notified by email whether they are invited for a live audition. Live audition partners: applicants may bring their own instrumentalist and vocalist. If the applicant needs MSU to provide partners, they must notify Dr. Zhihua Tang at least two weeks before the audition date. Assistantship note: applicants seeking piano teaching assistantship consideration must file the Piano Assistantship form at least two weeks before the scheduled audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Collaborative Piano Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/collaborative-piano-audition-material-ma/"
+              },
+              {
+                "label": "MSU Master of Music in Collaborative Piano",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-collaborative-piano/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Recording quality must be sufficient to make a reasonable judgment of the applicant's ability. Prescreening repertoire: The recording should contain one composition from solo repertoire and a major composition from collaborative piano repertoire. Final audition repertoire: Solo repertoire: one memorized major solo work of the applicant's choice. Final audition repertoire: Instrumental repertoire: choose the first movement of one of the listed sonatas: Mozart Sonata for violin and piano in B-flat Major, K. 454; Beethoven Sonata for violin and piano in F major, Op. 24. Final audition repertoire: Vocal repertoire: prepare both songs in original keys: Brahms Meine Liebe ist grün in F sharp; Debussy Beau Soir in E. Additional repertoire notes: Applicants may bring their own instrumentalist and vocalist; applicants needing MSU to provide partners must notify Dr. Zhihua Tang at least two weeks before the audition date.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Collaborative Piano Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/collaborative-piano-audition-material-ma/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Fall application deadline: December 1 for both the MSU Graduate Application and the College of Music Supplemental Application. Prescreening deadline: December 1 for MM Collaborative Piano prescreening videos. Timeline: prescreening recordings are reviewed beginning the week after the December 1 deadline. Timeline: applicants are notified by email whether they are invited for a live audition. Assistantship deadline: applicants seeking piano teaching assistantship consideration must file the Piano Assistantship form at least two weeks before the scheduled audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU College of Music How to Apply and Timeline",
+                "url": "https://music.msu.edu/admissions/masters-admissions/how-to-apply-and-timeline/"
+              },
+              {
+                "label": "MSU Master of Music in Collaborative Piano",
+                "url": "https://music.msu.edu/admissions/masters-admissions/master-of-music-in-collaborative-piano/"
+              },
+              {
+                "label": "MSU Collaborative Piano Audition Material",
+                "url": "https://music.msu.edu/admissions/masters-admissions/collaborative-piano-audition-material-ma/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicants whose first language is not English must demonstrate English language competency through MSU-approved evidence or tests. Minimum scores: TOEFL iBT 80 with no subscore below 19 and writing 22 for tests before January 21, 2026; TOEFL PBT: 550 with no subscores below 52 for tests before January 21, 2026; TOEFL after January 21, 2026: 4.5 total with reading and speaking at least 4 and listening and writing at least 4.5; IELTS: 6.5 with no subscore below 6.0; MSUELT: 80-85 average with no subscore below 80, or average 85 with no subscore below 78; PTE Academic: 53 overall with no reading, listening, or speaking subscore below 51 and writing not below 59; CELP: 65 with no subscore below 15 and writing 17. Validity: English language test scores are valid for two years. Notes: MSU's English Language Competency page refers applicants to the Academic Programs catalog for the current list of accepted tests and minimums; applicants should confirm score-reporting instructions in the application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "MSU Graduate English Language Competency",
+                "url": "https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency"
+              },
+              {
+                "label": "MSU Academic Programs Catalog - English Language Competency",
+                "url": "https://reg.msu.edu/AcademicPrograms/Text.aspx?Section=111#s336"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
