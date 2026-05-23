@@ -2630,53 +2630,32 @@
           "url": "https://www.music.indiana.edu/admissions/how-to-apply/graduate.html"
         },
         {
+          "label": "Jacobs Auditions and Prescreening",
+          "url": "https://www.music.indiana.edu/admissions/auditions/"
+        },
+        {
           "label": "Jacobs Piano Auditions",
           "url": "https://www.music.indiana.edu/admissions/auditions/piano.html"
         },
         {
+          "label": "Jacobs Piano Area",
+          "url": "https://music.indiana.edu/degrees-programs/areas-of-study/piano.html"
+        },
+        {
           "label": "Jacobs Collaborative Piano Auditions",
-          "url": "https://music.indiana.edu/admissions/auditions/collaborative-piano.html"
+          "url": "https://www.music.indiana.edu/admissions/auditions/collaborative-piano.html"
+        },
+        {
+          "label": "Jacobs Collaborative Piano Area",
+          "url": "https://music.indiana.edu/degrees-programs/areas-of-study/collaborative-piano.html"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Submit both the IU Graduate School application and the Jacobs School of Music Supplemental Application.",
+            "value": "Step 1: submit the IU Graduate School application by December 1. Step 2: submit the Jacobs School Supplemental Application by December 1. The Jacobs Supplemental Application should include prescreening materials if applicable, email addresses for three recommenders, and academic materials such as transcripts and TOEFL or IELTS scores if the applicant's native language is not English. If unofficial records are uploaded through the Jacobs Supplemental Application, official documents must also be sent directly to the Jacobs School Admissions Office; international students submit academic records to the Office of International Services. The Jacobs Supplemental Application also lets applicants state teacher preferences, but studio placement depends on faculty space and student requests.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "Jacobs Graduate How to Apply",
-                "url": "https://www.music.indiana.edu/admissions/how-to-apply/graduate.html"
-              }
-            ]
-          },
-          "auditionRequirements": {
-            "value": "All graduate piano applicants submit prescreen recordings through the Jacobs Supplemental Application by December 1. Select applicants are invited to live audition; 2026-27 piano audition dates listed are January 30-31, February 13-15, and February 27-28, 2026.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "Jacobs Piano Auditions",
-                "url": "https://www.music.indiana.edu/admissions/auditions/piano.html"
-              }
-            ]
-          },
-          "repertoireRequirements": {
-            "value": "MM Piano repertoire: prepare an audition program of substantial scope and length including works from at least three different stylistic periods, presented in their entirety. All pieces must be memorized. Prescreening should include the audition program and a complete repertoire list.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "Jacobs Piano Auditions",
-                "url": "https://www.music.indiana.edu/admissions/auditions/piano.html"
-              }
-            ]
-          },
-          "deadlines": {
-            "value": "Graduate deadline: December 1 for the IU Graduate School application and the Jacobs Supplemental Application. Prescreening materials are due December 1 when applicable. Recorded final auditions are due February 15 for applicants submitting final recorded auditions.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Jacobs Graduate How to Apply",
@@ -2688,10 +2667,55 @@
               }
             ]
           },
-          "englishScores": {
-            "value": "For MM applicants, Jacobs lists TOEFL 84 iBT / 223 computer / 560 paper, or IELTS 6.5. Scores are required if the applicant's native language is not English; for most non-native English speaking graduate applicants, the general score due date is March 1, while specified programs have December 1.",
+          "auditionRequirements": {
+            "value": "Prescreening: all graduate and diploma piano applicants submit prescreen recordings through the Jacobs Supplemental Application by December 1. Prescreening contents: video recording of an audition program that meets the repertoire requirements, plus a complete repertoire list of all works performed or studied at the time of application. Recording specifications: all pieces must be from memory; videos must be unedited and produced without artificial enhancement such as echo or electronic reverb; the performance piano must be of adequate quality and in tune. Live audition: select applicants are invited based on prescreening review and receive a schedule by email 3-4 weeks before the audition. Associate Instructor note: applicants who want to be considered for a Piano AI position must perform a live audition, indicate interest in the Jacobs Supplemental Application, and, if invited, complete an AI interview exploring pedagogical background and readiness to teach in English. Recorded audition option: applicants unable to attend a live weekend may request an ad hoc audition or select the recorded audition option; final audition videos are due by February 15. Doctoral applicants must perform a live on-campus audition, but this restriction is not stated for M.M. applicants.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Jacobs Piano Auditions",
+                "url": "https://www.music.indiana.edu/admissions/auditions/piano.html"
+              },
+              {
+                "label": "Jacobs Auditions and Prescreening",
+                "url": "https://www.music.indiana.edu/admissions/auditions/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Video recording of the audition program meeting the repertoire requirements below. Prescreening repertoire: Complete repertoire list of all works performed or studied at the time of application. Prescreening repertoire: All pieces must be presented from memory. Prescreening repertoire: Recordings must be unedited and produced without artificial enhancement such as echo or electronic reverb; performance piano must be of adequate quality and in tune. Final audition repertoire: Master of Music and Performer Diploma Solo Performance applicants prepare an audition program of substantial scope and length including works from at least three differing stylistic periods, presented in their entirety. Final audition repertoire: All pieces must be presented from memory. Additional repertoire notes: The current Piano audition page states that its information is for entry into the 2027-28 school year, while the general Graduate How to Apply page still labels its application information as Fall 2026. Keep this cycle note visible when advising applicants.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Jacobs Piano Auditions",
+                "url": "https://www.music.indiana.edu/admissions/auditions/piano.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "IU Graduate School application deadline: December 1. Jacobs Supplemental Application deadline: December 1. Piano graduate/diploma prescreening deadline: December 1. Current Piano audition page cycle note: the Piano page states entry into the 2027-28 school year and lists live audition dates January 29-30, February 5-6, and February 26-27, 2027. Final recorded audition deadline: February 15. English score deadline for M.M. Piano Performance applicants whose native language is not English: March 1; the December 1 English-score deadline applies to Piano D.M. applicants, not M.M. Piano applicants. Admission decisions are expected no later than April 1. Graduate enrollment response deadline: April 15. Spring admission is limited; applications are due October 1.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Jacobs Graduate How to Apply",
+                "url": "https://www.music.indiana.edu/admissions/how-to-apply/graduate.html"
+              },
+              {
+                "label": "Jacobs Piano Auditions",
+                "url": "https://www.music.indiana.edu/admissions/auditions/piano.html"
+              },
+              {
+                "label": "Jacobs Auditions and Prescreening",
+                "url": "https://www.music.indiana.edu/admissions/auditions/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: if the applicant's native language is not English, a TOEFL or IELTS score is required to demonstrate English proficiency. Minimum scores for Master of Music applicants: TOEFL iBT 84. Minimum scores for Master of Music applicants: TOEFL computer 223. Minimum scores for Master of Music applicants: TOEFL paper 560. Minimum scores for Master of Music applicants: IELTS 6.5. Timing: applicants in Voice (all), Piano D.M. only, Conducting, Musicology, Graduate Music Education, and Music Theory submit scores by December 1; all other non-native English speaking applicants, including M.M. Piano Performance applicants, submit scores by March 1. Notes: Jacobs states there are no exceptions to the TOEFL/IELTS requirement and scores must be submitted for an admission decision to be made.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Jacobs Graduate How to Apply",
@@ -2704,9 +2728,9 @@
             ]
           },
           "applicationFee": {
-            "value": "Application fee: $70.",
+            "value": "Application fees: IU Graduate School application fee $70; Jacobs School Supplemental Application fee $50. Both applications are required for graduate admission consideration.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Jacobs Graduate How to Apply",
@@ -2717,42 +2741,9 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Submit both the IU Graduate School application and the Jacobs School of Music Supplemental Application.",
+            "value": "Step 1: submit the IU Graduate School application by December 1. Step 2: submit the Jacobs School Supplemental Application by December 1. Collaborative Piano applicants must also submit a prescreening portfolio through the Jacobs Supplemental Application by December 1. The collaborative program page lists Master of Music in Performance as the graduate program route and describes options including a balanced track, an instrumental-emphasis track, and a vocal-emphasis track; applicants are expected to participate in both vocal and instrumental collaboration and do not need to declare an emphasis before auditioning.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "Jacobs Graduate How to Apply",
-                "url": "https://www.music.indiana.edu/admissions/how-to-apply/graduate.html"
-              }
-            ]
-          },
-          "auditionRequirements": {
-            "value": "All collaborative piano applicants submit a prescreening portfolio by December 1. Select applicants are invited to a live on-campus audition. For 2027-2028 entry, listed collaborative audition dates are January 29-30, February 5-6, and February 26-27, 2027.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "Jacobs Collaborative Piano Auditions",
-                "url": "https://music.indiana.edu/admissions/auditions/collaborative-piano.html"
-              }
-            ]
-          },
-          "repertoireRequirements": {
-            "value": "MM Collaborative Piano prescreening: up to 20 minutes of recent live collaborative performance video, collaborative repertoire list, resume, and an additional recommendation from a collaborative-work professional. Live audition: choose either two arias, two concerto movements, or one aria plus one concerto movement; plus a complete standard instrumental sonata/duo, six art songs in French/German/English repertoire, sight-reading, quick-learn project, and interview.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "Jacobs Collaborative Piano Auditions",
-                "url": "https://music.indiana.edu/admissions/auditions/collaborative-piano.html"
-              }
-            ]
-          },
-          "deadlines": {
-            "value": "Graduate deadline: December 1 for the IU Graduate School application and the Jacobs Supplemental Application. Collaborative Piano prescreening portfolio is due December 1.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Jacobs Graduate How to Apply",
@@ -2760,14 +2751,63 @@
               },
               {
                 "label": "Jacobs Collaborative Piano Auditions",
-                "url": "https://music.indiana.edu/admissions/auditions/collaborative-piano.html"
+                "url": "https://www.music.indiana.edu/admissions/auditions/collaborative-piano.html"
+              },
+              {
+                "label": "Jacobs Collaborative Piano Area",
+                "url": "https://music.indiana.edu/degrees-programs/areas-of-study/collaborative-piano.html"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: all Collaborative Piano applicants submit a prescreening portfolio through the Jacobs Supplemental Application by December 1. Live audition: select applicants are invited to a live on-campus audition after prescreening review; vocal and instrumental partners are supplied for live auditions. If invited, applicants receive their schedule by email. Ad hoc audition: if an applicant cannot attend one of the audition weekends, an ad hoc audition may be arranged by department approval; applicants email musicadm@iu.edu to request this and, if approved, arrange details directly with the department chair. All required application materials must be submitted by the deadline for such arrangements. Interview: M.M. live audition includes an interview with collaborative faculty. Quick-learn: M.M. applicants receive a short quick-learn project by email one week before the scheduled audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Jacobs Collaborative Piano Auditions",
+                "url": "https://www.music.indiana.edu/admissions/auditions/collaborative-piano.html"
+              },
+              {
+                "label": "Jacobs Auditions and Prescreening",
+                "url": "https://www.music.indiana.edu/admissions/auditions/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A high-quality video recording of up to twenty minutes of recent live collaborative performance(s) that best show the applicant's pianistic and collaborative skill set. Prescreening repertoire: Updated collaborative repertoire list, with vocal and instrumental repertoire organized separately. Prescreening repertoire: Updated resume. Prescreening repertoire: Additional recommendation letter from a professional, other than the major teacher, who knows the applicant's collaborative work; this is separate from the recommendations required in the Jacobs Supplemental Application and should be sent directly to Prof. Anne Epperson at epp303@iu.edu. Final audition repertoire: Choose one option: two standard operatic arias, one from a Mozart opera and a contrasting selection; or two contrasting movements of a standard instrumental concerto; or one aria and one movement of a concerto in contrasting styles. Final audition repertoire: PLUS a complete standard instrumental sonata/duo. Final audition repertoire: PLUS six standard art songs representing French, German, and English language repertoire. Final audition repertoire: PLUS sight-reading. Final audition repertoire: PLUS a short quick-learn project sent one week before the scheduled audition. Final audition repertoire: PLUS interview with collaborative faculty. Additional repertoire notes: Live audition repertoire varies by degree program, and the M.M. requirements above are the applicable requirements for Master of Music Collaborative Piano. Additional repertoire notes: Jacobs supplies vocal and instrumental partners for live auditions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Jacobs Collaborative Piano Auditions",
+                "url": "https://www.music.indiana.edu/admissions/auditions/collaborative-piano.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "IU Graduate School application deadline: December 1. Jacobs Supplemental Application deadline: December 1. Collaborative Piano prescreening portfolio deadline: December 1. Current Collaborative Piano audition page cycle note: the page states entry into the 2026-2027 school year and lists live audition dates January 30-31, February 13-15, and February 27-28, 2026. English score deadline for M.M. Collaborative Piano applicants whose native language is not English: March 1. Admission decisions are expected no later than April 1. Graduate enrollment response deadline: April 15. Spring admission is limited; applications are due October 1.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Jacobs Graduate How to Apply",
+                "url": "https://www.music.indiana.edu/admissions/how-to-apply/graduate.html"
+              },
+              {
+                "label": "Jacobs Collaborative Piano Auditions",
+                "url": "https://www.music.indiana.edu/admissions/auditions/collaborative-piano.html"
+              },
+              {
+                "label": "Jacobs Auditions and Prescreening",
+                "url": "https://www.music.indiana.edu/admissions/auditions/"
               }
             ]
           },
           "englishScores": {
-            "value": "For MM applicants, Jacobs lists TOEFL 84 iBT / 223 computer / 560 paper, or IELTS 6.5. Scores are required if the applicant's native language is not English; most non-native English speaking graduate applicants have a March 1 score due date unless their program specifies December 1.",
+            "value": "Applicability: if the applicant's native language is not English, a TOEFL or IELTS score is required to demonstrate English proficiency. Minimum scores for Master of Music applicants: TOEFL iBT 84. Minimum scores for Master of Music applicants: TOEFL computer 223. Minimum scores for Master of Music applicants: TOEFL paper 560. Minimum scores for Master of Music applicants: IELTS 6.5. Timing: applicants in Voice (all), Piano D.M. only, Conducting, Musicology, Graduate Music Education, and Music Theory submit scores by December 1; all other non-native English speaking applicants, including M.M. Collaborative Piano applicants, submit scores by March 1. Notes: Jacobs states there are no exceptions to the TOEFL/IELTS requirement and scores must be submitted for an admission decision to be made.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Jacobs Graduate How to Apply",
@@ -2776,9 +2816,9 @@
             ]
           },
           "applicationFee": {
-            "value": "Application fee: $70.",
+            "value": "Application fees: IU Graduate School application fee $70; Jacobs School Supplemental Application fee $50. Both applications are required for graduate admission consideration.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Jacobs Graduate How to Apply",
@@ -2787,7 +2827,11 @@
             ]
           }
         }
-      }
+      },
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ]
     },
     {
       "id": "kent-state-university",

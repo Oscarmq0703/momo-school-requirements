@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-fsu-audit-v17";
+const DATA_VERSION = "2026-05-24-iu-audit-v18";
 
 const state = {
   data: null,
