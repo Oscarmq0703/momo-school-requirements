@@ -1,0 +1,131 @@
+{
+  "schools": [
+    {
+      "id": "ohio-state-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "Ohio State School of Music Graduate Degrees",
+          "url": "https://music.osu.edu/future/graduate/degrees"
+        },
+        {
+          "label": "Ohio State School of Music Graduate How to Apply",
+          "url": "https://music.osu.edu/future/graduate/apply"
+        },
+        {
+          "label": "Ohio State Graduate Piano Auditions",
+          "url": "https://music.osu.edu/future/graduate-apply/auditions/piano"
+        },
+        {
+          "label": "Ohio State MM Piano Performance",
+          "url": "https://music.osu.edu/future/grad/degrees/mm-piano-perf"
+        },
+        {
+          "label": "Ohio State Graduate Admissions Apply Online",
+          "url": "https://gpadmissions.osu.edu/grad/apply-online.html"
+        },
+        {
+          "label": "Ohio State International Additional Requirements",
+          "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through Ohio State's online graduate application. The School of Music graduate application page instructs applicants to check Graduate School admission requirements, gather materials, and complete the online application at gradapply.osu.edu. Required documents for all School of Music graduate programs include transcripts, three letters of reference, a 1-2 page statement of purpose, and a two-page CV or resume. Performance applicants should include a repertoire list in the resume. Program-specific materials for Piano Performance must be uploaded as PDFs in the appropriate Final Steps/Submit tab areas, including the pre-screen video links in the Audition attachment. International applicants whose native language is not English must submit proof of English proficiency when they apply unless the requirement is waived.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Ohio State School of Music Graduate How to Apply",
+                "url": "https://music.osu.edu/future/graduate/apply"
+              },
+              {
+                "label": "Ohio State Graduate Admissions Apply Online",
+                "url": "https://gpadmissions.osu.edu/grad/apply-online.html"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $60 for U.S. students and $70 for international students for each regular or supplemental Ohio State graduate application. The fee is nonrefundable and the application is not processed until the fee is paid and authorized. Fee waivers may be available for eligible applicants; waiver requests may delay processing, so Ohio State recommends applying at least 10 days early.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Ohio State Graduate Admissions Apply Online",
+                "url": "https://gpadmissions.osu.edu/grad/apply-online.html"
+              },
+              {
+                "label": "Ohio State Application Fee Waivers",
+                "url": "https://gpadmissions.osu.edu/apply/waiver.html"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: all Piano Performance applicants must submit a Pre-Screen Audition Video with the application. Submission format: upload an unedited video audition to YouTube, set privacy to Unlisted, and include full links to the videos on a PDF uploaded as the Audition attachment in the Final Steps/Submit page of the application. Fellowship/GTA consideration: applicants who wish to be considered for a fellowship or graduate teaching associate position must submit a teaching demonstration video; the demonstration should be a 15-20 minute segment of a private or group lesson with students at any age and level, and must be in English. Full audition: applicants are notified by a member of the piano faculty if they are chosen to move on and are given the opportunity to audition in person or submit a video performance. Video performance option: upload the video to YouTube as Unlisted, include full links on a PDF, and submit through the Admissions Uploader. Live audition dates: Saturday, January 17, 2026 for fellowship consideration; Saturday, February 14, 2026. Contact: questions should be directed to Lynn Singleton, graduate piano audition coordinator.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Ohio State School of Music Graduate How to Apply",
+                "url": "https://music.osu.edu/future/graduate/apply"
+              },
+              {
+                "label": "Ohio State Graduate Piano Auditions",
+                "url": "https://music.osu.edu/future/graduate-apply/auditions/piano"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Perform the first movement of a Classical Sonata; Schubert is accepted. Prescreening repertoire: Perform one virtuosic etude. Final audition repertoire: All music is to be performed from memory. Final audition repertoire: The audition program should demonstrate the applicant's musical, technical, intellectual, and interpretive abilities. Final audition repertoire: MM Piano Performance applicants prepare 35 minutes of solo music representing three different style periods. Final audition repertoire: At least two choices should be large-form works. Additional repertoire notes: Ohio State gives examples of large-form solo works by style area, including Baroque preludes and fugues, Bach or Handel keyboard suites, Bach Italian Concerto, Chromatic Fantasy and Fugue; Classical complete sonatas, Haydn Fantasy, Mozart C Minor Fantasy, larger variations; Romantic complete sonatas, complete sets of character pieces, Chopin Ballades, Scherzi, Fantasy Op. 49, Schumann Kreisleriana, variations; Nationalism/Post-Romantic Ginastera, Hindemith, Scriabin, Prokofiev sonatas and Janacek On an Overgrown Path; and Second Viennese School and beyond, including Berg Sonata, Schoenberg, Webern, Boulez Sonata, and Sessions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Ohio State School of Music Graduate How to Apply",
+                "url": "https://music.osu.edu/future/graduate/apply"
+              },
+              {
+                "label": "Ohio State Graduate Piano Auditions",
+                "url": "https://music.osu.edu/future/graduate-apply/auditions/piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application deadline: Monday, December 8, 2025 for the 2026-2027 academic year. Prescreening deadline: the Piano Performance Pre-Screen Audition Video is submitted with the application by the application deadline. Live piano audition date for fellowship consideration: Saturday, January 17, 2026. Live piano audition date: Saturday, February 14, 2026. English proficiency timing: international applicants whose native language is not English must submit official proof of English proficiency when they apply; score results must be received directly from the testing agency by the application deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Ohio State School of Music Graduate How to Apply",
+                "url": "https://music.osu.edu/future/graduate/apply"
+              },
+              {
+                "label": "Ohio State International Additional Requirements",
+                "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: Ohio State requires official TOEFL, Duolingo, or IELTS Academic test scores from international applicants unless they meet a listed exemption. Minimum scores: TOEFL iBT 79 or TOEFL iBT Home Edition 79; updated TOEFL launched January 2026: 4.0; IELTS Academic 7.0 or IELTS Online 7.0; Duolingo English Test 120. Timing: official score results must be received directly from the testing agency by the application deadline. Validity: Duolingo, IELTS, and TOEFL scores are valid for two years. TOEFL reporting: use ETS institution code 1592. Notes: Ohio State does not accept MyBest TOEFL scores and does not accept IELTS One Skill Retake scores. Notes: some programs only accept IELTS and TOEFL; applicants should review program-specific admission requirements before scheduling Duolingo. GTA note: Duolingo cannot be used to exempt an admitted student from the English placement exam or the Oral Proficiency Assessment for Graduate Teaching Associates. Waiver: requirement is waived for citizens of, or applicants who will have received a bachelor's degree or higher by matriculation from, one of Ohio State's listed English-proficiency-exempt countries or territories, and for applicants who have held U.S. permanent resident, asylee, or refugee status for more than one year by the start term.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Ohio State International Additional Requirements",
+                "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html"
+              },
+              {
+                "label": "Ohio State School of Music Graduate How to Apply",
+                "url": "https://music.osu.edu/future/graduate/apply"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
