@@ -1,0 +1,212 @@
+{
+  "schools": [
+    {
+      "id": "new-england-conservatory",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "NEC Graduate Applicants",
+          "url": "https://necmusic.edu/admissions/graduate-applicants/"
+        },
+        {
+          "label": "NEC Audition Requirements",
+          "url": "https://necmusic.edu/admissions/audition-requirements/"
+        },
+        {
+          "label": "NEC MM Piano Auditions",
+          "url": "https://necmusic.edu/auditions/mm-piano/"
+        },
+        {
+          "label": "NEC MM Collaborative Piano Auditions",
+          "url": "https://necmusic.edu/auditions/mm-collab-piano/"
+        },
+        {
+          "label": "NEC Application Portal",
+          "url": "https://apply.necmusic.edu/apply/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through NEC's online application. To complete an application for graduate admission, submit the online application by December 1. Upload required materials in the online application; NEC says incomplete applications will not be considered. Graduate application materials include the conservatory application, prescreening video recording or portfolio, unofficial transcripts, short essays for Master's/Graduate Diploma/Graduate Certificate applicants, artistic resume, English proficiency score if required, and letters of recommendation. Master of Music admission requires a completed bachelor's degree or recognized equivalent from an accredited college or university.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              },
+              {
+                "label": "NEC Application Portal",
+                "url": "https://apply.necmusic.edu/apply/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $125 non-refundable fee payable by credit card when the application is submitted. If applying to more than one major/program, submit a separate application and fee for each major/program. NEC alumni and current students: $75 for each major/program. Professional String Quartet and Piano Trio: $40 per member. NEC does not grant fee waivers for graduate applicants.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: all programs require a prescreening video recording or portfolio due at the online application deadline of December 1. Review process: applicants who advance through prescreening are invited to audition live at NEC or, in select situations, submit a final audition recording. Recording requirements: each piece or movement must be performed in a single, unedited take except Contemporary Musical Arts recordings. File labeling: each piece, movement of a multi-movement work, or composition score should be submitted separately and labeled with composer, work title, and movement if applicable. Video quality: professional production is not required, but sound quality should accurately represent the performance; lighting should be adequate and the camera should show full range of movement and use of instrument. Piano-specific recorded audition note: applicants who already submitted recordings of a complete program for prescreening are not required to submit additional audition recordings. Final recorded auditions: all recordings must be recent and recorded no earlier than the previous June. Video auditions are due February 1 for approved applicants and are only allowed for applicants to certain programs who live outside a 500-mile radius of NEC.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Audition Requirements",
+                "url": "https://necmusic.edu/admissions/audition-requirements/"
+              },
+              {
+                "label": "NEC MM Piano Auditions",
+                "url": "https://necmusic.edu/auditions/mm-piano/"
+              },
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A complete Classical sonata, for example music by Beethoven, Haydn, Mozart, Schubert, or others. Prescreening repertoire: A substantial Romantic work, for example music by Chopin, Schumann, Brahms, Liszt, Mendelssohn, or others. Prescreening repertoire: A fast etude. Final audition repertoire: A complete Classical sonata, all movements. Final audition repertoire: A substantial Romantic work. Final audition repertoire: A fast etude. Final audition repertoire: A piece chosen by the applicant that contrasts in style to the other audition pieces. Final audition repertoire: All works must be performed from memory, with the possible exception of challenging contemporary music. Recorded audition repertoire: A complete Classical sonata, all movements. Recorded audition repertoire: A substantial Romantic work. Recorded audition repertoire: A fast etude. Recorded audition repertoire: A piece chosen by the applicant that contrasts in style and period to the other audition pieces. Additional repertoire notes: NEC says the audition repertoire is viewed as a statement of artistic identity, even though pianists are not accepted or rejected on the basis of selected pieces. Additional repertoire notes: NEC encourages diverse repertoire, including works by women, people from historically underrepresented racial/ethnic groups, and/or musicians from the applicant's own cultural background.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC MM Piano Auditions",
+                "url": "https://necmusic.edu/auditions/mm-piano/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Spring admission note: applications for Spring admission are open and due November 1; applicants should contact Admissions about openings or studio space. Fall application opens: September 15. Fall application and prescreening video due: December 1. Letters of recommendation and English proficiency test scores due: January 15. Institutional Aid Application and FAFSA deadline for applicants applying for aid: February 15. TOEFL or IELTS re-test score reports due if applicable: March 1. Admission decision letters and financial aid award letters sent: late March. Enrollment decisions due: April 15. Live auditions: February at NEC. Video auditions due for approved applicants: February 1.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              },
+              {
+                "label": "NEC Audition Requirements",
+                "url": "https://necmusic.edu/admissions/audition-requirements/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: an official TOEFL, IELTS, or Duolingo English Test score is required of applicants for whom English is not a native language, including U.S. citizens and permanent residents. Minimum scores: TOEFL iBT 79; IELTS 6.5; Duolingo English Test 110. Validity: applicants may upload an official score report from within the past two years with the application. TOEFL institution code: 3659. Notes: NEC does not accept scores from anything other than TOEFL, IELTS, or the Duolingo English Test. Exemptions: waivers may be granted for applicants who completed a full-time degree program at a U.S. college or university or a diploma at a U.S. high school. Exemptions: applicants who will have completed a full-time degree program at a non-U.S. college or university where English is the language of instruction may request an exemption by uploading a written statement of at least 100 words describing their experience with English. Notes: NEC may request additional information, and no offer of admission will be made until English proficiency has been demonstrated.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through NEC's online application. To complete an application for graduate admission, submit the online application by December 1. Upload required materials in the online application; NEC says incomplete applications will not be considered. Graduate application materials include the conservatory application, prescreening video recording or portfolio, unofficial transcripts, short essays for Master's/Graduate Diploma/Graduate Certificate applicants, artistic resume, English proficiency score if required, and letters of recommendation. Collaborative Piano applicants must also submit both an audition repertoire list and a complete repertoire list, instrumental and vocal, with the application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              },
+              {
+                "label": "NEC MM Collaborative Piano Auditions",
+                "url": "https://necmusic.edu/auditions/mm-collab-piano/"
+              },
+              {
+                "label": "NEC Application Portal",
+                "url": "https://apply.necmusic.edu/apply/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $125 non-refundable fee payable by credit card when the application is submitted. If applying to more than one major/program, submit a separate application and fee for each major/program. NEC alumni and current students: $75 for each major/program. Professional String Quartet and Piano Trio: $40 per member. NEC does not grant fee waivers for graduate applicants.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: all programs require a prescreening video recording or portfolio due at the online application deadline of December 1. Review process: applicants who advance through prescreening are invited to audition live at NEC or, in select situations, submit a final audition recording. Recording requirements: each piece or movement must be performed in a single, unedited take except Contemporary Musical Arts recordings; files should be separate and clearly labeled. Live audition requirements: Collaborative Piano candidates may be asked to sight-read vocal or instrumental works during the audition. Repertoire lists: both an audition repertoire list and a complete repertoire list, instrumental and vocal, must be submitted with the application. Changes: any changes to audition requirements must be discussed with Cameron Stowe, Chair of Collaborative Piano, at least four weeks before the scheduled audition. Partners: applicants may bring their own vocalists and instrumentalists or may request to perform with collaborative partners from NEC. Recorded audition option: recorded auditions require at least 30 minutes of duo repertoire with a variety of musical styles, including both piano-instrumental and piano-vocal works. Video auditions are due February 1 for approved applicants and are only allowed for applicants to certain programs who live outside a 500-mile radius of NEC.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Audition Requirements",
+                "url": "https://necmusic.edu/admissions/audition-requirements/"
+              },
+              {
+                "label": "NEC MM Collaborative Piano Auditions",
+                "url": "https://necmusic.edu/auditions/mm-collab-piano/"
+              },
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Submit a recording with four selections. Prescreening repertoire: Two of the four vocal repertoire songs listed under the live audition requirements. Prescreening repertoire: One movement from the Beethoven violin or cello sonata the applicant plans to present at the audition. Prescreening repertoire: One additional movement from a work for piano and solo instrument; this may be another movement from the Beethoven sonata or a different instrumental work. Final audition repertoire: Prepare all three live audition categories. Final audition repertoire: Vocal repertoire, all high keys: Schubert Frühlingstraum from Winterreise; Brahms Botschaft; Debussy Il pleure dans mon coeur; Barber St. Ita's Vision. Final audition repertoire: One complete Beethoven sonata from the following: Beethoven Violin Sonata No. 7 in C minor, Op. 30 No. 2; Beethoven Violin Sonata No. 5 in F Major, Op. 24; Beethoven Cello Sonata No. 3 in A Major, Op. 69; Beethoven Cello Sonata No. 4 in C Major, Op. 102 No. 1. Final audition repertoire: Brahms Violin Sonata No. 2 in A Major, Op. 100, first movement only, or Brahms Violin Sonata No. 3 in D Minor, Op. 108, first movement only. Recorded audition repertoire: Submit a video of at least 30 minutes of duo repertoire, including a variety of musical styles. Recorded audition repertoire: At least 20 minutes of the recording should be piano-instrumental repertoire, and at least one piece or movement should be from the Classical period. Recorded audition repertoire: At least 10 minutes of the recording should be piano-vocal repertoire, art songs, showing a variety of styles. Additional repertoire notes: The live audition requirements may be used as a guide for recorded auditions, but those exact pieces are not required for recorded auditions. Additional repertoire notes: Applicants with questions about substitutions should contact Cameron Stowe, Chair of Collaborative Piano.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC MM Collaborative Piano Auditions",
+                "url": "https://necmusic.edu/auditions/mm-collab-piano/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Spring admission note: applications for Spring admission are open and due November 1; applicants should contact Admissions about openings or studio space. Fall application opens: September 15. Fall application and prescreening video due: December 1. Letters of recommendation and English proficiency test scores due: January 15. Institutional Aid Application and FAFSA deadline for applicants applying for aid: February 15. TOEFL or IELTS re-test score reports due if applicable: March 1. Admission decision letters and financial aid award letters sent: late March. Enrollment decisions due: April 15. Live auditions: February at NEC. Video auditions due for approved applicants: February 1.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              },
+              {
+                "label": "NEC Audition Requirements",
+                "url": "https://necmusic.edu/admissions/audition-requirements/"
+              },
+              {
+                "label": "NEC MM Collaborative Piano Auditions",
+                "url": "https://necmusic.edu/auditions/mm-collab-piano/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: an official TOEFL, IELTS, or Duolingo English Test score is required of applicants for whom English is not a native language, including U.S. citizens and permanent residents. Minimum scores: TOEFL iBT 79; IELTS 6.5; Duolingo English Test 110. Validity: applicants may upload an official score report from within the past two years with the application. TOEFL institution code: 3659. Notes: NEC does not accept scores from anything other than TOEFL, IELTS, or the Duolingo English Test. Exemptions: waivers may be granted for applicants who completed a full-time degree program at a U.S. college or university or a diploma at a U.S. high school. Exemptions: applicants who will have completed a full-time degree program at a non-U.S. college or university where English is the language of instruction may request an exemption by uploading a written statement of at least 100 words describing their experience with English. Notes: NEC may request additional information, and no offer of admission will be made until English proficiency has been demonstrated.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "NEC Graduate Applicants",
+                "url": "https://necmusic.edu/admissions/graduate-applicants/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

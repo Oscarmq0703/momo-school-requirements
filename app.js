@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-msu-audit-v23";
+const DATA_VERSION = "2026-05-24-nec-audit-v24";
 
 const state = {
   data: null,
@@ -454,12 +454,12 @@ function parseRepertoireSections(text) {
 }
 
 function repertoireMarkerRegex() {
-  return /\b(Prescreening(?: requirements| repertoire)?|Pre-?screening(?: requirements| repertoire)?|Final audition(?: repertoire| requirements)?|Audition repertoire|Live audition(?: repertoire| requirements)?|Additional repertoire notes?)\s*:\s*/gi;
+  return /\b(Prescreening(?: requirements| repertoire)?|Pre-?screening(?: requirements| repertoire)?|Final audition(?: repertoire| requirements)?|Audition repertoire|Live audition(?: repertoire| requirements)?|Recorded audition(?: repertoire| requirements)?|Additional repertoire notes?)\s*:\s*/gi;
 }
 
 function sectionFromRepertoireMarker(marker) {
   if (/pre-?screen|prescreen/i.test(marker)) return "prescreening";
-  if (/final audition|audition repertoire|live audition/i.test(marker)) return "final";
+  if (/final audition|audition repertoire|live audition|recorded audition/i.test(marker)) return "final";
   return "notes";
 }
 
@@ -497,6 +497,8 @@ function parseRepertoireMarker(item) {
     [/^Audition\s*:\s*/i, "final"],
     [/^Live audition(?: repertoire| requirements)?\s*:\s*/i, "final"],
     [/^Live audition(?: repertoire| requirements)?\s+/i, "final"],
+    [/^Recorded audition(?: repertoire| requirements)?\s*:\s*/i, "final"],
+    [/^Recorded audition(?: repertoire| requirements)?\s+/i, "final"],
     [/^Additional repertoire notes?\s*:\s*/i, "notes"],
     [/^Additional repertoire notes?\s+/i, "notes"],
   ];
