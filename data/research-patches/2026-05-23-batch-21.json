@@ -1,0 +1,212 @@
+{
+  "schools": [
+    {
+      "id": "bowling-green-state-university",
+      "sourceStatus": "verified",
+      "officialSources": [
+        {
+          "label": "BGSU Keyboard Master of Music",
+          "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+        },
+        {
+          "label": "BGSU Collaborative Piano MM",
+          "url": "https://www.bgsu.edu/academics/graduate/music-performance-collaborative-piano-masters"
+        },
+        {
+          "label": "BGSU Music Performance: Piano MM",
+          "url": "https://www.bgsu.edu/academics/graduate/music-performance-piano-masters.html"
+        },
+        {
+          "label": "BGSU Graduate Application Instructions",
+          "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions.html"
+        },
+        {
+          "label": "BGSU Graduate Admissions Deadlines",
+          "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions/gradadmissionsdeadlines.html"
+        },
+        {
+          "label": "BGSU International Graduate Admission Requirements",
+          "url": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html"
+        },
+        {
+          "label": "BGSU Graduate Admissions ESL Requirements Policy",
+          "url": "https://www.bgsu.edu/policies/academic-affairs/3341-3-78"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Step 1: submit the BGSU Graduate College Application for the Master of Music program. Step 2: complete the College of Musical Arts Secondary Application section inside the Graduate College application. In that secondary section, applicants provide names and contact information for principal teachers, indicate assistantship preferences, and either select an audition day or upload a recorded audition in the portfolio section. Step 3: upload scanned transcripts and any program materials; BGSU says applicants do not need all application materials uploaded in order to submit, and may return later to upload materials after submitting. GRE scores are not required for any College of Musical Arts graduate program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              },
+              {
+                "label": "BGSU Graduate Application Instructions",
+                "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions.html"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate application fee: $45 for domestic applicants; $75 for international applicants. Separate-application rule: applicants applying to more than one program must submit a separate application and application fee for each program. Automatic domestic fee waivers listed by BGSU: McNair Scholars, U.S. military veterans, Returned Peace Corps volunteers, and K-12 public school teachers currently employed in the U.S. International fee note: the international application fee is $75 and BGSU states it will not waive application fees for international students.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Graduate Application Instructions",
+                "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions.html"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Audition format: Piano Performance applicants may select an in-person audition date or upload a recorded audition in the portfolio section of the application. Instrumental/voice audition rule: if a program requires an instrumental or voice audition, the applicant must either attend an on-campus audition date or upload a recorded audition; no instrumental or voice auditions are held on the virtual interview day, which is for assistantship interviews and required program interviews only. Assistantship consideration: to be eligible for any graduate assistantship, the applicant must complete a live interview at an audition day, either in person or virtual; no assistantship can be awarded without an interview, except studio assistantships, which may be awarded based on a recorded audition. Applicants who upload a recorded audition and want assistantship consideration outside their major area must also attend the virtual interview day. 2026-2027 audition dates: January 23, 2027 in-person audition day, reservation deadline January 1, 2027; February 6, 2027 in-person audition day, reservation deadline January 15, 2027; February 19, 2027 virtual interview day for graduate programs only, no instrumental or voice auditions, reservation deadline February 1, 2027; February 20, 2027 in-person audition day and deadline for assistantship consideration, reservation deadline February 1, 2027; April 10, 2027 in-person audition day, reservation deadline March 29, 2027.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate prescreening requirement is published on the official BGSU pages checked for Piano Performance; applicants either attend an on-campus audition date or upload a recorded audition in the portfolio section. Final audition repertoire: Applied lessons and/or admission as a performance major: students will be asked to perform three works of different styles from memory. Final audition repertoire: For assistantship consideration: students will be asked to perform three works of different styles, sight-reading, one vocal instrument and one instrumental accompaniment, and discussion of accompanying experience, goals, background, etc.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Program application deadline: Music Performance: Piano - MM, Main campus: Fall August 1; Spring December 1. Program funding deadline: Music Performance: Piano - MM, Main campus: Fall March 1. International general Graduate Admissions deadline: Fall 2026 June 19, 2026; Spring 2027 November 6, 2026, but BGSU says academic programs may set earlier deadlines and applicants should follow the program deadline where earlier. College of Musical Arts audition/funding timing: final audition day for funding consideration is February 20, 2027; candidates should complete the application and campus interview/audition by February 20, 2027 to be assured of assistantship consideration.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Graduate Admissions Deadlines",
+                "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions/gradadmissionsdeadlines.html"
+              },
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT for 2025 and before: 80 old scale; TOEFL iBT for 2026 and beyond: 4 new scale; BGSU ESL policy states the TOEFL new-scale recommended minimum as 4.0; IELTS: 6.5; PTE: 53; Duolingo English Test: 110; ELS Intensive English for Academic Purposes: Level 112. Timing: English proficiency scores are required for international graduate applicants unless exempt, and all application documents are submitted through the BGSU online application. Validity: TOEFL, PTE, IELTS, ELS, or Duolingo scores must be obtained within the last 2 years. Exemptions: applicants do not need to provide English proficiency test scores if they are U.S. citizens, have a previous associate's, bachelor's, master's, or doctorate degree from a U.S. college or university, or are from or earned a degree from a country in which instruction was delivered in English. Notes: BGSU does not accept the TOEFL MyBest Score; applicants admitted with scores below the recommended minimums are required to take ESOL classes within their first two semesters, and satisfactory completion of required ESOL courses is mandatory for continued university funding and graduation.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU International Graduate Admission Requirements",
+                "url": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html"
+              },
+              {
+                "label": "BGSU Graduate Admissions ESL Requirements Policy",
+                "url": "https://www.bgsu.edu/policies/academic-affairs/3341-3-78"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Step 1: submit the BGSU Graduate College Application for the Master of Music in Collaborative Piano. Step 2: complete the College of Musical Arts Secondary Application section inside the Graduate College application. In that secondary section, applicants provide names and contact information for principal teachers, indicate assistantship preferences, and either select an audition day or upload a recorded audition in the portfolio section. Step 3: upload scanned transcripts and any program materials. GRE scores are not required for any College of Musical Arts graduate program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              },
+              {
+                "label": "BGSU Collaborative Piano MM",
+                "url": "https://www.bgsu.edu/academics/graduate/music-performance-collaborative-piano-masters"
+              },
+              {
+                "label": "BGSU Graduate Application Instructions",
+                "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions.html"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate application fee: $45 for domestic applicants; $75 for international applicants. Separate-application rule: applicants applying to more than one program must submit a separate application and application fee for each program. Automatic domestic fee waivers listed by BGSU: McNair Scholars, U.S. military veterans, Returned Peace Corps volunteers, and K-12 public school teachers currently employed in the U.S. International fee note: the international application fee is $75 and BGSU states it will not waive application fees for international students.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Graduate Application Instructions",
+                "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions.html"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Audition format: applicants to the Master of Music in Collaborative Piano must complete an audition as part of the admission process. Applicants may upload a recorded audition with the application or participate in a live audition offered in person or virtually. Assistantship consideration: if applying for a graduate assistantship, a live interview, either in person or virtual, is required; studio assistantships such as piano accompanying positions may be awarded based on a recorded audition. College of Musical Arts note: the virtual interview day is for assistantship interviews and required program interviews only, not instrumental or voice auditions. 2026-2027 audition dates listed by the College of Musical Arts: January 23, 2027 in-person audition day, reservation deadline January 1, 2027; February 6, 2027 in-person audition day, reservation deadline January 15, 2027; February 19, 2027 virtual interview day for graduate programs only, reservation deadline February 1, 2027; February 20, 2027 in-person audition day and deadline for assistantship consideration, reservation deadline February 1, 2027; April 10, 2027 in-person audition day, reservation deadline March 29, 2027.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Collaborative Piano MM",
+                "url": "https://www.bgsu.edu/academics/graduate/music-performance-collaborative-piano-masters"
+              },
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate prescreening requirement is published on the official BGSU pages checked for Collaborative Piano; applicants may upload a recorded audition with the application or participate in a live audition. Final audition repertoire: Two solo works from different style periods by memory. Final audition repertoire: Two collaborative works, one instrumental and one vocal.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Program application deadline: Music: Collaborative Piano - MM, Main campus: Fall August 1; Spring December 1. Program funding deadline: Music: Collaborative Piano - MM, Main campus: March 1. International general Graduate Admissions deadline: Fall 2026 June 19, 2026; Spring 2027 November 6, 2026, but BGSU says academic programs may set earlier deadlines and applicants should follow the program deadline where earlier. College of Musical Arts audition/funding timing: final audition day for funding consideration is February 20, 2027; candidates should complete the application and campus interview/audition by February 20, 2027 to be assured of assistantship consideration.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU Graduate Admissions Deadlines",
+                "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions/gradadmissionsdeadlines.html"
+              },
+              {
+                "label": "BGSU Keyboard Master of Music",
+                "url": "https://www.bgsu.edu/musical-arts/area/keyboard/degrees-and-programs/graduate/master-of-music.html"
+              },
+              {
+                "label": "BGSU Collaborative Piano MM",
+                "url": "https://www.bgsu.edu/academics/graduate/music-performance-collaborative-piano-masters"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT for 2025 and before: 80 old scale; TOEFL iBT for 2026 and beyond: 4 new scale; BGSU ESL policy states the TOEFL new-scale recommended minimum as 4.0; IELTS: 6.5; PTE: 53; Duolingo English Test: 110; ELS Intensive English for Academic Purposes: Level 112. Timing: English proficiency scores are required for international graduate applicants unless exempt, and all application documents are submitted through the BGSU online application. Validity: TOEFL, PTE, IELTS, ELS, or Duolingo scores must be obtained within the last 2 years. Exemptions: applicants do not need to provide English proficiency test scores if they are U.S. citizens, have a previous associate's, bachelor's, master's, or doctorate degree from a U.S. college or university, or are from or earned a degree from a country in which instruction was delivered in English. Notes: BGSU does not accept the TOEFL MyBest Score; applicants admitted with scores below the recommended minimums are required to take ESOL classes within their first two semesters, and satisfactory completion of required ESOL courses is mandatory for continued university funding and graduation.",
+            "status": "verified",
+            "retrievedAt": "2026-05-23",
+            "sources": [
+              {
+                "label": "BGSU International Graduate Admission Requirements",
+                "url": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html"
+              },
+              {
+                "label": "BGSU Graduate Admissions ESL Requirements Policy",
+                "url": "https://www.bgsu.edu/policies/academic-affairs/3341-3-78"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

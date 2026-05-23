@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-23-boston-conservatory-audit-v9";
+const DATA_VERSION = "2026-05-23-bgsu-audit-v10";
 
 const state = {
   data: null,
