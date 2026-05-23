@@ -1,0 +1,228 @@
+{
+  "schools": [
+    {
+      "id": "oberlin-college-conservatory",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Oberlin Conservatory Admissions",
+          "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+        },
+        {
+          "label": "Oberlin MM Historical Performance Applicants",
+          "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/mmhp-applicants"
+        },
+        {
+          "label": "Oberlin Piano and Vocal Accompanying",
+          "url": "https://www.oberlin.edu/piano-and-vocal-accompanying"
+        },
+        {
+          "label": "Oberlin Fortepiano",
+          "url": "https://www.oberlin.edu/fortepiano"
+        },
+        {
+          "label": "Oberlin Academic Requirements and Testing",
+          "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/academic-requirements-and-testing"
+        },
+        {
+          "label": "Oberlin Keyboard Auditions",
+          "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/auditions-and-interviews/keyboard"
+        },
+        {
+          "label": "Oberlin Historical Performance Auditions",
+          "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/auditions-and-interviews/historical-performance"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Program availability: Oberlin's current Conservatory graduate/artist-diploma application choices do not list a conventional Master of Music in Piano Performance. The current graduate application paths shown by Oberlin Conservatory are Master of Fine Arts in Piano Technology, Master of Music in Historical Performance, and Artist Diploma in Performance. Closest keyboard-related graduate options are not the same as MM Piano Performance: MM Historical Performance includes Fortepiano and Historical Keyboard Instruments, while the standard Piano program and Piano and Vocal Accompanying page are undergraduate BM offerings. Application action: do not use the undergraduate Piano application or Keyboard Auditions page as an MM Piano Performance application path without direct written confirmation from Oberlin Conservatory Admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Conservatory Admissions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+              },
+              {
+                "label": "Oberlin MM Historical Performance Applicants",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/mmhp-applicants"
+              },
+              {
+                "label": "Oberlin Fortepiano",
+                "url": "https://www.oberlin.edu/fortepiano"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Not applicable for MM Piano Performance because Oberlin does not list a current conventional MM Piano Performance application path. Related graduate fee reference: the MM Historical Performance application fee is $100, fee waivers accepted, due December 4 after submitting the application. The MFA Piano Technology application fee is also $100 and is non-refundable. These fee references should not be treated as confirmation of an MM Piano Performance application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin MM Historical Performance Applicants",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/mmhp-applicants"
+              },
+              {
+                "label": "Oberlin MFA Piano Technology Applicants",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/piano-technology-applicants"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Program availability: no current official Oberlin MM Piano Performance audition route was found. Important distinction: the Oberlin Keyboard Auditions page lists Piano screening and final audition requirements, but that page is part of the general Conservatory auditions pages and should not be used as an MM Piano Performance requirement because Oberlin's current graduate options do not list a conventional MM Piano Performance program. Related graduate keyboard route: MM Historical Performance applicants, including Fortepiano or Historical Keyboard Instruments, follow the Historical Performance auditions page, not the standard Piano audition page.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Conservatory Admissions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+              },
+              {
+                "label": "Oberlin Keyboard Auditions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/auditions-and-interviews/keyboard"
+              },
+              {
+                "label": "Oberlin Historical Performance Auditions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/auditions-and-interviews/historical-performance"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Not applicable because Oberlin does not list a current conventional MM Piano Performance application path. Final audition repertoire: Not applicable because Oberlin does not list a current conventional MM Piano Performance application path. Additional repertoire notes: The standard Oberlin Piano audition page lists screening and final audition repertoire for Piano, but it should not be copied into this MM Piano Performance field because Oberlin's current graduate pathways do not list conventional MM Piano Performance. Additional repertoire notes: If the intended Oberlin option is MM Historical Performance in Fortepiano or Historical Keyboard Instruments, use Oberlin's Historical Performance audition requirements instead: three or four contrasting pieces or movements from solo or ensemble literature plus major and minor scales, with a live video session after passing screening.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Conservatory Admissions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+              },
+              {
+                "label": "Oberlin Historical Performance Auditions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/auditions-and-interviews/historical-performance"
+              },
+              {
+                "label": "Oberlin Keyboard Auditions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/auditions-and-interviews/keyboard"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "No MM Piano Performance deadline is listed because Oberlin does not list a current conventional MM Piano Performance application path. Related graduate MM Historical Performance dates: Application for Admission December 1; Application Fee Payment December 4; Screening Materials December 4; Notification of Admission April 1; Reply/Deposit Due May 1. Fall 2026 MM Historical Performance application is now closed; Fall 2027 application will be available in September 2026.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin MM Historical Performance Applicants",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/mmhp-applicants"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Program note: no MM Piano Performance-specific English policy is listed because Oberlin does not list a current conventional MM Piano Performance application path. General Conservatory international testing policy: applicants whose first language is not English must submit TOEFL or IELTS results; if neither exam is available in the applicant's location, Oberlin also accepts the Duolingo English Test. Minimum scores: Oberlin says there is no absolute minimum score on any test. Notes: students scoring 3 or lower on the Internet-based TOEFL, or 80 if taken before January 2026, or the equivalent score for other exams, are less likely to be competitive. Notes: scores between 2.5 and 3, or between 60 and 80 if taken before January 2026, are considered favorably, though students with scores below 3 may be asked to complete additional English assessment during the audition process. TOEFL code: 1587. Waiver: if required language exams are unavailable at an applicant's location, the applicant may request a waiver by emailing conservatory.admissions@oberlin.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Academic Requirements and Testing",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/academic-requirements-and-testing"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Program availability: Oberlin does not list a current Master of Music in Collaborative Piano application path. Oberlin's Piano and Vocal Accompanying program is part of Keyboard Studies and is listed as Program Type: Major, Bachelor of Music (BM); it is not listed as an MM Collaborative Piano program. Oberlin's current Conservatory graduate/artist-diploma application choices are Master of Fine Arts in Piano Technology, Master of Music in Historical Performance, and Artist Diploma in Performance. Application action: do not treat Oberlin's BM Piano and Vocal Accompanying information as MM Collaborative Piano without direct written confirmation from Oberlin Conservatory Admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Conservatory Admissions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+              },
+              {
+                "label": "Oberlin Piano and Vocal Accompanying",
+                "url": "https://www.oberlin.edu/piano-and-vocal-accompanying"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Not applicable for MM Collaborative Piano because Oberlin does not list a current MM Collaborative Piano application path. Related graduate fee reference: the MM Historical Performance application fee is $100, fee waivers accepted, due December 4 after submitting the application. This fee reference should not be treated as confirmation of an MM Collaborative Piano application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin MM Historical Performance Applicants",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/mmhp-applicants"
+              },
+              {
+                "label": "Oberlin Piano and Vocal Accompanying",
+                "url": "https://www.oberlin.edu/piano-and-vocal-accompanying"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Program availability: no current official Oberlin MM Collaborative Piano audition route was found. Important distinction: Oberlin's Piano and Vocal Accompanying page describes a BM major in vocal accompanying for Oberlin piano students, not a graduate MM Collaborative Piano program. Do not use undergraduate Piano and Vocal Accompanying requirements or general undergraduate audition pages as MM Collaborative Piano requirements without direct confirmation from Oberlin Conservatory Admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Conservatory Admissions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+              },
+              {
+                "label": "Oberlin Piano and Vocal Accompanying",
+                "url": "https://www.oberlin.edu/piano-and-vocal-accompanying"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Not applicable because Oberlin does not list a current MM Collaborative Piano application path. Final audition repertoire: Not applicable because Oberlin does not list a current MM Collaborative Piano application path. Additional repertoire notes: Oberlin's Piano and Vocal Accompanying page is a BM major page, not an MM Collaborative Piano page, and no current official MM Collaborative Piano repertoire list was found.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Piano and Vocal Accompanying",
+                "url": "https://www.oberlin.edu/piano-and-vocal-accompanying"
+              },
+              {
+                "label": "Oberlin Conservatory Admissions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "No MM Collaborative Piano deadline is listed because Oberlin does not list a current MM Collaborative Piano application path. Related graduate MM Historical Performance dates: Application for Admission December 1; Application Fee Payment December 4; Screening Materials December 4; Notification of Admission April 1; Reply/Deposit Due May 1. Fall 2026 MM Historical Performance application is now closed; Fall 2027 application will be available in September 2026.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Conservatory Admissions",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory"
+              },
+              {
+                "label": "Oberlin MM Historical Performance Applicants",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/mmhp-applicants"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Program note: no MM Collaborative Piano-specific English policy is listed because Oberlin does not list a current MM Collaborative Piano application path. General Conservatory international testing policy: applicants whose first language is not English must submit TOEFL or IELTS results; if neither exam is available in the applicant's location, Oberlin also accepts the Duolingo English Test. Minimum scores: Oberlin says there is no absolute minimum score on any test. Notes: students scoring 3 or lower on the Internet-based TOEFL, or 80 if taken before January 2026, or the equivalent score for other exams, are less likely to be competitive. Notes: scores between 2.5 and 3, or between 60 and 80 if taken before January 2026, are considered favorably, though students with scores below 3 may be asked to complete additional English assessment during the audition process. TOEFL code: 1587. Waiver: if required language exams are unavailable at an applicant's location, the applicant may request a waiver by emailing conservatory.admissions@oberlin.edu.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Oberlin Academic Requirements and Testing",
+                "url": "https://www.oberlin.edu/admissions-and-aid/conservatory/academic-requirements-and-testing"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
