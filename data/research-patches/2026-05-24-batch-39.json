@@ -1,0 +1,139 @@
+{
+  "schools": [
+    {
+      "id": "peabody-institute",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "Peabody MM Application Instructions",
+          "url": "https://peabody.jhu.edu/audition-apply/instructions/master-of-music-instructions/"
+        },
+        {
+          "label": "Peabody Piano Auditions",
+          "url": "https://peabody.jhu.edu/academics/instruments-areas-of-study/piano/auditions/"
+        },
+        {
+          "label": "Peabody Recorded Auditions",
+          "url": "https://peabody.jhu.edu/audition-apply/auditions/recorded-auditions/"
+        },
+        {
+          "label": "Peabody International Applicants",
+          "url": "https://peabody.jhu.edu/audition-apply/international-applicants/"
+        },
+        {
+          "label": "JHU Academic Catalogue - MM Piano specialization",
+          "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/piano-master-music/"
+        },
+        {
+          "label": "JHU Academic Catalogue - Master of Music Degree",
+          "url": "https://e-catalogue.jhu.edu/peabody/master-music-degree/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through Peabody's online application. The Master of Music application instructions list Application and Fees, Pre-Screen Materials, and Required Essays due by the posted application deadline. Additional required application materials for MM applicants include teacher preference, repertoire list, and resume. Piano applicants must upload a complete repertoire list. Recommenders are entered in the application by the application submission deadline, but recommendations may arrive by the later posted recommendation deadline. Official transcripts from all schools attended are required; applicants may upload unofficial transcripts in the application, but official transcripts are requested before an admission decision. Academic prerequisite: the JHU Peabody catalog states that matriculating MM students must have a Bachelor of Music degree or equivalent from an accredited institution and evidence of a degree recital or approved equivalent.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Peabody MM Application Instructions",
+                "url": "https://peabody.jhu.edu/audition-apply/instructions/master-of-music-instructions/"
+              },
+              {
+                "label": "JHU Academic Catalogue - Master of Music Degree",
+                "url": "https://e-catalogue.jhu.edu/peabody/master-music-degree/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $120. The MM instructions state that after completing the application, applicants review and submit it before paying the application fee. The application is incomplete and will not be reviewed or scheduled for an audition/interview unless Peabody has received the application fee. Applicants who feel they qualify for an application fee waiver may email Peabody Admissions with the request.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Peabody MM Application Instructions",
+                "url": "https://peabody.jhu.edu/audition-apply/instructions/master-of-music-instructions/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Prescreening: Master of Music Piano applicants who are not current Peabody students must upload a pre-screening video to the Peabody application. Prescreening deadlines: Spring Admission, with the application; Regular Decision, December 1; Late Admission, May 1. Recorded audition policy: Peabody states that not all applicants are eligible to audition by recording and that in-person auditions are strongly recommended. The Recorded Auditions page specifically lists pianists among applicants who may not audition by recording as a standard option. Accommodation: if an applicant has extenuating circumstances requiring a recorded audition or remote interview, they may submit an accommodation request after submitting the application; requests are reviewed case by case. Live audition timing: MM regular-decision live auditions are listed during Audition Week, February 16-21. Audition/interview length: Peabody states that auditions/interviews typically last about 7-20 minutes depending on area.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Peabody Piano Auditions",
+                "url": "https://peabody.jhu.edu/academics/instruments-areas-of-study/piano/auditions/"
+              },
+              {
+                "label": "Peabody Recorded Auditions",
+                "url": "https://peabody.jhu.edu/audition-apply/auditions/recorded-auditions/"
+              },
+              {
+                "label": "Peabody MM Application Instructions",
+                "url": "https://peabody.jhu.edu/audition-apply/instructions/master-of-music-instructions/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A complete classical sonata. Prescreening repertoire: A complete major romantic solo work. Prescreening repertoire: A virtuosic etude. Final audition repertoire: All selections should be performed from memory. Final audition repertoire: Prepare a program of 50 to 60 minutes which includes three style periods. Final audition repertoire: A complete classical sonata, a major romantic solo work, and one virtuosic etude are required. Final audition repertoire: Remaining works are to be chosen by the applicant. Final audition repertoire: All works must be prepared in their entirety. Additional repertoire notes: Peabody's MM Piano specialization in the JHU Academic Catalogue requires graduate piano major lessons, a graduate piano recital, chamber ensemble, advanced keyboard skills for piano majors, musicology seminars, music theory seminars, and electives as part of the degree plan.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Peabody Piano Auditions",
+                "url": "https://peabody.jhu.edu/academics/instruments-areas-of-study/piano/auditions/"
+              },
+              {
+                "label": "JHU Academic Catalogue - MM Piano specialization",
+                "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/piano-master-music/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Spring admission note: Spring Admission is available for certain majors only. Spring application and fees: November 1. Spring pre-screen materials: November 1. Spring English language scores: November 1. Spring transcripts and recommendation letters: November 1. Spring live auditions: ad hoc. Spring decision release and enrollment deadline: rolling. Regular Decision application and fees: December 1. Regular Decision assistantship application: December 1, optional. Regular Decision pre-screen materials: December 1. Regular Decision required essays: December 1. Regular Decision English language scores: February 1, except graduate applicants who also submit an assistantship application must submit verified English proficiency scores by December 1. Regular Decision FAFSA and CSS Profile: January 15. Regular Decision transcripts and recommendation letters: February 1. Regular Decision recorded auditions deadline: February 1, though pianists may not audition by recording as a standard option. Regular Decision live auditions: February 16-21. Regular Decision decision release: April 1. Regular Decision enrollment deadline: April 15. Late Admission application and fees: May 1. Late Admission pre-screen materials: May 1. Late Admission English language scores, transcripts, and recommendation letters: May 1. Late Admission recorded auditions: May 10. Late Admission live auditions: mid-May. Late Admission decision release: June 1. Late Admission enrollment deadline: June 5.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Peabody MM Application Instructions",
+                "url": "https://peabody.jhu.edu/audition-apply/instructions/master-of-music-instructions/"
+              },
+              {
+                "label": "Peabody Piano Auditions",
+                "url": "https://peabody.jhu.edu/academics/instruments-areas-of-study/piano/auditions/"
+              },
+              {
+                "label": "Peabody Recorded Auditions",
+                "url": "https://peabody.jhu.edu/audition-apply/auditions/recorded-auditions/"
+              },
+              {
+                "label": "Peabody International Applicants",
+                "url": "https://peabody.jhu.edu/audition-apply/international-applicants/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: international applicants for all programs must submit verified TOEFL or IELTS scores unless exempt. Minimum scores: TOEFL 79; IELTS 6.5 overall band score. TOEFL code: 5532. Validity: tests must have been taken within the last two years; scores older than two years are invalid. Notes: Peabody accepts the TOEFL iBT Home Edition. Notes: Peabody does not accept the Duolingo English Test at this time. Notes: Peabody does not accept TOEFL MyBest scores. Timing: official test scores may be self-reported in the application but verified scores must be sent to Peabody directly by the testing agency. Timing: Spring Admission scores are due with the application. Timing: Regular Decision scores are due December 1 for graduate applicants who also submit an assistantship application, and February 1 for all other applicants. Timing: Late Admission scores are due May 1. Exemptions: applicants who have attended a full-time academic program where English is the primary language for two or more years, or who will graduate from a two-year program before enrolling at Peabody, are exempt from this requirement.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Peabody International Applicants",
+                "url": "https://peabody.jhu.edu/audition-apply/international-applicants/"
+              },
+              {
+                "label": "Peabody MM Application Instructions",
+                "url": "https://peabody.jhu.edu/audition-apply/instructions/master-of-music-instructions/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
