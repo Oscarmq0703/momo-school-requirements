@@ -1,0 +1,256 @@
+{
+  "schools": [
+    {
+      "id": "boston-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "BU School of Music Graduate Admissions",
+          "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+        },
+        {
+          "label": "BU School of Music Prescreening Information",
+          "url": "https://www.bu.edu/cfa/music/admissions-auditions/school-of-music-prescreening-information/"
+        },
+        {
+          "label": "BU School of Music Audition Repertoire",
+          "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/"
+        },
+        {
+          "label": "BU School of Music Live Audition Dates",
+          "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/audition-dates/"
+        },
+        {
+          "label": "BU CFA English Proficiency Requirements",
+          "url": "https://www.bu.edu/cfa/admissions/graduate/english-proficiency-requirements/"
+        },
+        {
+          "label": "BU Academics - Performance MM",
+          "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/mm/"
+        },
+        {
+          "label": "BU CFA Graduate Application",
+          "url": "https://bu-cfa2026.liaisoncas.com/"
+        },
+        {
+          "label": "BU Acceptd Portal",
+          "url": "https://app.getacceptd.com/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply in two parts for BU School of Music applied areas: the College of Fine Arts Graduate Application and the Acceptd portal. For Master of Music in Performance, applicants submit the CFA graduate application, the non-refundable application fee, two letters of recommendation from music professionals or educators, unofficial transcripts from all colleges and universities where a degree/diploma/certificate was earned, a personal statement, a current resume, and the required Acceptd materials. BU's Academics page confirms the Piano Program Outline within the Master of Music in Performance. Accepted students who enroll must later provide official final transcripts. International applicants must follow the School of Music English proficiency rules; BU states that the School of Music does not offer exemptions from English proficiency based on prior study at an English-speaking institution.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              },
+              {
+                "label": "BU Academics - Performance MM",
+                "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/mm/"
+              },
+              {
+                "label": "BU CFA Graduate Application",
+                "url": "https://bu-cfa2026.liaisoncas.com/"
+              },
+              {
+                "label": "BU Acceptd Portal",
+                "url": "https://app.getacceptd.com/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $95, non-refundable, submitted with the College of Fine Arts Graduate Application. Applicants needing assistance with the BU application fee due to financial hardship may contact arts@bu.edu to request a fee waiver code.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Piano applicants must submit a prescreening video recording through Acceptd by December 1. All applied programs under the Master of Music require an Acceptd portal submission. Applicants who pass prescreening complete a live or final recorded audition through Acceptd using the appropriate audition repertoire guidelines. Applicants who are not required to prescreen but plan to audition on campus must also submit an Acceptd application by December 1, but Piano is listed among the areas that do require prescreening. Recorded audition media is due January 9. On-campus auditions must be scheduled by January 5. BU's live audition dates page says audition dates are subject to change and recommends scheduling travel only after receiving audition confirmation from the School of Music Admissions office.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              },
+              {
+                "label": "BU School of Music Prescreening Information",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/school-of-music-prescreening-information/"
+              },
+              {
+                "label": "BU School of Music Live Audition Dates",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/audition-dates/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Prescreening recordings for all piano applicants must be submitted as one single-take video. Prescreening repertoire: One work from the Baroque. Prescreening repertoire: One work from the Classical. Prescreening repertoire: One work from either the Romantic or Contemporary period. Prescreening repertoire: For multi-movement works, several short movements from a Baroque suite are acceptable. Prescreening repertoire: Any Bach Prelude and Fugue must be presented in its entirety. Prescreening repertoire: For a Classical sonata, two contrasting movements are acceptable, such as the first movement plus a contrasting slow movement, or, if the first movement is slow, a contrasting fast movement. Prescreening repertoire: A single movement from a large Romantic or Contemporary piece is acceptable. Final audition repertoire: One work from the Baroque. Final audition repertoire: One work from the Classical. Final audition repertoire: One work from either the Romantic or Contemporary period. Final audition repertoire: Complete works should be presented for the live audition. Final audition repertoire: All works should be performed from memory. Final audition repertoire: Concerto literature is not recommended for the live audition. Additional repertoire notes: BU welcomes any additional piece by a historically underrepresented minority, including works composed by women, people from historically underrepresented racial or ethnic groups, and/or musicians from one's own cultural background.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Prescreening Information",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/school-of-music-prescreening-information/"
+              },
+              {
+                "label": "BU School of Music Audition Repertoire",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1, 2025: deadline to submit the Graduate Application. December 1, 2025: deadline to submit supplemental materials, including official test scores, recommendation letters, and unofficial transcripts. December 1, 2025: deadline to submit the Acceptd application for all performance, composition, and conducting applicants. December 1, 2025: Piano prescreening video due through Acceptd. January 5, 2026: deadline to schedule an on-campus audition for programs with and without prescreening. January 9, 2026: recorded audition media due. January 9, 2026: piano accompaniment scores due for specified in-person auditions; this listed accompaniment-score note applies to MM/PD/DMA Violin, Viola, Cello, and Voice applicants, not Piano Performance. Piano live audition dates for 2026: January 23, January 30, February 6, and February 13. BU states live audition dates are subject to change and travel should be scheduled after audition confirmation.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              },
+              {
+                "label": "BU School of Music Live Audition Dates",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/audition-dates/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: School of Music graduate applicants whose first language or primary home language is not English must demonstrate English proficiency. No exemption for prior English-language study: BU School of Music explicitly says it does not offer exemptions to the English proficiency requirement based on prior study at an English-speaking institution. Test age: exams must have been taken within two years of the Boston University application deadline. Minimum scores for MA, MM, and CAGS: TOEFL iBT 84 or higher for tests taken on or before January 20, 2026; TOEFL iBT 4.5 or higher for tests taken on or after January 21, 2026; TOEFL Essentials 8.5 or higher; IELTS 6.5 or higher; Duolingo 115 or higher. MyBest scores are accepted for TOEFL iBT. TOEFL code: 3087. IELTS score recipient: Boston University Graduate Programs. Duolingo score recipient: Boston University Graduate & Professional Programs. TOEFL and IELTS scores must be submitted electronically through the application. Scores are due by the application deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU CFA English Proficiency Requirements",
+                "url": "https://www.bu.edu/cfa/admissions/graduate/english-proficiency-requirements/"
+              },
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply in two parts for BU School of Music applied areas: the College of Fine Arts Graduate Application and the Acceptd portal. Collaborative Piano applicants applying to the Master of Music in Performance must submit the CFA graduate application, $95 application fee, two recommendations, unofficial transcripts, personal statement, current resume, Acceptd materials, and their most recent repertoire list with Vocal, Instrumental, Chamber, and Solo Piano categories. BU's Academics page confirms a Collaborative Piano Program Outline within the Master of Music in Performance. Accepted students who enroll must later provide official final transcripts.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              },
+              {
+                "label": "BU Academics - Performance MM",
+                "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/mm/"
+              },
+              {
+                "label": "BU CFA Graduate Application",
+                "url": "https://bu-cfa2026.liaisoncas.com/"
+              },
+              {
+                "label": "BU Acceptd Portal",
+                "url": "https://app.getacceptd.com/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $95, non-refundable, submitted with the College of Fine Arts Graduate Application. Applicants needing assistance with the BU application fee due to financial hardship may contact arts@bu.edu to request a fee waiver code.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Collaborative Piano applicants must submit a prescreening video recording through Acceptd by December 1. For the in-person final audition, auditioning pianists must perform with a partnering singer and instrumentalist. Boston-area auditioning pianists must bring their own collaborating partners. Pianists coming from out of town who are unable to bring collaborating partners may contact Professor Shiela Kibbe to make arrangements. Auditioning pianists will be asked to sight-read vocal and instrumental repertoire and may be asked to read the text of any art song from the audition repertoire. BU's live audition dates page says dates are subject to change and recommends scheduling travel only after receiving audition confirmation from the School of Music Admissions office.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              },
+              {
+                "label": "BU School of Music Prescreening Information",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/school-of-music-prescreening-information/"
+              },
+              {
+                "label": "BU School of Music Audition Repertoire",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/"
+              },
+              {
+                "label": "BU School of Music Live Audition Dates",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/audition-dates/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Begin the prescreening video by stating your name and that you are applying for the Master of Music in Collaborative Piano program. Prescreening repertoire: Speak briefly about your interest in the program; the introduction should be approximately 60 seconds total. Prescreening repertoire: One German art song. Prescreening repertoire: One French art song. Prescreening repertoire: One American or British art song. Prescreening repertoire: First movement of any violin or cello sonata by Beethoven or Brahms. Prescreening repertoire: All selections must be performed with a partner. Prescreening repertoire: Repertoire from the live audition requirements may be used as part of the prescreening video. Final audition repertoire: Auditioning pianists must perform with a partnering singer and instrumentalist in the in-person final audition. Final audition repertoire: Vocal category: four classical art songs in original keys. Final audition repertoire: Schubert, Ganymed, A-flat major. Final audition repertoire: Debussy, C'est l'extase, E major. Final audition repertoire: Brahms, Ständchen, Op. 106, G major. Final audition repertoire: Barber, St. Ita's Vision from Hermit Songs, high key. Final audition repertoire: Instrumental category: two complete duo sonatas, all movements. Final audition repertoire: One sonata for violin or cello by Beethoven. Final audition repertoire: One sonata for violin or cello by Brahms. Additional repertoire notes: Boston-area auditioning pianists must bring their own collaborating partners; out-of-town pianists unable to bring partners may contact Professor Shiela Kibbe. Additional repertoire notes: auditioning pianists will be asked to sight-read vocal and instrumental repertoire and may be asked to read the text of any art song from the audition repertoire. Additional repertoire notes: applicants must upload their most recent repertoire list with Vocal, Instrumental, Chamber, and Solo Piano categories.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Prescreening Information",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/school-of-music-prescreening-information/"
+              },
+              {
+                "label": "BU School of Music Audition Repertoire",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/"
+              },
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1, 2025: deadline to submit the Graduate Application. December 1, 2025: deadline to submit supplemental materials, including official test scores, recommendation letters, and unofficial transcripts. December 1, 2025: deadline to submit the Acceptd application for all performance, composition, and conducting applicants. December 1, 2025: Collaborative Piano prescreening video due through Acceptd. January 5, 2026: deadline to schedule an on-campus audition. January 9, 2026: recorded audition media due. Collaborative Piano live audition dates for 2026: February 5 and February 12. BU states live audition dates are subject to change and travel should be scheduled after audition confirmation.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              },
+              {
+                "label": "BU School of Music Live Audition Dates",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/audition-repertoire-and-portfolio-requirements/audition-dates/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: School of Music graduate applicants whose first language or primary home language is not English must demonstrate English proficiency. No exemption for prior English-language study: BU School of Music explicitly says it does not offer exemptions to the English proficiency requirement based on prior study at an English-speaking institution. Test age: exams must have been taken within two years of the Boston University application deadline. Minimum scores for MA, MM, and CAGS: TOEFL iBT 84 or higher for tests taken on or before January 20, 2026; TOEFL iBT 4.5 or higher for tests taken on or after January 21, 2026; TOEFL Essentials 8.5 or higher; IELTS 6.5 or higher; Duolingo 115 or higher. MyBest scores are accepted for TOEFL iBT. TOEFL code: 3087. IELTS score recipient: Boston University Graduate Programs. Duolingo score recipient: Boston University Graduate & Professional Programs. TOEFL and IELTS scores must be submitted electronically through the application. Scores are due by the application deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "BU CFA English Proficiency Requirements",
+                "url": "https://www.bu.edu/cfa/admissions/graduate/english-proficiency-requirements/"
+              },
+              {
+                "label": "BU School of Music Graduate Admissions",
+                "url": "https://www.bu.edu/cfa/music/admissions-auditions/graduate-admissions/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

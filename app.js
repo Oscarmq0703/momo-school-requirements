@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-tcu-audit-v38";
+const DATA_VERSION = "2026-05-25-boston-university-audit-v39";
 
 const state = {
   data: null,
