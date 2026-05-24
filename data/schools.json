@@ -6975,7 +6975,7 @@
       "city": "Chicago",
       "state": "IL",
       "control": "Private",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance",
         "mm_collaborative_piano"
@@ -6986,28 +6986,56 @@
           "url": "https://www.roosevelt.edu/admission/graduate"
         },
         {
-          "label": "Roosevelt Graduate Application",
-          "url": "https://applyru.roosevelt.edu/apply/"
+          "label": "Roosevelt CCPA Admission",
+          "url": "https://www.roosevelt.edu/admission/ccpa"
         },
         {
           "label": "Roosevelt Piano Program",
-          "url": "https://www.roosevelt.edu/academics/programs/piano-bm-mm-diploma"
+          "url": "https://www.roosevelt.edu/programs/bachelors-masters-or-diploma-piano-bm-mm-or-diploma"
         },
         {
           "label": "Roosevelt Collaborative Piano MM",
-          "url": "https://www.roosevelt.edu/academics/programs/masters-music-collaborative-piano-mm"
+          "url": "https://www.roosevelt.edu/programs/masters-music-collaborative-piano-mm"
+        },
+        {
+          "label": "Roosevelt Graduate Music Pre-Screening Requirements PDF",
+          "url": "https://www.roosevelt.edu/sites/default/files/2021-05/CCPA-Music-Audition-Pre-Screenings.pdf"
+        },
+        {
+          "label": "Roosevelt Catalog - Classical Performance Piano MM",
+          "url": "https://catalog.roosevelt.edu/graduate/performing-arts/music-performance-piano-mm/"
+        },
+        {
+          "label": "Roosevelt Catalog - Collaborative Piano MM",
+          "url": "https://catalog.roosevelt.edu/graduate/performing-arts/collaborative-piano-mm/"
+        },
+        {
+          "label": "Roosevelt English Language Proficiency Requirement",
+          "url": "https://www.roosevelt.edu/admission/international/english-language-proficiency"
+        },
+        {
+          "label": "Roosevelt Graduate Application",
+          "url": "https://applyru.roosevelt.edu/apply/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through the Roosevelt University graduate application; CCPA applicants should also follow the performing-arts audition requirements for their program.",
+            "value": "Apply first through the Roosevelt University Application. Roosevelt's CCPA admission page states that all CCPA applicants must first submit the Roosevelt University Application online and that there is no fee associated with this application. After submitting the Roosevelt application, CCPA applicants to BM, BMA, MM, MA, PD, and PED programs must submit an Artistic Application through GetAcceptd with supplemental materials. Supplemental materials listed for CCPA applicants include Artistic Application and Application Fee via GetAcceptd, two letters of recommendation, official transcripts from all previously attended schools/institutions, and TOEFL, IELTS, Duolingo, or Pearson English Test scores if applicable. The 2026-2027 Roosevelt catalog confirms Classical Performance - Piano, MM as a graduate program offered in Chicago.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
+              {
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
+              },
               {
                 "label": "Roosevelt Graduate Admission",
                 "url": "https://www.roosevelt.edu/admission/graduate"
+              },
+              {
+                "label": "Roosevelt Catalog - Classical Performance Piano MM",
+                "url": "https://catalog.roosevelt.edu/graduate/performing-arts/music-performance-piano-mm/"
               },
               {
                 "label": "Roosevelt Graduate Application",
@@ -7016,70 +7044,94 @@
             ]
           },
           "applicationFee": {
-            "value": "Current graduate application fee amount was not confirmed on the public Roosevelt graduate-admission page during this pass; verify in the official application portal.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Roosevelt University Application fee: $0 for the initial Roosevelt University application. CCPA Artistic Application fee: $50 for BM, BMA, MM, MA, PD, and PED programs, paid through GetAcceptd. Fee waiver requests: contact the relevant admissions counselor. The CCPA page states that the Artistic Application fee for BFA programs is $100, but this does not apply to MM Piano.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Graduate Application",
-                "url": "https://applyru.roosevelt.edu/apply/"
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Roosevelt lists CCPA piano graduate programs publicly, but a current public page with complete graduate piano audition logistics was not confirmed during this pass; verify prescreen, live/recorded audition, and interview requirements with CCPA before relying on this entry.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Application sequence: submit the Roosevelt University application first, then submit the CCPA Artistic Application through GetAcceptd. Prescreening: Roosevelt states that all graduate performance applicants are required to submit pre-screening recordings/materials, with no audio or video enhancements, for review before they can be invited to a live virtual audition. Prescreens are submitted through GetAcceptd beginning in August. Live auditions: Music Conservatory auditions for Fall 2026 programs will be held live on-campus on Saturdays in February 2026, and Roosevelt also offers live-virtual audition options remotely. Piano audition dates listed on the CCPA page: February 7, 2026 for Piano/Collab Piano, February 21, 2026 for Piano/Collab Piano, and February 28, 2026 for Piano. Additional note: Roosevelt says specific program audition dates and times should be checked later in the fall, so applicants should confirm scheduling in GetAcceptd or with CCPA Admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Piano Program",
-                "url": "https://www.roosevelt.edu/academics/programs/piano-bm-mm-diploma"
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
+              },
+              {
+                "label": "Roosevelt Graduate Music Pre-Screening Requirements PDF",
+                "url": "https://www.roosevelt.edu/sites/default/files/2021-05/CCPA-Music-Audition-Pre-Screenings.pdf"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Current official MM Piano Performance repertoire requirements were not confirmed on a public Roosevelt page during this pass; check the CCPA audition instructions or contact the admission office before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Prescreening repertoire: Master of Music, Classical Performance - Piano applicants submit three works chosen from among four stylistic periods. Prescreening repertoire: One option is a work by J.S. Bach at least of the difficulty of a Prelude and Fugue from The Well-Tempered Clavier. Prescreening repertoire: One option is a complete sonata by Clementi, Mozart, Haydn, Beethoven, or Schubert. Prescreening repertoire: One option is a significant work by a Romantic composer. Prescreening repertoire: One option is a significant work by a 20th-century composer. Final audition repertoire: Roosevelt's current CCPA public admission page does not publish a separate MM Piano final audition repertoire list beyond the prescreening requirement and live/virtual audition process; applicants should confirm any final-audition repertoire assignments in GetAcceptd or directly with CCPA Admissions. Additional repertoire notes: The 2026-2027 catalog says there are no prescribed technical or repertoire requirements for enrolled MM Piano students; the degree recital must be at least 60 minutes and represent at least four stylistic periods, including at least one 20th- or 21st-century work.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Piano Program",
-                "url": "https://www.roosevelt.edu/academics/programs/piano-bm-mm-diploma"
+                "label": "Roosevelt Graduate Music Pre-Screening Requirements PDF",
+                "url": "https://www.roosevelt.edu/sites/default/files/2021-05/CCPA-Music-Audition-Pre-Screenings.pdf"
+              },
+              {
+                "label": "Roosevelt Catalog - Classical Performance Piano MM",
+                "url": "https://catalog.roosevelt.edu/graduate/performing-arts/music-performance-piano-mm/"
+              },
+              {
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               }
             ]
           },
           "deadlines": {
-            "value": "Current CCPA graduate music audition and application deadlines were not confirmed on a public Roosevelt page during this pass; verify in the Roosevelt application portal and with CCPA admission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Fall 2026 application status: Roosevelt's CCPA admission page states that select Music and Interdisciplinary programs are still open for admission and instructs interested applicants to contact ccpaadmissions@roosevelt.edu. Prescreen timing: pre-screens are submitted through GetAcceptd beginning in August. Supplemental materials note: the CCPA page states that for Fall 2025 applicants, all supplemental materials had to be submitted by February 1 for full scholarship consideration; the current Fall 2026 text does not publish a fixed comparable scholarship deadline and instead says select music programs remain open. Audition dates for Fall 2026 Music Conservatory: February 7, 2026; February 14, 2026; February 21, 2026; February 28, 2026, with Piano/Collab Piano listed on February 7 and February 21, and Piano listed on February 28. Live-virtual auditions: available ad hoc based on applicant and faculty availability if on-campus dates do not work.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Graduate Admission",
-                "url": "https://www.roosevelt.edu/admission/graduate"
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               }
             ]
           },
           "englishScores": {
-            "value": "Current graduate English-proficiency score minimums for Roosevelt CCPA were not confirmed on a public Roosevelt page during this pass; international applicants should verify current TOEFL, IELTS, Duolingo, or waiver rules with Roosevelt admission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Applicability: all students who completed their education outside the U.S. must meet Roosevelt University's English Language Proficiency Requirement. Minimum scores: TOEFL 80 for tests taken before January 20, 2026; TOEFL 4 for tests taken after January 20, 2026; IELTS 6.0; Duolingo English Test 110. Notes: TOEFL scores must be official and sent directly from ETS; IELTS scores must be official and sent directly from the British Council; Duolingo scores must be official and sent directly from Duolingo. Notes: CCPA supplemental materials list TOEFL, IELTS, Duolingo, or Pearson English Test scores if applicable, but Roosevelt's English Language Proficiency page currently publishes score minimums for TOEFL, IELTS, and Duolingo only. Exemptions: students may meet the requirement through academic experience, including completion of a bachelor's, master's, or doctoral degree at a regionally accredited college or university in listed English-speaking countries. Program note: non-native speakers admitted and enrolled in CCPA are required to take Roosevelt's English Language Proficiency exam upon entry and may be required to complete additional coursework.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Graduate Admission",
-                "url": "https://www.roosevelt.edu/admission/graduate"
+                "label": "Roosevelt English Language Proficiency Requirement",
+                "url": "https://www.roosevelt.edu/admission/international/english-language-proficiency"
+              },
+              {
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply through the Roosevelt University graduate application for the Master of Music in Collaborative Piano and follow any CCPA audition or interview requirements issued through the applicant portal.",
+            "value": "Apply first through the Roosevelt University Application, then submit the CCPA Artistic Application through GetAcceptd. Roosevelt's program page confirms the Master's of Music in Collaborative Piano with Vocal Specialization and Instrumental Specialization, starting in Fall and offered in Chicago. The 2026-2027 catalog confirms Collaborative Piano, MM as a graduate program and says the program prepares pianists for professional careers with specialization in either vocal or instrumental collaboration.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Roosevelt Collaborative Piano MM",
-                "url": "https://www.roosevelt.edu/academics/programs/masters-music-collaborative-piano-mm"
+                "url": "https://www.roosevelt.edu/programs/masters-music-collaborative-piano-mm"
+              },
+              {
+                "label": "Roosevelt Catalog - Collaborative Piano MM",
+                "url": "https://catalog.roosevelt.edu/graduate/performing-arts/collaborative-piano-mm/"
+              },
+              {
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               },
               {
                 "label": "Roosevelt Graduate Application",
@@ -7088,57 +7140,85 @@
             ]
           },
           "applicationFee": {
-            "value": "Current graduate application fee amount was not confirmed on the public Roosevelt graduate-admission page during this pass; verify in the official application portal.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Roosevelt University Application fee: $0 for the initial Roosevelt University application. CCPA Artistic Application fee: $50 for BM, BMA, MM, MA, PD, and PED programs, paid through GetAcceptd. Fee waiver requests: contact the relevant admissions counselor.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Graduate Application",
-                "url": "https://applyru.roosevelt.edu/apply/"
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "A current public page with complete CCPA Collaborative Piano MM audition logistics was not confirmed during this pass; verify prescreen, live/recorded audition, partner, and interview requirements with CCPA before relying on this entry.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Application sequence: submit the Roosevelt University application first, then submit the CCPA Artistic Application through GetAcceptd. Prescreening: Roosevelt states that all graduate performance applicants are required to submit pre-screening recordings/materials, with no audio or video enhancements, for review before they can be invited to a live virtual audition. Program audition requirement: applicants to the Master's of Music in Collaborative Piano must audition with a combination of solo and collaborative repertoire appropriate to the area of specialization they seek, as determined by the CCPA piano faculty. Sight-reading and vocal and instrumental collaboration are required during the audition. Live audition dates: Piano/Collab Piano is listed for February 7, 2026 and February 21, 2026. Live-virtual auditions: can be scheduled ad hoc if on-campus dates do not work, based on applicant and faculty availability.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Roosevelt Collaborative Piano MM",
-                "url": "https://www.roosevelt.edu/academics/programs/masters-music-collaborative-piano-mm"
+                "url": "https://www.roosevelt.edu/programs/masters-music-collaborative-piano-mm"
+              },
+              {
+                "label": "Roosevelt Catalog - Collaborative Piano MM",
+                "url": "https://catalog.roosevelt.edu/graduate/performing-arts/collaborative-piano-mm/"
+              },
+              {
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Current official MM Collaborative Piano repertoire requirements were not confirmed on a public Roosevelt page during this pass; check the CCPA audition instructions or contact the admission office before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Prescreening repertoire: Roosevelt's current public CCPA page requires graduate performance applicants to submit pre-screening recordings/materials through GetAcceptd, but the public Graduate Music Pre-Screening Requirements PDF predates the current Collaborative Piano MM and does not list a separate Collaborative Piano prescreening repertoire. Final audition repertoire: Applicants to the MM in Collaborative Piano must audition with a combination of solo and collaborative repertoire appropriate to the area of specialization they seek, as determined by the CCPA piano faculty. Final audition repertoire: Sight-reading is required. Final audition repertoire: Vocal and instrumental collaboration are required during the audition. Additional repertoire notes: The program has Vocal Specialization and Instrumental Specialization tracks. Additional repertoire notes: the 2026-2027 catalog says each Collaborative Piano recital must be 60 minutes, represent at least three stylistic periods, include a maximum of 15 minutes of solo repertoire, and include at least 45 minutes of music within the chosen specialization performed with vocal or instrumental partners secured by the student.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
                 "label": "Roosevelt Collaborative Piano MM",
-                "url": "https://www.roosevelt.edu/academics/programs/masters-music-collaborative-piano-mm"
+                "url": "https://www.roosevelt.edu/programs/masters-music-collaborative-piano-mm"
+              },
+              {
+                "label": "Roosevelt Catalog - Collaborative Piano MM",
+                "url": "https://catalog.roosevelt.edu/graduate/performing-arts/collaborative-piano-mm/"
+              },
+              {
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
+              },
+              {
+                "label": "Roosevelt Graduate Music Pre-Screening Requirements PDF",
+                "url": "https://www.roosevelt.edu/sites/default/files/2021-05/CCPA-Music-Audition-Pre-Screenings.pdf"
               }
             ]
           },
           "deadlines": {
-            "value": "Current CCPA graduate music audition and application deadlines were not confirmed on a public Roosevelt page during this pass; verify in the Roosevelt application portal and with CCPA admission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Fall 2026 application status: Roosevelt's CCPA admission page states that select Music and Interdisciplinary programs are still open for admission and instructs interested applicants to contact ccpaadmissions@roosevelt.edu. Prescreen timing: pre-screens are submitted through GetAcceptd beginning in August. Audition dates for Fall 2026 Music Conservatory: February 7, 2026; February 14, 2026; February 21, 2026; February 28, 2026. Piano/Collab Piano is listed on February 7 and February 21. Live-virtual auditions: available ad hoc based on applicant and faculty availability if on-campus dates do not work. Program start term: the Collaborative Piano MM program page lists Fall as the start term.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Graduate Admission",
-                "url": "https://www.roosevelt.edu/admission/graduate"
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
+              },
+              {
+                "label": "Roosevelt Collaborative Piano MM",
+                "url": "https://www.roosevelt.edu/programs/masters-music-collaborative-piano-mm"
               }
             ]
           },
           "englishScores": {
-            "value": "Current graduate English-proficiency score minimums for Roosevelt CCPA were not confirmed on a public Roosevelt page during this pass; international applicants should verify current TOEFL, IELTS, Duolingo, or waiver rules with Roosevelt admission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Applicability: all students who completed their education outside the U.S. must meet Roosevelt University's English Language Proficiency Requirement. Minimum scores: TOEFL 80 for tests taken before January 20, 2026; TOEFL 4 for tests taken after January 20, 2026; IELTS 6.0; Duolingo English Test 110. Notes: TOEFL scores must be official and sent directly from ETS; IELTS scores must be official and sent directly from the British Council; Duolingo scores must be official and sent directly from Duolingo. Notes: CCPA supplemental materials list TOEFL, IELTS, Duolingo, or Pearson English Test scores if applicable, but Roosevelt's English Language Proficiency page currently publishes score minimums for TOEFL, IELTS, and Duolingo only. Exemptions: students may meet the requirement through academic experience, including completion of a bachelor's, master's, or doctoral degree at a regionally accredited college or university in listed English-speaking countries. Program note: non-native speakers admitted and enrolled in CCPA are required to take Roosevelt's English Language Proficiency exam upon entry and may be required to complete additional coursework.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Roosevelt Graduate Admission",
-                "url": "https://www.roosevelt.edu/admission/graduate"
+                "label": "Roosevelt English Language Proficiency Requirement",
+                "url": "https://www.roosevelt.edu/admission/international/english-language-proficiency"
+              },
+              {
+                "label": "Roosevelt CCPA Admission",
+                "url": "https://www.roosevelt.edu/admission/ccpa"
               }
             ]
           }

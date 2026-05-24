@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-rice-audit-v30";
+const DATA_VERSION = "2026-05-24-roosevelt-audit-v31";
 
 const state = {
   data: null,
