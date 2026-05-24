@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-stony-brook-audit-v35";
+const DATA_VERSION = "2026-05-25-syracuse-audit-v36";
 
 const state = {
   data: null,

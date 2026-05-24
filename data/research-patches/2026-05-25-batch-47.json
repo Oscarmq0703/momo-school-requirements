@@ -1,0 +1,220 @@
+{
+  "schools": [
+    {
+      "id": "syracuse-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Syracuse VPA Graduate Admissions",
+          "url": "https://vpa.syracuse.edu/admissions/graduate/"
+        },
+        {
+          "label": "Syracuse Music Admission Requirements",
+          "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+        },
+        {
+          "label": "Syracuse Performance M.M.",
+          "url": "https://vpa.syracuse.edu/academics/music/programs/performance-mm/"
+        },
+        {
+          "label": "Syracuse VPA International Graduate Applicants",
+          "url": "https://vpa.syracuse.edu/admissions/graduate/international/"
+        },
+        {
+          "label": "Syracuse VPA Graduate Admissions FAQ",
+          "url": "https://vpa.syracuse.edu/admissions/graduate/graduate-admissions-faq/"
+        },
+        {
+          "label": "Syracuse Graduate Application",
+          "url": "https://graduate.admissions.go.syr.edu/apply/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through Syracuse University's Graduate School application for the M.Mus. in performance for piano. The VPA Graduate Admissions page says all prospective VPA graduate students must complete Syracuse University's online application and submit any required portfolio, audition, or interview materials. The Music Admission Requirements page says applicants receive applicant-portal setup instructions within 72 hours after submitting the application. Applicants then complete the Music Audition Form in the application portal and indicate whether they will audition in person or virtually. After the Music Audition Form is complete, the admissions checklist updates and applicants can upload required materials. Required materials listed for Setnor School of Music M.M. programs include three letters of recommendation, an unofficial academic transcript uploaded to the application, a personal statement of approximately 500 words, and the application fee. The Performance M.M. page confirms that the piano program includes emphases in both collaborative arts and performance; students interested in either emphasis apply to the M.Mus. in performance for piano.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse VPA Graduate Admissions",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/"
+              },
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse Performance M.M.",
+                "url": "https://vpa.syracuse.edu/academics/music/programs/performance-mm/"
+              },
+              {
+                "label": "Syracuse Graduate Application",
+                "url": "https://graduate.admissions.go.syr.edu/apply/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $75, non-refundable. The Music Admission Requirements page says to see the online application for details.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "After submitting the Syracuse Graduate School application, applicants complete the Music Audition Form in the application portal and indicate whether they will audition in person or virtually. Once the Music Audition Form is complete, the applicant's checklist updates and required materials can be uploaded. Syracuse lists in-person audition dates for Fall 2026 but does not list a separate piano prescreening process on the current Music Admission Requirements page. Piano applicants may submit audition materials focused on one of two emphases: piano performance (solo) or piano performance (collaborative arts). Applicants should consult the keyboard area coordinator, Ida Tili-Trebicka, to finalize repertoire choices. Setnor School of Music M.M. programs currently do not offer spring admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse Performance M.M.",
+                "url": "https://vpa.syracuse.edu/academics/music/programs/performance-mm/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Syracuse's current Music Admission Requirements page does not publish a separate prescreening repertoire requirement for piano; applicants complete the Music Audition Form and indicate in-person or virtual audition preference. Final audition repertoire: For the graduate emphasis in solo performance, applicants should present a representative recital program with a minimum of 40 minutes of music. Additional repertoire notes: applicants should consult with the keyboard area coordinator to finalize repertoire choices. Additional repertoire notes: students interested in either the solo performance emphasis or collaborative arts emphasis should apply to the M.Mus. in performance for piano on the Syracuse University application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse Performance M.M.",
+                "url": "https://vpa.syracuse.edu/academics/music/programs/performance-mm/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Fall 2026 cycle status as of May 25, 2026: the published February 1 deadline has passed. February 1: application deadline for fall admission. February 1: deadline to submit the application for merit-based award consideration. No spring admission: Setnor School of Music programs currently do not offer spring admission. In-person audition dates listed for Fall 2026: Tuesday, November 11, 2025; Saturday, January 24, 2026; Saturday, January 31, 2026. Graduate Admissions FAQ also states February 1 as the application deadline for all programs, except Art Therapy's early decision deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse VPA Graduate Admissions FAQ",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/graduate-admissions-faq/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: all graduate international applicants whose first language is not English must prove English proficiency. Recommended minimum scores: TOEFL 90; TOEFL Home Edition 90; IELTS 6.5; Duolingo 110. Audio Arts has a higher recommended TOEFL minimum of 100, but that does not apply to Performance M.M. Piano. Provisional admission: VPA says a student may be admitted with scores lower than the listed recommendations as determined by the individual department or school, with developmental English language education required. Alternative path: students may satisfy the English language proficiency requirement by attending Syracuse's English Language Institute and completing Level 4. Waiver: applicants may be exempt if they completed a bachelor's degree from an accredited U.S. institution; official transcripts showing completion are required before exemption. Other waiver requests should be sent to admissg@syr.edu, and the Office of Recruitment and Admissions reserves the right to require a satisfactory TOEFL, IELTS, or Duolingo score from any applicant.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse VPA International Graduate Applicants",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/international/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through Syracuse University's Graduate School application for the M.Mus. in performance for piano and select the collaborative arts emphasis where applicable. Syracuse does not list a separate M.Mus. Collaborative Piano degree on the current VPA Performance M.M. page; instead, the piano program includes emphases in both collaborative arts and performance, and the Music Admission Requirements page states that students interested in either emphasis should apply to the M.Mus. in performance for piano. Applicants receive applicant-portal setup instructions within 72 hours after submitting the Graduate School application, then complete the Music Audition Form and indicate whether they will audition in person or virtually.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse Performance M.M.",
+                "url": "https://vpa.syracuse.edu/academics/music/programs/performance-mm/"
+              },
+              {
+                "label": "Syracuse Graduate Application",
+                "url": "https://graduate.admissions.go.syr.edu/apply/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $75, non-refundable. The Music Admission Requirements page says to see the online application for details.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Syracuse treats collaborative arts as an emphasis within the M.Mus. in performance for piano, not as a separately listed M.Mus. Collaborative Piano degree. After submitting the Graduate School application, applicants complete the Music Audition Form in the application portal and indicate whether they will audition in person or virtually. Syracuse's current Music Admission Requirements page does not list a separate piano prescreening process. Collaborative arts emphasis applicants should present a representative program of solo, vocal, and chamber music and should consult the keyboard area coordinator, Ida Tili-Trebicka, to finalize repertoire choices.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse Performance M.M.",
+                "url": "https://vpa.syracuse.edu/academics/music/programs/performance-mm/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Syracuse's current Music Admission Requirements page does not publish a separate prescreening repertoire requirement for the piano collaborative arts emphasis; applicants complete the Music Audition Form and indicate in-person or virtual audition preference. Final audition repertoire: Applicants auditioning for the collaborative arts emphasis should present a representative program of solo, vocal, and chamber music. Additional repertoire notes: applicants should consult with the keyboard area coordinator to finalize repertoire choices. Additional repertoire notes: students interested in either the solo performance emphasis or collaborative arts emphasis should apply to the M.Mus. in performance for piano on the Syracuse University application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse Performance M.M.",
+                "url": "https://vpa.syracuse.edu/academics/music/programs/performance-mm/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Fall 2026 cycle status as of May 25, 2026: the published February 1 deadline has passed. February 1: application deadline for fall admission. February 1: deadline to submit the application for merit-based award consideration. No spring admission: Setnor School of Music programs currently do not offer spring admission. In-person audition dates listed for Fall 2026: Tuesday, November 11, 2025; Saturday, January 24, 2026; Saturday, January 31, 2026. Graduate Admissions FAQ also states February 1 as the application deadline for all programs, except Art Therapy's early decision deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse Music Admission Requirements",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/admission-requirements/music/"
+              },
+              {
+                "label": "Syracuse VPA Graduate Admissions FAQ",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/graduate-admissions-faq/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: all graduate international applicants whose first language is not English must prove English proficiency. Recommended minimum scores: TOEFL 90; TOEFL Home Edition 90; IELTS 6.5; Duolingo 110. Audio Arts has a higher recommended TOEFL minimum of 100, but that does not apply to Performance M.M. Piano. Provisional admission: VPA says a student may be admitted with scores lower than the listed recommendations as determined by the individual department or school, with developmental English language education required. Alternative path: students may satisfy the English language proficiency requirement by attending Syracuse's English Language Institute and completing Level 4. Waiver: applicants may be exempt if they completed a bachelor's degree from an accredited U.S. institution; official transcripts showing completion are required before exemption. Other waiver requests should be sent to admissg@syr.edu, and the Office of Recruitment and Admissions reserves the right to require a satisfactory TOEFL, IELTS, or Duolingo score from any applicant.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Syracuse VPA International Graduate Applicants",
+                "url": "https://vpa.syracuse.edu/admissions/graduate/international/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
