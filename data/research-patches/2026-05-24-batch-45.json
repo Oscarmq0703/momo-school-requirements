@@ -1,0 +1,143 @@
+{
+  "schools": [
+    {
+      "id": "southern-methodist-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "SMU Meadows Graduate Music Admissions",
+          "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions"
+        },
+        {
+          "label": "SMU Meadows Graduate Audition Requirements",
+          "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions/auditionrep"
+        },
+        {
+          "label": "SMU M.M. in Performance - Piano",
+          "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/performance/piano"
+        },
+        {
+          "label": "SMU M.M. in Performance",
+          "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/performance"
+        },
+        {
+          "label": "SMU Piano Department",
+          "url": "https://www.smu.edu/meadows/areasofstudy/music/departments/piano"
+        },
+        {
+          "label": "SMU Meadows Graduate FAQ",
+          "url": "https://www.smu.edu/meadows/admissions/graduateadmissionguide/faq"
+        },
+        {
+          "label": "SMU Graduate Application",
+          "url": "https://gradadmission.smu.edu/apply/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the SMU Graduate Application / Meadows Online Application for Meadows School of the Arts graduate music. SMU's graduate music admissions page says admission to graduate music programs in the Division of Music, including Master of Music programs, is offered for fall entry only. Candidates complete the Meadows Online Application and submit all required materials listed on the admissions page; candidates only need to apply to the Meadows School of the Arts and not separately to SMU's general graduate school, except for programs specifically noted by SMU. The M.M. in Performance - Piano page confirms the Master of Music in Performance pathway for Piano. Current public SMU pages do not list a separate MM Collaborative Piano degree; the Piano department page lists collaborative-piano faculty/coordinator and says the graduate degrees for pianists include Master of Music in Performance, M.M. in Piano Performance and Pedagogy, Performer's Diploma, and Artist Diploma.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "SMU Meadows Graduate Music Admissions",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions"
+              },
+              {
+                "label": "SMU M.M. in Performance - Piano",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/performance/piano"
+              },
+              {
+                "label": "SMU Piano Department",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/departments/piano"
+              },
+              {
+                "label": "SMU Graduate Application",
+                "url": "https://gradadmission.smu.edu/apply/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Current public SMU Meadows graduate music admissions pages and the SMU Graduate Application landing page do not expose a music-specific application fee amount in the static public text reviewed on May 24, 2026. Related current SMU Meadows graduate admissions pages for other Meadows graduate programs list a $75 non-refundable application fee, but applicants should verify the exact fee in the Meadows Online Application before submission.",
+            "status": "needs_review",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "SMU Meadows Graduate Music Admissions",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions"
+              },
+              {
+                "label": "SMU Graduate Application",
+                "url": "https://gradadmission.smu.edu/apply/"
+              },
+              {
+                "label": "SMU Meadows Art History Graduate Admissions Fee Reference",
+                "url": "https://www.smu.edu/meadows/areasofstudy/arthistory/graduatestudies/admissions"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Auditions are required for Master of Music performance applicants. Piano applicants interested in auditioning live for faculty must submit a prescreening video: by November 1 to participate in the December audition, or by December 1 to participate in January/February audition dates. Piano applicants who pass the prescreening are emailed information on how to register for an audition. Once the Meadows Online Application is submitted, the application status page includes a checklist and a link to select an audition date. SMU strongly encourages in-person auditions but accepts recorded submissions in place of a live audition. Recorded audition links should be uploaded to YouTube, Vimeo, or another file-sharing platform and included in the Meadows Portfolio Page section of the application; recorded audition submissions are due February 1 for scholarship consideration. Music faculty may choose an interview or follow-up visit before making an admission decision. Graduate candidates admitted to Master of Music or Master of Sacred Music programs are required to take diagnostic exams in music history and music theory prior to enrollment.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "SMU Meadows Graduate Music Admissions",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions"
+              },
+              {
+                "label": "SMU Meadows Graduate Audition Requirements",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions/auditionrep"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Candidates auditioning for the MM in Performance or the MM in Performance and Pedagogy should prepare a video recording at least 25 minutes in length. Prescreening repertoire: The recording must contain a minimum of 3 stylistic periods of solo repertoire. Prescreening repertoire: At least one work must be from the Baroque or Classical periods. Prescreening repertoire: Not all movements of multi-movement works need be submitted for the prescreening video. Prescreening repertoire: The prescreening requirement is waived for students currently enrolled in another graduate or undergraduate piano program in Meadows. Final audition repertoire: Audition repertoire should include pieces from a minimum of three stylistic periods. Final audition repertoire: One of those pieces must be from the Baroque or Classical periods. Final audition repertoire: Candidates auditioning for the MM in Performance or the MM in Performance and Pedagogy should prepare a program of at least 40 minutes of memorized music from which the piano faculty may choose to hear at the live audition. Final audition repertoire: For recorded auditions, submit the entire program. Additional repertoire notes: SMU asks applicants to pick repertoire that shows their ability among other applicants and to contact the school with specific repertoire questions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "SMU Meadows Graduate Audition Requirements",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions/auditionrep"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Fall entry only. February 1: complete application, including all supporting materials, due for full consideration for admission and scholarships. December 1: prescreening materials due for select programs such as piano, voice, and organ. November 1: piano prescreen video due if the applicant wants to participate in the December audition. December 1: piano prescreen video due if the applicant wants to participate in January or February audition dates. February 1: recorded audition materials due for applicants not attending a live audition and for scholarship consideration. Piano audition dates for 2025-26 / Fall 2026 applicants: Saturday, December 6, 2025; Saturday, January 31, 2026; Saturday, February 21, 2026; Saturday, February 28, 2026. April 15: Meadows FAQ lists April 15 as the standard response date for offers of admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "SMU Meadows Graduate Music Admissions",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions"
+              },
+              {
+                "label": "SMU Meadows Graduate FAQ",
+                "url": "https://www.smu.edu/meadows/admissions/graduateadmissionguide/faq"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: applicants whose first language is not English are required to submit official English proficiency scores by the February 1 deadline for full admission and scholarship consideration. Exemption: applicants who have graduated with a 4-year degree from a U.S. or English-speaking university may be exempt. Minimum scores for Master of Music applicants: TOEFL iBT 80 overall with minimum 20 in each section; IELTS 6.5 overall with minimum 5.5 in each section; Computer Based TOEFL 213 overall. SMU Meadows FAQ confirms the same Music/Theatre category minimums and says Master of Music candidates must meet the minimum score requirements to be eligible for admission. School code: 7640. Note: the lower Duolingo 110 / TOEFL iBT 64 / IELTS 6.0 pathway applies to Performer's Diploma and Artist Diploma applicants, not Master of Music applicants.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "SMU Meadows Graduate Music Admissions",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions"
+              },
+              {
+                "label": "SMU Meadows Graduate FAQ",
+                "url": "https://www.smu.edu/meadows/admissions/graduateadmissionguide/faq"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

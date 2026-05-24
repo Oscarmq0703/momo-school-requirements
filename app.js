@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-sfcm-audit-v33";
+const DATA_VERSION = "2026-05-24-smu-audit-v34";
 
 const state = {
   data: null,
