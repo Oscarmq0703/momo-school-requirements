@@ -8075,162 +8075,242 @@
       "city": "Fort Worth",
       "state": "TX",
       "control": "Private",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance",
         "mm_collaborative_piano"
       ],
       "officialSources": [
         {
-          "label": "TCU MM and MME Requirements",
-          "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/"
-        },
-        {
-          "label": "TCU Collaborative Piano MM Auditions",
-          "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/collaborative-piano.php"
-        },
-        {
-          "label": "TCU MM and MME Checklist",
+          "label": "TCU MM, MME Applicant Checklist",
           "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
         },
         {
-          "label": "TCU Dates and Deadlines",
+          "label": "TCU MM, MME Audition Requirements",
+          "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/"
+        },
+        {
+          "label": "TCU Piano and Piano Pedagogy Audition Requirements for MM",
+          "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/piano-and-piano-pedagogy.php"
+        },
+        {
+          "label": "TCU Collaborative Piano Audition Requirements for MM",
+          "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/collaborative-piano.php"
+        },
+        {
+          "label": "TCU Admission Dates and Deadlines",
           "url": "https://finearts.tcu.edu/music/apply-audition/dates-deadlines.php"
+        },
+        {
+          "label": "TCU Graduate FAQ for Music",
+          "url": "https://finearts.tcu.edu/music/apply-audition/graduate-faq.php"
+        },
+        {
+          "label": "TCU Piano Division",
+          "url": "https://finearts.tcu.edu/music/academics/piano.php"
+        },
+        {
+          "label": "TCU Graduate Studies Tuition and Fees",
+          "url": "https://graduate.tcu.edu/financial-support/tuition-and-fees/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply to both TCU Graduate Studies and the School of Music/Acceptd process; graduate music applicants submit the university application, School of Music application materials, transcripts, recommendations, and any required prescreen or audition media.",
+            "value": "Apply through two separate application systems: TCU Graduate Studies and the School of Music application through Acceptd. The TCU Graduate FAQ says applicants do not need to wait to hear from TCU before completing the Music application. The MM/MME Applicant Checklist lists the required School of Music application materials: prescreening video, one-page personal statement, three references whose letters are requested electronically through Acceptd, CV or resume, unofficial transcripts from all colleges attended, English translation of international transcripts, international English proficiency scores if applicable, and the Music Theory Diagnostic Test. The Piano Division page confirms the graduate degree path for Master of Music in Piano Performance.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU MM and MME Checklist",
+                "label": "TCU MM, MME Applicant Checklist",
                 "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
+              },
+              {
+                "label": "TCU Graduate FAQ for Music",
+                "url": "https://finearts.tcu.edu/music/apply-audition/graduate-faq.php"
+              },
+              {
+                "label": "TCU Piano Division",
+                "url": "https://finearts.tcu.edu/music/academics/piano.php"
               }
             ]
           },
           "applicationFee": {
-            "value": "Current exact TCU Graduate Studies and Acceptd fee amounts were not confirmed on the public School of Music checklist during this pass; verify in the official application portals.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "TCU Graduate Studies application fee: $60 non-refundable. School of Music application fee: $35 non-refundable. TCU Graduate Studies Tuition and Fees also lists a $60 application fee for graduate study.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU MM and MME Checklist",
-                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
+                "label": "TCU Graduate FAQ for Music",
+                "url": "https://finearts.tcu.edu/music/apply-audition/graduate-faq.php"
+              },
+              {
+                "label": "TCU Graduate Studies Tuition and Fees",
+                "url": "https://graduate.tcu.edu/financial-support/tuition-and-fees/"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Graduate applicants generally submit prescreen video materials and are notified if they advance to the on-campus audition round; applicants invited to audition are considered for scholarships and graduate assistantships; exact current MM Piano Performance audition page was not confirmed during this pass, so piano-specific audition logistics should be verified with TCU School of Music.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "TCU MM and MME Requirements",
-                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/"
-              }
-            ]
-          },
-          "repertoireRequirements": {
-            "value": "Prescreening: TCU School of Music requires graduate applicants to submit prescreen video materials before any audition invitation; Final audition repertoire: Current official MM Piano Performance repertoire was not confirmed on a public TCU piano-specific page during this pass; verify exact repertoire directly with TCU School of Music before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "TCU MM and MME Requirements",
-                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/"
-              }
-            ]
-          },
-          "deadlines": {
-            "value": "September 1, 2025: graduate application opens; December 1: preferred deadline for Acceptd and TCU Graduate Studies applications, priority scheduling, scholarships, and assistantships; January 15: regular deadline; February 1: final deadline; listed audition dates include January 24, January 31, and February 7; virtual dates may be arranged if approved.",
+            "value": "A prescreening video is required for all MM/MME applicants. After submitting the TCU application, applicants upload a prescreening video through the School of Music application. Applicants are notified if they advance to the audition round. Piano applicants invited to audition perform on campus and are considered for scholarships and graduate assistantships. In-person auditions are preferred; virtual audition dates may be arranged with the Coordinator of Admissions if approved by faculty. All auditions and interviews are by invitation and in person on campus unless a virtual audition is approved. All entering graduate students must take placement exams during the first week of residency and fulfill keyboard and theory proficiencies.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU Dates and Deadlines",
+                "label": "TCU MM, MME Audition Requirements",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/"
+              },
+              {
+                "label": "TCU MM, MME Applicant Checklist",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
+              },
+              {
+                "label": "TCU Piano and Piano Pedagogy Audition Requirements for MM",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/piano-and-piano-pedagogy.php"
+              },
+              {
+                "label": "TCU Admission Dates and Deadlines",
                 "url": "https://finearts.tcu.edu/music/apply-audition/dates-deadlines.php"
               }
             ]
           },
-          "englishScores": {
-            "value": "TCU School of Music lists minimum English scores of TOEFL iBT 80, IELTS 6.5, or Duolingo 105; official scores must be sent to school code 6820 by the application deadline and applicants will not be invited to audition without official scores meeting the admission standard; waiver consideration may apply for applicants completing an undergraduate degree from a U.S. institution or university where English is the language of instruction.",
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Recordings must be from within the last six months. Prescreening repertoire: The prescreening recording should be at least 20 minutes long. Prescreening repertoire: All repertoire must be performed from memory. Prescreening repertoire: Each video must be unedited, with a fixed camera position, hands visible, and high-quality audio. Final audition repertoire: Present a 30-minute program covering at least three stylistic periods, including a complete sonata or other larger composition. Final audition repertoire: The live audition is 20 minutes. Final audition repertoire: Perform all repertoire from memory. Final audition repertoire: Present a dossier at the audition, including the audition program, a vita, and a repertoire list. Additional repertoire notes: For specific audition repertoire questions, TCU directs applicants to Ann M. Gipson, Associate Professor, Director of Piano Pedagogy Studies and Division Chair of Piano.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU MM and MME Requirements",
-                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/"
+                "label": "TCU Piano and Piano Pedagogy Audition Requirements for MM",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/piano-and-piano-pedagogy.php"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "September 1, 2025: School of Music graduate application opens for Fall 2026 admission. December 1, 2025: Preferred Deadline; applicants who complete both Acceptd and TCU Graduate Studies applications and submit all materials by this date receive priority scheduling if invited to audition and optimal consideration for scholarships and assistantships. January 15, 2026: Regular Deadline; applicants are reviewed but may not be guaranteed preferred audition date and time if invited. February 1, 2026: Final Deadline; applicants are not guaranteed to be reviewed before the final audition date. Graduate audition dates: January 24, January 31, and February 7, 2026. Virtual audition dates: arranged with the Coordinator of Admissions if approved by faculty; in-person auditions are preferred. Graduate FAQ assistantship note: to be considered for an assistantship, apply early by February 1 for fall or November 1 for spring.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "TCU Admission Dates and Deadlines",
+                "url": "https://finearts.tcu.edu/music/apply-audition/dates-deadlines.php"
+              },
+              {
+                "label": "TCU Graduate FAQ for Music",
+                "url": "https://finearts.tcu.edu/music/apply-audition/graduate-faq.php"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Official-source conflict: TCU's current MM/MME Applicant Checklist lists minimum international applicant English scores of TOEFL iBT 100, IELTS 7, or Duolingo 120, while the Piano and Collaborative Piano audition requirement pages list TOEFL iBT 80, IELTS 6.5, or Duolingo 105. Because the Applicant Checklist is the current application checklist and is stricter, applicants should plan for TOEFL iBT 100, IELTS 7, or Duolingo 120 and verify with TCU School of Music before submitting. Scores must be sent directly to TCU using school code 6820. The TOEFL/English proficiency requirement may be waived for students with a degree from a university where English is the language of instruction. The instrument audition pages state that official scores must be sent by the application deadline for the application to be considered complete, and applicants will not be invited to audition without official scores that meet the standard for admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "TCU MM, MME Applicant Checklist",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
+              },
+              {
+                "label": "TCU Piano and Piano Pedagogy Audition Requirements for MM",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/piano-and-piano-pedagogy.php"
+              },
+              {
+                "label": "TCU Collaborative Piano Audition Requirements for MM",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/collaborative-piano.php"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply to both TCU Graduate Studies and the School of Music/Acceptd process; graduate music applicants submit the university application, School of Music application materials, transcripts, recommendations, and required prescreen media.",
+            "value": "Apply through two separate application systems: TCU Graduate Studies and the School of Music application through Acceptd. The Piano Division page confirms the graduate degree path for Master of Music in Collaborative Piano. The MM/MME Applicant Checklist lists the required School of Music application materials: prescreening video, one-page personal statement, three references whose letters are requested electronically through Acceptd, CV or resume, unofficial transcripts from all colleges attended, English translation of international transcripts, international English proficiency scores if applicable, and the Music Theory Diagnostic Test. For Collaborative Piano, the CV or resume should include a repertoire list for both solo and collaborative pieces.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU MM and MME Checklist",
+                "label": "TCU MM, MME Applicant Checklist",
                 "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
+              },
+              {
+                "label": "TCU Graduate FAQ for Music",
+                "url": "https://finearts.tcu.edu/music/apply-audition/graduate-faq.php"
+              },
+              {
+                "label": "TCU Piano Division",
+                "url": "https://finearts.tcu.edu/music/academics/piano.php"
               }
             ]
           },
           "applicationFee": {
-            "value": "Current exact TCU Graduate Studies and Acceptd fee amounts were not confirmed on the public School of Music checklist during this pass; verify in the official application portals.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "TCU Graduate Studies application fee: $60 non-refundable. School of Music application fee: $35 non-refundable. TCU Graduate Studies Tuition and Fees also lists a $60 application fee for graduate study.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU MM and MME Checklist",
-                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
+                "label": "TCU Graduate FAQ for Music",
+                "url": "https://finearts.tcu.edu/music/apply-audition/graduate-faq.php"
+              },
+              {
+                "label": "TCU Graduate Studies Tuition and Fees",
+                "url": "https://graduate.tcu.edu/financial-support/tuition-and-fees/"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Applicants are notified if they advance to the on-campus audition round; invited applicants are considered for scholarships and assistantships; applicants are encouraged to bring their own collaborative partners, but TCU can provide partners if requested in the online application early in the audition season; prescreen videos must show the instrumental or vocal partner, be unedited, use a fixed camera, show visible hands, have high-quality audio, and be recorded within the past six months.",
+            "value": "A prescreening video is required for all MM/MME applicants. Collaborative Piano applicants are notified if they advance to the audition round to perform on campus. Applicants invited to audition are considered for scholarships and graduate assistantships. Prescreening videos must include the instrumental or vocal partner visible on camera. Videos must be unedited, with a fixed camera, visible hands, and high-quality audio, and recordings should be made within the past six months. For the live audition, applicants are encouraged to bring their own collaborative partners. If unable to do so, TCU can provide partners upon request; applicants must indicate this request in the online application and submit it as early as possible in the audition season to ensure availability. Sight-reading is part of the live audition.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU Collaborative Piano MM Auditions",
+                "label": "TCU Collaborative Piano Audition Requirements for MM",
                 "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/collaborative-piano.php"
+              },
+              {
+                "label": "TCU MM, MME Applicant Checklist",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: First or last movement of a major instrumental duo sonata, such as Mozart K. 301 or later, Beethoven, Brahms, Chopin, Faure, or similar, and the selection may be the same as the live audition selection; Prescreening: Two contrasting art songs, lieder, or melodie in different styles and languages, which may be the same selections used for the live audition; Prescreening: A seven-to-ten-minute solo piano work of the applicant's choice played from memory; Final audition repertoire: Choose one work from Group A: Mozart Sonata for Piano and Violin in E-flat major K. 380, first movement; Beethoven Sonata for Piano and Violin No. 7 in C minor Op. 30 No. 2, first movement; or Brahms Sonata for Piano and Violin No. 1 in G major Op. 78, first movement; Final audition repertoire: Choose one work from Group B: Schumann Cello Concerto in A minor Op. 129, first movement from beginning to the downbeat of measure 96 with no cuts; Dvorak Cello Concerto in B minor Op. 104, first movement from 12 measures before the cello's first entrance to Rehearsal 9; or Elgar Cello Concerto in E minor Op. 85, fourth movement from Rehearsal 65 to the end; Final audition repertoire: Faculty will select one song at the audition in the original key from Schubert Gretchen am Spinnrade, Barber St. Ita's Vision, or Debussy Green; Final audition repertoire: A seven-to-ten-minute solo piano piece is also required.",
+            "value": "Prescreening repertoire: The first or last movement of a major instrumental duo sonata, such as Mozart K. 301 or later, Beethoven, Brahms, Chopin, Faure, or similar. Prescreening repertoire: This instrumental duo sonata selection may be the same selection from the live audition requirements. Prescreening repertoire: Two contrasting art songs, lieder, or melodie in different styles and languages; these may be the same selections used for the live audition. Prescreening repertoire: A seven-to-ten-minute solo piano work of the applicant's choice played from memory. Final audition repertoire: Applicants are encouraged to bring their own collaborative partners for the live audition; TCU can provide partners upon request if requested in the online application as early as possible in the audition season. Final audition repertoire: Choose one piece from Group A: Mozart Sonata for Piano and Violin in E-flat major, K. 380, 1st movement; Beethoven Sonata for Piano and Violin No. 7 in C minor, Op. 30, no. 2, 1st movement; or Brahms Sonata for Piano and Violin No. 1 in G major, Op. 78, 1st movement. Final audition repertoire: Choose one piece from Group B: Schumann Cello Concerto in A minor, Op. 129, 1st movement, beginning to downbeat of measure 96 with no cuts; Dvorak Cello Concerto in B minor, Op. 104, 1st movement, 12 measures before the cello's first entrance to Rehearsal no. 9; or Elgar Cello Concerto in E minor, Op. 85, 4th movement, Rehearsal 65 to end. Final audition repertoire: Faculty will select one of the following songs at the audition, in original keys: Schubert, Gretchen am Spinnrade; Barber, St. Ita's Vision; or Debussy, Green. Final audition repertoire: A seven-to-ten-minute solo piano piece of the applicant's choice, played from memory; it may be the same as the prescreening solo piece. Final audition repertoire: Sight-reading. Additional repertoire notes: For specific audition repertoire questions, TCU directs applicants to Michael Bukhman, Associate Professor.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU Collaborative Piano MM Auditions",
+                "label": "TCU Collaborative Piano Audition Requirements for MM",
                 "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/collaborative-piano.php"
               }
             ]
           },
           "deadlines": {
-            "value": "September 1, 2025: graduate application opens; December 1: preferred deadline for Acceptd and TCU Graduate Studies applications, priority scheduling, scholarships, and assistantships; January 15: regular deadline; February 1: final deadline; listed audition dates include January 24, January 31, and February 7; virtual dates may be arranged if approved.",
+            "value": "September 1, 2025: School of Music graduate application opens for Fall 2026 admission. December 1, 2025: Preferred Deadline; applicants who complete both Acceptd and TCU Graduate Studies applications and submit all materials by this date receive priority scheduling if invited to audition and optimal consideration for scholarships and assistantships. January 15, 2026: Regular Deadline; applicants are reviewed but may not be guaranteed preferred audition date and time if invited. February 1, 2026: Final Deadline; applicants are not guaranteed to be reviewed before the final audition date. Graduate audition dates: January 24, January 31, and February 7, 2026. Virtual audition dates: arranged with the Coordinator of Admissions if approved by faculty; in-person auditions are preferred. Graduate FAQ assistantship note: to be considered for an assistantship, apply early by February 1 for fall or November 1 for spring.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU Dates and Deadlines",
+                "label": "TCU Admission Dates and Deadlines",
                 "url": "https://finearts.tcu.edu/music/apply-audition/dates-deadlines.php"
+              },
+              {
+                "label": "TCU Graduate FAQ for Music",
+                "url": "https://finearts.tcu.edu/music/apply-audition/graduate-faq.php"
               }
             ]
           },
           "englishScores": {
-            "value": "TCU School of Music lists minimum English scores of TOEFL iBT 80, IELTS 6.5, or Duolingo 105; official scores must be sent to school code 6820 by the application deadline and applicants will not be invited to audition without official scores meeting the admission standard; waiver consideration may apply for applicants completing an undergraduate degree from a U.S. institution or university where English is the language of instruction.",
+            "value": "Official-source conflict: TCU's current MM/MME Applicant Checklist lists minimum international applicant English scores of TOEFL iBT 100, IELTS 7, or Duolingo 120, while the Piano and Collaborative Piano audition requirement pages list TOEFL iBT 80, IELTS 6.5, or Duolingo 105. Because the Applicant Checklist is the current application checklist and is stricter, applicants should plan for TOEFL iBT 100, IELTS 7, or Duolingo 120 and verify with TCU School of Music before submitting. Scores must be sent directly to TCU using school code 6820. The TOEFL/English proficiency requirement may be waived for students with a degree from a university where English is the language of instruction. The instrument audition pages state that official scores must be sent by the application deadline for the application to be considered complete, and applicants will not be invited to audition without official scores that meet the standard for admission.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "TCU MM and MME Requirements",
-                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/"
+                "label": "TCU MM, MME Applicant Checklist",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/checklist.php"
+              },
+              {
+                "label": "TCU Piano and Piano Pedagogy Audition Requirements for MM",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/piano-and-piano-pedagogy.php"
+              },
+              {
+                "label": "TCU Collaborative Piano Audition Requirements for MM",
+                "url": "https://finearts.tcu.edu/music/apply-audition/mm-mme/collaborative-piano.php"
               }
             ]
           }
