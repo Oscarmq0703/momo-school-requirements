@@ -1,0 +1,155 @@
+{
+  "schools": [
+    {
+      "id": "stony-brook-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "Stony Brook Music Admissions Information",
+          "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/admissions_information.php"
+        },
+        {
+          "label": "Stony Brook Music Performance Application",
+          "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/application"
+        },
+        {
+          "label": "Stony Brook Graduate Audition Guidelines and Dates",
+          "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/audition?accordion=panel-d13e389"
+        },
+        {
+          "label": "Stony Brook Graduate Piano Study",
+          "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/studios/piano"
+        },
+        {
+          "label": "Stony Brook Graduate Study in Music",
+          "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/"
+        },
+        {
+          "label": "Stony Brook Graduate Admissions",
+          "url": "https://www.stonybrook.edu/commcms/grad/admissions/apply/graduate-programs.php"
+        },
+        {
+          "label": "Stony Brook Graduate Application",
+          "url": "https://graduateadmissions.stonybrook.edu/apply/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the Stony Brook Graduate School application system (Slate) for the M.M. in Performance. The Department of Music says Fall 2026 MM/DMA Performance applications are submitted through the Graduate School application system and points applicants to the Graduate Admissions application. Required M.M. Performance materials include the application, application fee paid through the application, statement of purpose, resume/CV, three letters of recommendation, transcripts, one original academic paper in English in music research, analysis, or criticism, TOEFL/IELTS scores if applicable, and prescreen recordings only for the areas that require them. Piano is not listed as requiring a prescreening recording. The Graduate Study in Music page lists Performance as an M.M./D.M.A. program area, and the Piano Study page identifies the graduate piano faculty.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Stony Brook Music Performance Application",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/application"
+              },
+              {
+                "label": "Stony Brook Music Admissions Information",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/admissions_information.php"
+              },
+              {
+                "label": "Stony Brook Graduate Study in Music",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/"
+              },
+              {
+                "label": "Stony Brook Graduate Piano Study",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/studios/piano"
+              },
+              {
+                "label": "Stony Brook Graduate Application",
+                "url": "https://graduateadmissions.stonybrook.edu/apply/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $100, non-refundable. Stony Brook Music Admissions says the application fee is $100 and non-refundable, and the Graduate School application checklist confirms the Graduate School application fee is $100. Fee waivers are limited; applicants must request any waiver before submission and should not submit and pay the fee if requesting a waiver because application fees cannot be refunded.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Stony Brook Music Admissions Information",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/admissions_information.php"
+              },
+              {
+                "label": "Stony Brook Graduate Admissions",
+                "url": "https://www.stonybrook.edu/commcms/grad/admissions/apply/graduate-programs.php"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Piano does not have a pre-screen requirement. The audition page says each studio may contact applicants regarding additional communication, such as an interview or sample lesson. Masters applicants, except Voice MM applicants, who live more than 250 miles from New York City may submit a video recording with decent audio quality for their audition, uploaded to the application. All doctoral auditions are live, and recorded DMA auditions are only considered in exceptional circumstances with faculty permission; this DMA rule is included here only to distinguish it from the MM option. Piano audition dates for Fall 2026 are February 8, 9, and 10, 2026. The admissions page says each studio contacts applicants directly, usually in January, to set the date and time of their auditions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Stony Brook Graduate Audition Guidelines and Dates",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/audition?accordion=panel-d13e389"
+              },
+              {
+                "label": "Stony Brook Music Admissions Information",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/admissions_information.php"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Not required for Piano. Stony Brook's graduate audition page states that Piano does not have a pre-screen requirement. Final audition repertoire: Both DMA and MM applicants will be expected to have prepared a full and representative program. Final audition repertoire: No other repertoire instructions are given by the faculty. Additional repertoire notes: any questions regarding audition repertoire should be directed to the studio; Stony Brook's Piano Study page lists Gilbert Kalish and Christina Dahl as the graduate piano faculty contacts.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Stony Brook Graduate Audition Guidelines and Dates",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/audition?accordion=panel-d13e389"
+              },
+              {
+                "label": "Stony Brook Graduate Piano Study",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/studios/piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 10, 2025: application deadline for Fall 2026 admissions for the MM or DMA in Music Performance. December 10, 2025: prescreen recordings deadline for the performance areas that require prescreening; Piano does not have a prescreen requirement. Mid-December 2025: if the applicant has not yet taken TOEFL or IELTS, the Music Admissions page says scores should be received no later than the middle of December. January 2026: studios usually contact applicants directly to set audition date and time. February 8, 9, and 10, 2026: Piano audition dates. Late March 2026: Performance program offer letters are generally sent out. No spring admissions: the Music Department states it does not have Spring admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Stony Brook Music Admissions Information",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/admissions_information.php"
+              },
+              {
+                "label": "Stony Brook Music Performance Application",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/application"
+              },
+              {
+                "label": "Stony Brook Graduate Audition Guidelines and Dates",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/audition?accordion=panel-d13e389"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: applicants whose native language is not English and who have not received or will not receive a degree from an English-speaking institution must provide a passing TOEFL iBT or approved equivalent score for admission. Applicants who have only received or will only receive an Artist's Diploma or Advanced Graduate Certificate in an English-speaking institution must still provide TOEFL iBT or an approved equivalent. Music Department minimum scores: TOEFL iBT or TOEFL iBT Special Home Edition 80 for master's applicants; IELTS or IELTS Indicator overall 6.5 with no subsection below 6. Test age for Fall 2026: the most recent scores are counted, and tests taken before September 2024 cannot be considered. Music Department accepted tests: TOEFL iBT, IELTS, and TOEFL iBT Special Home Edition; the page also gives reporting instructions for IELTS Indicator. Not accepted by the Music Department page: Duolingo, TOEFL My Best Score, or TOEFL ITP. Graduate School general English page also lists Gateway English Test 495 and TOEFL iBT exams after January 21, 2026 using the new TOEFL scale, but applicants should follow the Music Department's program page first and contact Music Graduate Admissions if using a test format not listed on the music page. Reporting codes: TOEFL scores must be sent electronically by ETS using Stony Brook code 2548; IELTS official score reports are mailed to the Music Department. TA/GA spoken English placement: students with a TA/GA stipend whose native language is not English and who have not received or will not receive a degree from an English-speaking institution may be required to take Oral Academic English courses based on speaking subsection scores.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Stony Brook Music Admissions Information",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/admissions_information.php"
+              },
+              {
+                "label": "Stony Brook Music Performance Application",
+                "url": "https://www.stonybrook.edu/commcms/music/academics/_graduate/performance/application"
+              },
+              {
+                "label": "Stony Brook Graduate Admissions",
+                "url": "https://www.stonybrook.edu/commcms/grad/admissions/apply/graduate-programs.php"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
