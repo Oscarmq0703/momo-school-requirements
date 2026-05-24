@@ -1,0 +1,220 @@
+{
+  "schools": [
+    {
+      "id": "university-of-arizona",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "University of Arizona School of Music Graduate Application",
+          "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+        },
+        {
+          "label": "University of Arizona Keyboard Audition Information",
+          "url": "https://keyboard.music.arizona.edu/audition-information"
+        },
+        {
+          "label": "University of Arizona School of Music Deadlines",
+          "url": "https://music.arizona.edu/admissions/deadlines/"
+        },
+        {
+          "label": "University of Arizona Graduate College Application Fees",
+          "url": "https://grad.arizona.edu/admissions/procedures/application-fees"
+        },
+        {
+          "label": "University of Arizona International Applicants",
+          "url": "https://grad.arizona.edu/admissions/requirements/international-applicants"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "All graduate applicants must complete both the University of Arizona Graduate College application through UA GradApp and the University of Arizona School of Music application through Acceptd. The School of Music gives priority consideration to applications submitted by December 1. Materials uploaded to Acceptd include official or unofficial transcripts as allowed during review, audition materials required for the degree, a statement of purpose, English proficiency documentation where applicable, and assistantship or student-worker materials if the applicant wants consideration. The Keyboard Area also describes graduate piano applications as three steps: Graduate College application, School of Music application, and a live or pre-recorded audition. For M.M. applicants in piano, prescreening auditions are submitted through Acceptd when the applicant is seeking a live audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              },
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate College degree-seeking application fee: $90. The School of Music graduate application page also states that applicants upload School of Music materials through Acceptd after paying the supplemental application fee, but the public page does not list the supplemental fee amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona Graduate College Application Fees",
+                "url": "https://grad.arizona.edu/admissions/procedures/application-fees"
+              },
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "The Keyboard Area requires prescreening auditions for M.M. and D.M.A. applicants in piano via Acceptd. Applicants who pass prescreening are invited to audition live in person or live online via Zoom. If an applicant is not requesting a live audition, prescreening is not required, but the Keyboard Area says this is a significant disadvantage for teaching assistantship consideration. Recorded-media auditions are submitted through Acceptd. A pre-recorded audition must be an unedited, single-camera video recording of the full audition program recorded in one take, submitted as one video link. International graduate applicants who do not hold a degree from a university in an English-speaking country and who submit a pre-recorded audition must complete a video interview in addition to the TOEFL result. Scholarships are automatically considered for students who submit an application. Graduate Teaching Assistantships are limited, generally in class piano teaching and opera accompanying, and a live audition is highly recommended for strongest GTA consideration.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Piano performance applicants should submit video recordings from the past year that include two contrasting works. Prescreening repertoire: The prescreening repertoire does not need to be the same as the proposed live audition repertoire. Prescreening repertoire: Applicants for the M.M. or D.M.A. in piano performance submit recordings of two solo works. A concerto performance is acceptable for one of the works. Prescreening repertoire: All graduate applicants in piano must submit a recent academic writing sample, such as a term paper from a piano literature, music history, or music theory course. Final audition repertoire: M.M. and D.M.A. in Piano Performance applicants prepare a 45-minute program demonstrating a variety of styles and techniques. Final audition repertoire: Inclusion of at least one work from the 18th century and one from the 20th or 21st century helps faculty evaluate the applicant's potential as a degree candidate. Final audition repertoire: An etude of virtuosity is highly recommended. Final audition repertoire: Memorization is required, except for works written after 1945. Additional repertoire notes: The Keyboard Area encourages inventive and creative programming. If the proposed program differs from the recommendations, such as an all 20th/21st-century program, the applicant should check in advance when scheduling the audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: School of Music priority consideration deadline for graduate applications and for fullest consideration for financial aid or scholarships for admission the following fall. December 1, 2025: Keyboard Area prescreening deadline displayed at the top of the piano audition page for M.M. and D.M.A. applicants. February 1, 2026: Keyboard Area recorded-media submission deadline displayed at the top of the piano audition page. February 7, 2026: live in-person audition date and live online Zoom audition date displayed by the Keyboard Area. February 28, 2026: live in-person audition date and live online Zoom audition date displayed by the Keyboard Area. Domestic School of Music graduate application material deadlines: June 1 for fall admission, October 1 for spring admission, and March 1 for summer sessions. International School of Music graduate application deadlines: April 1 for fall admission, September 1 for spring admission, and February 1 for summer sessions. Date caution: the Keyboard Area page currently contains conflicting legacy text, including a lower-page line saying prescreening materials by December 1, 2024 and another line saying the prescreening submission deadline is TBA; use the current Acceptd application and School of Music office confirmation as the final source before submitting.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              },
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              },
+              {
+                "label": "University of Arizona School of Music Deadlines",
+                "url": "https://music.arizona.edu/admissions/deadlines/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "School of Music admission minimums listed on the graduate application page: TOEFL iBT 79; IELTS 7 composite with no subject area below 6; CEPT Full Academic 110; Duolingo not accepted. Graduate College international applicant page: TOEFL iBT/Home Edition 79 for tests taken before January 21, 2026; TOEFL 4.0 overall on the new 1-6 scale for tests taken on or after January 21, 2026; TOEFL Essentials 9.5 for master's programs; IELTS Academic or IELTS Online 7 composite with no subject area below 6; PTE Academic 60; CESL CEPT Full Academic 110; Duolingo not accepted. The University of Arizona institution code for ETS score reports is 4832. TOEFL, IELTS, and other English proficiency tests must be dated within two years of the enrollment term. For instructional graduate assistantship eligibility, the School of Music states minimum English speaking subtest scores of TOEFL iBT Speaking 24, IELTS Speaking 7.5, or CEPT Full Academic Speaking 44. International students intending to hold a graduate assistantship must submit English speaking scores regardless of prior academic work and degrees.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              },
+              {
+                "label": "University of Arizona International Applicants",
+                "url": "https://grad.arizona.edu/admissions/requirements/international-applicants"
+              },
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "All graduate applicants must complete both the University of Arizona Graduate College application through UA GradApp and the University of Arizona School of Music application through Acceptd. The School of Music gives priority consideration to applications submitted by December 1. The Keyboard Area lists the collaborative pathway as M.M. in piano accompanying and D.M.A. in piano, collaborative emphasis in its prescreening instructions, and lists M.M. and D.M.A. in Collaborative Piano in its audition repertoire guidelines. Graduate piano applications involve the Graduate College application, the School of Music application, and a live or pre-recorded audition. Prescreening auditions are submitted through Acceptd when the applicant is seeking a live audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              },
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate College degree-seeking application fee: $90. The School of Music graduate application page also states that applicants upload School of Music materials through Acceptd after paying the supplemental application fee, but the public page does not list the supplemental fee amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona Graduate College Application Fees",
+                "url": "https://grad.arizona.edu/admissions/procedures/application-fees"
+              },
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "The Keyboard Area requires prescreening auditions for M.M. and D.M.A. applicants in piano via Acceptd. Applicants who pass prescreening are invited to audition live in person or live online via Zoom. If an applicant is not requesting a live audition, prescreening is not required, but the Keyboard Area says this is a significant disadvantage for teaching assistantship consideration. Recorded-media auditions are submitted through Acceptd. A pre-recorded audition must be an unedited, single-camera video recording of the full audition program recorded in one take, submitted as one video link. International graduate applicants who do not hold a degree from a university in an English-speaking country and who submit a pre-recorded audition must complete a video interview in addition to the TOEFL result. A live audition is highly recommended for Graduate Teaching Assistantship consideration. To be considered for the opera GTA, students need to demonstrate experience with opera accompanying. Sight-reading is included at collaborative piano auditions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Applicants for the M.M. in piano accompanying or the D.M.A. in piano, collaborative emphasis submit a movement of an instrumental sonata or two art songs. Prescreening repertoire: Applicants also submit a solo piano work. Prescreening repertoire: The prescreening recordings should be video recordings from the past year. Prescreening repertoire: The prescreening repertoire does not need to be the same as the proposed live audition repertoire. Prescreening repertoire: All graduate applicants in piano must submit a recent academic writing sample, such as a term paper from a piano literature, music history, or music theory course. Final audition repertoire: M.M. and D.M.A. in Collaborative Piano applicants present one complete instrumental sonata. Final audition repertoire: Applicants present a selection of works for voice and piano in two languages. Final audition repertoire: Applicants present a solo work representative of their abilities. Final audition repertoire: Sight-reading is included at collaborative piano auditions. Additional repertoire notes: The Keyboard Area encourages inventive and creative programming. If the proposed program differs from the recommendations, the applicant should check in advance when scheduling the audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: School of Music priority consideration deadline for graduate applications and for fullest consideration for financial aid or scholarships for admission the following fall. December 1, 2025: Keyboard Area prescreening deadline displayed at the top of the piano audition page for M.M. and D.M.A. applicants. February 1, 2026: Keyboard Area recorded-media submission deadline displayed at the top of the piano audition page. February 7, 2026: live in-person audition date and live online Zoom audition date displayed by the Keyboard Area. February 28, 2026: live in-person audition date and live online Zoom audition date displayed by the Keyboard Area. Domestic School of Music graduate application material deadlines: June 1 for fall admission, October 1 for spring admission, and March 1 for summer sessions. International School of Music graduate application deadlines: April 1 for fall admission, September 1 for spring admission, and February 1 for summer sessions. Date caution: the Keyboard Area page currently contains conflicting legacy text, including a lower-page line saying prescreening materials by December 1, 2024 and another line saying the prescreening submission deadline is TBA; use the current Acceptd application and School of Music office confirmation as the final source before submitting.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              },
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              },
+              {
+                "label": "University of Arizona School of Music Deadlines",
+                "url": "https://music.arizona.edu/admissions/deadlines/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "School of Music admission minimums listed on the graduate application page: TOEFL iBT 79; IELTS 7 composite with no subject area below 6; CEPT Full Academic 110; Duolingo not accepted. Graduate College international applicant page: TOEFL iBT/Home Edition 79 for tests taken before January 21, 2026; TOEFL 4.0 overall on the new 1-6 scale for tests taken on or after January 21, 2026; TOEFL Essentials 9.5 for master's programs; IELTS Academic or IELTS Online 7 composite with no subject area below 6; PTE Academic 60; CESL CEPT Full Academic 110; Duolingo not accepted. The University of Arizona institution code for ETS score reports is 4832. TOEFL, IELTS, and other English proficiency tests must be dated within two years of the enrollment term. For instructional graduate assistantship eligibility, the School of Music states minimum English speaking subtest scores of TOEFL iBT Speaking 24, IELTS Speaking 7.5, or CEPT Full Academic Speaking 44. International students intending to hold a graduate assistantship must submit English speaking scores regardless of prior academic work and degrees.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Arizona School of Music Graduate Application",
+                "url": "https://music.arizona.edu/admissions/how-to-apply/graduate/"
+              },
+              {
+                "label": "University of Arizona International Applicants",
+                "url": "https://grad.arizona.edu/admissions/requirements/international-applicants"
+              },
+              {
+                "label": "University of Arizona Keyboard Audition Information",
+                "url": "https://keyboard.music.arizona.edu/audition-information"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
