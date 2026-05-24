@@ -1,0 +1,292 @@
+{
+  "schools": [
+    {
+      "id": "temple-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Temple Boyer Master's Application Checklist",
+          "url": "https://boyer.temple.edu/admissions/application-checklists/masters"
+        },
+        {
+          "label": "Temple Boyer Master's Audition Requirements",
+          "url": "https://boyer.temple.edu/admissions/audition-requirements/masters"
+        },
+        {
+          "label": "Temple Boyer Master's Application Deadlines",
+          "url": "https://boyer.temple.edu/home/admissions/application-deadlines/masters"
+        },
+        {
+          "label": "Temple Boyer International Applicants",
+          "url": "https://boyer.temple.edu/admissions/international-applicants"
+        },
+        {
+          "label": "Temple Graduate School How to Apply",
+          "url": "https://grad.temple.edu/admissions/how-apply"
+        },
+        {
+          "label": "Temple Graduate School Costs and Fees",
+          "url": "https://grad.temple.edu/admissions/costs-financial-aid-more"
+        },
+        {
+          "label": "Temple Graduate School Required International Documents",
+          "url": "https://grad.temple.edu/admissions/international-applicants/required-application-documents"
+        },
+        {
+          "label": "Temple Bulletin - Music Performance/Piano MM",
+          "url": "https://bulletin.temple.edu/graduate/scd/boyer/music-performance-piano-mm/"
+        },
+        {
+          "label": "Temple Bulletin - Collaborative Piano and Chamber Music MM",
+          "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-chamber-music-mm/"
+        },
+        {
+          "label": "Temple Bulletin - Collaborative Piano and Opera Coaching MM",
+          "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-opera-coaching-mm/"
+        },
+        {
+          "label": "Temple Graduate Application",
+          "url": "https://apply.temple.edu/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through Temple University's graduate application for Boyer College of Music and Dance. Boyer's Master's Application Checklist says master's applicants must submit a complete Temple University application, fee, and supporting materials. Applicants can monitor application status in TUportal. Required materials for master's applicants include a statement of professional goals, official sealed or electronic transcripts from each college and university attended, two letters of recommendation, and a resume. For MM Performance, Opera, Jazz Studies, Collaborative Piano, and Pedagogy applicants, auditions are required. The 2025-2026 Temple Bulletin confirms the Music Performance/Piano MM as a 30-credit master's program in Boyer College. Application materials, portfolios, and exhibits become property of Temple University and are not returned.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Application Checklist",
+                "url": "https://boyer.temple.edu/admissions/application-checklists/masters"
+              },
+              {
+                "label": "Temple Bulletin - Music Performance/Piano MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/music-performance-piano-mm/"
+              },
+              {
+                "label": "Temple Graduate School How to Apply",
+                "url": "https://grad.temple.edu/admissions/how-apply"
+              },
+              {
+                "label": "Temple Graduate Application",
+                "url": "https://apply.temple.edu/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Temple Graduate School application fee: online application $60; paper application $75. Temple's Graduate School How to Apply page says the online application is not submitted until a nonrefundable application fee of $60 is paid. Temple Graduate School Costs and Fees also lists Online Application $60 and Paper Application $75. Boyer's Master's Application Checklist confirms that master's applicants must submit the application, fee, and supporting materials.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Graduate School How to Apply",
+                "url": "https://grad.temple.edu/admissions/how-apply"
+              },
+              {
+                "label": "Temple Graduate School Costs and Fees",
+                "url": "https://grad.temple.edu/admissions/costs-financial-aid-more"
+              },
+              {
+                "label": "Temple Boyer Master's Application Checklist",
+                "url": "https://boyer.temple.edu/admissions/application-checklists/masters"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Auditions are required for MM Performance applicants. Graduate auditions are held in person or by video recording submission; the applicant chooses the format, and all applicants receive equal consideration regardless of format. All applicants must have a Temple University application submitted before scheduling an audition or submitting a recorded audition. Recorded auditions are submitted through Acceptd, following the uploading instructions on that site. Professional Studies Certificate audition requirements are the same as those for the MM. Boyer says each program has specific audition and/or interview requirements, and applicants should review the listed requirements for their instrument or discipline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Audition Requirements",
+                "url": "https://boyer.temple.edu/admissions/audition-requirements/masters"
+              },
+              {
+                "label": "Temple Boyer Master's Application Checklist",
+                "url": "https://boyer.temple.edu/admissions/application-checklists/masters"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Temple's current Boyer master's audition page does not publish a separate prescreening requirement for Piano MM; auditions are completed in person or by recorded video submission after the Temple application is submitted. Final audition repertoire: All works are to be performed from memory. Final audition repertoire: Contrapuntal Baroque work. Final audition repertoire: Sonata by Haydn, Mozart, Beethoven, or Schubert. Final audition repertoire: Large Romantic work. Final audition repertoire: Impressionistic or Contemporary piece. Additional repertoire notes: Temple's Bulletin points applicants to Boyer's audition requirements page for the current audition repertoire requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Audition Requirements",
+                "url": "https://boyer.temple.edu/admissions/audition-requirements/masters"
+              },
+              {
+                "label": "Temple Bulletin - Music Performance/Piano MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/music-performance-piano-mm/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Fall deadline: March 1 for MM Performance. Spring deadline caution: Temple Boyer's master's deadlines page lists December 1 for MM Performance, Jazz Studies, Collaborative Piano, Opera, and Pedagogy; the 2025-2026 Temple Bulletin page for Music Performance/Piano MM lists Spring: November 1. Because both are official Temple pages, applicants should use the earlier November 1 date for planning or contact Boyer before relying on the later December 1 date. International recommended deadlines: Boyer strongly encourages international applicants to apply by January 1 for Fall and November 1 for Spring, including prescreening video recording, scholarly paper, and all supporting materials. Late applications: the program Bulletin states applications are processed as they arrive and late applications may be considered for admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Application Deadlines",
+                "url": "https://boyer.temple.edu/home/admissions/application-deadlines/masters"
+              },
+              {
+                "label": "Temple Bulletin - Music Performance/Piano MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/music-performance-piano-mm/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: Temple Boyer says prospective master's students must report official academic English scores if they have not earned a bachelor's degree from a U.S. institution. The requirement applies to individuals not born on U.S. soil who were educated outside the U.S. and to U.S. citizens who earned a degree abroad where the language of instruction was other than English. Program-specific Bulletin minimums for Music Performance/Piano MM: TOEFL iBT 75; IELTS Academic 6.5; PTE Academic 51. Temple Graduate School general international page lists broader university minimums: TOEFL iBT before January 21, 2026: 79; TOEFL iBT on or after January 21, 2026: 4.5; IELTS 6.5; PTE Academic 53; Duolingo 110. Because the Piano MM Bulletin gives program-specific values and Boyer directs applicants to the Bulletin for program minimums, use the Bulletin values for this program and verify with Boyer if submitting Duolingo or the new TOEFL scale. Validity/reporting: TOEFL and IELTS scores must be submitted within two years of the test date; TOEFL institution code is 2906; IELTS reports should be sent to the Temple University Graduate School. Waiver note: Temple Graduate School says applicants who completed an undergraduate degree in the U.S. or another listed English-speaking country are waived from English-language testing requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer International Applicants",
+                "url": "https://boyer.temple.edu/admissions/international-applicants"
+              },
+              {
+                "label": "Temple Bulletin - Music Performance/Piano MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/music-performance-piano-mm/"
+              },
+              {
+                "label": "Temple Graduate School Required International Documents",
+                "url": "https://grad.temple.edu/admissions/international-applicants/required-application-documents"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through Temple University's graduate application for Boyer College of Music and Dance. Temple has current 2025-2026 Bulletin pages for Collaborative Piano and Chamber Music MM and Collaborative Piano and Opera Coaching MM. Boyer's Master's Application Checklist groups Collaborative Piano with MM Performance, Opera, Jazz Studies, and Pedagogy and states that auditions are required for all of these applicants. Applicants submit the Temple application, fee, and supporting materials, then monitor status in TUportal. Required general materials include a statement of professional goals, transcripts, two letters of recommendation, and a resume.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Application Checklist",
+                "url": "https://boyer.temple.edu/admissions/application-checklists/masters"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Chamber Music MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-chamber-music-mm/"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Opera Coaching MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-opera-coaching-mm/"
+              },
+              {
+                "label": "Temple Graduate Application",
+                "url": "https://apply.temple.edu/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Temple Graduate School application fee: online application $60; paper application $75. Temple's Graduate School How to Apply page says the online application is not submitted until a nonrefundable application fee of $60 is paid. Temple Graduate School Costs and Fees also lists Online Application $60 and Paper Application $75. Boyer's Master's Application Checklist confirms that master's applicants must submit the application, fee, and supporting materials.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Graduate School How to Apply",
+                "url": "https://grad.temple.edu/admissions/how-apply"
+              },
+              {
+                "label": "Temple Graduate School Costs and Fees",
+                "url": "https://grad.temple.edu/admissions/costs-financial-aid-more"
+              },
+              {
+                "label": "Temple Boyer Master's Application Checklist",
+                "url": "https://boyer.temple.edu/admissions/application-checklists/masters"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Auditions are required for Collaborative Piano applicants. Graduate auditions are held in person or by video recording submission; the applicant chooses the format, and all applicants receive equal consideration regardless of format. All applicants must have a Temple University application submitted before scheduling an audition or submitting a recorded audition. Recorded auditions are submitted through Acceptd. For MM Collaborative Piano/Chamber Music recorded auditions, the pianist should supply the instrumentalist(s). For MM Collaborative Piano/Opera Coaching recorded auditions, the pianist should supply the vocalist. A sight-reading exam may be required, and the Keyboard Department will arrange a time to conduct the exam if needed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Audition Requirements",
+                "url": "https://boyer.temple.edu/admissions/audition-requirements/masters"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Chamber Music MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-chamber-music-mm/"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Opera Coaching MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-opera-coaching-mm/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Temple's current Boyer master's audition page does not publish a separate prescreening requirement for Collaborative Piano MM; auditions are completed in person or by recorded video submission after the Temple application is submitted. Final audition repertoire: MM Collaborative Piano/Chamber Music applicants should prepare two fast movements and two slow movements from two of the following works. Final audition repertoire: Beethoven Sonata for Piano & Violin in F, Op. 24. Final audition repertoire: Mozart Sonata for Piano & Violin in B-flat, KV 454. Final audition repertoire: Brahms Sonata for Piano and Cello in E Minor, Op. 38. Final audition repertoire: Debussy Sonata for Cello and Piano. Final audition repertoire: One or two solo works that demonstrate proficiency at a graduate level; memorization is optional. Final audition repertoire: MM Collaborative Piano/Opera Coaching applicants should prepare two songs by different composers, selected from Mozart, Schubert, Strauss, and Wolf. Final audition repertoire: One aria from an opera. Final audition repertoire: One scene excerpt from the standard opera repertoire. Final audition repertoire: One or two solo works that demonstrate proficiency at a graduate level; memorization is optional. Additional repertoire notes: Collaborative Piano/Chamber Music recorded audition applicants should supply the instrumentalist(s). Additional repertoire notes: Collaborative Piano/Opera Coaching recorded audition applicants should supply the vocalist. Additional repertoire notes: A sight-reading exam may be required, and the Keyboard Department will arrange the exam time if needed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Audition Requirements",
+                "url": "https://boyer.temple.edu/admissions/audition-requirements/masters"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Chamber Music MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-chamber-music-mm/"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Opera Coaching MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-opera-coaching-mm/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Fall deadline: March 1 for MM Collaborative Piano. Spring deadline caution: Temple Boyer's master's deadlines page lists December 1 for MM Performance, Jazz Studies, Collaborative Piano, Opera, and Pedagogy; the 2025-2026 Temple Bulletin pages for Collaborative Piano and Chamber Music MM and Collaborative Piano and Opera Coaching MM list Spring: November 1. Because both are official Temple pages, applicants should use the earlier November 1 date for planning or contact Boyer before relying on the later December 1 date. International recommended deadlines: Boyer strongly encourages international applicants to apply by January 1 for Fall and November 1 for Spring, including prescreening video recording, scholarly paper, and all supporting materials. Late applications: the program Bulletin states applications are processed as they arrive and late applications may be considered for admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer Master's Application Deadlines",
+                "url": "https://boyer.temple.edu/home/admissions/application-deadlines/masters"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Chamber Music MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-chamber-music-mm/"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Opera Coaching MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-opera-coaching-mm/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: Temple Boyer says prospective master's students must report official academic English scores if they have not earned a bachelor's degree from a U.S. institution. The requirement applies to individuals not born on U.S. soil who were educated outside the U.S. and to U.S. citizens who earned a degree abroad where the language of instruction was other than English. Program-specific Bulletin minimums for Collaborative Piano and Chamber Music MM and Collaborative Piano and Opera Coaching MM: TOEFL iBT 75; IELTS Academic 6.5; PTE Academic 51. Temple Graduate School general international page lists broader university minimums: TOEFL iBT before January 21, 2026: 79; TOEFL iBT on or after January 21, 2026: 4.5; IELTS 6.5; PTE Academic 53; Duolingo 110. Because the Collaborative Piano Bulletin pages give program-specific values and Boyer directs applicants to the Bulletin for program minimums, use the Bulletin values for this program and verify with Boyer if submitting Duolingo or the new TOEFL scale. Validity/reporting: TOEFL and IELTS scores must be submitted within two years of the test date; TOEFL institution code is 2906; IELTS reports should be sent to the Temple University Graduate School. Waiver note: Temple Graduate School says applicants who completed an undergraduate degree in the U.S. or another listed English-speaking country are waived from English-language testing requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Temple Boyer International Applicants",
+                "url": "https://boyer.temple.edu/admissions/international-applicants"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Chamber Music MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-chamber-music-mm/"
+              },
+              {
+                "label": "Temple Bulletin - Collaborative Piano and Opera Coaching MM",
+                "url": "https://bulletin.temple.edu/graduate/scd/boyer/collaborative-piano-opera-coaching-mm/"
+              },
+              {
+                "label": "Temple Graduate School Required International Documents",
+                "url": "https://grad.temple.edu/admissions/international-applicants/required-application-documents"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

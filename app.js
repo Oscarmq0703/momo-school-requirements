@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-syracuse-audit-v36";
+const DATA_VERSION = "2026-05-25-temple-audit-v37";
 
 const state = {
   data: null,
