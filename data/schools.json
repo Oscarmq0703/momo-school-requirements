@@ -8411,174 +8411,206 @@
       "city": "Lubbock",
       "state": "TX",
       "control": "Public",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance",
         "mm_collaborative_piano"
       ],
       "officialSources": [
         {
-          "label": "Texas Tech Graduate Music Auditions",
+          "label": "Texas Tech School of Music Graduate Programs",
+          "url": "https://www.depts.ttu.edu/music/programs/graduate/"
+        },
+        {
+          "label": "Texas Tech Graduate Audition Requirements",
           "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
         },
         {
           "label": "Texas Tech Graduate School How to Apply",
-          "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/how-to-apply/index.php"
+          "url": "https://www.depts.ttu.edu/gradschool/admissions/howtoapply.php?v=current"
         },
         {
-          "label": "Texas Tech International Graduate Applicants",
-          "url": "https://www.depts.ttu.edu/gradschool/admissions/InternationalProspectiveStudents.php"
+          "label": "Texas Tech International Prospective Graduate Students",
+          "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
+        },
+        {
+          "label": "Texas Tech Domestic Prospective Students",
+          "url": "https://www.depts.ttu.edu/gradschool/admissions/DomesticProspectiveStudents.php"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through the Texas Tech Graduate School and complete the School of Music audition process; applicants must follow area-specific prescreen and audition instructions on the graduate music audition page.",
+            "value": "Apply through the Texas Tech Graduate School online application and follow the School of Music graduate audition process. Texas Tech Graduate School says applicants submit the online graduate application, unofficial transcripts and test scores for evaluation, and any program materials required by the department. Supplemental materials are reviewed by the department, not only by Graduate Admissions. The School of Music graduate programs page lists the Master of Music degree and the Keyboard area, and the graduate audition page gives Keyboard audition requirements for Master of Music in Piano Performance. Graduate applicants must upload prescreening videos to the application portal by the posted deadline before receiving prescreen results and selecting a live or video audition format.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate School How to Apply",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/how-to-apply/index.php"
+                "label": "Texas Tech School of Music Graduate Programs",
+                "url": "https://www.depts.ttu.edu/music/programs/graduate/"
               },
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
+              },
+              {
+                "label": "Texas Tech Graduate School How to Apply",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/howtoapply.php?v=current"
               }
             ]
           },
           "applicationFee": {
-            "value": "Initial Graduate School application fee is $75; the fee increases to $100 after January 15 for Summer applications, after April 15 for Fall applications, and after September 15 for Spring applications; each subsequent application for the same term is $25.",
+            "value": "Graduate School application fee: $75 initial application fee, non-refundable. Late fee timing listed by Texas Tech for international graduate applicants: $100 after January 15 for Summer applications, $100 after April 15 for Fall applications, and $100 after September 15 for Spring applications. Subsequent application for the same term: $25, non-refundable. The fee is paid online by credit card as part of the application process. Full-time and at least half-time TTU/TTUHSC staff and faculty may qualify for an application fee waiver if the waiver form is submitted before the application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate School How to Apply",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/how-to-apply/index.php"
+                "label": "Texas Tech International Prospective Graduate Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
+              },
+              {
+                "label": "Texas Tech Domestic Prospective Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/DomesticProspectiveStudents.php"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "All undergraduate and graduate keyboard applicants submit a prescreen video; selected applicants choose either on-campus live audition or video audition with Zoom interview by the posted response deadline; video auditions must contain complete works in unedited takes, and multi-movement pieces must keep all movements together in a single continuous take; scholarship and assistantship consideration may be strongest for live auditions.",
+            "value": "All undergraduate and graduate Keyboard applicants are required to submit a prescreening video. Prescreening videos must be uploaded to the application portal by 11:59 PM CST on December 12, 2025. Applicants are notified of prescreening results by January 12, 2026. Selected applicants then submit their preferred audition format and date, either an on-campus live audition or a video audition with virtual Zoom interview, by January 19. Keyboard faculty strongly encourage all prospective students, especially those seeking scholarship aid or graduate assistantships, to travel to Lubbock for a live audition and interview. Video auditions are accepted if they follow the audition criteria; applicants upload video links through the application portal. Works in video auditions must be performed in their entirety, and multi-movement works must be recorded together in one single continuous take. Applicants who choose video auditions and want to submit updated recordings or full-length videos must do so by February 7. To be considered for a live Zoom interview, applications must be completed and submitted by February 7, 2026.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: Graduate keyboard applicants submit at least three works in contrasting styles; prescreen videos are due December 12, 2025 at 11:59 PM Central Time; Final audition repertoire: Exact current MM Piano Performance repertoire heading was not fully confirmed during this pass; the page's graduate piano-family requirements include substantial standard repertoire in contrasting style periods plus sight-reading, resume or CV, and repertoire list, so applicants should verify the precise MM Piano Performance list with the piano area before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Prescreening repertoire: All graduate Keyboard applicants must submit at least three works in contrasting styles. Prescreening repertoire: Videos must be uploaded to the application portal no later than 11:59 PM CST on December 12, 2025. Final audition repertoire: Master of Music in Piano Performance applicants present an audition approximately 30 minutes in length. Final audition repertoire: The audition consists of three or more compositions or movements from contrasting style periods representing major works of the standard performance repertoire. Final audition repertoire: Sightreading assessment. Final audition repertoire: Resume or curriculum vita. Final audition repertoire: Repertoire list. Additional repertoire notes: For video auditions, works must be performed in their entirety. Additional repertoire notes: If a piece includes multiple movements, applicants must record all movements together, in succession, in one single continuous take. Additional repertoire notes: The sightreading assessment may be completed at the time of audition or before the first semester of enrollment. Additional repertoire notes: MM and DMA applicants applying for graduate assistantships should include a link to a video recording, at least 20 minutes in length, of recent teaching or collaborative/chamber performance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
               }
             ]
           },
           "deadlines": {
-            "value": "December 12, 2025 at 11:59 PM Central Time: keyboard prescreen videos due; January 12, 2026: prescreen results expected; January 19, 2026: selected applicants submit preferred audition format and date; January 24, February 21, and February 28, 2026: listed live audition dates; February 7, 2026: updated or full-length video audition materials due for applicants choosing video audition; international graduate deadlines include January 15 for Fall or Summer recommended submission and June 15 for Spring recommended submission, subject to stricter department deadlines.",
+            "value": "December 12, 2025 at 11:59 PM CST: Keyboard prescreening videos due. January 12, 2026: prescreening results notification. January 19, 2026: selected applicants submit preferred audition format and date. January 24, 2026: official live audition date. February 7, 2026: updated recordings or full-length videos due for video-audition applicants; applications must be completed and submitted by this date to be considered for a live Zoom interview. February 21, 2026: official live audition date. February 28, 2026: official live audition date. March 1, 2026: School of Music graduate programs page recommends completing application and audition before this date; after March 1, the School of Music begins awarding teaching assistantship, graduate part-time instructor, and fellowship positions and awards. International Graduate School recommended submission dates: January 15 for Fall or Summer and June 15 for Spring, but Texas Tech says departments may have stricter deadlines, so the School of Music Keyboard deadlines should be treated as controlling for audition review.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
               },
               {
-                "label": "Texas Tech International Graduate Applicants",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/InternationalProspectiveStudents.php"
+                "label": "Texas Tech School of Music Graduate Programs",
+                "url": "https://www.depts.ttu.edu/music/programs/graduate/"
+              },
+              {
+                "label": "Texas Tech International Prospective Graduate Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate English minimums include Duolingo 100, TOEFL iBT 79, TOEFL Essentials 8.5, IELTS Academic 6.5, PTE Academic 60, Cambridge CPE 180, Cambridge CAE 175, or ELS 112.",
+            "value": "International graduate English minimums: Duolingo English Test 100; TOEFL iBT 79 for exams taken before January 21, 2026; TOEFL iBT 4 for exams taken on or after January 21, 2026 under the new 1-6 TOEFL iBT score scale; TOEFL Essentials 8.5; IELTS Academic 6.5 overall; PTE Academic 60; Cambridge C2 Proficiency 180; Cambridge C1 Advanced 175; or ELS Intensive English Program Level 112 with transcript and certificate of completion. Texas Tech's institutional TOEFL code is 6827. There is no institutional code for Duolingo; applicants select Texas Tech Graduate School as the recipient. IELTS General Training is not accepted. TOEFL, IELTS, PTE, and Duolingo scores are valid for two years; Cambridge CPE and CAE are valid for life.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech International Graduate Applicants",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/InternationalProspectiveStudents.php"
+                "label": "Texas Tech International Prospective Graduate Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply through the Texas Tech Graduate School and complete the School of Music audition process; collaborative-piano applicants follow the graduate music audition page and area-specific material requirements.",
+            "value": "Apply through the Texas Tech Graduate School online application and follow the School of Music graduate audition process. Texas Tech Graduate School says applicants submit the online graduate application, unofficial transcripts and test scores for evaluation, and any program materials required by the department. Supplemental materials are reviewed by the department. The School of Music graduate programs page lists the Keyboard area and a Piano Collaborative area, and the graduate audition page gives specific requirements for Master of Music in Collaborative Piano. Graduate applicants must upload prescreening videos to the application portal by the posted deadline before receiving prescreen results and selecting a live or video audition format.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate School How to Apply",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/how-to-apply/index.php"
+                "label": "Texas Tech School of Music Graduate Programs",
+                "url": "https://www.depts.ttu.edu/music/programs/graduate/"
               },
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
+              },
+              {
+                "label": "Texas Tech Graduate School How to Apply",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/howtoapply.php?v=current"
               }
             ]
           },
           "applicationFee": {
-            "value": "Initial Graduate School application fee is $75; the fee increases to $100 after January 15 for Summer applications, after April 15 for Fall applications, and after September 15 for Spring applications; each subsequent application for the same term is $25.",
+            "value": "Graduate School application fee: $75 initial application fee, non-refundable. Late fee timing listed by Texas Tech for international graduate applicants: $100 after January 15 for Summer applications, $100 after April 15 for Fall applications, and $100 after September 15 for Spring applications. Subsequent application for the same term: $25, non-refundable. The fee is paid online by credit card as part of the application process. Full-time and at least half-time TTU/TTUHSC staff and faculty may qualify for an application fee waiver if the waiver form is submitted before the application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate School How to Apply",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/how-to-apply/index.php"
+                "label": "Texas Tech International Prospective Graduate Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
+              },
+              {
+                "label": "Texas Tech Domestic Prospective Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/DomesticProspectiveStudents.php"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano auditions last about 25 to 30 minutes; applicants may bring their own partners or request Texas Tech partners with sufficient advance notice; online-only auditions may require an additional piano-part recording within one week as a substitute for sight-reading; recordings should be from the last two years, unedited, high-quality, and show the partner.",
+            "value": "All undergraduate and graduate Keyboard applicants are required to submit a prescreening video. Prescreening videos must be uploaded by 11:59 PM CST on December 12, 2025, with results by January 12, 2026. Selected applicants submit preferred audition format and date by January 19. Collaborative Piano auditions are approximately 25-30 minutes. Applicants may bring their own partners; TTU School of Music may provide partners for applicants with sufficient advance notice, and applicants should contact Dr. Nataliya Sukhina as soon as possible to discuss arrangements. Applicants who choose an online-only audition may be asked to submit an additional recording of a piano part from a short piece to be determined within one week of assignment as a substitute for the sight-reading portion. All video recordings should be from the last two years, unedited, and high quality audio, with the instrumental or vocal partner in camera view.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: Graduate keyboard applicants submit at least three works in contrasting styles; prescreen videos are due December 12, 2025 at 11:59 PM Central Time; Final audition repertoire: First or last movement from a major instrumental duo sonata, including but not limited to sonatas by Mozart K. 301 or later, Beethoven, Brahms, Chopin, Debussy, Schumann, Franck, Faure, Poulenc, Prokofiev, Copland, or Shostakovich; Final audition repertoire: Two art songs, lieder, or melodie in two contrasting styles and languages; Final audition repertoire: A substantial solo work or movement of at least 10 minutes that contrasts with the duo-sonata selection; Final audition repertoire: Sight-reading assessment; resume or CV; repertoire list of solo and collaborative works performed, studied, or rehearsed.",
+            "value": "Prescreening repertoire: All graduate Keyboard applicants must submit at least three works in contrasting styles. Prescreening repertoire: Videos must be uploaded to the application portal no later than 11:59 PM CST on December 12, 2025. Final audition repertoire: Master of Music in Collaborative Piano applicants present an audition approximately 25-30 minutes in length. Final audition repertoire: First or last movement from a major instrumental duo sonata, including but not limited to sonatas of Mozart K. 301 and up, Beethoven, Brahms, Chopin, Debussy, Schumann, Franck, Faure, Poulenc, Prokofiev, Copland, or Shostakovich. Final audition repertoire: Two art songs, lieder, or melodie in two contrasting styles and languages. Final audition repertoire: A substantial solo work or movement of at least 10 minutes in duration that contrasts in style with the instrumental duo sonata selection. Final audition repertoire: Sightreading assessment. Final audition repertoire: Resume or curriculum vita. Final audition repertoire: Repertoire list of both solo and collaborative works, including repertoire performed or studied/rehearsed. Additional repertoire notes: Applicants may bring their own partners; TTU School of Music may provide partners with sufficient advance notice. Additional repertoire notes: Online-only audition applicants may be asked to submit an additional recording of a piano part from a short piece as a substitute for sight-reading. Additional repertoire notes: Video recordings should be from the last two years, unedited, high quality audio, with the instrumental or vocal partner in camera view. Additional repertoire notes: MM and DMA applicants applying for graduate assistantships should include a link to a video recording, at least 20 minutes in length, of recent teaching or collaborative/chamber performance.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
               }
             ]
           },
           "deadlines": {
-            "value": "December 12, 2025 at 11:59 PM Central Time: keyboard prescreen videos due; January 12, 2026: prescreen results expected; January 19, 2026: selected applicants submit preferred audition format and date; January 24, February 21, and February 28, 2026: listed live audition dates; February 7, 2026: updated or full-length video audition materials due for applicants choosing video audition; international graduate deadlines include January 15 for Fall or Summer recommended submission and June 15 for Spring recommended submission, subject to stricter department deadlines.",
+            "value": "December 12, 2025 at 11:59 PM CST: Keyboard prescreening videos due. January 12, 2026: prescreening results notification. January 19, 2026: selected applicants submit preferred audition format and date. January 24, 2026: official live audition date. February 7, 2026: updated recordings or full-length videos due for video-audition applicants; applications must be completed and submitted by this date to be considered for a live Zoom interview. February 21, 2026: official live audition date. February 28, 2026: official live audition date. March 1, 2026: School of Music graduate programs page recommends completing application and audition before this date; after March 1, the School of Music begins awarding teaching assistantship, graduate part-time instructor, and fellowship positions and awards. International Graduate School recommended submission dates: January 15 for Fall or Summer and June 15 for Spring, but Texas Tech says departments may have stricter deadlines, so the School of Music Keyboard deadlines should be treated as controlling for audition review.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech Graduate Music Auditions",
+                "label": "Texas Tech Graduate Audition Requirements",
                 "url": "https://www.depts.ttu.edu/music/programs/auditions/graduate.php"
               },
               {
-                "label": "Texas Tech International Graduate Applicants",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/InternationalProspectiveStudents.php"
+                "label": "Texas Tech School of Music Graduate Programs",
+                "url": "https://www.depts.ttu.edu/music/programs/graduate/"
+              },
+              {
+                "label": "Texas Tech International Prospective Graduate Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
               }
             ]
           },
           "englishScores": {
-            "value": "International graduate English minimums include Duolingo 100, TOEFL iBT 79, TOEFL Essentials 8.5, IELTS Academic 6.5, PTE Academic 60, Cambridge CPE 180, Cambridge CAE 175, or ELS 112.",
+            "value": "International graduate English minimums: Duolingo English Test 100; TOEFL iBT 79 for exams taken before January 21, 2026; TOEFL iBT 4 for exams taken on or after January 21, 2026 under the new 1-6 TOEFL iBT score scale; TOEFL Essentials 8.5; IELTS Academic 6.5 overall; PTE Academic 60; Cambridge C2 Proficiency 180; Cambridge C1 Advanced 175; or ELS Intensive English Program Level 112 with transcript and certificate of completion. Texas Tech's institutional TOEFL code is 6827. There is no institutional code for Duolingo; applicants select Texas Tech Graduate School as the recipient. IELTS General Training is not accepted. TOEFL, IELTS, PTE, and Duolingo scores are valid for two years; Cambridge CPE and CAE are valid for life.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Texas Tech International Graduate Applicants",
-                "url": "https://www.depts.ttu.edu/gradschool/admissions/InternationalProspectiveStudents.php"
+                "label": "Texas Tech International Prospective Graduate Students",
+                "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
               }
             ]
           }
