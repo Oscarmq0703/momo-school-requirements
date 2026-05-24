@@ -6754,90 +6754,118 @@
       "sourceStatus": "verified",
       "officialSources": [
         {
-          "label": "Master of Music Checklist and Application Fall 2026",
+          "label": "Rice Shepherd Master of Music Checklist Fall 2026",
           "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
         },
         {
-          "label": "MM Piano Performance Audition Requirements",
+          "label": "Rice Shepherd MM Piano Performance Audition Requirements",
           "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-performance"
         },
         {
-          "label": "MM Piano Chamber Music and Accompanying Audition Requirements",
+          "label": "Rice Shepherd MM Piano Chamber Music and Accompanying Audition Requirements",
           "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-chamber-music-and-accompanying"
+        },
+        {
+          "label": "Rice Shepherd Graduate FAQ",
+          "url": "https://music.rice.edu/graduate/frequently-asked-questions"
+        },
+        {
+          "label": "Rice General Announcements - Piano Performance MMus",
+          "url": "https://ga.rice.edu/programs-study/departments-programs/music/music/piano-performance-mmus/"
+        },
+        {
+          "label": "Rice General Announcements - Piano Chamber Music and Accompanying MMus",
+          "url": "https://ga.rice.edu/programs-study/departments-programs/music/music/piano-chamber-music-accompanying-mmus/"
+        },
+        {
+          "label": "Rice Graduate Application",
+          "url": "https://gradapply.rice.edu/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through Rice's Graduate Application portal linked from the Shepherd School MM checklist.",
+            "value": "Apply through Rice's Graduate Application portal for the Shepherd School Master of Music program. The Shepherd School Fall 2026 MM checklist lists application, unofficial transcripts from all previous institutions, unofficial TOEFL/IELTS/Duolingo score report if required, three letters of recommendation, and prescreening material as application requirements. All required application items and supplemental materials are due by December 1, 2025 at 11:59 p.m. Eastern Standard Time. Rice General Announcements confirms Piano Performance as an MMus degree field.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
+              {
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
+                "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
+              },
+              {
+                "label": "Rice General Announcements - Piano Performance MMus",
+                "url": "https://ga.rice.edu/programs-study/departments-programs/music/music/piano-performance-mmus/"
+              },
               {
                 "label": "Rice Graduate Application",
                 "url": "https://gradapply.rice.edu/"
-              },
-              {
-                "label": "Rice MM Checklist Fall 2026",
-                "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Online prescreening submission is due December 1, 2025 by 11:59 PM EST. Prescreening may be audio or video. Audition dates for MM Piano Performance were listed as to be posted soon on the official page at retrieval.",
+            "value": "Prescreening: an online prescreening submission is required by December 1, 2025 at 11:59 p.m. EST. Submission type: prescreening may be audio or video for MM Piano Performance. Audition format: auditions at the Shepherd School take place in person; Rice states there is no regional audition and that applicants living outside the United States may request an exception, but recorded auditions are granted only in special circumstances. Live audition dates: the MM Piano Performance audition page said audition dates would be posted soon at the time of review. Graduate FAQ note: applicants for MM degree programs are notified of results by April 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Piano Performance",
+                "label": "Rice Shepherd MM Piano Performance Audition Requirements",
                 "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-performance"
+              },
+              {
+                "label": "Rice Shepherd Graduate FAQ",
+                "url": "https://music.rice.edu/graduate/frequently-asked-questions"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prepare a minimum of 45 minutes of memorized music including four of five style periods: Baroque, Classical, Romantic, Impressionist/Early 20th-century, or Post-1950. Requirements apply to both prescreening and audition.",
+            "value": "Prescreening repertoire: Requirements for prescreening and audition are the same. Prescreening repertoire: Prepare a minimum of 45 minutes of memorized music. Prescreening repertoire: Program should include four of the following five style periods: Baroque; Classical; Romantic; Impressionist/Early 20th-century; Post-1950. Final audition repertoire: Requirements for prescreening and audition are the same. Final audition repertoire: Prepare a minimum of 45 minutes of memorized music. Final audition repertoire: Program should include four of the following five style periods: Baroque; Classical; Romantic; Impressionist/Early 20th-century; Post-1950.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Piano Performance",
+                "label": "Rice Shepherd MM Piano Performance Audition Requirements",
                 "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-performance"
               }
             ]
           },
           "deadlines": {
-            "value": "Fall 2026 MM application and supplemental materials due December 1, 2025 by 11:59 PM EST. Application fee due December 1. Recommendation letters due December 10. English proficiency tests due January 3. Prescreening submission due December 1.",
+            "value": "Application and supplemental materials deadline: December 1, 2025 at 11:59 p.m. Eastern Standard Time. Application fee deadline: December 1, 2025. Prescreening submission deadline: December 1, 2025. Recommendation letter deadline: December 10, 2025. English proficiency test deadline: January 3, 2026. Admission result timing: applicants for MM degree programs are notified by April 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Checklist Fall 2026",
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
                 "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
               },
               {
-                "label": "Rice MM Piano Performance",
-                "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-performance"
+                "label": "Rice Shepherd Graduate FAQ",
+                "url": "https://music.rice.edu/graduate/frequently-asked-questions"
               }
             ]
           },
           "englishScores": {
-            "value": "Required if previous degree is not from a U.S. institution or native language is not English. Shepherd School minimums: TOEFL iBT 90, Duolingo 115, or IELTS 7.0. Test due date listed for Fall 2026: January 3.",
+            "value": "Applicability: applicants whose previous degree was not from a U.S. institution, or whose native language is not English, must submit an English proficiency test. Minimum scores: TOEFL iBT 90; Duolingo English Test 115; IELTS 7.0. TOEFL code: 6609. Timing: Fall 2026 English proficiency tests are due January 3, 2026. Exemptions: international applicants who received a degree from a U.S. institution, or whose primary language of instruction during the previous degree was English, are exempt from submitting TOEFL, IELTS, or Duolingo scores. Notes: for IELTS, select Rice University Graduate Admissions from the scoresheet options.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Checklist Fall 2026",
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
                 "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
+              },
+              {
+                "label": "Rice Shepherd Graduate FAQ",
+                "url": "https://music.rice.edu/graduate/frequently-asked-questions"
               }
             ]
           },
           "applicationFee": {
-            "value": "Application fee: $85, non-refundable, due December 1.",
+            "value": "Application fee: $85 non-refundable application fee due December 1, 2025. Rice states that the application fee is payable by credit card or electronic check and that checks or money orders will not be accepted.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Checklist Fall 2026",
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
                 "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
               }
             ]
@@ -6845,81 +6873,101 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply through Rice's Graduate Application portal linked from the Shepherd School MM checklist. Rice lists this area as Piano Chamber Music and Accompanying.",
+            "value": "Apply through Rice's Graduate Application portal for the Shepherd School Master of Music program. Rice lists the collaborative-piano-related MMus field as Piano Chamber Music and Accompanying. The Shepherd School Fall 2026 MM checklist lists application, unofficial transcripts from all previous institutions, unofficial TOEFL/IELTS/Duolingo score report if required, three letters of recommendation, and prescreening material as application requirements. All required application items and supplemental materials are due by December 1, 2025 at 11:59 p.m. Eastern Standard Time. Rice General Announcements confirms Piano Chamber Music and Accompanying as an MMus degree field.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
+              {
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
+                "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
+              },
+              {
+                "label": "Rice General Announcements - Piano Chamber Music and Accompanying MMus",
+                "url": "https://ga.rice.edu/programs-study/departments-programs/music/music/piano-chamber-music-accompanying-mmus/"
+              },
               {
                 "label": "Rice Graduate Application",
                 "url": "https://gradapply.rice.edu/"
-              },
-              {
-                "label": "Rice MM Checklist Fall 2026",
-                "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Online prescreening submission is due December 1, 2025 by 11:59 PM EST and must be video. Auditions will take place in January and February.",
+            "value": "Program name: Rice lists this MMus field as Piano Chamber Music and Accompanying. Prescreening: an online prescreening submission is required by December 1, 2025 at 11:59 p.m. EST. Submission type: prescreening must be video for MM Piano Chamber Music and Accompanying. Audition timing: auditions will take place in January and February. Audition format: auditions at the Shepherd School take place in person; Rice states there is no regional audition and that applicants living outside the United States may request an exception, but recorded auditions are granted only in special circumstances. Final audition: sight-reading and interview may be required.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Piano Chamber Music and Accompanying",
+                "label": "Rice Shepherd MM Piano Chamber Music and Accompanying Audition Requirements",
                 "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-chamber-music-and-accompanying"
+              },
+              {
+                "label": "Rice Shepherd Graduate FAQ",
+                "url": "https://music.rice.edu/graduate/frequently-asked-questions"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: video of a chamber music or duo performance at least 20 minutes long, plus a solo piano work from memory at least 10 minutes long. Audition repertoire: at least two solo works of different historical periods from memory; an entire standard duo-sonata for piano and wind or string instrument; sight-reading and interview may be required.",
+            "value": "Prescreening repertoire: A video recording of a chamber music or duo performance, at least 20 minutes in length. Prescreening repertoire: A solo piano work from memory, at least 10 minutes in length. Final audition repertoire: At least two solo works of different historical periods from memory. Final audition repertoire: An entire standard duo-sonata for piano and wind or string instrument. Final audition repertoire: Sight-reading and interview may be required.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Piano Chamber Music and Accompanying",
+                "label": "Rice Shepherd MM Piano Chamber Music and Accompanying Audition Requirements",
                 "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-chamber-music-and-accompanying"
               }
             ]
           },
           "deadlines": {
-            "value": "Fall 2026 MM application and supplemental materials due December 1, 2025 by 11:59 PM EST. Application fee due December 1. Recommendation letters due December 10. English proficiency tests due January 3. Prescreening submission due December 1.",
+            "value": "Application and supplemental materials deadline: December 1, 2025 at 11:59 p.m. Eastern Standard Time. Application fee deadline: December 1, 2025. Prescreening submission deadline: December 1, 2025. Recommendation letter deadline: December 10, 2025. English proficiency test deadline: January 3, 2026. Auditions for Piano Chamber Music and Accompanying: January and February. Admission result timing: applicants for MM degree programs are notified by April 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Checklist Fall 2026",
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
                 "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
               },
               {
-                "label": "Rice MM Piano Chamber Music and Accompanying",
+                "label": "Rice Shepherd MM Piano Chamber Music and Accompanying Audition Requirements",
                 "url": "https://music.rice.edu/admissions/graduate/audition/master-music-piano-chamber-music-and-accompanying"
+              },
+              {
+                "label": "Rice Shepherd Graduate FAQ",
+                "url": "https://music.rice.edu/graduate/frequently-asked-questions"
               }
             ]
           },
           "englishScores": {
-            "value": "Required if previous degree is not from a U.S. institution or native language is not English. Shepherd School minimums: TOEFL iBT 90, Duolingo 115, or IELTS 7.0. Test due date listed for Fall 2026: January 3.",
+            "value": "Applicability: applicants whose previous degree was not from a U.S. institution, or whose native language is not English, must submit an English proficiency test. Minimum scores: TOEFL iBT 90; Duolingo English Test 115; IELTS 7.0. TOEFL code: 6609. Timing: Fall 2026 English proficiency tests are due January 3, 2026. Exemptions: international applicants who received a degree from a U.S. institution, or whose primary language of instruction during the previous degree was English, are exempt from submitting TOEFL, IELTS, or Duolingo scores. Notes: for IELTS, select Rice University Graduate Admissions from the scoresheet options.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Checklist Fall 2026",
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
                 "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
+              },
+              {
+                "label": "Rice Shepherd Graduate FAQ",
+                "url": "https://music.rice.edu/graduate/frequently-asked-questions"
               }
             ]
           },
           "applicationFee": {
-            "value": "Application fee: $85, non-refundable, due December 1.",
+            "value": "Application fee: $85 non-refundable application fee due December 1, 2025. Rice states that the application fee is payable by credit card or electronic check and that checks or money orders will not be accepted.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-24",
             "sources": [
               {
-                "label": "Rice MM Checklist Fall 2026",
+                "label": "Rice Shepherd Master of Music Checklist Fall 2026",
                 "url": "https://music.rice.edu/admissions/graduate/graduate-application/master-music-checklist-and-application-fall-2026"
               }
             ]
           }
         }
-      }
+      },
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ]
     },
     {
       "id": "roosevelt-university",
