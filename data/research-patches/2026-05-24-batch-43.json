@@ -1,0 +1,216 @@
+{
+  "schools": [
+    {
+      "id": "rutgers-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+          "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+        },
+        {
+          "label": "Rutgers Mason Gross MM/DMA/AD Program",
+          "url": "https://www.masongross.rutgers.edu/degrees-programs/music/programs/mm-dma-ad/"
+        },
+        {
+          "label": "Rutgers Graduate Admissions - New Brunswick",
+          "url": "https://newbrunswickgrad.rutgers.edu/"
+        },
+        {
+          "label": "Rutgers Graduate and Professional Admissions Application Guidelines",
+          "url": "https://gradstudy.rutgers.edu/apply/application-guidelines"
+        },
+        {
+          "label": "Rutgers School of Graduate Studies International Students",
+          "url": "https://grad.rutgers.edu/admissions/international-students"
+        },
+        {
+          "label": "Rutgers Graduate and Professional Admissions International Students",
+          "url": "https://gradstudy.rutgers.edu/information/international-students"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the Rutgers Graduate and Professional Admissions online application for Mason Gross School of the Arts graduate music. After submitting the Rutgers application, applicants complete the Mason Gross Talent Assessment using the unique link and temporary PIN emailed after submission. Mason Gross lists MM, DMA, and AD graduate programs in music, including Master of Music in Performance with Piano as an instrument area. Talent Assessment materials include the $60 Talent Assessment fee, music questionnaire, three letters of recommendation, personal statement, resume/CV, audition date selection or recorded audition for classical performance and jazz studies applicants, and any program-specific supporting materials.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              },
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Program",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/programs/mm-dma-ad/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Rutgers Graduate and Professional Admissions application fee: $70 nonrefundable for each graduate application. Mason Gross Talent Assessment fee: $60. Both the university application and the Mason Gross Talent Assessment are required for MM Piano Performance applicants.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Graduate and Professional Admissions Application Guidelines",
+                "url": "https://gradstudy.rutgers.edu/apply/application-guidelines"
+              },
+              {
+                "label": "Rutgers Graduate Admissions - New Brunswick",
+                "url": "https://newbrunswickgrad.rutgers.edu/"
+              },
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Application sequence: submit the Rutgers Graduate and Professional Admissions application first, then complete the Mason Gross Talent Assessment after receiving the unique link and temporary PIN. Prescreening: the general Talent Assessment requirements list pre-screening video only for Choral Conducting, Voice, Opera, and DMA or AD Piano Performance applicants; MM Piano Performance is not listed as requiring a prescreening video. Audition format: Mason Gross is accepting both live in-person auditions and video recorded auditions for Fall 2026 admission. Live auditions are scheduled on designated audition dates. Recorded auditions should be submitted no later than the Talent Assessment deadline for priority consideration. Recorded audition submissions on major instrument or voice have the same repertoire requirements as in-person live auditions unless otherwise specifically noted. Recorded audition video requirements include good lighting, horizontal or landscape mode, clear view of posture, instrument, and hands, quiet indoor setting, continuous recording of each piece or movement, and no professional effects. Writing exam: DMA applicants and MM international applicants are required to complete a writing exam after submitting the supplemental application. Piano note: applicants submitting recordings will also be scheduled for a Zoom interview with the piano faculty. Live on-campus audition dates for Fall 2026 include Friday, January 23, 2026 for Percussion, Piano, Woodwinds, and Voice; Saturday, January 24, 2026 for all areas excluding Percussion; and Saturday, February 7, 2026 for all areas except Percussion.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Not required for MM Piano Performance based on the current Mason Gross Talent Assessment page; pre-screening video is listed only for Choral Conducting, Voice, Opera, and DMA or AD Piano Performance applicants. Final audition repertoire: MM applicants must offer a program of at least 45 minutes, satisfying all four of the categories below. Final audition repertoire: Memorization is required except for works composed after 1945. Final audition repertoire: A Prelude and Fugue by J.S. Bach or another work by Bach containing a fugue. Final audition repertoire: A complete sonata by Haydn, Mozart, Beethoven, or Schubert. Final audition repertoire: A substantial work from a significant Romantic Era composer. Final audition repertoire: A work by a 20th- or 21st-century composer that illustrates post-Romantic compositional techniques and is not shorter than five minutes in duration. Additional repertoire notes: A substantial work or a selection of pieces by composers of underrepresented groups is welcome. Additional repertoire notes: recorded auditions use the same repertoire requirements as in-person live auditions unless otherwise specifically noted.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "January 1: Rutgers University application deadline for all other MM/DMA/AD programs, including MM Piano Performance. January 15: Mason Gross Talent Assessment deadline for all other MM/DMA/AD programs, including MM Piano Performance. Important correction: Mason Gross states that MM Piano Performance applicants should not follow the DMA/AD Piano Performance December 1 and December 15 deadline and should instead see the All other MM/DMA/AD Programs section. Recorded auditions should be submitted no later than the Talent Assessment deadline for priority consideration. Applications for the all-other-programs category may remain open after the priority deadline on a rolling basis; applicants applying after January 15 should email admissions@mgsa.rutgers.edu to ensure efficient processing.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              },
+              {
+                "label": "Rutgers Graduate Program Detail",
+                "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gRQQAY"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: an English language proficiency examination is required of students whose undergraduate degree was completed outside the U.S. in a country where English is not the principal language. Minimum scores: TOEFL taken through January 21, 2026: Writing 22, Speaking 23, Reading 21, and Listening 17; TOEFL taken January 22, 2026 onward: Writing 4.5, Speaking 4.5, Reading 4, and Listening 4; IELTS 7; Duolingo English Test 120. Validity: score reports must be from tests taken within two years from the start of the semester to which the applicant is applying and must be sent directly from the testing agency. Notes: Rutgers institution code is 2790. Some graduate programs may have stricter score requirements. Students may be considered for a waiver if they completed a bachelor's degree, or in some cases a master's degree, at an institution where English was the principal language of instruction. Teaching assistant note: new international students appointed as teaching assistants must take an oral proficiency test regardless of TOEFL, IELTS, or DET scores.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers School of Graduate Studies International Students",
+                "url": "https://grad.rutgers.edu/admissions/international-students"
+              },
+              {
+                "label": "Rutgers Graduate and Professional Admissions International Students",
+                "url": "https://gradstudy.rutgers.edu/information/international-students"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Current public Rutgers Mason Gross graduate music pages confirm MM/DMA/AD music application procedures and list the Master of Music in Performance with instrument areas including Piano. A separate current MM Collaborative Piano application track, degree page, or Talent Assessment category was not confirmed on the public Mason Gross MM/DMA/AD admissions pages during this audit. Applicants interested in collaborative piano should contact Mason Gross Music Admissions or the piano faculty before applying to confirm whether the intended study path is available through MM Performance/Piano, chamber music, coaching, or another internal route.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Program",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/programs/mm-dma-ad/"
+              },
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "If applying through the current Rutgers Mason Gross MM/DMA/AD graduate music process, Rutgers Graduate and Professional Admissions application fee is $70 nonrefundable for each graduate application, and the Mason Gross Talent Assessment fee is $60. Because a separate current MM Collaborative Piano admissions category was not confirmed publicly, applicants should verify the correct application option with Mason Gross before paying fees.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Graduate and Professional Admissions Application Guidelines",
+                "url": "https://gradstudy.rutgers.edu/apply/application-guidelines"
+              },
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "A separate current public MM Collaborative Piano audition process was not confirmed on the Rutgers Mason Gross MM/DMA/AD admissions page during this audit. The current graduate music audition page states that Mason Gross accepts both live in-person auditions and video recorded auditions for Fall 2026, and that recorded submissions on major instrument or voice have the same repertoire requirements as in-person live auditions unless otherwise specifically noted. If Mason Gross directs an applicant to apply through MM Performance/Piano or another music route, the applicant should follow the Talent Assessment instructions issued by Mason Gross and confirm collaborative piano expectations directly with admissions or faculty. MM international applicants should also note the required writing exam after submitting the supplemental application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              },
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Program",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/programs/mm-dma-ad/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A separate current public MM Collaborative Piano prescreening repertoire list was not confirmed on the Rutgers Mason Gross MM/DMA/AD admissions page during this audit. Final audition repertoire: A separate current public MM Collaborative Piano final audition repertoire list was not confirmed on the Rutgers Mason Gross MM/DMA/AD admissions page during this audit. Additional repertoire notes: Current public Mason Gross graduate music pages should be treated as confirming MM Performance/Piano requirements, not as publishing a standalone MM Collaborative Piano repertoire list. Applicants interested in collaborative piano should confirm the correct track and required repertoire directly with Mason Gross Music Admissions or piano faculty before preparing an audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              },
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Program",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/programs/mm-dma-ad/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "For applicants using the current Mason Gross MM/DMA/AD graduate music process, the all-other-programs deadline is January 1 for the Rutgers University application and January 15 for the Mason Gross Talent Assessment. The current public page does not publish a separate MM Collaborative Piano deadline category. Applicants interested in collaborative piano should confirm the correct application route before relying on these deadlines.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers Mason Gross MM/DMA/AD Application Information",
+                "url": "https://www.masongross.rutgers.edu/degrees-programs/music/apply/mm-dma-ad/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: an English language proficiency examination is required of students whose undergraduate degree was completed outside the U.S. in a country where English is not the principal language. Minimum scores: TOEFL taken through January 21, 2026: Writing 22, Speaking 23, Reading 21, and Listening 17; TOEFL taken January 22, 2026 onward: Writing 4.5, Speaking 4.5, Reading 4, and Listening 4; IELTS 7; Duolingo English Test 120. Validity: score reports must be from tests taken within two years from the start of the semester to which the applicant is applying and must be sent directly from the testing agency. Notes: Rutgers institution code is 2790. Some graduate programs may have stricter score requirements. Students may be considered for a waiver if they completed a bachelor's degree, or in some cases a master's degree, at an institution where English was the principal language of instruction. Teaching assistant note: new international students appointed as teaching assistants must take an oral proficiency test regardless of TOEFL, IELTS, or DET scores.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Rutgers School of Graduate Studies International Students",
+                "url": "https://grad.rutgers.edu/admissions/international-students"
+              },
+              {
+                "label": "Rutgers Graduate and Professional Admissions International Students",
+                "url": "https://gradstudy.rutgers.edu/information/international-students"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
