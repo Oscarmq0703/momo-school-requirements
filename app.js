@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-24-peabody-audit-v28";
+const DATA_VERSION = "2026-05-24-penn-state-audit-v29";
 
 const state = {
   data: null,

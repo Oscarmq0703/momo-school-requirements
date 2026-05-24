@@ -1,0 +1,135 @@
+{
+  "schools": [
+    {
+      "id": "penn-state-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "Penn State Music Admission Information",
+          "url": "https://arts.psu.edu/how-to-apply/music-admission-information"
+        },
+        {
+          "label": "Penn State Graduate Audition Requirements",
+          "url": "https://arts.psu.edu/how-to-apply/music-admission-information/graduate-audition-requirements"
+        },
+        {
+          "label": "Penn State Music, M.M.",
+          "url": "https://arts.psu.edu/degrees/master-of-music/"
+        },
+        {
+          "label": "Penn State School of Music Graduate Application Process PDF",
+          "url": "https://arts.psu.edu/assets/uploads/documents/Music-Application-Process-Graduate-24-25.pdf"
+        },
+        {
+          "label": "Penn State Fox Graduate School - Preparing to Apply",
+          "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+        },
+        {
+          "label": "Penn State Graduate Admission Requirements",
+          "url": "https://gradschool.psu.edu/graduate-admissions/how-to-apply/new-applicants/requirements-for-graduate-admission/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through Penn State's J. Jeffrey and Ann Marie Fox Graduate School application and follow the School of Music graduate application process. The School of Music application process instructs applicants to confirm eligibility, gather required materials, and upload materials in the Graduate School application. Required uploaded materials include a statement of purpose, maximum two pages, contact information for two recommenders, and transcript copies with English translations where required. Performance, conducting, and composition applicants should be prepared to provide private video weblinks if their intended program has prescreening requirements. The Penn State Music, M.M. page states that the Master of Music has four options: Composition/Theory, Conducting, Performance, and Pedagogy and Performance; the Performance option allows specialization in voice, piano, or orchestral instruments. Program availability note: no current official Penn State MM Collaborative Piano program was found; this entry therefore keeps only MM Piano Performance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Penn State Music Admission Information",
+                "url": "https://arts.psu.edu/how-to-apply/music-admission-information"
+              },
+              {
+                "label": "Penn State Music, M.M.",
+                "url": "https://arts.psu.edu/degrees/master-of-music/"
+              },
+              {
+                "label": "Penn State School of Music Graduate Application Process PDF",
+                "url": "https://arts.psu.edu/assets/uploads/documents/Music-Application-Process-Graduate-24-25.pdf"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: U.S. applicants for degree programs and certificate programs: $65. International applicants for degree programs and certificate programs: $85. Nondegree admission, U.S. or international: $30. All application fees are nonrefundable. An application will not be reviewed until the application fee is paid. To request an application fee waiver, contact the intended graduate program directly. Veterans and military service members receive a discounted degree or certificate application fee of $40.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Penn State Fox Graduate School - Preparing to Apply",
+                "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+              },
+              {
+                "label": "Penn State Fox Graduate School Application Fee FAQ",
+                "url": "https://gradschool.psu.edu/faqs/how-much-is-the-application-fee"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Audition format: all audition requirements are the same for in-person and remote auditions. In-person audition dates for 2025-26 are Sunday, December 7, 2025; Saturday, January 31, 2026; Saturday, February 14, 2026; and Saturday, February 28, 2026, with auditions by appointment if applicants are not available for scheduled dates. Graduate piano auditions, in person only, are listed for January 30, January 31, February 6, February 13, and February 14, 2026. Graduate piano applicants should be prepared to be available between 10 a.m.-1:30 p.m. on Fridays and 10 a.m.-4 p.m. on Saturdays; due to high volume, special scheduling requests are not accepted, and applicants should make travel plans accordingly. Remote graduate auditions are by appointment. Interview: all graduate and PPC candidates complete a short interview. Discussion expectation: piano auditionees should be prepared to discuss background information about audition repertoire, such as composer information, other works by the composer, and important stylistic trends from the composer's time period. Prescreening note: the current graduate piano audition page lists a prescreening video requirement for DMA piano applicants, but it does not list a separate MM Piano prescreening repertoire requirement.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Penn State Music Admission Information",
+                "url": "https://arts.psu.edu/how-to-apply/music-admission-information"
+              },
+              {
+                "label": "Penn State Graduate Audition Requirements",
+                "url": "https://arts.psu.edu/how-to-apply/music-admission-information/graduate-audition-requirements"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate MM Piano prescreening repertoire requirement is listed on the current graduate piano audition page; the prescreening video requirement shown there applies to DMA Piano Performance applicants. Final audition repertoire: Auditionees for the M.M. in Piano Performance, the M.M. in Pedagogy and Performance with the track in piano, or the Professional Performance Certificate should prepare a program equivalent to an undergraduate performance degree senior recital, around 40-60 minutes total. Final audition repertoire: Example category: a complete Beethoven, Haydn, or Mozart sonata of significant size and difficulty; Beethoven Op. 49 is unacceptable. Final audition repertoire: Example category: a Chopin ballade or comparable romantic work. Final audition repertoire: Example category: a Baroque work, such as an advanced prelude and fugue from the Well-Tempered Clavier by J.S. Bach. Final audition repertoire: Example category: an impressionist or contemporary work of similar difficulty. Final audition repertoire: The program is flexible; auditionees are not required to include all of the sample categories. Final audition repertoire: All selections must be memorized, with the possible exception of avant-garde works of the 20th and 21st centuries; these exceptions must be approved by the faculty before scheduling an audition. Additional repertoire notes: auditionees who wish to be considered for assistantships may be asked to sight-read. Additional repertoire notes: be prepared to discuss background information about audition repertoire, including composer information, other pieces by the composer, and important stylistic trends of the composer's time period.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Penn State Graduate Audition Requirements",
+                "url": "https://arts.psu.edu/how-to-apply/music-admission-information/graduate-audition-requirements"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Program priority deadline: applications received and completed, including auditions and interviews, by February 15 will be given priority consideration for admission and graduate assistantship funding. Music admission audition dates for 2025-26: December 7, 2025; January 31, 2026; February 14, 2026; and February 28, 2026, with auditions by appointment if applicants are unavailable for scheduled dates. Graduate Piano audition dates: January 30, January 31, February 6, February 13, and February 14, 2026; remote graduate auditions are by appointment. International timing: international applicants are encouraged to submit materials at least four months before the semester for which they are applying.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Penn State Music, M.M.",
+                "url": "https://arts.psu.edu/degrees/master-of-music/"
+              },
+              {
+                "label": "Penn State Music Admission Information",
+                "url": "https://arts.psu.edu/how-to-apply/music-admission-information"
+              },
+              {
+                "label": "Penn State Fox Graduate School - Preparing to Apply",
+                "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Applicability: all international applicants must submit TOEFL iBT or IELTS Academic scores unless they qualify for an exception. Minimum scores: TOEFL iBT 4.5 overall with 3.5 or greater on speaking for tests taken after the January 21, 2026 TOEFL change; TOEFL iBT 80 overall with minimum speaking score 19 for tests taken prior to January 21, 2026; IELTS Academic 6.5 minimum overall band score. Notes: Penn State's Graduate School English proficiency policy does not list Duolingo English Test as an accepted standard test for this requirement. Provisional admission: applicants below the listed minimums may be considered for provisional admission and must complete specified English coursework with a B or higher during the first semester. Exemptions: applicants who successfully complete Penn State's non-credit Intensive English Communication Program certification are exempt. Exemptions: international applicants who have received a baccalaureate or graduate degree in one of Penn State's listed exempt countries are exempt from the TOEFL/IELTS requirement. Notes: some graduate plans of study may have more stringent requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-24",
+            "sources": [
+              {
+                "label": "Penn State Fox Graduate School - Preparing to Apply",
+                "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+              },
+              {
+                "label": "Penn State Graduate Admission Requirements",
+                "url": "https://gradschool.psu.edu/graduate-admissions/how-to-apply/new-applicants/requirements-for-graduate-admission/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
