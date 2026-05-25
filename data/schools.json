@@ -11542,16 +11542,20 @@
       ],
       "officialSources": [
         {
-          "label": "UT Austin Piano MM",
+          "label": "UT Austin Piano MM in Performance/Literature & Pedagogy",
           "url": "https://music.utexas.edu/apply/piano-mm-performanceliterature-pedagogy"
         },
         {
-          "label": "UT Austin Collaborative Piano MM",
+          "label": "UT Austin Collaborative Piano MM in Performance",
           "url": "https://music.utexas.edu/apply/collaborative-piano-mm-performance"
         },
         {
           "label": "UT Austin Graduate School Apply",
           "url": "https://gradschool.utexas.edu/admissions/apply"
+        },
+        {
+          "label": "UT Austin Graduate School International Students",
+          "url": "https://gradschool.utexas.edu/admissions/apply/international"
         },
         {
           "label": "UT Austin Graduate Admission Catalog",
@@ -11561,152 +11565,160 @@
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Graduate music admission is a two-part process requiring separate applications to The University of Texas at Austin and to the Sarah and Ernest Butler School of Music; Butler accepts applications for fall semesters only; the university application must be submitted before beginning the Butler School application.",
+            "value": "Graduate music admission is a two-part process requiring separate applications to The University of Texas at Austin and to the Sarah and Ernest Butler School of Music. The Butler School accepts applications for fall semesters only. Applicants must submit the university application before beginning the Butler School of Music application. For Piano, the page lists MM in Performance and MM Literature & Pedagogy. The University Application includes the graduate application and application fee, three letters of recommendation written within the last twelve months, official transcripts from every senior college attended, and test scores if required. The program does not require a GRE score. The Butler School of Music application includes an introductory video of one to three minutes, statement of purpose of about 500 words, resume or curriculum vitae, repertoire list, prescreening materials, audition-date selection, and teacher preferences.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Piano MM",
+                "label": "UT Austin Piano MM in Performance/Literature & Pedagogy",
                 "url": "https://music.utexas.edu/apply/piano-mm-performanceliterature-pedagogy"
+              },
+              {
+                "label": "UT Austin Graduate School Apply",
+                "url": "https://gradschool.utexas.edu/admissions/apply"
               }
             ]
           },
           "applicationFee": {
-            "value": "Graduate application fee: $65 for U.S. applicants; $90 for international applicants; submit the university graduate application and pay the required fee before the Butler School application.",
+            "value": "Application portal: UT Austin Graduate School application followed by the Butler School of Music application. Application fee: $65 for U.S. Graduate applicants. Application fee: $90 for International Graduate applicants. Notes: applicants pay the non-refundable fee by credit card or electronic check through MyStatus two to three business days after submitting the application form. Notes: fee waivers may be available for U.S. citizens or permanent residents applying for a graduate degree for the first time, but fee waivers are not available for international citizens. Notes: the university application and fee must be submitted before beginning the Butler School of Music application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UT Austin Graduate School Apply",
                 "url": "https://gradschool.utexas.edu/admissions/apply"
               },
               {
-                "label": "UT Austin College of Education Apply",
-                "url": "https://education.utexas.edu/departments/educational-leadership-policy/elp-programs/elp-how-to-apply/"
+                "label": "UT Austin Piano MM in Performance/Literature & Pedagogy",
+                "url": "https://music.utexas.edu/apply/piano-mm-performanceliterature-pedagogy"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Piano MM requires prescreening videos in the Butler School application by December 1; Individual movements or excerpts should be uploaded as separate digital files; Video format is required and audio-only submissions are not accepted; Recordings must be genuinely performed by the applicant, unedited, and without reverb/effects; Prescreening results are released in mid-December; Auditions take place at the Butler School; Applicants outside the continental United States may audition by video, due with the music application by the application deadline; If invited, live audition duration is shorter than the prepared 45 minutes; Applicants who submit the optional teaching assistantship video will have a 10-15 minute interview with the piano pedagogy professor.",
+            "value": "Piano applicants must submit prescreening videos within the Butler School of Music application by December 1. Current Butler School students applying for a further degree and graduate students reapplying to end an official leave of absence are exempt from the prescreening requirement. Prescreening results are released in mid-December. Each required repertoire selection should be uploaded as a separate video file. Individual movements or excerpts should be uploaded as separate digital files. Video format is required, and audio-only submissions are not accepted. Recordings must be genuinely performed by the applicant, must not be edited, and must not include added effects such as reverb. Applicants must review recordings for distortion or excessive buzz, and accompaniment, if required, should not drown out the applicant's playing. Auditions take place at the Butler School of Music. Exceptions are made only for applicants who reside outside the continental United States; those applicants may choose to audition by video, and video auditions are due with the music application by the application deadline. After passing prescreening, the audition confirmation is posted in the music application portal in mid-December. Applicants should not make travel plans until the audition date is confirmed. The portal is updated with audition-day information one to two weeks before the scheduled date. Invited applicants should make themselves available for the entire audition day. Applicants who submitted the optional teaching sample video are scheduled for a 10-15 minute interview with Dr. Margarita Denenburg on the same day as the audition, covering teaching experience and interests, personal goals as pianist and educator, and approach to pedagogical principles and practices.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Piano MM",
+                "label": "UT Austin Piano MM in Performance/Literature & Pedagogy",
                 "url": "https://music.utexas.edu/apply/piano-mm-performanceliterature-pedagogy"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening requirements: The prescreening recording must include a solo recital-style program of at least 45 minutes of music; Prescreening requirements: Applicants should select pieces representing the highest level of musicality and ability; Prescreening requirements: A minimum of three styles should be represented; Prescreening requirements: The program must include all or part of a major work from the Classical period; Prescreening requirements: Concertos and other non-solo works are not preferred or recommended; Prescreening requirements: Optional teaching assistantship applicants must request an interview and submit a 10-20 minute unedited sample teaching video showing interaction with students in private instruction or classroom piano; Final audition repertoire: If invited, 45 minutes of music should be prepared; Final audition repertoire: Live audition duration will be shorter than 45 minutes.",
+            "value": "Prescreening repertoire: The prescreening recording must include the performance of a solo recital-style program of at least 45 minutes of music. Prescreening repertoire: Applicants should select pieces that represent the highest level of their musicality and abilities. Prescreening repertoire: A minimum of three styles should be represented. Prescreening repertoire: The program must include all or part of a major work from the Classical period. Prescreening repertoire: Concertos and other non-solo works are not preferred or recommended. Prescreening repertoire: Optional for teaching assistantship consideration, students interested in applying for a teaching assistantship in piano must request an interview and submit a sample teaching video as part of the prescreening materials. Prescreening repertoire: The teaching video should be 10-20 minutes long, unedited, and show the applicant interacting with students in private instruction or classroom piano. Final audition repertoire: If invited, prepare 45 minutes of music. Final audition repertoire: The live audition duration will be shorter than 45 minutes. Additional repertoire notes: Applicants who have submitted the optional teaching sample video will be scheduled for a 10-15 minute interview with the piano pedagogy professor on the same day as the audition. Additional repertoire notes: Video auditions are permitted only for applicants residing outside the continental United States and are due with the music application by the application deadline.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Piano MM",
+                "label": "UT Austin Piano MM in Performance/Literature & Pedagogy",
                 "url": "https://music.utexas.edu/apply/piano-mm-performanceliterature-pedagogy"
               }
             ]
           },
           "deadlines": {
-            "value": "September 1: Butler School application opens; December 1: University of Texas application due; December 1: Butler School application due; December 1: Prescreening videos due; December 11: Transcripts, test scores, and recommendation letters due; Mid-December: Prescreen results and live audition invitations; January 15: FAFSA priority deadline; January 24, January 25, February 7, and February 8, 2026: Piano live audition dates; On or before March 1: Admission decisions; On or before April 1: Butler merit-based scholarship notifications; April 15: Response deadline.",
+            "value": "September 1: Butler School of Music application opens. December 1: University of Texas application due. December 1: Butler School of Music application due. December 1: Piano prescreening videos due. December 11: transcripts, test scores, and recommendation letters due for the regular deadline. Mid-December: prescreen results and live audition invitations. January 15: FAFSA priority deadline. January 24, 2026: Piano live audition date. January 25, 2026: Piano live audition date, with assistantship interviews after 1 PM only. February 7, 2026: Piano live audition date. February 8, 2026: Piano live audition date, with assistantship interviews after 1 PM only. On or before March 1: admissions decisions. On or before April 1: Butler School merit-based scholarship award notifications. April 15: response deadline. Mid-August: new student orientation. Program note: Butler accepts graduate music applications for fall semesters only.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Piano MM",
+                "label": "UT Austin Piano MM in Performance/Literature & Pedagogy",
                 "url": "https://music.utexas.edu/apply/piano-mm-performanceliterature-pedagogy"
               }
             ]
           },
           "englishScores": {
-            "value": "International applicants whose native language is not English must submit TOEFL or IELTS unless exempt; Graduate School minimums commonly listed by UT Austin are TOEFL iBT 79 or IELTS Academic 6.5; Duolingo, Institutional TOEFL, and IELTS General Training are not accepted under catalog language; individual programs may require higher standards.",
+            "value": "Minimum scores: TOEFL iBT 79. Minimum scores: IELTS Academic overall band 6.5. Notes: international applicants whose native language is not English must submit either an official TOEFL or IELTS score report unless exempt. Notes: Institutional TOEFL, IELTS General Training, and Duolingo are not accepted. Notes: minimum score requirements may vary by major and employment as a teaching assistant; applicants should consult the program website for any preferred test or higher requirement. Timing: scores must be sent to the university by the testing agency; self-reported scores are not accepted. Notes: ETS institution code for UT Austin is 6882. Notes: there is no institutional code for IELTS; use IELTS electronic score delivery to send scores to the University of Texas at Austin account. Exemptions: applicants from qualifying countries are exempt. Exemptions: applicants are exempt if they possess a bachelor's degree from an institution in the U.S. or a qualifying country. Exemptions: this requirement is not waived for applicants who earned a master's degree, but not a bachelor's degree, from a similar institution. Source note: UT Austin's Graduate Admission Catalog also states that international students whose native language is not English must submit TOEFL or IELTS, and that Duolingo, Institutional TOEFL, and IELTS General Training are not accepted.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "UT Austin Graduate School International Students",
+                "url": "https://gradschool.utexas.edu/admissions/apply/international"
+              },
               {
                 "label": "UT Austin Graduate Admission Catalog",
                 "url": "https://catalog.utexas.edu/general-information/admission/graduate-admission/"
-              },
-              {
-                "label": "UT Austin Physics Admissions",
-                "url": "https://physics.utexas.edu/academics/admissions"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Graduate music admission is a two-part process requiring separate applications to The University of Texas at Austin and to the Sarah and Ernest Butler School of Music; Collaborative Piano applicants submit the university application first, then the Butler School application.",
+            "value": "Graduate music admission is a two-part process requiring separate applications to The University of Texas at Austin and to the Sarah and Ernest Butler School of Music. The Butler School accepts applications for fall semesters only. Applicants must submit the university application before beginning the Butler School of Music application. The Collaborative Piano page lists MM in Performance. The University Application includes the graduate application and application fee, three letters of recommendation written within the last twelve months, official transcripts from every senior college attended, and test scores if required. The program does not require a GRE score. The Butler School of Music application includes an introductory video of one to three minutes, statement of purpose of about 500 words, resume or curriculum vitae, collaborative-specific repertoire list, prescreening materials, and audition-date selection.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Collaborative Piano MM",
+                "label": "UT Austin Collaborative Piano MM in Performance",
                 "url": "https://music.utexas.edu/apply/collaborative-piano-mm-performance"
+              },
+              {
+                "label": "UT Austin Graduate School Apply",
+                "url": "https://gradschool.utexas.edu/admissions/apply"
               }
             ]
           },
           "applicationFee": {
-            "value": "Graduate application fee: $65 for U.S. applicants; $90 for international applicants; submit the university graduate application and pay the required fee before the Butler School application.",
+            "value": "Application portal: UT Austin Graduate School application followed by the Butler School of Music application. Application fee: $65 for U.S. Graduate applicants. Application fee: $90 for International Graduate applicants. Notes: applicants pay the non-refundable fee by credit card or electronic check through MyStatus two to three business days after submitting the application form. Notes: fee waivers may be available for U.S. citizens or permanent residents applying for a graduate degree for the first time, but fee waivers are not available for international citizens. Notes: the university application and fee must be submitted before beginning the Butler School of Music application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UT Austin Graduate School Apply",
                 "url": "https://gradschool.utexas.edu/admissions/apply"
               },
               {
-                "label": "UT Austin College of Education Apply",
-                "url": "https://education.utexas.edu/departments/educational-leadership-policy/elp-programs/elp-how-to-apply/"
+                "label": "UT Austin Collaborative Piano MM in Performance",
+                "url": "https://music.utexas.edu/apply/collaborative-piano-mm-performance"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano requires prescreening videos by December 1; Individual movements or excerpts should be uploaded as separate digital files; Video format is required and audio-only submissions are not accepted; Recordings must be genuine, unedited, and without reverb/effects; Auditions take place only at the Butler School of Music and video auditions are not accepted; Prescreening results and audition confirmations post in the music application portal in mid-December; The portal is updated with audition-day information one to two weeks before the scheduled date; Live audition includes sight reading, a short quick-learn piece provided at least 48 hours before the audition, and an interview with collaborative faculty.",
+            "value": "Collaborative Piano applicants must submit prescreening videos within the Butler School of Music application by December 1. Current Butler School students applying for a further degree and graduate students reapplying to end an official leave of absence are exempt from prescreening. Prescreening results are released in mid-December. Each required repertoire selection should be uploaded as a separate video file. Individual movements or excerpts should be uploaded as separate digital files. Video format is required, and audio-only submissions are not accepted. Recordings must be genuinely performed by the applicant, must not be edited, and must not include added effects such as reverb. Applicants must review recordings for distortion or excessive buzz, and accompaniment should not drown out the applicant's playing. Auditions take place only at the Butler School of Music at The University of Texas at Austin; video auditions are not accepted. After passing prescreening, audition confirmation is posted in the music application portal in mid-December. Applicants should not make travel plans until the audition date is confirmed. The portal is updated with audition-day information one to two weeks before the scheduled date. Invited applicants should make themselves available for the entire day. The live audition includes sight-reading, a short quick-learn piece with score provided at least 48 hours before the audition, and an interview with the collaborative faculty.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Collaborative Piano MM",
+                "label": "UT Austin Collaborative Piano MM in Performance",
                 "url": "https://music.utexas.edu/apply/collaborative-piano-mm-performance"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening requirements: Two contrasting movements from a standard instrumental sonata; Prescreening requirements: An example of an orchestral reduction, either a movement from a standard instrumental concerto or a standard operatic aria; Prescreening requirements: Two to four art songs in at least two different languages; Prescreening requirements: Optional solo piano piece or movement; Final audition repertoire: Two contrasting movements from a standard instrumental sonata; Final audition repertoire: An example of an orchestral reduction, preferably a movement from a standard instrumental concerto, or a standard operatic aria; Final audition repertoire: A list of six art songs, two each in German, French, and English, from which faculty will choose at the audition; Final audition repertoire: Sight reading; Final audition repertoire: Short quick-learn piece, score provided at least 48 hours before the audition; Final audition repertoire: Optional short solo piano piece or movement; Final audition repertoire: Interview with collaborative faculty.",
+            "value": "Prescreening repertoire: Two contrasting movements from a standard instrumental sonata. Prescreening repertoire: An example of an orchestral reduction, which may be either a movement from a standard instrumental concerto or a standard operatic aria. Prescreening repertoire: Two to four art songs in at least two different languages. Prescreening repertoire: Optional solo piano piece or movement. Additional repertoire notes: questions about collaborative piano prescreening requirements or repertoire may be addressed to Professor Colette Valentine. Final audition repertoire: Two contrasting movements from a standard instrumental sonata. Final audition repertoire: An example of an orchestral reduction, preferably a movement from a standard instrumental concerto, or a standard operatic aria. Final audition repertoire: A list of six art songs, two each in German, French, and English, from which the faculty will choose at the audition. Final audition repertoire: Sight reading. Final audition repertoire: A short quick-learn piece; the score is provided at least 48 hours before the audition. Final audition repertoire: Optional short solo piano piece or movement. Final audition repertoire: Interview with the collaborative faculty. Additional repertoire notes: video auditions are not accepted for Collaborative Piano; auditions take place only at the Butler School.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Collaborative Piano MM",
+                "label": "UT Austin Collaborative Piano MM in Performance",
                 "url": "https://music.utexas.edu/apply/collaborative-piano-mm-performance"
               }
             ]
           },
           "deadlines": {
-            "value": "September 1: Butler School application opens; December 1: University of Texas application due; December 1: Butler School application due; December 1: Prescreening videos due; December 11: Transcripts, test scores, and recommendation letters due; Mid-December: Prescreen results and live audition invitations; January 31 and February 7, 2026: Collaborative Piano live audition dates; On or before March 1: Admission decisions; On or before April 1: Butler merit-based scholarship notifications; April 15: Response deadline.",
+            "value": "September 1: Butler School of Music application opens. December 1: University of Texas application due. December 1: Butler School of Music application due. December 1: Collaborative Piano prescreening videos due. December 11: transcripts, test scores, and recommendation letters due for the regular deadline. Mid-December: prescreen results and live audition invitations. January 15: FAFSA priority deadline. January 31, 2026: Collaborative Piano live audition date. February 7, 2026: Collaborative Piano live audition date. On or before March 1: admissions decisions. On or before April 1: Butler School merit-based scholarship award notifications. April 15: response deadline. Mid-August: new student orientation. Program note: Butler accepts graduate music applications for fall semesters only.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UT Austin Collaborative Piano MM",
+                "label": "UT Austin Collaborative Piano MM in Performance",
                 "url": "https://music.utexas.edu/apply/collaborative-piano-mm-performance"
               }
             ]
           },
           "englishScores": {
-            "value": "International applicants whose native language is not English must submit TOEFL or IELTS unless exempt; Graduate School minimums commonly listed by UT Austin are TOEFL iBT 79 or IELTS Academic 6.5; Duolingo, Institutional TOEFL, and IELTS General Training are not accepted under catalog language; individual programs may require higher standards.",
+            "value": "Minimum scores: TOEFL iBT 79. Minimum scores: IELTS Academic overall band 6.5. Notes: international applicants whose native language is not English must submit either an official TOEFL or IELTS score report unless exempt. Notes: Institutional TOEFL, IELTS General Training, and Duolingo are not accepted. Notes: minimum score requirements may vary by major and employment as a teaching assistant; applicants should consult the program website for any preferred test or higher requirement. Timing: scores must be sent to the university by the testing agency; self-reported scores are not accepted. Notes: ETS institution code for UT Austin is 6882. Notes: there is no institutional code for IELTS; use IELTS electronic score delivery to send scores to the University of Texas at Austin account. Exemptions: applicants from qualifying countries are exempt. Exemptions: applicants are exempt if they possess a bachelor's degree from an institution in the U.S. or a qualifying country. Exemptions: this requirement is not waived for applicants who earned a master's degree, but not a bachelor's degree, from a similar institution. Source note: UT Austin's Graduate Admission Catalog also states that international students whose native language is not English must submit TOEFL or IELTS, and that Duolingo, Institutional TOEFL, and IELTS General Training are not accepted.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "UT Austin Graduate School International Students",
+                "url": "https://gradschool.utexas.edu/admissions/apply/international"
+              },
               {
                 "label": "UT Austin Graduate Admission Catalog",
                 "url": "https://catalog.utexas.edu/general-information/admission/graduate-admission/"
-              },
-              {
-                "label": "UT Austin Physics Admissions",
-                "url": "https://physics.utexas.edu/academics/admissions"
               }
             ]
           }
