@@ -6564,11 +6564,27 @@
       "city": "Memphis",
       "state": "TN",
       "control": "Public",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance"
       ],
       "officialSources": [
+        {
+          "label": "Memphis Performance Major",
+          "url": "https://www.memphis.edu/music/academics/performance.php"
+        },
+        {
+          "label": "Memphis Piano Area",
+          "url": "https://www.memphis.edu/music/academics/piano.php"
+        },
+        {
+          "label": "Memphis Degree Plan Directory",
+          "url": "https://www.memphis.edu/music/academics/degreeplans.php"
+        },
+        {
+          "label": "Memphis MM Performance Degree Plan",
+          "url": "https://www.memphis.edu/music/outlines/mm_performance_22.pdf"
+        },
         {
           "label": "Memphis School of Music Audition Information",
           "url": "https://www.memphis.edu/music/admissions/auditioninformation.php"
@@ -6578,57 +6594,85 @@
           "url": "https://www.memphis.edu/music/admissions/aud_req/piano_aud.php"
         },
         {
+          "label": "Memphis School of Music International Students",
+          "url": "https://www.memphis.edu/music/admissions/international.php"
+        },
+        {
           "label": "Memphis Graduate Admission Requirements",
           "url": "https://www.memphis.edu/graduateadmissions/future/admission-requirements.php"
         },
         {
           "label": "Memphis Graduate Application",
           "url": "https://www.memphis.edu/graduateadmissions/future/apply_grad.php"
+        },
+        {
+          "label": "Memphis Graduate Admissions Fee Reference",
+          "url": "https://www.memphis.edu/healthsciences/graduate/graduateadmissions.php"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through the University of Memphis Graduate School and complete the School of Music audition process; graduate applicants should follow the School of Music audition calendar and any required graduate-school supporting-document steps.",
+            "value": "Complete the University of Memphis Graduate Degree Application for master's, PhD, or graduate certificates, then complete the School of Music application and audition process. The School of Music Performance page states that interested students should complete the University of Memphis application and apply to the School of Music. Performance auditions determine admission into School of Music programs and award performance scholarships and graduate assistantships. The School of Music Degree Plan Directory lists Master of Music in Performance, and the MM Performance degree plan is a 32-credit degree plan. The piano area supports solo performance, collaboration with instrumentalists and vocalists, chamber ensembles, and accompanying, but the public audition requirement page lists Collaborative Piano only at the DMA level, not as an MM Collaborative Piano option.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Memphis Performance Major",
+                "url": "https://www.memphis.edu/music/academics/performance.php"
+              },
+              {
+                "label": "Memphis Piano Area",
+                "url": "https://www.memphis.edu/music/academics/piano.php"
+              },
+              {
+                "label": "Memphis Degree Plan Directory",
+                "url": "https://www.memphis.edu/music/academics/degreeplans.php"
+              },
+              {
+                "label": "Memphis MM Performance Degree Plan",
+                "url": "https://www.memphis.edu/music/outlines/mm_performance_22.pdf"
+              },
+              {
+                "label": "Memphis Graduate Application",
+                "url": "https://www.memphis.edu/graduateadmissions/future/apply_grad.php"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $35 for domestic students. Application fee: $60 for international students. Notes: the general Graduate Admissions application page says applications that remain incomplete, including missing application fee, after program deadlines will not be reviewed. Notes: the public Music application pages do not display a separate School of Music fee amount. Notes: the fee amount is listed on a University of Memphis graduate admissions page and should still be confirmed inside the official application portal before submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Memphis Graduate Application",
                 "url": "https://www.memphis.edu/graduateadmissions/future/apply_grad.php"
               },
               {
-                "label": "Memphis School of Music Audition Information",
-                "url": "https://www.memphis.edu/music/admissions/auditioninformation.php"
-              }
-            ]
-          },
-          "applicationFee": {
-            "value": "Application fee amount was not confirmed on the public music audition page during this pass; verify the current Graduate School application fee inside the official application before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "Memphis Graduate Application",
-                "url": "https://www.memphis.edu/graduateadmissions/future/apply_grad.php"
+                "label": "Memphis Graduate Admissions Fee Reference",
+                "url": "https://www.memphis.edu/healthsciences/graduate/graduateadmissions.php"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Attendance at official audition days is encouraged; virtual or individual audition appointments may be requested; faculty may ask questions and provide feedback during the audition; audition results are normally emailed within one to two weeks after the audition day; accepted graduate applicants should submit the Enrollment Intent form by April 15.",
+            "value": "School of Music auditions are held to determine admission into School of Music programs and to award performance scholarships and graduate assistantships. Attendance at an audition event date is encouraged, but students may request a virtual or individual audition appointment. Applicants may select their preferred audition day and method on the School of Music application. Virtual audition applicants submit audition videos via YouTube, Dropbox, OneDrive, or Google Drive; instructions are emailed after completion of the School of Music application. Graduate auditions are approximately 15 minutes long and may include prepared audition pieces, scales, sight-reading, and pitch/rhythm recognition exercises for voice applicants. Faculty may ask questions during the audition and provide feedback. Audition results are emailed 1-2 weeks after the audition day. Accepted graduate applicants submit an Enrollment Intent Form by April 15. Music scholarship notifications are sent separately by email in mid-to-late March. For current public requirements, graduate prescreening is required for Voice and Conducting, not Piano Performance.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Memphis School of Music Audition Information",
                 "url": "https://www.memphis.edu/music/admissions/auditioninformation.php"
+              },
+              {
+                "label": "Memphis Piano Audition Requirements",
+                "url": "https://www.memphis.edu/music/admissions/aud_req/piano_aud.php"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Three to four works contrasting in tempo and style; suggested standard concert-repertoire examples include Bach Partita or Handel Suite; Chopin Impromptu, Etude, Ballade, or Scherzo; Clementi, Mozart, or Beethoven Sonata, excluding Beethoven Op. 14 and Op. 49; a large work from the 19th or early 20th century; an Etude by Stravinsky, Scriabin, H. Leslie Adams, Gabriela Lena Frank, or Manuel Ponce; sight-reading may be included.",
+            "value": "Final audition repertoire: For MM Piano Performance, prepare three to four works contrasting in tempo and style which may include the standard concert repertoire. Final audition repertoire: Repertoire examples include but are not limited to a Bach Partita or Handel Suite; Chopin Impromptu, Etude, Ballade, or Scherzo; Clementi, Mozart, or Beethoven Sonata, excluding Beethoven Op. 14 and Op. 49; a large work from the 19th or early 20th century; or an Etude by Stravinsky, Scriabin, H. Leslie Adams, Gabriela Lena Frank, or Manuel Ponce. Final audition repertoire: Sight-reading is required. Additional repertoire notes: The current public piano audition page does not list an MM Piano Performance prescreening requirement. Additional repertoire notes: The same page separately lists MM Piano Pedagogy requirements and DMA Collaborative Piano requirements, but it does not list MM Collaborative Piano requirements.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Memphis Piano Audition Requirements",
@@ -6637,21 +6681,29 @@
             ]
           },
           "deadlines": {
-            "value": "December 1: preferred date for university-wide academic scholarships; December 1: spring-entry deadline; December 7: early-action music audition date; March 1: full School of Music scholarship consideration; July 1: fall-entry deadline; 2025-2026 audition dates listed include December 6, February 21, February 28, and March 21.",
+            "value": "December 1: deadline for preferred consideration for university-wide academic scholarships. December 1: deadline to apply for spring semester entry. December 1: prescreen audition deadline for graduate voice and conducting applicants. December 7: Early Action Music Deadline; students who complete an application to the university and School of Music by December 7 receive admissions and scholarship decisions before winter break. March 1: deadline for full consideration for a Music Scholarship. July 1: deadline to apply for fall semester entry. April 15: Enrollment Intent Form deadline for accepted graduate applicants. Audition dates for 2025-2026 admission: December 6; February 21; February 28; March 21. Program note: applications missing student documents or application fee after program deadlines will not be reviewed; applicants should confirm the deadline shown inside the application and on the program admission page.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Memphis School of Music Audition Information",
                 "url": "https://www.memphis.edu/music/admissions/auditioninformation.php"
+              },
+              {
+                "label": "Memphis Graduate Application",
+                "url": "https://www.memphis.edu/graduateadmissions/future/apply_grad.php"
               }
             ]
           },
           "englishScores": {
-            "value": "Minimum English-proficiency scores listed by Graduate Admissions include TOEFL 550 paper-based, TOEFL iBT 80 for tests before the 2026 TOEFL scale change, TOEFL iBT 4 on the new scale, IELTS Academic 6.5, PTE 59, iTEP Academic Plus 3.9, or Duolingo English Test 110; ETS institutional code is 1459.",
+            "value": "Minimum scores: School of Music graduate applicants may use Duolingo English Test minimum 110. Minimum scores: School of Music graduate applicants may use TOEFL minimum 80. Minimum scores: School of Music graduate applicants may use IELTS minimum 6.5 with all subscores 6.0 or higher. Minimum scores: School of Music graduate applicants may use PTE minimum 59. Minimum scores: Graduate Admissions lists TOEFL minimums as 550 on the paper version, 80 on the internet-based test prior to 2026, or 4 on the internet-based test. Minimum scores: Graduate Admissions lists IELTS Academic 6.5 overall, PTE 59, iTEP Academic Plus 3.9, and Duolingo English Test 110. Notes: International students must provide evidence of English language proficiency unless they meet an exemption. Notes: test scores expire after 2 years and must be taken within two years prior to applying, with an exception for students continuously enrolled at a U.S. college or university since before scores expired. Notes: unofficial score reports are submitted at application submission, but official score reports must be sent directly to the University of Memphis for verification; admission decisions are not made on unverified language scores. Notes: TOEFL scores are sent electronically through ETS using school code 1459. Notes: some degree programs require higher scores, so applicants should check program websites for specific requirements. Exemptions: School of Music states graduate applicants who earn a degree from an accredited institution inside the U.S. are not required to submit language scores; students who earn a degree from an English-speaking institution outside the U.S. may request an exemption from the language requirement by contacting Music Admission. Program note: graduate assistantship applicants with teaching duties must meet separate teaching-duty English requirements.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "Memphis School of Music International Students",
+                "url": "https://www.memphis.edu/music/admissions/international.php"
+              },
               {
                 "label": "Memphis Graduate Admission Requirements",
                 "url": "https://www.memphis.edu/graduateadmissions/future/admission-requirements.php"
