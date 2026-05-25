@@ -1,0 +1,220 @@
+{
+  "schools": [
+    {
+      "id": "university-of-iowa",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Iowa Graduate Admissions Process",
+          "url": "https://music.uiowa.edu/graduate/admissions"
+        },
+        {
+          "label": "Iowa Graduate Programs",
+          "url": "https://music.uiowa.edu/graduate"
+        },
+        {
+          "label": "Iowa Master of Arts in Piano",
+          "url": "https://music.uiowa.edu/master-arts-piano"
+        },
+        {
+          "label": "Iowa Piano Auditions",
+          "url": "https://music.uiowa.edu/piano-auditions"
+        },
+        {
+          "label": "Iowa English Proficiency Requirements",
+          "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Degree-title note: University of Iowa School of Music lists graduate piano under Master of Arts, not Master of Music. The Master of Arts in Piano page includes performance, pedagogy, and collaborative piano tracks within the piano area. Application process: apply online through University of Iowa Graduate and Professional Admissions. The School of Music graduate application is completed in two parts: general University of Iowa requirements and fee payment, followed by departmental required information or documentation in the Admissions Profile on MyUI. Supporting materials are uploaded through the Admissions Profile. Application materials include personal statement, three letters of recommendation, resume or CV, unofficial transcripts from all previously attended post-secondary institutions, English proficiency scores for international applicants, and audition/interview requirements where required. GRE is not required for the School of Music. University of Iowa code is 6681.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              },
+              {
+                "label": "Iowa Graduate Programs",
+                "url": "https://music.uiowa.edu/graduate"
+              },
+              {
+                "label": "Iowa Master of Arts in Piano",
+                "url": "https://music.uiowa.edu/master-arts-piano"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $60. International application fee: $100. Notes: under specific circumstances, domestic applicants may request a Graduate Application Fee Waiver through the Office of Admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Degree-title note: the official Iowa graduate piano degree is MA in Piano, not MM. Graduate Performance & Pedagogy piano applicants submit prescreening video links by December 1, 2025. After admission to the Graduate College and application to the School of Music, applicants receive a link to upload prescreening materials. Live auditions are by invitation. MA live auditions are held in the Recital Hall in the Voxman School of Music. Remote auditions are limited to applicants who live outside the contiguous 48 states and only with permission of the piano area. Remote applicants submit a second video and complete a Zoom interview. The second video must be one unedited, continuous, full-body recording of the audition program and is due no later than February 1, 2026. After receiving the video submission, the piano area arranges a brief Zoom interview; 48 hours before that interview, approved remote applicants receive a piece to perform during the Zoom interview. Applicants are considered for scholarship at the time of audition. Results and music scholarship results are sent by formal letter in early March.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Programs",
+                "url": "https://music.uiowa.edu/graduate"
+              },
+              {
+                "label": "Iowa Master of Arts in Piano",
+                "url": "https://music.uiowa.edu/master-arts-piano"
+              },
+              {
+                "label": "Iowa Piano Auditions",
+                "url": "https://music.uiowa.edu/piano-auditions"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: MA applicants must present a prescreening video of at least 20 minutes of solo piano repertoire. Prescreening repertoire: The program should represent a minimum of three musical periods. Prescreening repertoire: One selection in the prescreening video must be one of the following: a Baroque prelude and fugue; a pair of fast and slow Baroque sonatas or dances; a sonata-allegro movement from the Classical period; or a variation set from the Classical period. Prescreening repertoire: Memorization is required. Prescreening repertoire: Exceptions to memorization may be permitted for some 20th and 21st-century pieces, but permission must be granted by the UI piano faculty upon request. Prescreening repertoire: The video must be unedited, recently recorded, and taken with only one camera at the same angle and position. Prescreening repertoire: The hands, feet, and profile of the applicant must be visible at all times. Final audition repertoire: MA live audition applicants must present a program of at least 35 minutes of solo piano music. Final audition repertoire: The live audition may include different repertoire from the prescreening video recordings. Final audition repertoire: All piano area auditions are held in the Recital Hall in the Voxman School of Music. Final audition repertoire: The program should represent a minimum of three musical periods. Final audition repertoire: One selection must be a complete major work from the Baroque period or a complete major work from the Classical period. Final audition repertoire: The program must have at least three complete works. Final audition repertoire: Optional fourth works may be incomplete, for example, a movement of Ravel's Miroirs. Final audition repertoire: Memorization is required. Final audition repertoire: Exceptions to memorization may be permitted for some 20th and 21st-century pieces, but permission must be granted by the UI piano faculty upon request. Final audition repertoire: 48 hours before the scheduled audition, the applicant will be sent a piece to perform during the live audition. Additional repertoire notes: Applicants must submit a list of solo piano, chamber music, and vocal works they have learned, indicating which works have been performed in public. Additional repertoire notes: Remote audition video submissions use the same repertoire requirements as live auditions and must be one unedited, continuous, full-body recording of the audition program. Additional repertoire notes: Remote audition videos must be submitted no later than February 1, 2026. Additional repertoire notes: For the remote Zoom interview, 48 hours before the scheduled interview, each approved remote applicant will be sent a piece to perform. Additional repertoire notes: Judging criteria include artistry, technical command of the instrument, and fluency of the performances.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Piano Auditions",
+                "url": "https://music.uiowa.edu/piano-auditions"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "October 1: School of Music graduate application deadline for spring semester. December 1, 2025: School of Music graduate application deadline for fall semester. December 1, 2025: Graduate Performance & Pedagogy piano prescreening video links due. February 1, 2026: deadline for approved graduate remote audition applicants to submit the second video. February 13, 2026: graduate audition day. February 14, 2026: graduate audition day. February 20, 2026: graduate audition day. February 21, 2026: graduate audition day. Early March: formal letter expected for audition results and music scholarship results. No later than April 1: applicants who complete all application components by the deadline receive notification of admission to the music program, with most decisions shared in February and March.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              },
+              {
+                "label": "Iowa Piano Auditions",
+                "url": "https://music.uiowa.edu/piano-auditions"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT / TOEFL iBT Home Edition taken before Jan. 2026 requires total score 81. Minimum scores: TOEFL iBT / TOEFL iBT Home Edition taken after Jan. 2026 requires total score 4.5. Minimum scores: IELTS overall score 7 with no subscore less than 6. Minimum scores: Duolingo English Test score 120 or above. Minimum scores: PTE overall score 68 with no subscore less than 58. Notes: International applicants who do not meet waiver requirements must submit English proficiency scores. Notes: TOEFL should be sent through ETS using institution code 6681 and department code 01. Notes: IELTS should be sent through the IELTS Testing Center. Notes: PTE applicants email internationalgrad@uiowa.edu with the Score Report Code. Notes: TOEFL MyBest Superscore and IELTS One Skill Retake are not accepted. Placement: the on-campus English Placement Evaluation is required unless the applicant submits TOEFL overall 100 before Jan. 2026, TOEFL overall 5.0 after Jan. 2026, or IELTS overall 8.0 or higher. Placement: all students admitted using Duolingo or PTE scores must take the English Placement Evaluation when they arrive on campus. Program note: English proficiency requirements vary by program, so applicants should check for program-specific requirements. Exemptions: waivers may apply to citizens of listed English-primary countries or applicants who earned the equivalent of a bachelor's degree, master's degree, or PhD in the United States or in one of the listed countries. Exemptions: a degree from a host university in a listed country is not eligible for a waiver if completed outside that country, and English-medium institutions are not sufficient for a waiver if completed in a country not on the list.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa English Proficiency Requirements",
+                "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements"
+              },
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Degree-title note: University of Iowa School of Music lists graduate piano under Master of Arts, not Master of Music. The Master of Arts in Piano page includes collaborative piano as one of the piano area tracks. Application process: apply online through University of Iowa Graduate and Professional Admissions. The School of Music graduate application is completed in two parts: general University of Iowa requirements and fee payment, followed by departmental required information or documentation in the Admissions Profile on MyUI. Supporting materials are uploaded through the Admissions Profile. Application materials include personal statement, three letters of recommendation, resume or CV, unofficial transcripts, English proficiency scores for international applicants, and audition/interview requirements where required. GRE is not required for the School of Music. University of Iowa code is 6681.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              },
+              {
+                "label": "Iowa Graduate Programs",
+                "url": "https://music.uiowa.edu/graduate"
+              },
+              {
+                "label": "Iowa Master of Arts in Piano",
+                "url": "https://music.uiowa.edu/master-arts-piano"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $60. International application fee: $100. Notes: under specific circumstances, domestic applicants may request a Graduate Application Fee Waiver through the Office of Admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Degree-title note: the official Iowa collaborative piano pathway is within MA in Piano, not MM. Graduate Collaborative Piano applicants submit prescreening video links by January 15, 2026. After admission to the Graduate College and application to the School of Music, applicants receive a link to upload prescreening materials. MA live auditions are by invitation. Applicants are provided with instrumental and vocal partners at live auditions and are given an opportunity to rehearse with the partners before the audition. Applicants receive a quick-learn piece 48 hours before the live audition. An interview follows the required repertoire and quick-learn piece. Judging criteria include artistry, technical command of the instrument, fluency of the performances, and the ability to perform collaboratively with both instrumental and vocal performers. Applicants are considered for scholarship at the time of audition. Teaching assistantships are available with the collaborative piano program.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Programs",
+                "url": "https://music.uiowa.edu/graduate"
+              },
+              {
+                "label": "Iowa Master of Arts in Piano",
+                "url": "https://music.uiowa.edu/master-arts-piano"
+              },
+              {
+                "label": "Iowa Piano Auditions",
+                "url": "https://music.uiowa.edu/piano-auditions"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: MA Collaborative Piano applicants submit prescreening video links by January 15, 2026. Prescreening repertoire: The prescreening video must include an orchestral reduction of one substantial movement of a standard concerto. Prescreening repertoire: The prescreening video must include one Sonata-Allegro movement of a Beethoven Sonata for Piano and Violin or of a Beethoven Sonata for Piano and Cello. Prescreening repertoire: The prescreening video must include one substantial movement of a Romantic or Contemporary Sonata for Piano and any other instrument. Prescreening repertoire: The prescreening video must include one art song. Prescreening repertoire: The prescreening video must include a solo piece, memorization optional, with a 4 minute minimum. Prescreening repertoire: The video must be unedited, recently recorded, and taken with only one camera at the same angle and position. Prescreening repertoire: The hands, feet, and profile of the applicant must be visible at all times. Final audition repertoire: For MA live auditions by invitation, prepare one Classical and one Romantic or twentieth-century sonata from the listed sonatas. Final audition repertoire: Listed sonatas are Mozart Sonata for Piano and Violin in B-flat major, K. 454; Beethoven Sonata No. 1 for Piano and Violin in D major, Op. 12, No. 1; Beethoven Sonata No. 7 for Piano and Violin in C minor, Op. 30, No. 2; Beethoven Sonata No. 3 for Piano and Cello in A major, Op. 69; Beethoven Sonata No. 5 for Piano and Cello in D major, Op. 102, No. 2; Brahms Sonatas for Clarinet or Viola Op. 120, No. 1 or No. 2; Brahms Sonata No. 3 for Violin and Piano in D minor, Op. 108; Brahms Sonata for Cello and Piano in E minor, Op. 38; Franck Sonata for Violin and Piano in A major, FWV 8; Faure Sonata for Violin and Piano in A major, Op. 13; Prokofiev Sonata for Flute or Violin and Piano in D major, Op. 94 / Op. 94a. Final audition repertoire: Prepare both Kreisler Liebesfreud from Old Viennese Dances and Sarasate Zigeunerweisen, Op. 20, Opening Moderato and Un poco piu lento. Final audition repertoire: Prepare one movement of a piano orchestral reduction for one of the listed concertos. Final audition repertoire: Listed concertos are Dvorak Concerto for Cello and Orchestra in B minor, Op. 104; Tchaikovsky Variations on a Rococo Theme for Cello and Orchestra, Op. 33; Sibelius Concerto for Violin and Orchestra in D minor, Op. 47; Tchaikovsky Concerto for Violin and Orchestra in D major, Op. 35. Final audition repertoire: Prepare two songs from the listed songs. Final audition repertoire: Listed songs are Schumann Mondnacht from Liederkreis Op. 39, No. 5; Debussy Green from Ariettes oubliees; Schubert Der Lindenbaum from Winterreise, D. 911; Faure Fleur jetee from 4 Melodies, Op. 39. Additional repertoire notes: Applicants receive a quick-learn piece 48 hours before the live audition. Additional repertoire notes: There is an interview after the required repertoire and quick-learn piece. Additional repertoire notes: Instrumental and vocal partners are provided at live auditions, and applicants can rehearse with partners before the audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Piano Auditions",
+                "url": "https://music.uiowa.edu/piano-auditions"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "October 1: School of Music graduate application deadline for spring semester. December 1, 2025: School of Music graduate application deadline for fall semester. January 15, 2026: Graduate Collaborative Piano prescreening video links due. February 13, 2026: graduate audition day. February 14, 2026: graduate audition day. February 20, 2026: graduate audition day. February 21, 2026: graduate audition day. Early March: formal letter expected for audition results and music scholarship results. No later than April 1: applicants who complete all application components by the deadline receive notification of admission to the music program, with most decisions shared in February and March.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              },
+              {
+                "label": "Iowa Piano Auditions",
+                "url": "https://music.uiowa.edu/piano-auditions"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT / TOEFL iBT Home Edition taken before Jan. 2026 requires total score 81. Minimum scores: TOEFL iBT / TOEFL iBT Home Edition taken after Jan. 2026 requires total score 4.5. Minimum scores: IELTS overall score 7 with no subscore less than 6. Minimum scores: Duolingo English Test score 120 or above. Minimum scores: PTE overall score 68 with no subscore less than 58. Notes: International applicants who do not meet waiver requirements must submit English proficiency scores. Notes: TOEFL should be sent through ETS using institution code 6681 and department code 01. Notes: IELTS should be sent through the IELTS Testing Center. Notes: PTE applicants email internationalgrad@uiowa.edu with the Score Report Code. Notes: TOEFL MyBest Superscore and IELTS One Skill Retake are not accepted. Placement: the on-campus English Placement Evaluation is required unless the applicant submits TOEFL overall 100 before Jan. 2026, TOEFL overall 5.0 after Jan. 2026, or IELTS overall 8.0 or higher. Placement: all students admitted using Duolingo or PTE scores must take the English Placement Evaluation when they arrive on campus. Program note: English proficiency requirements vary by program, so applicants should check for program-specific requirements. Exemptions: waivers may apply to citizens of listed English-primary countries or applicants who earned the equivalent of a bachelor's degree, master's degree, or PhD in the United States or in one of the listed countries. Exemptions: a degree from a host university in a listed country is not eligible for a waiver if completed outside that country, and English-medium institutions are not sufficient for a waiver if completed in a country not on the list.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Iowa English Proficiency Requirements",
+                "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements"
+              },
+              {
+                "label": "Iowa Graduate Admissions Process",
+                "url": "https://music.uiowa.edu/graduate/admissions"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
