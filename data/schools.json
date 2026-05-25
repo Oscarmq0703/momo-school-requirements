@@ -10355,7 +10355,7 @@
       "city": "Minneapolis",
       "state": "MN",
       "control": "Public",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance",
         "mm_collaborative_piano"
@@ -10364,6 +10364,14 @@
         {
           "label": "Minnesota School of Music Apply",
           "url": "https://cla.umn.edu/music/graduate/apply"
+        },
+        {
+          "label": "Minnesota MM Programs",
+          "url": "https://cla.umn.edu/music/graduate/degrees/mm-programs"
+        },
+        {
+          "label": "Minnesota Program-Specific Materials",
+          "url": "https://cla.umn.edu/music/graduate/apply/program-specific-materials"
         },
         {
           "label": "Minnesota Graduate Auditions and Interviews",
@@ -10381,20 +10389,28 @@
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through the University of Minnesota graduate application for the School of Music; upload required program-specific materials and audition videos in the Digital Uploads section when required.",
+            "value": "Apply through the University of Minnesota online graduate application for the School of Music. The School of Music MM page states that the MM degree offers emphases including Performance and Collaborative Piano & Coaching, and admission into the MM program is contingent on passing an audition in addition to other entrance requirements. A complete School of Music graduate application includes the University application, program-specific materials, personal statement, Diversity of Views and Experiences statement if applying for DOVE fellowship consideration, three recommendation letters, instructor/advisor preference, unofficial transcripts, official English proficiency scores when required, and optional GRE scores for most graduate programs. For Instrumental Performance MM, program-specific materials include recorded audition video, resume or CV, and cumulative repertoire list. Applicants submit videos through the Digital Uploads section of the University of Minnesota application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota School of Music Apply",
                 "url": "https://cla.umn.edu/music/graduate/apply"
+              },
+              {
+                "label": "Minnesota MM Programs",
+                "url": "https://cla.umn.edu/music/graduate/degrees/mm-programs"
+              },
+              {
+                "label": "Minnesota Program-Specific Materials",
+                "url": "https://cla.umn.edu/music/graduate/apply/program-specific-materials"
               }
             ]
           },
           "applicationFee": {
-            "value": "School of Music applicants pay a $50 School of Music fee in addition to the Graduate School application fee; exact current Graduate School fee should be verified on the Graduate School fee page before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "School of Music application fee: $50. Graduate School application fee: $75 for U.S. citizens and permanent residents. Graduate School application fee: $95 for international applicants. Change of status/readmission fee: $75 for all applicants. Notes: the School of Music states applicants pay two non-refundable fees in the online application, one to the School of Music and one separate Graduate School application fee. Notes: the School of Music says these fees cannot be waived. Notes: Graduate School application fees cannot be waived or deferred and are non-refundable.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota School of Music Apply",
@@ -10407,10 +10423,14 @@
             ]
           },
           "auditionRequirements": {
-            "value": "The School of Music strongly encourages in-person auditions on scheduled dates, but accepts prerecorded auditions in most performance areas; video submissions must be recorded within the past 12 months, with each selection performed from beginning to end in one take and no editing within individual selections; complete in-person auditions and complete video auditions are accepted for piano based on prescreening results.",
+            "value": "The School of Music strongly encourages in-person auditions on scheduled audition dates, but accepts pre-recorded auditions in most performance areas. Instrumental Performance audition dates for 2026 are January 24 and February 7. Video submissions must be submitted by the application deadline through the Digital Uploads section of the University of Minnesota application. Videos must have been made within the past 12 months. Each selection must be performed from beginning to end in one take for the entirety of the recording. No editing is allowed within individual selections; selections may be provided as separate files or edited into one file. Complete in-person auditions and complete video auditions are accepted for piano based on prescreening results. The current Piano accordion says a prescreening video is required for MM or DMA Piano Performance; because that accordion still shows an old date, applicants should follow the current 2026 application deadline page and confirm any date questions with the piano faculty contact.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "Minnesota School of Music Apply",
+                "url": "https://cla.umn.edu/music/graduate/apply"
+              },
               {
                 "label": "Minnesota Graduate Auditions and Interviews",
                 "url": "https://cla.umn.edu/music/graduate/apply/graduate-auditions-interviews"
@@ -10418,20 +10438,24 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: Submit a prescreening video with the application for MM Piano Performance; the prescreen must include the first movement of a Classical sonata by Beethoven, Haydn, Mozart, or Clementi, and one other work by a different composer from the 19th, 20th, or 21st century; Final audition repertoire: Prepare all audition repertoire from memory; Bach prelude and fugue from The Well-Tempered Clavier or several substantial movements from a Bach suite or partita; a complete major sonata by Haydn, Mozart, or Beethoven; a representative work from the 19th century; a representative work from the 20th century; at least one of the 19th- or 20th-century works should be technically and interpretively demanding and at least 10 minutes long.",
+            "value": "Prescreening repertoire: A prescreening video must be submitted with the application for the MM or DMA in Piano Performance. Prescreening repertoire: The prescreening video must include the first movement of a Classical sonata by Beethoven, Haydn, Mozart, or Clementi. Prescreening repertoire: The prescreening video must include one other work by a different composer from the 19th, 20th, or 21st century. Prescreening repertoire: Videos must be submitted by the application deadline through the Digital Uploads section. Prescreening repertoire: Videos must be made within the past 12 months. Prescreening repertoire: Each selection must be performed from beginning to end in one take for the entirety of the recording, and no editing is allowed within individual selections. Final audition repertoire: Prepare all audition repertoire from memory. Final audition repertoire: Prepare a Bach prelude and fugue from The Well-Tempered Clavier or several substantial movements from a Bach suite or partita. Final audition repertoire: Prepare a complete major sonata by Haydn, Mozart, or Beethoven. Final audition repertoire: Prepare a representative work from the 19th century. Final audition repertoire: Prepare a representative work from the 20th century. Final audition repertoire: At least one of the 19th- or 20th-century works should be technically and interpretively demanding and at least 10 minutes in length. Additional repertoire notes: Complete in-person auditions are offered and complete video auditions are accepted based on prescreening results. Additional repertoire notes: The piano section of the official audition page currently displays an old December 1, 2024 prescreening date, while the 2026 application page lists December 1, 2025 as the current application deadline; applicants should submit by the current application deadline and confirm with Professor Paul Shaw for repertoire/date questions.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota Graduate Auditions and Interviews",
                 "url": "https://cla.umn.edu/music/graduate/apply/graduate-auditions-interviews"
+              },
+              {
+                "label": "Minnesota School of Music Apply",
+                "url": "https://cla.umn.edu/music/graduate/apply"
               }
             ]
           },
           "deadlines": {
-            "value": "December 1, 2025: School of Music graduate application deadline; January 24, 2026 and February 7, 2026: listed instrumental-performance audition dates; audition videos are submitted by the application deadline through Digital Uploads.",
+            "value": "December 1, 2025: School of Music graduate application deadline for 2026 admission. December 1, 2025: videos must be submitted by the application deadline through the Digital Uploads section. January 24, 2026: instrumental performance in-person audition date. February 7, 2026: instrumental performance in-person audition date. Program note: the Piano accordion on the audition page still displays an old December 1, 2024 prescreening date, but the current 2026 application page lists December 1, 2025 as the application deadline. Program note: prospective graduate students planning to audition in person should make themselves available for the entire day.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota School of Music Apply",
@@ -10444,33 +10468,49 @@
             ]
           },
           "englishScores": {
-            "value": "English minimums include TOEFL iBT 79 total with writing 21 and reading 19 for tests before January 21, 2026; TOEFL iBT 4.5 total, writing 4.5, and reading 4.5 for tests on or after January 21, 2026; IELTS Academic 6.5 total with writing 6.5 and reading 6.5; Duolingo 115 overall with writing 115 and reading 115; PTE Academic 59 total with writing 59 and reading 59; scores must generally be within two years, and MyBest is not accepted for the minimum total.",
+            "value": "Minimum scores: TOEFL iBT taken before January 21, 2026 requires Total 79, Writing 21, and Reading 19. Minimum scores: TOEFL iBT taken on or after January 21, 2026 requires Total 4.5, Writing 4.5, and Reading 4.5. Minimum scores: IELTS Academic requires Total 6.5, Writing 6.5, and Reading 6.5. Minimum scores: Duolingo English Test requires Overall 115 or above, Writing 115 or above, and Reading 115 or above. Minimum scores: PTE Academic requires Total 59, Writing 59, and Reading 59. Minimum scores: Cambridge C1 Advanced requires Total 180, Writing 180, and Reading 180. Notes: these are minimum University requirements, and applicants are responsible for knowing whether the graduate program requires higher scores. Notes: TOEFL iBT may be taken at a test center or at home. Notes: IELTS Academic may be taken at a test center or at home. Notes: IELTS One Skill Retake is not accepted. Notes: exams should be within two years of the graduate program start date. Notes: the University of Minnesota Twin Cities does not consider TOEFL MyBest scores to meet the minimum total score requirement; applicants should self-report the highest total score from one test date and submit official TOEFL iBT scores via ETS. Notes: ETS institution code for Twin Cities and Rochester is 6874. Exemptions: applicants satisfy the English proficiency requirement if they completed secondary school in the U.S. or a country on the exemption list. Exemptions: applicants also satisfy the requirement if they completed at least 16 semester credits or 24 quarter credits of qualifying post-secondary coursework, not ESL coursework, within the past two years while living in the U.S. or a country on the exemption list.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota English Language Proficiency",
                 "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency"
+              },
+              {
+                "label": "Minnesota School of Music Apply",
+                "url": "https://cla.umn.edu/music/graduate/apply"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply through the University of Minnesota graduate application for the School of Music; upload required program-specific materials and audition videos in the Digital Uploads section when required.",
+            "value": "Apply through the University of Minnesota online graduate application for the School of Music. The School of Music MM page states that the MM degree offers emphases including Collaborative Piano & Coaching. A complete School of Music graduate application includes the University application, program-specific materials, personal statement, Diversity of Views and Experiences statement if applying for DOVE fellowship consideration, three recommendation letters, instructor/advisor preference, unofficial transcripts, official English proficiency scores when required, and optional GRE scores for most graduate programs. For Collaborative Piano & Coaching MM/DMA, program-specific materials include pre-screening video, virtual sight-reading exercise scheduled directly with Professor Lovelace, cumulative repertoire list, and resume or CV. Collaborative Piano/Coaching MM applicants should hold an appropriate undergraduate degree in music.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota School of Music Apply",
                 "url": "https://cla.umn.edu/music/graduate/apply"
+              },
+              {
+                "label": "Minnesota MM Programs",
+                "url": "https://cla.umn.edu/music/graduate/degrees/mm-programs"
+              },
+              {
+                "label": "Minnesota Program-Specific Materials",
+                "url": "https://cla.umn.edu/music/graduate/apply/program-specific-materials"
+              },
+              {
+                "label": "Minnesota Graduate Auditions and Interviews",
+                "url": "https://cla.umn.edu/music/graduate/apply/graduate-auditions-interviews"
               }
             ]
           },
           "applicationFee": {
-            "value": "School of Music applicants pay a $50 School of Music fee in addition to the Graduate School application fee; exact current Graduate School fee should be verified on the Graduate School fee page before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "School of Music application fee: $50. Graduate School application fee: $75 for U.S. citizens and permanent residents. Graduate School application fee: $95 for international applicants. Change of status/readmission fee: $75 for all applicants. Notes: the School of Music states applicants pay two non-refundable fees in the online application, one to the School of Music and one separate Graduate School application fee. Notes: the School of Music says these fees cannot be waived. Notes: Graduate School application fees cannot be waived or deferred and are non-refundable.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota School of Music Apply",
@@ -10483,10 +10523,18 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano and Coaching requires a prescreen video and in-person auditions; applicants who pass screening are invited to a live campus audition; partners and rehearsal times are assigned as part of the live audition process; a personal interview may be conducted by faculty.",
+            "value": "Collaborative Piano & Coaching requires a pre-screen video and in-person auditions. Applicants who pass screening are invited to perform a live audition on campus. Partners and rehearsal times are assigned as part of the live audition process. A personal interview may be conducted by faculty as part of the audition. Program-specific materials include a virtual sight-reading exercise scheduled directly with Professor Lovelace, cumulative repertoire list, and resume or CV. The School of Music Apply page lists Collaborative Piano & Coaching among programs requiring a recorded entrance audition, while the audition page specifically states in-person auditions are required after prescreening. Applicants should follow the invitation instructions from faculty after screening.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "Minnesota School of Music Apply",
+                "url": "https://cla.umn.edu/music/graduate/apply"
+              },
+              {
+                "label": "Minnesota Program-Specific Materials",
+                "url": "https://cla.umn.edu/music/graduate/apply/program-specific-materials"
+              },
               {
                 "label": "Minnesota Graduate Auditions and Interviews",
                 "url": "https://cla.umn.edu/music/graduate/apply/graduate-auditions-interviews"
@@ -10494,10 +10542,14 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: For both MM and DMA, record two contrasting collaborative piano works with partners; prescreening performances are not necessarily restricted to the audition repertoire; Final audition repertoire: Mozart Sonata for Piano and Violin in E minor K. 304, either movement; Brahms Von ewiger Liebe in the original key; Libby Larsen Lift Me Into Heaven Slowly in the original key; sight-reading from instrumental and/or vocal repertoire.",
+            "value": "Prescreening repertoire: Pre-screen video is required. Prescreening repertoire: For both MM and DMA prescreening, record two contrasting collaborative piano works with partners. Prescreening repertoire: These prescreening performances are not necessarily restricted to the audition repertoire. Prescreening repertoire: Videos must be submitted by the application deadline through the Digital Uploads section. Prescreening repertoire: Videos must be made within the past 12 months. Prescreening repertoire: Each selection must be performed from beginning to end in one take for the entirety of the recording, and no editing is allowed within individual selections. Final audition repertoire: Applicants who pass screening are invited to perform a live audition on campus. Final audition repertoire: Partners and rehearsal times are assigned as part of the live audition process. Final audition repertoire: Prepare Mozart Sonata for Piano and Violin in E Minor, K. 304, either movement. Final audition repertoire: Prepare Brahms Von ewiger Liebe in the original key. Final audition repertoire: Prepare Libby Larsen Lift Me Into Heaven Slowly in the original key. Final audition repertoire: Prepare sight-reading from instrumental and/or vocal repertoire. Additional repertoire notes: A personal interview may be conducted by faculty as part of the audition. Additional repertoire notes: Program-specific materials include a virtual sight-reading exercise scheduled directly with Professor Lovelace, cumulative repertoire list, and resume or CV. Additional repertoire notes: Contact Timothy Lovelace with questions about prescreening and audition repertoire.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "Minnesota Program-Specific Materials",
+                "url": "https://cla.umn.edu/music/graduate/apply/program-specific-materials"
+              },
               {
                 "label": "Minnesota Graduate Auditions and Interviews",
                 "url": "https://cla.umn.edu/music/graduate/apply/graduate-auditions-interviews"
@@ -10505,9 +10557,9 @@
             ]
           },
           "deadlines": {
-            "value": "December 1, 2025: School of Music graduate application deadline; January 24, 2026 and February 7, 2026: listed instrumental-performance audition dates; audition videos are submitted by the application deadline through Digital Uploads.",
+            "value": "December 1, 2025: School of Music graduate application deadline for 2026 admission. December 1, 2025: videos must be submitted by the application deadline through the Digital Uploads section. January 24, 2026: instrumental performance in-person audition date. February 7, 2026: instrumental performance in-person audition date. Program note: Collaborative Piano & Coaching requires prescreening first; applicants who pass screening are invited to a live audition on campus and receive partner/rehearsal details as part of that process. Program note: prospective graduate students planning to audition in person should make themselves available for the entire day.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota School of Music Apply",
@@ -10520,13 +10572,17 @@
             ]
           },
           "englishScores": {
-            "value": "English minimums include TOEFL iBT 79 total with writing 21 and reading 19 for tests before January 21, 2026; TOEFL iBT 4.5 total, writing 4.5, and reading 4.5 for tests on or after January 21, 2026; IELTS Academic 6.5 total with writing 6.5 and reading 6.5; Duolingo 115 overall with writing 115 and reading 115; PTE Academic 59 total with writing 59 and reading 59; scores must generally be within two years, and MyBest is not accepted for the minimum total.",
+            "value": "Minimum scores: TOEFL iBT taken before January 21, 2026 requires Total 79, Writing 21, and Reading 19. Minimum scores: TOEFL iBT taken on or after January 21, 2026 requires Total 4.5, Writing 4.5, and Reading 4.5. Minimum scores: IELTS Academic requires Total 6.5, Writing 6.5, and Reading 6.5. Minimum scores: Duolingo English Test requires Overall 115 or above, Writing 115 or above, and Reading 115 or above. Minimum scores: PTE Academic requires Total 59, Writing 59, and Reading 59. Minimum scores: Cambridge C1 Advanced requires Total 180, Writing 180, and Reading 180. Notes: these are minimum University requirements, and applicants are responsible for knowing whether the graduate program requires higher scores. Notes: TOEFL iBT may be taken at a test center or at home. Notes: IELTS Academic may be taken at a test center or at home. Notes: IELTS One Skill Retake is not accepted. Notes: exams should be within two years of the graduate program start date. Notes: the University of Minnesota Twin Cities does not consider TOEFL MyBest scores to meet the minimum total score requirement; applicants should self-report the highest total score from one test date and submit official TOEFL iBT scores via ETS. Notes: ETS institution code for Twin Cities and Rochester is 6874. Exemptions: applicants satisfy the English proficiency requirement if they completed secondary school in the U.S. or a country on the exemption list. Exemptions: applicants also satisfy the requirement if they completed at least 16 semester credits or 24 quarter credits of qualifying post-secondary coursework, not ESL coursework, within the past two years while living in the U.S. or a country on the exemption list.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Minnesota English Language Proficiency",
                 "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency"
+              },
+              {
+                "label": "Minnesota School of Music Apply",
+                "url": "https://cla.umn.edu/music/graduate/apply"
               }
             ]
           }
