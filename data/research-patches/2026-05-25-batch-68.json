@@ -1,0 +1,264 @@
+{
+  "schools": [
+    {
+      "id": "university-of-northern-colorado",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "UNC Music MM Program",
+          "url": "https://www.unco.edu/programs/music-masters/"
+        },
+        {
+          "label": "UNC PVA Admissions",
+          "url": "https://www.unco.edu/pva/admissions/"
+        },
+        {
+          "label": "UNC PVA Auditions and Interviews",
+          "url": "https://www.unco.edu/pva/admissions/auditions/"
+        },
+        {
+          "label": "UNC Piano Audition Requirements",
+          "url": "https://www.unco.edu/pva/admissions/auditions/piano/"
+        },
+        {
+          "label": "UNC Collaborative Piano Audition Requirements",
+          "url": "https://www.unco.edu/pva/admissions/auditions/collaborative-piano/"
+        },
+        {
+          "label": "UNC Graduate Admissions",
+          "url": "https://www.unco.edu/admissions-aid/graduate/"
+        },
+        {
+          "label": "UNC Graduate Catalog English Proficiency",
+          "url": "https://unco.smartcatalogiq.com/current/graduate-catalog/general-information/international-admission/demonstration-of-english-proficiency"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the UNC Graduate School application online. The Music MM page says the program is a Master's/MM with Fall and Spring start dates, 30-36 credits, and concentrations including Collaborative Piano and Instrumental Performance. The Instrumental Performance concentration includes piano. The Music MM application steps are to complete the UNC application online, complete the College of Performing Arts form, submit required supplemental materials such as resume, statement of goals, writing/research samples or score composition samples as applicable, submit a pre-screening audition video if applicable, and complete the interview or audition if applicable, live or by video. The PVA Admissions page says Music MM is an auditioned/interviewed program; applicants fill out the UNC application, complete the Audition Form in the UNC application portal, submit required materials, and attend the audition or interview. Graduate School minimum requirements include a bachelor's or master's degree from an institutionally accredited college or university or comparable foreign institution, GPA of 3.00 or better from the most recent degree earned or current degree in progress, and one official transcript from any accredited college or university where a bachelor's degree or higher was earned or is in progress.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              },
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              },
+              {
+                "label": "UNC Graduate Admissions",
+                "url": "https://www.unco.edu/admissions-aid/graduate/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: UNC Graduate School application plus the College of Performing Arts audition form in the UNC application portal. Application fee: $50 non-refundable UNC Graduate School application fee. Notes: the Graduate Admissions page says applicants are prompted to pay a $50 application fee after completing all application questions. Notes: the Graduate School is waiving application fees for all current UNC students and alumni; the waiver applies only to the UNC Graduate School application. Notes: students applying through programs with a Centralized Application Service would still need to pay that CAS application fee, but the Music MM page directs applicants to the UNC application and PVA form.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Graduate Admissions",
+                "url": "https://www.unco.edu/admissions-aid/graduate/"
+              },
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              },
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Music MM requires either an audition or interview depending on concentration. For auditioned/interviewed PVA programs, applicants complete the UNC application, complete the Audition Form in the UNC application portal, submit required materials, and attend the audition or interview. For School of Music auditions and interviews, BM, BME, MM, and DA applicants complete either an In-Person Audition/Interview or a Video Audition/Virtual Interview. In-person auditions and interviews are scheduled as part of the Audition Form in the UNC application portal. For virtual auditions and interviews, applicants submit audition video to the UNC application portal before the virtual interview. Uploaded audition videos must be submitted all at once; after clicking save, the applicant cannot make changes, and updates require emailing pva.admissions@unco.edu. Graduate School of Music checklist items include the School of Music Form with audition/interview scheduling, audition video if applicable, summary of musical experience and list of past teachers; resume or CV with complete list of performance and work experience; personal statement of goals/career aspirations; and optional but recommended assistantship letter of experience. Piano graduate applicants may choose to audition in person or through video submission. Piano applicants who audition by video submission must schedule an interview during the Virtual Interview Day. Piano audition video requirements state that each audition piece, including multi-movement and cyclic works, must be recorded in one continuous, unedited take; the camera should be fixed and focused on the performer, who must be visible at all times; if possible the camera should show face, fingers, and feet; the camera should be to the pianist's right if possible; background noise should be limited; the performance space should be well lit; the entire keyboard should be visible; recordings must be unedited and uploaded to YouTube; and the YouTube links should be added to the Slate application. Graduate piano applicants seeking graduate assistantship consideration are expected to sight-read during the synchronous interview with piano faculty and need a working instrument available during the interview.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              },
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              },
+              {
+                "label": "UNC PVA Auditions and Interviews",
+                "url": "https://www.unco.edu/pva/admissions/auditions/"
+              },
+              {
+                "label": "UNC Piano Audition Requirements",
+                "url": "https://www.unco.edu/pva/admissions/auditions/piano/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate pre-screening repertoire is listed on the current UNC Piano Audition Requirements page for graduate piano applicants; the Music MM page says to submit a pre-screening audition video if applicable and to view the audition requirements. Final audition repertoire: Total graduate piano audition repertoire should be at least 45 minutes in length. Final audition repertoire: Prepare at least three contrasting works selected from three different style periods: Baroque, Classical, Romantic, and 20th Century/Contemporary. Final audition repertoire: One large-scale or multi-movement work should be prepared in its entirety. Final audition repertoire: All music must be prepared from memory. Additional repertoire notes: Requests for exceptions must be made in writing to the listed piano audition contact at least three weeks before the audition date. Additional repertoire notes: For audition video, each audition piece, including multi-movement and cyclic works, must be recorded in one continuous, unedited take, and recordings of each piece must be unedited and uploaded to YouTube.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Piano Audition Requirements",
+                "url": "https://www.unco.edu/pva/admissions/auditions/piano/"
+              },
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "August 1: application opens for auditioned/interviewed PVA programs. November 21, 2026: audition/interview/portfolio day. January 23, 2027: virtual audition/interview/portfolio day. February 13, 2027: audition/interview/portfolio day. March 6, 2027: application deadline for auditioned/interviewed PVA programs. March 6, 2027: audition/interview/portfolio day. April 15: graduate decision deadline. Program note: PVA Auditions and Interviews says BM, BME, MM, and DA School of Music applicants complete either an In-Person Audition/Interview or a Video Audition/Virtual Interview. Program note: Music MM start dates are Fall and Spring, but the PVA audition timeline currently publishes the 2026-2027 audition cycle dates listed above.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              },
+              {
+                "label": "UNC PVA Auditions and Interviews",
+                "url": "https://www.unco.edu/pva/admissions/auditions/"
+              },
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT for exams taken before 01/20/2026 requires Overall 80, Listening 16, Reading 16, Speaking 20, and Writing 22. Minimum scores: TOEFL iBT for exams taken after 01/20/2026 requires Overall 4.5, Listening 3.5, Reading 3.5, Speaking 4, and Writing 4.5. Minimum scores: IELTS requires Overall 6.5, Listening 6, Reading 6, Writing 6, and Speaking 6. Minimum scores: English3 requires Overall 67, Speaking 16.5, Reading 16.5, Listening 16.5, and Writing 16.5. Minimum scores: Cambridge B2 First requires Overall 176, Use of English 162, Reading 169, Writing 169, Listening 162, and Speaking 169. Minimum scores: Michigan requires Overall 64 and section scores of 64 in Listening, Reading, Speaking, and Writing. Minimum scores: Gateway requires Overall 475, Speaking 405, Reading 405, Listening 405, and Writing 405. Timing: tests must be taken within two years of application to UNC, and results must be sent directly from the testing organization to UNC. Exemptions: applicants may demonstrate English proficiency by earning a bachelor's degree or higher, or having one conferred before initial enrollment at UNC, from a regionally accredited or equivalent United States or qualifying-country post-secondary institution with cumulative graduate GPA of 3.0 or higher, with degree conferral date within five years of UNC graduate application. Exemptions: applicants may demonstrate English proficiency by earning at least 12 graduate-level semester hours of university credit from a regionally accredited or equivalent United States or qualifying-country post-secondary institution with GPA 3.0 or higher, with coursework within five years of application. Exemptions: successful completion of Level 7 in UNC's IEP program within five years of UNC graduate application. Notes: qualifying countries listed on the catalog page are Australia, New Zealand, United Kingdom, Ireland, and Canada excluding Quebec. Notes: UNC reserves the right to request demonstration of English proficiency for any applicant during application review, and some academic programs may have program-specific admission requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Graduate Catalog English Proficiency",
+                "url": "https://unco.smartcatalogiq.com/current/graduate-catalog/general-information/international-admission/demonstration-of-english-proficiency"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through the UNC Graduate School application online. The Music MM page lists Collaborative Piano as a Music MM concentration and describes it as training in vocal coaching, chamber music literature, ensemble performance, and recital techniques. The Music MM application steps are to complete the UNC application online, complete the College of Performing Arts form, submit required supplemental materials such as resume, statement of goals, writing/research samples or score composition samples as applicable, submit a pre-screening audition video if applicable, and complete the interview or audition if applicable, live or by video. The PVA Admissions page says Music MM is an auditioned/interviewed program; applicants fill out the UNC application, complete the Audition Form in the UNC application portal, submit required materials, and attend the audition or interview. Collaborative Piano audition requirements additionally require applicants to upload to the admissions portal a sample of scholarly writing.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              },
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              },
+              {
+                "label": "UNC Collaborative Piano Audition Requirements",
+                "url": "https://www.unco.edu/pva/admissions/auditions/collaborative-piano/"
+              },
+              {
+                "label": "UNC Graduate Admissions",
+                "url": "https://www.unco.edu/admissions-aid/graduate/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: UNC Graduate School application plus the College of Performing Arts audition form in the UNC application portal. Application fee: $50 non-refundable UNC Graduate School application fee. Notes: the Graduate Admissions page says applicants are prompted to pay a $50 application fee after completing all application questions. Notes: the Graduate School is waiving application fees for all current UNC students and alumni; the waiver applies only to the UNC Graduate School application. Notes: students applying through programs with a Centralized Application Service would still need to pay that CAS application fee, but the Music MM page directs applicants to the UNC application and PVA form.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Graduate Admissions",
+                "url": "https://www.unco.edu/admissions-aid/graduate/"
+              },
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              },
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Music MM requires either an audition or interview depending on concentration. For auditioned/interviewed PVA programs, applicants complete the UNC application, complete the Audition Form in the UNC application portal, submit required materials, and attend the audition or interview. For School of Music auditions and interviews, BM, BME, MM, and DA applicants complete either an In-Person Audition/Interview or a Video Audition/Virtual Interview. In-person auditions and interviews are scheduled as part of the Audition Form in the UNC application portal. For virtual auditions and interviews, applicants submit audition video to the UNC application portal before the virtual interview. Uploaded audition videos must be submitted all at once; after clicking save, the applicant cannot make changes, and updates require emailing pva.admissions@unco.edu. Graduate School of Music checklist items include the School of Music Form with audition/interview scheduling, audition video if applicable, summary of musical experience and list of past teachers; resume or CV with complete list of performance and work experience; personal statement of goals/career aspirations; and optional but recommended assistantship letter of experience. Collaborative Piano applicants must upload a sample of scholarly writing to the admissions portal. For collaborative piano online submission, each audition piece, including multi-movement and cyclic works, must be recorded in one continuous, unedited take; the camera should be fixed and focused on the performer, who must be visible at all times; if possible the camera should show face, fingers, and feet; the camera should be set up to the right of the pianist if possible; background noise should be limited; the performance space should be well lit; the entire keyboard should be visible; recordings of each piece must be unedited and uploaded to YouTube; and the YouTube links should be added to the Slate application. Graduate applicants seeking graduate assistantship consideration are expected to sight-read during the synchronous interview with piano faculty and need a working instrument available during the interview.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              },
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              },
+              {
+                "label": "UNC PVA Auditions and Interviews",
+                "url": "https://www.unco.edu/pva/admissions/auditions/"
+              },
+              {
+                "label": "UNC Collaborative Piano Audition Requirements",
+                "url": "https://www.unco.edu/pva/admissions/auditions/collaborative-piano/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Repertoire selections are due with application submission. Prescreening repertoire: Prepare one selection from each of the following five groups of repertoire. Prescreening repertoire: German Art Song options are Schubert, Die Forelle in Db major; Brahms, Botschaft in Bb minor; Brahms, Meine Liebe ist grun in D# minor; Schumann, Waldesgesprach in D# minor; or Strauss, Allerseelen in Eb major. Prescreening repertoire: French Art Song options are Debussy, Beau soir in E major; Debussy, Apparition in E major; Debussy, Il pleure dans mon coeur in D# minor; Faure, Mandoline in G major; Faure, Clair de lune in Bb minor; or Duparc, Chanson triste in Eb major. Prescreening repertoire: English Art Song options are Barber, The Monk and His Cat in F major; Quilter, Love's Philosophy in F major; Vaughan Williams, The Roadside Fire in Db major; Copland, Heart! We will forget in Eb major; or Hundley, Will there really be a morning? in Bb major. Prescreening repertoire: Aria options are Quando m'en vo from La boheme by Puccini; Deh vieni non tardar from Le nozze di Figaro by Mozart; Steal me, sweet thief from The Old Maid and the Thief by Menotti; or Smanie implacabili from Cosi fan tutte by Mozart. Prescreening repertoire: Complete instrumental sonata options are Beethoven Violin Sonata in F Major, Op. 24; Beethoven Violin Sonata in C Minor, Op. 30, Spring; Beethoven Cello Sonata in A Major, Op. 69; Brahms Clarinet Sonata in F Minor, Op. 120 No. 1, played with either clarinet or viola; Brahms Clarinet Sonata in Eb Major, Op. 120 No. 2, played with either clarinet or viola; Franck Violin Sonata in A Major, played with either violin, cello, or flute; Poulenc Clarinet Sonata; Poulenc Flute Sonata; or Prokofiev 2nd Violin Sonata in D Major, Op. 94a, played with either violin or flute. Final audition repertoire: No separate second-stage final audition repertoire is posted on the current UNC Collaborative Piano Audition Requirements page; the graduate audition page states that the repertoire selections above are due with application submission and provides online audition video requirements. Additional repertoire notes: Each audition piece, including multi-movement and cyclic works, must be recorded in one continuous, unedited take. Additional repertoire notes: Recordings of each piece must be unedited and uploaded to YouTube, and the YouTube links should be added to the Slate application. Additional repertoire notes: Graduate applicants who would like to be considered for a graduate assistantship will be expected to sight-read during the synchronous interview with the piano faculty and need a working instrument available during the interview.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Collaborative Piano Audition Requirements",
+                "url": "https://www.unco.edu/pva/admissions/auditions/collaborative-piano/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "August 1: application opens for auditioned/interviewed PVA programs. November 21, 2026: audition/interview/portfolio day. January 23, 2027: virtual audition/interview/portfolio day. February 13, 2027: audition/interview/portfolio day. March 6, 2027: application deadline for auditioned/interviewed PVA programs. March 6, 2027: audition/interview/portfolio day. April 15: graduate decision deadline. Program note: PVA Auditions and Interviews says BM, BME, MM, and DA School of Music applicants complete either an In-Person Audition/Interview or a Video Audition/Virtual Interview. Program note: Music MM start dates are Fall and Spring, but the PVA audition timeline currently publishes the 2026-2027 audition cycle dates listed above. Program note: collaborative piano repertoire selections are due with application submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC PVA Admissions",
+                "url": "https://www.unco.edu/pva/admissions/"
+              },
+              {
+                "label": "UNC PVA Auditions and Interviews",
+                "url": "https://www.unco.edu/pva/admissions/auditions/"
+              },
+              {
+                "label": "UNC Collaborative Piano Audition Requirements",
+                "url": "https://www.unco.edu/pva/admissions/auditions/collaborative-piano/"
+              },
+              {
+                "label": "UNC Music MM Program",
+                "url": "https://www.unco.edu/programs/music-masters/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT for exams taken before 01/20/2026 requires Overall 80, Listening 16, Reading 16, Speaking 20, and Writing 22. Minimum scores: TOEFL iBT for exams taken after 01/20/2026 requires Overall 4.5, Listening 3.5, Reading 3.5, Speaking 4, and Writing 4.5. Minimum scores: IELTS requires Overall 6.5, Listening 6, Reading 6, Writing 6, and Speaking 6. Minimum scores: English3 requires Overall 67, Speaking 16.5, Reading 16.5, Listening 16.5, and Writing 16.5. Minimum scores: Cambridge B2 First requires Overall 176, Use of English 162, Reading 169, Writing 169, Listening 162, and Speaking 169. Minimum scores: Michigan requires Overall 64 and section scores of 64 in Listening, Reading, Speaking, and Writing. Minimum scores: Gateway requires Overall 475, Speaking 405, Reading 405, Listening 405, and Writing 405. Timing: tests must be taken within two years of application to UNC, and results must be sent directly from the testing organization to UNC. Exemptions: applicants may demonstrate English proficiency by earning a bachelor's degree or higher, or having one conferred before initial enrollment at UNC, from a regionally accredited or equivalent United States or qualifying-country post-secondary institution with cumulative graduate GPA of 3.0 or higher, with degree conferral date within five years of UNC graduate application. Exemptions: applicants may demonstrate English proficiency by earning at least 12 graduate-level semester hours of university credit from a regionally accredited or equivalent United States or qualifying-country post-secondary institution with GPA 3.0 or higher, with coursework within five years of application. Exemptions: successful completion of Level 7 in UNC's IEP program within five years of UNC graduate application. Notes: qualifying countries listed on the catalog page are Australia, New Zealand, United Kingdom, Ireland, and Canada excluding Quebec. Notes: UNC reserves the right to request demonstration of English proficiency for any applicant during application review, and some academic programs may have program-specific admission requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNC Graduate Catalog English Proficiency",
+                "url": "https://unco.smartcatalogiq.com/current/graduate-catalog/general-information/international-admission/demonstration-of-english-proficiency"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-university-of-north-texas-audit-v56";
+const DATA_VERSION = "2026-05-25-university-of-northern-colorado-audit-v57";
 
 const state = {
   data: null,
