@@ -1,0 +1,236 @@
+{
+  "schools": [
+    {
+      "id": "university-of-kansas",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "KU Graduate Admission",
+          "url": "https://music.ku.edu/graduate-admission"
+        },
+        {
+          "label": "KU Graduate Application Requirements",
+          "url": "https://music.ku.edu/graduate-application-requirements"
+        },
+        {
+          "label": "KU Piano Audition Requirements",
+          "url": "https://music.ku.edu/piano-audition-requirements"
+        },
+        {
+          "label": "KU Graduate English Proficiency Requirements",
+          "url": "https://gradapply.ku.edu/english-requirements"
+        },
+        {
+          "label": "KU Music Catalog",
+          "url": "https://catalog.ku.edu/music/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Complete the University of Kansas graduate application for the School of Music. KU lists Music graduate degree options including Master of Music with Piano Performance and Piano Performance and Pedagogy tracks, plus a Master of Music in Collaborative Piano. School of Music applicants submit the KU graduate application, pay the application fee, and provide program-specific materials in the application system. Piano Performance applicants submit the required prescreening video with the graduate application by December 1. Applicants interested in Graduate Teaching Assistantship consideration must be prepared to answer this question at their audition: What are your goals for your work here at KU, and what would you hope to accomplish as a graduate student? If auditioning by video, applicants upload a separate video response to that question.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Admission",
+                "url": "https://music.ku.edu/graduate-admission"
+              },
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              },
+              {
+                "label": "KU Music Catalog",
+                "url": "https://catalog.ku.edu/music/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $65 for domestic degree-seeking applicants. Application fee: $85 for international degree-seeking applicants. Application fee: $30 for certificate-seeking applicants. Application fee: $30 for non-degree-seeking applicants. Notes: application fees are non-refundable. Notes: the School of Music does not typically provide fee waivers.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Piano Performance applicants submit a prescreening video with the graduate application by December 1. If the applicant misses the December 1 deadline, they must contact the piano division coordinator for approval before submitting materials. The prescreening video may be uploaded as a link in the graduate application or through the KU audition webpage and can be one video or multiple videos. Applicants submit a 20-minute prescreening audition. Final audition may be live or by video according to the Piano Audition Requirements page. Graduate Teaching Assistantship consideration includes an additional goals question; video audition applicants submit a separate video response. For Fall 2026, in-person audition dates listed by KU include Friday, January 30; Saturday, January 31; Friday, February 6; Saturday, February 7; and Saturday, February 14.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Admission",
+                "url": "https://music.ku.edu/graduate-admission"
+              },
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A prescreening video should be submitted with the graduate application by December 1. Prescreening repertoire: Students submit a 20-minute audition of works from at least two periods. Prescreening repertoire: First movement of a Classical Sonata, including Schubert, is required. Prescreening repertoire: Additional repertoire is the applicant's choice. Prescreening repertoire: Memorization is required for all works except 20th and 21st century works of exceptional difficulty. Final audition repertoire: Prepare a 45-minute program. Final audition repertoire: Repertoire must include at least three solo works from different periods. Final audition repertoire: All sonatas, variations, suites, and other individual works written with multiple movements must be prepared in their entirety. Final audition repertoire: Sets of pieces intended to be performed together must be prepared in their entirety, such as Schumann Carnaval, Davidsbundlertanze, Kreisleriana; Mussorgsky Pictures at an Exhibition; or Franck Prelude, Chorale and Fugue. Additional repertoire notes: Memorization is required for all works except 20th and 21st century works of exceptional difficulty. Additional repertoire notes: A Classical Sonata first movement is required for prescreening, but the final audition page does not repeat the Classical sonata requirement as a separate final-audition category. Additional repertoire notes: Applicants with questions should contact the piano division coordinator.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: Fall priority deadline for funding and initial program review. December 1: final deadline for Voice and Piano Performance applications. December 1: Piano Performance prescreening deadline. May 1: general fall final review date for other programs, but Piano Performance has a program-specific December 1 final deadline. September 1: spring priority deadline for funding and initial program review. November 1: spring final review date. February 1: summer priority deadline for funding and initial program review. April 1: summer final review date. Fall 2026 audition dates: Friday, January 30; Saturday, January 31; Friday, February 6; Saturday, February 7; Saturday, February 14.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Admission",
+                "url": "https://music.ku.edu/graduate-admission"
+              },
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Full proficiency minimums: TOEFL iBT total 80, with minimum part scores of 20 in reading, listening, and writing. Full proficiency minimums: TOEFL iBT version taken after January 2026 requires total 4.5, with minimum part scores of 4.5 in reading, listening, and writing. Full proficiency minimums: IELTS overall 6.5, with minimum part scores of 6.0 in reading, listening, and writing. Full proficiency minimums: PTE overall 60, with minimum part scores of 55 in reading, listening, and writing. Admission proficiency minimums: TOEFL iBT total 55, with minimum part scores of 13 in reading, listening, and writing. Admission proficiency minimums: TOEFL iBT version taken after January 2026 requires total 3.5, with minimum part scores of 3.5 in reading, listening, and writing. Admission proficiency minimums: IELTS overall 5.5, with minimum part scores of 5.0 in reading, listening, and writing. Admission proficiency minimums: PTE overall 42, with minimum part scores of 35 in reading, listening, and writing. Notes: KU School of Music accepts TOEFL, IELTS, PTE, or Applied English Center coursework as proof of English proficiency. Notes: Duolingo scores are not accepted by the School of Music. Notes: applicants who meet only admission proficiency may be admitted, but may be required to complete AEC testing and coursework after arrival. Exemptions: applicants may be considered fully proficient if they are native speakers of English; or have a baccalaureate or higher degree, earned within the last two years, from an accredited English-medium U.S. institution or an accredited English-medium institution in an approved English-speaking country; or meet one of KU's listed waiver categories. Program note: non-native or non-native-like English speakers seeking GTA/GRA/GA positions should review KU spoken-English policy for graduate teaching assistants.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Graduate English Proficiency Requirements",
+                "url": "https://gradapply.ku.edu/english-requirements"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Complete the University of Kansas graduate application for the Master of Music in Collaborative Piano. KU's catalog and School of Music pages identify Collaborative Piano as a Master of Music track. Applicants submit program-specific prescreening and audition materials in the graduate application system. Applicants with questions about the Collaborative Piano repertoire, including possible substitutions, should contact Prof. Ellen R. Sommer.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Admission",
+                "url": "https://music.ku.edu/graduate-admission"
+              },
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              },
+              {
+                "label": "KU Music Catalog",
+                "url": "https://catalog.ku.edu/music/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application fee: $65 for domestic degree-seeking applicants. Application fee: $85 for international degree-seeking applicants. Application fee: $30 for certificate-seeking applicants. Application fee: $30 for non-degree-seeking applicants. Notes: application fees are non-refundable. Notes: the School of Music does not typically provide fee waivers.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Collaborative Piano applicants submit a prescreening video with the graduate application by December 1. The prescreening video must be unedited, recorded within the last year, and both selections must be presented with a partner. Final audition may be live or by video. Applicants must attach a speaking video answering why they wish to study collaborative piano, what experiences they have had collaborating with others, and what their degree and career goals are for five years. Collaborative Piano final audition includes vocal repertoire, instrumental repertoire, one solo major work, and sight-reading chosen by the piano division. Applicants with repertoire questions or substitution requests should contact Prof. Ellen R. Sommer. For Fall 2026, in-person audition dates listed by KU include Friday, January 30; Saturday, January 31; Friday, February 6; Saturday, February 7; and Saturday, February 14.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Admission",
+                "url": "https://music.ku.edu/graduate-admission"
+              },
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A prescreening video should be submitted with the graduate application by December 1. Prescreening repertoire: Students submit an unedited video recording from within the last year. Prescreening repertoire: Recording must include one song or aria and one movement from an instrumental sonata of the applicant's choice. Prescreening repertoire: Both selections must be presented with a partner. Final audition repertoire: Vocal repertoire selections: prepare four selections from Schubert Die Forelle in D-flat Major; Strauss Allerseelen in E-flat Major; Debussy Il pleure dans mon coeur in G-sharp Minor; Faure Green in G-flat major or Mandoline in A-flat major; Argento Spring in F Major; Barber St. Ita's Vision; Ralph Vaughan-Williams Songs of Travel: The Vagabond in C minor; Clara Schumann Er Ist gekommen in G-sharp minor; Fanny Mendelssohn-Hensel Abendbild in E-flat major. Final audition repertoire: Instrumental repertoire options: prepare two selected pieces from Franck Violin Sonata in A Major, second movement; Hindemith Oboe Sonata or Trumpet Sonata, first movements only; Mozart or Beethoven Violin Sonatas, first movements only of any sonata; Prokofiev Flute/Violin Sonata No. 2 in D Major, second movement only. Final audition repertoire: Solo performance: prepare one major work demonstrating technical and musical command of the keyboard; memorization is optional. Final audition repertoire: Sight-reading chosen by the piano division. Additional repertoire notes: Final audition may be live or by video. Additional repertoire notes: Applicants must attach a speaking video answering why they wish to study collaborative piano, what experiences they have had collaborating with others, and what their degree and career goals are for five years. Additional repertoire notes: Applicants with questions about whether substitutions are allowed should contact Prof. Ellen R. Sommer.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: Fall priority deadline for funding and initial program review. December 1: Collaborative Piano prescreening deadline. May 1: general fall final review date unless a program-specific deadline applies. September 1: spring priority deadline for funding and initial program review. November 1: spring final review date. February 1: summer priority deadline for funding and initial program review. April 1: summer final review date. Fall 2026 audition dates: Friday, January 30; Saturday, January 31; Friday, February 6; Saturday, February 7; Saturday, February 14.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Admission",
+                "url": "https://music.ku.edu/graduate-admission"
+              },
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Piano Audition Requirements",
+                "url": "https://music.ku.edu/piano-audition-requirements"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Full proficiency minimums: TOEFL iBT total 80, with minimum part scores of 20 in reading, listening, and writing. Full proficiency minimums: TOEFL iBT version taken after January 2026 requires total 4.5, with minimum part scores of 4.5 in reading, listening, and writing. Full proficiency minimums: IELTS overall 6.5, with minimum part scores of 6.0 in reading, listening, and writing. Full proficiency minimums: PTE overall 60, with minimum part scores of 55 in reading, listening, and writing. Admission proficiency minimums: TOEFL iBT total 55, with minimum part scores of 13 in reading, listening, and writing. Admission proficiency minimums: TOEFL iBT version taken after January 2026 requires total 3.5, with minimum part scores of 3.5 in reading, listening, and writing. Admission proficiency minimums: IELTS overall 5.5, with minimum part scores of 5.0 in reading, listening, and writing. Admission proficiency minimums: PTE overall 42, with minimum part scores of 35 in reading, listening, and writing. Notes: KU School of Music accepts TOEFL, IELTS, PTE, or Applied English Center coursework as proof of English proficiency. Notes: Duolingo scores are not accepted by the School of Music. Notes: applicants who meet only admission proficiency may be admitted, but may be required to complete AEC testing and coursework after arrival. Exemptions: applicants may be considered fully proficient if they are native speakers of English; or have a baccalaureate or higher degree, earned within the last two years, from an accredited English-medium U.S. institution or an accredited English-medium institution in an approved English-speaking country; or meet one of KU's listed waiver categories. Program note: non-native or non-native-like English speakers seeking GTA/GRA/GA positions should review KU spoken-English policy for graduate teaching assistants.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "KU Graduate Application Requirements",
+                "url": "https://music.ku.edu/graduate-application-requirements"
+              },
+              {
+                "label": "KU Graduate English Proficiency Requirements",
+                "url": "https://gradapply.ku.edu/english-requirements"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

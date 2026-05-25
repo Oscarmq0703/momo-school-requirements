@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-university-of-iowa-audit-v48";
+const DATA_VERSION = "2026-05-25-university-of-kansas-audit-v49";
 
 const state = {
   data: null,
