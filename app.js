@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-west-virginia-university-audit-v63";
+const DATA_VERSION = "2026-05-25-final-review-flags-v64";
 
 const state = {
   data: null,

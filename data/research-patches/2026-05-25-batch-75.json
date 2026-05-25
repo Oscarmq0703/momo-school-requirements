@@ -1,0 +1,98 @@
+{
+  "schools": [
+    {
+      "id": "depaul-university",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_collaborative_piano": {
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: The audited official DePaul pages do not publish a separate MM Collaborative Piano prescreening repertoire list. Final audition repertoire: DePaul's 2026-2027 catalog verifies that Collaborative Piano is a Music Performance (MM) specialization, but the public Graduate/Certificate audition pages reviewed here do not publish a separate Collaborative Piano audition repertoire list. Additional repertoire notes: The public Graduate/Certificate Piano audition page publishes a Master's in Piano Performance repertoire list and recorded-audition interview questions, but those requirements are specifically labeled for Piano Performance and should not be treated as the Collaborative Piano repertoire without confirmation from DePaul Music Admissions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "DePaul Music Performance (MM) Catalog",
+                "url": "https://catalog.depaul.edu/programs/music-performance-mm/"
+              },
+              {
+                "label": "DePaul Graduate/Certificate Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate"
+              },
+              {
+                "label": "DePaul Graduate/Certificate Piano Auditions",
+                "url": "https://music.depaul.edu/admission/auditions/graduate-certificate/piano"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "manhattan-school-of-music",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_piano_performance": {
+          "applicationFee": {
+            "value": "Application fee: $130. Reduced fee: $80 for current MSM and Precollege students, MSM alumni, and Barnard/MSM Lesson Exchange Program applicants. Notes: all application fees are non-refundable. Notes: late applicants must be approved by the Admission Office; if approved, late applications are assessed an additional $50 late fee. Notes: MSM's Admission FAQ still lists older $125/$75 amounts and says exchange applicants from MSM partner institutions abroad have no application fee; use the Application Requirements page as the current application checklist and confirm any exchange-applicant waiver in the portal or with MSM Admission before submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              },
+              {
+                "label": "MSM Admission FAQ",
+                "url": "https://www.msmnyc.edu/admission/admission-faq/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationFee": {
+            "value": "Application fee: $130. Reduced fee: $80 for current MSM and Precollege students, MSM alumni, and Barnard/MSM Lesson Exchange Program applicants. Notes: all application fees are non-refundable. Notes: late applicants must be approved by the Admission Office; if approved, late applications are assessed an additional $50 late fee. Notes: MSM's Admission FAQ still lists older $125/$75 amounts and says exchange applicants from MSM partner institutions abroad have no application fee; use the Application Requirements page as the current application checklist and confirm any exchange-applicant waiver in the portal or with MSM Admission before submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "MSM Application Requirements",
+                "url": "https://www.msmnyc.edu/admission/what-youll-need-to-apply-to-msm-college/"
+              },
+              {
+                "label": "MSM Admission FAQ",
+                "url": "https://www.msmnyc.edu/admission/admission-faq/"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "southern-methodist-university",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_piano_performance": {
+          "applicationFee": {
+            "value": "Application portal: SMU graduate online application / Meadows graduate music application pathway. Application fee: $75. Notes: SMU's Graduate Admissions Guide says students applying to programs in Dedman College, Lyle School of Engineering, Meadows School of the Arts, and Simmons School of Education and Human Development must submit an online application and a $75 application fee. Notes: the Meadows graduate music admissions page directs applicants to the SMU graduate application pathway for music graduate admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "SMU Graduate Admissions Guide",
+                "url": "https://grad.smu.edu/a-guide-to-graduate-admissions-at-smu"
+              },
+              {
+                "label": "SMU Meadows Graduate Music Admissions",
+                "url": "https://www.smu.edu/meadows/areasofstudy/music/graduatestudies/admissions"
+              },
+              {
+                "label": "SMU Graduate Application",
+                "url": "https://gradadmission.smu.edu/apply/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
