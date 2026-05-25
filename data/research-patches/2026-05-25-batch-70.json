@@ -1,0 +1,127 @@
+{
+  "schools": [
+    {
+      "id": "university-of-oregon",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "Oregon Graduate Music Admissions",
+          "url": "https://musicanddance.uoregon.edu/admissions/graduate-music"
+        },
+        {
+          "label": "Oregon Master's Music Admissions",
+          "url": "https://musicanddance.uoregon.edu/masters-music-admissions"
+        },
+        {
+          "label": "Oregon Graduate Music Auditions",
+          "url": "https://musicanddance.uoregon.edu/graduate-music-auditions"
+        },
+        {
+          "label": "Oregon 2026 Graduate Audition Requirements",
+          "url": "https://musicanddance.uoregon.edu/2026-grad-audition-requirements"
+        },
+        {
+          "label": "Oregon Graduate English Language Proficiency",
+          "url": "https://graduatestudies.uoregon.edu/admissions/how-to-apply/english-proficiency"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the University of Oregon online Application for Graduate Admission. The Master's Music Admissions page states that graduate music degrees at the University of Oregon do not require GRE scores. For MM Performance, applicants must upload resume, statement of purpose, scholarly writing sample, repertoire list, recent concert or recital programs, audition materials, and three references. The audition may be either a live audition or a recording, and applicants should review the current Graduate Audition Requirements. Any student admitted on the basis of a recorded performance must perform a placement audition upon arrival on campus to begin studies. All saxophone, voice, and piano performance applicants must submit a pre-screen audition recording by December 10 through the Application for Graduate Admission. The 2026 Graduate Audition Requirements list Collaborative Piano only as a DMA option; no separate MM Collaborative Piano option is listed in the reviewed official graduate audition materials.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Oregon Master's Music Admissions",
+                "url": "https://musicanddance.uoregon.edu/masters-music-admissions"
+              },
+              {
+                "label": "Oregon Graduate Music Auditions",
+                "url": "https://musicanddance.uoregon.edu/graduate-music-auditions"
+              },
+              {
+                "label": "Oregon 2026 Graduate Audition Requirements",
+                "url": "https://musicanddance.uoregon.edu/2026-grad-audition-requirements"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: University of Oregon online Application for Graduate Admission. Application fee: $70 for domestic applicants. Application fee: $90 USD for international applicants. Notes: the Master's Music Admissions page describes this as a non-refundable application fee. Notes: graduate music degrees at the University of Oregon do not require GRE scores.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Oregon Master's Music Admissions",
+                "url": "https://musicanddance.uoregon.edu/masters-music-admissions"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "For MM Performance, applicants submit either a live audition or a recording. Any student admitted on the basis of a recorded performance must perform a placement audition upon arrival on campus to begin studies. All piano performance applicants must submit a pre-screen audition recording by December 10 through the graduate application. The 2026 Graduate Music Auditions page lists audition dates as January 31, 2026; February 7, 2026; and February 21, 2026. The general graduate audition requirements say that most auditions are typically 15 to 30 minutes, memorization is encouraged and in some cases required, instrumentalists may have sight-reading, and applicants should be prepared to play all major and minor scales at any tempo for at least two octaves. UO strongly encourages in-person auditions, because they provide an opportunity to see campus and connect with faculty. If an in-person audition is not possible, UO can consider a recorded audition for admission consideration. Applicants choose audition type, in-person or recorded, on the application. If recorded audition is chosen, UO emails details on how to submit the recording. Recordings should be uploaded to the graduate application. For piano, acceptable recorded audition format is video only. Qualified pre-screened piano applicants are invited to conduct an in-person audition. Qualified pre-screen applicants who cannot audition in person may request a pre-recorded video audition. The live piano audition includes major and minor scales, arpeggios, and sight-reading.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Oregon Master's Music Admissions",
+                "url": "https://musicanddance.uoregon.edu/masters-music-admissions"
+              },
+              {
+                "label": "Oregon Graduate Music Auditions",
+                "url": "https://musicanddance.uoregon.edu/graduate-music-auditions"
+              },
+              {
+                "label": "Oregon 2026 Graduate Audition Requirements",
+                "url": "https://musicanddance.uoregon.edu/2026-grad-audition-requirements"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: All applicants wishing to audition for the MM, DMA, or Performance Certificate in piano must submit a preliminary pre-screening video. Prescreening repertoire: Pre-screen video should be submitted along with application. Prescreening repertoire: Deadline for pre-screen video is December 10. Prescreening repertoire: Include at least two works of different styles. Prescreening repertoire: Total length should be 15-30 minutes. Prescreening repertoire: Repertoire selection should demonstrate technical ability and lyricism. Prescreening repertoire: The pre-screen must be submitted as video; audio-only recordings will not be considered. Final audition repertoire: Qualified pre-screened applicants are invited to conduct an in-person audition. Final audition repertoire: Qualified pre-screen applicants who are unable to audition in person may request to submit a pre-recorded video audition. Final audition repertoire: Prepare at least thirty minutes of music for the Master's or Performance Certificate audition. Final audition repertoire: Repertoire should be memorized. Final audition repertoire: A typical audition should include works from four different periods. Final audition repertoire: Examples listed by UO are Bach prelude and fugue, partita, or toccata; a complete Beethoven or Mozart sonata; a major romantic work such as a Chopin ballade, scherzo, or sonata; and a work written after 1900 such as Debussy's Images or a Prokofiev sonata. Final audition repertoire: The live audition will also include major and minor scales, arpeggios, and sight-reading. Additional repertoire notes: Acceptable recorded audition format is video only.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Oregon 2026 Graduate Audition Requirements",
+                "url": "https://musicanddance.uoregon.edu/2026-grad-audition-requirements"
+              },
+              {
+                "label": "Oregon Master's Music Admissions",
+                "url": "https://musicanddance.uoregon.edu/masters-music-admissions"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 10, 2025: deadline for graduate admissions application for Fall 2026 admission. December 10, 2025: deadline for GE applications for Fall 2026. December 10, 2025: deadline to submit pre-screen recordings for programs that require pre-screening, including piano performance. January 23, 2026: deadline to submit recorded auditions and music technology portfolios, if applicable. January 31, 2026: graduate audition date. February 7, 2026: graduate audition date. February 21, 2026: graduate audition date. Mid-March 2026: School of Music and Dance issues admission decisions and most scholarship and GE offers. April 15, 2026: deadline to accept graduate admissions and financial aid offers.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Oregon Graduate Music Admissions",
+                "url": "https://musicanddance.uoregon.edu/admissions/graduate-music"
+              },
+              {
+                "label": "Oregon Graduate Music Auditions",
+                "url": "https://musicanddance.uoregon.edu/graduate-music-auditions"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT or iBT Home Edition 88 or 4.5. Minimum scores: IELTS or IELTS Online 7.0 Overall Band Score. Minimum scores: Duolingo English Test 120. Notes: a satisfactory proficiency in English is required for admission to the University of Oregon. Notes: applicants whose native or primary language is not English must provide proof of English language proficiency. Timing: test scores must be less than two years old when applying. Notes: applicants may apply with unofficial or self-reported scores, but must provide official scores to accept an admission offer. Notes: official scores must be sent directly to UO by the testing agency. Notes: UO does not accept English as a medium of instruction certificates. Notes: some graduate programs may require higher scores or require testing even if the applicant meets the UO minimum requirement; applicants should check with the prospective program. Notes: TOEFL institution code is 4846. Exemptions: a bachelor's degree or higher from a regionally accredited U.S. institution or equivalent institution in Australia, Canada except Quebec, Ireland, New Zealand, or the United Kingdom meets the UO English proficiency policy. Exemptions: in exceptional cases, a graduate program may petition the Division of Graduate Studies to waive the English Language Proficiency requirement; waivers must be submitted by the program, not the applicant, require strong credentials and clear evidence of English proficiency, may require additional English testing upon arrival, and final decisions are made by the Division of Graduate Studies.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Oregon Graduate English Language Proficiency",
+                "url": "https://graduatestudies.uoregon.edu/admissions/how-to-apply/english-proficiency"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
