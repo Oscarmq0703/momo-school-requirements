@@ -10142,6 +10142,10 @@
       "sourceStatus": "verified",
       "officialSources": [
         {
+          "label": "UMich SMTD Graduate Admissions",
+          "url": "https://smtd.umich.edu/admissions/graduate/"
+        },
+        {
           "label": "UMich SMTD Graduate Application",
           "url": "https://smtd.umich.edu/admissions/graduate/apply-grad/"
         },
@@ -10152,48 +10156,23 @@
         {
           "label": "UMich SMTD International Admissions",
           "url": "https://smtd.umich.edu/admissions/international-admissions/"
+        },
+        {
+          "label": "UMich Department of Piano",
+          "url": "https://smtd.umich.edu/department/piano/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "MM applicants submit the SMTD Artistic Profile. UMich SMTD states MM and Specialist applicants use the Artistic Profile rather than the Rackham application.",
+            "value": "Master of Music and Specialist in Music applicants submit the SMTD Artistic Profile. They do not submit the Rackham application; Rackham is used for DMA, PhD, MA, and MFA applicants. The prerequisite for the Master of Music is a bachelor's degree with a major in music from an accredited institution. SMTD expects an undergraduate GPA of at least 3.0, or at least 3.2 for the final two years. All graduate applicants fill out an Artistic Profile. Performance applicants upload a comprehensive repertoire list of works studied on the principal instrument or voice, including solo and chamber music, and a separate list of proposed audition repertoire. Applicants upload unofficial transcripts, headshot/resume, pre-screening materials where required, and three recommendations. SMTD no longer requires the GRE for any graduate programs.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UMich SMTD Graduate Application",
-                "url": "https://smtd.umich.edu/admissions/graduate/apply-grad/"
-              }
-            ]
-          },
-          "auditionRequirements": {
-            "value": "MM Piano auditions are offered in person and video-recorded formats; In-person auditions are preferred, but recorded auditions receive equal consideration; Pre-screening materials are due December 1; The pre-screening video must show the applicant's hands and profile at all times; Video-recorded audition submissions are due Thursday, February 12, 2026; Applicants who choose the February 12 recorded audition deadline will not have the option to switch to an in-person audition; Recorded audition applicants must submit a speaking video answering these prompts: state your name and degree(s), describe your goals for graduate study as a graduate pianist and your career, and describe what kinds of repertoire you are interested in pursuing in your next degree; YouTube links are not accepted; Original files or downloadable links from file-hosting platforms are acceptable, with Google Drive preferred.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "UMich Graduate Auditions / Interviews",
-                "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
-              }
-            ]
-          },
-          "repertoireRequirements": {
-            "value": "MM Piano Performance requirements: Pre-screening repertoire must be at least three contrasting pieces; Pre-screening repertoire may include movements of larger works; Final audition repertoire must include a major work of J. S. Bach, such as a prelude and fugue from the Well-Tempered Clavier, a suite, or a partita; Final audition repertoire must include a complete Classical sonata, for example one by Mozart, Haydn, Beethoven, or Schubert; Final audition repertoire must include a work of the applicant's choice from the 19th, 20th, or 21st centuries, excluding works considered Classical as in the sonata requirement; Final audition repertoire must include an etude of virtuosity; All works listed in the final audition requirements must be performed from memory and in their entirety for video-recorded auditions; Memorization is required; Audition repertoire may duplicate pre-screening repertoire; Applicants must submit a complete alphabetized repertoire list of all major works studied from Bach Inventions and higher in difficulty.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
-              {
-                "label": "UMich Graduate Auditions / Interviews",
-                "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
-              }
-            ]
-          },
-          "deadlines": {
-            "value": "Most graduate degree application materials are due December 1. MM Piano prescreening video is due December 1. Recorded auditions for invited Fall 2026 MM Piano applicants are due February 12, 2026.",
-            "status": "verified",
-            "retrievedAt": "2026-05-21",
-            "sources": [
+                "label": "UMich SMTD Graduate Admissions",
+                "url": "https://smtd.umich.edu/admissions/graduate/"
+              },
               {
                 "label": "UMich SMTD Graduate Application",
                 "url": "https://smtd.umich.edu/admissions/graduate/apply-grad/"
@@ -10204,10 +10183,55 @@
               }
             ]
           },
-          "englishScores": {
-            "value": "For master's applicants: TOEFL iBT 88, IELTS 6.5, ECPE 650, or MET 56. Scores must be submitted by the application deadline; SMTD does not accept Duolingo.",
+          "auditionRequirements": {
+            "value": "Piano Performance was updated by SMTD on August 25, 2025. Auditions for MM in Piano Performance, MM in Piano Chamber Music, and SM in Piano Performance are offered in both in-person and video-recorded formats. In-person auditions are always preferable for Piano Performance, but recorded auditions receive equal consideration for admission and scholarship consideration. All applicants to MM in Chamber Music (Piano), MM in Piano Performance, and SM in Piano Performance must complete the online application and upload an unedited prescreening video by December 1. Applicants granted an in-person audition may choose to submit a recording instead of a live audition. The recorded format is intended for applicants for whom travel to Michigan would be impossible or a financial or personal hardship. Applicants choosing the February 12 recorded-audition deadline cannot switch to an in-person audition, because recorded auditions are reviewed at the same time as in-person auditions. All works listed in the final audition requirements must be memorized and performed in their entirety for recorded auditions. The video must show the applicant's hands and profile at all times. Recorded audition applicants must also submit a speaking video answering the required piano prompts. Admission decisions after auditions are generally made within four to five weeks, and all auditionees are considered for merit scholarships, with scholarship decisions sent by early April.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UMich Graduate Auditions / Interviews",
+                "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: All applicants to MM in Chamber Music (Piano), MM in Piano Performance, and SM in Piano Performance must upload an unedited video recording by December 1. Prescreening repertoire: The video must include at least three contrasting pieces. Prescreening repertoire: Movements of larger works are acceptable. Prescreening repertoire: The recording must show the applicant's hands and profile at all times. Final audition repertoire: Prepare a major work of J. S. Bach, such as a prelude and fugue from the Well-Tempered Clavier, a suite, or a partita. Final audition repertoire: Prepare a complete Classical sonata, for example one by Mozart, Haydn, Beethoven, or Schubert. Final audition repertoire: Prepare a work of the applicant's choice from the 19th, 20th, or 21st centuries, excluding works considered Classical as in the sonata requirement; Schubert may be considered either Classical or Romantic. Final audition repertoire: Prepare an etude of virtuosity. Additional repertoire notes: Recorded audition applicants must perform all works listed in the final audition requirements from memory and in their entirety. Additional repertoire notes: Recorded audition videos must show the applicant's hands and profile at all times. Additional repertoire notes: Audition repertoire may duplicate prescreening repertoire. Additional repertoire notes: Performance applicants must upload a comprehensive repertoire list of works studied on the principal instrument or voice, including solo and chamber music, and a separate list of proposed audition repertoire. Additional repertoire notes: Recorded audition only: submit a speaking video addressing these prompts: state your name and the degree or degrees for which you are applying; describe your goals for graduate study as a graduate pianist and your career; and describe what kinds of repertoire you are interested in pursuing in your next degree.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UMich Graduate Auditions / Interviews",
+                "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: application deadline for MM in Performance and SM in Performance. December 1: most graduate degree application materials are due. December 1: MM Piano Performance prescreening video deadline. December 14: SMTD must have an unofficial English proficiency score report no later than this date if the applicant could not submit it by December 1. February 12, 2026: recorded audition submission deadline for invited Piano Performance applicants. March 1: international students must complete the audition or interview on or before this date to be eligible for SMTD merit scholarship consideration. Late March: admissions decisions are sent to recipients. Early April: merit scholarship decisions are sent to applicants. April 15: non-refundable enrollment deposit deadline.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UMich SMTD Graduate Admissions",
+                "url": "https://smtd.umich.edu/admissions/graduate/"
+              },
+              {
+                "label": "UMich SMTD Graduate Application",
+                "url": "https://smtd.umich.edu/admissions/graduate/apply-grad/"
+              },
+              {
+                "label": "UMich Graduate Auditions / Interviews",
+                "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
+              },
+              {
+                "label": "UMich SMTD International Admissions",
+                "url": "https://smtd.umich.edu/admissions/international-admissions/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT, including Home Edition, 88 for master's degree and specialist degree applicants. Minimum scores: IELTS 6.5 for master's degree and specialist degree applicants. Minimum scores: ECPE 650 for all levels of study. Minimum scores: MET 56 for master's degree and specialist degree applicants. Notes: international applicants whose native language is not English must submit a current score, no more than two years old, from TOEFL iBT, IELTS, ECPE, or MET. Notes: the score must be submitted with the application and admission materials due by the application deadline, December 1 for all undergraduate and most graduate programs. Notes: applicants must provide unofficial test results as part of the application; failure to provide scores that meet or exceed the required scores will result in cancellation of the application. Notes: if an applicant cannot take the TOEFL before the application deadline, SMTD must have an unofficial TOEFL, IELTS, ECPE, or MET score report no later than December 14. Notes: enrolling students should have results reported directly by the testing agency to the University of Michigan. Notes: at-home versions of TOEFL or IELTS are allowed. Notes: SMTD does not accept Duolingo exams. Notes: SMTD does not accept TOEFL MyBest superscores. Exemptions: International Master's, Specialist, and Doctoral applicants may qualify for a waiver if they are a native English speaker, completed all undergraduate education and earned a bachelor's degree from an institution where the exclusive language of instruction is English or in a country where English is official, national, or most commonly spoken, or are a current SMTD undergraduate applying for a master's degree. Exemptions: applicants who completed all graduate education of two years or more in English and received a degree may request a waiver only if they also provide a previous TOEFL or IELTS from the past two years close to SMTD requirements; master's and specialist applicants under this pathway must provide TOEFL 82 or IELTS 6.0 or higher. Program note: waiver requests must be submitted before the program application deadline and approval is not guaranteed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UMich SMTD International Admissions",
@@ -10216,9 +10240,9 @@
             ]
           },
           "applicationFee": {
-            "value": "MM / Specialist Artistic Profile fee: $120. Late fee: $25. Fees are non-refundable.",
+            "value": "Artistic Profile fee: $120 for Master of Music and Specialist in Music applications. Late fee: $25. Notes: all fees are non-refundable and payable by credit card. Notes: currently enrolled SMTD students are assessed a reduced Artistic Profile fee. Notes: fee waivers are available for students with financial need.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UMich SMTD Graduate Application",
@@ -10229,9 +10253,9 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "MM applicants submit the SMTD Artistic Profile. UMich SMTD lists MM in Collaborative Piano as a graduate degree in the Department of Piano.",
+            "value": "Master of Music and Specialist in Music applicants submit the SMTD Artistic Profile. They do not submit the Rackham application; Rackham is used for DMA, PhD, MA, and MFA applicants. The Department of Piano lists MM in Collaborative Piano as a graduate Master of Music degree. Applicants upload an Artistic Profile, unofficial transcripts, headshot/resume, three recommendations, a comprehensive repertoire list, and a separate proposed audition repertoire list. MM Collaborative Piano applicants also upload the required Academic Statement of Purpose and Personal Statement.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UMich SMTD Graduate Application",
@@ -10240,14 +10264,22 @@
               {
                 "label": "UMich Department of Piano",
                 "url": "https://smtd.umich.edu/department/piano/"
+              },
+              {
+                "label": "UMich Graduate Auditions / Interviews",
+                "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "MM Collaborative Piano auditions are offered in person and online; in-person auditions are preferred but online auditions receive equal consideration. Applicants who advance meet faculty for live playing, sight-reading, brief German/Italian/French diction exams, and an interview.",
+            "value": "Collaborative Piano was updated by SMTD on August 25, 2025. MM Collaborative Piano applicants upload prescreening materials to the SMTD Artistic Profile. Prescreening recordings must be original files; no links from YouTube, Google Drive, or any other file-hosting services are accepted. Prescreening repertoire does not need to be memorized. MM Collaborative Piano auditions/interviews are offered in both in-person and online formats. In-person auditions are preferable, but online auditions receive equal consideration for admission and scholarship consideration. Applicants who need to schedule an online audition should contact the Collaborative Piano faculty contact listed by SMTD. Students who advance meet in person or online with the collaborative piano faculty for live playing, sight-reading, brief German, Italian, and French language diction exams, and a review of training, current work, and future goals. Final audition repertoire does not need to be memorized. Applicants may bring their own vocalists and instrumentalists or may request in the application to be matched with collaborative partners from SMTD for in-person auditions.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "UMich Department of Piano",
+                "url": "https://smtd.umich.edu/department/piano/"
+              },
               {
                 "label": "UMich Graduate Auditions / Interviews",
                 "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
@@ -10255,9 +10287,9 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "MM Collaborative Piano prescreening: unedited videos totaling 30 minutes of works for voice/instrument(s) and piano, with 15 minutes for voice and piano and 15 minutes for instrument(s) and piano, plus recommended recent collaborative videos, repertoire lists, proposed audition program, and speaking video. Audition repertoire includes one listed sonata movement, four listed art songs, one listed song by a specified composer, and one solo piece under 10 minutes; memorization is not required.",
+            "value": "Prescreening repertoire: Upload four unedited video recordings selected from the repertoire listed by SMTD. Prescreening repertoire: No links from YouTube, Google Drive, or any other file-hosting services are accepted; only original files are accepted. Prescreening repertoire: The repertoire does not need to be memorized. Prescreening repertoire: Choose one of the following instrumental options: Brahms, any fast movement of the violin, clarinet, or cello sonatas except Op. 38, 1st movement; Franck, Violin Sonata in A, second or fourth movement; Beethoven, any fast movement of the violin or cello sonatas; Fauré, Violin Sonata in A, first, second, or fourth movements. Prescreening repertoire: Choose two of the following songs in original keys: Debussy, Il pleure dans mon coeur, Green, or C'est l'extase; Strauss, Allerseelen; Brahms, Meine Liebe ist grün; Schubert, Liebesbotschaft; Fauré, Green, En sourdine, or Mandoline; Schumann, Du Ring an meinem Finger; Barber, St. Ita's Vision. Prescreening repertoire: If performing with a partner is not possible, the applicant should play and sing at least one of the songs. Prescreening repertoire: Include one song, instrumental work, or solo work by a composer who has been traditionally underrepresented by virtue of gender, race, ethnicity, or cultural heritage. Prescreening repertoire: Recommended: include one to three additional videos of other collaborative playing from the last 18 months; recordings of past recitals or performances are encouraged, and examples of coaching, teaching, or conducting work are welcome. Prescreening repertoire: Submit a comprehensive repertoire list including solo piano, voice and piano, instrument(s) and piano, and operatic material. Prescreening repertoire: Submit a speaking video answering these questions in a casual format: Why study collaborative piano? What experience in collaborating do you have? How and where do you see yourself 5 years from now? 10 years from now? Final audition repertoire: Prepare repertoire for the MM audition/interview in person or online; this repertoire does not need to be memorized. Final audition repertoire: Choose one of the following instrumental options: Brahms, any fast movement of the violin, clarinet, or cello sonatas except Op. 38, 1st movement; Franck, Violin Sonata in A, second or fourth movement; Beethoven, any fast movement of the violin or cello sonatas; Fauré, Violin Sonata in A, first, second, or fourth movements. Final audition repertoire: Choose four of the following songs in original keys: Barber, St. Ita's Vision; Brahms, Meine Liebe ist grün or Botschaft; Fauré, Green or Mandoline; Schubert, Liebesbotschaft; Schumann, Du Ring an meinem Finger; Strauss, Allerseelen. Final audition repertoire: Choose one of the following songs in original keys: Jaime León, Pequeña, Pequeñita; Florence Price, The Glory of the Day was in Her Face; Fanny Mendelssohn-Hensel, Abendbild. Final audition repertoire: Prepare one solo piece under 10 minutes, either a movement of a larger work or a standalone piece. Additional repertoire notes: Students who advance meet faculty for live playing, sight-reading, brief German, Italian, and French language diction exams, and a review of training, current work, and future goals. Additional repertoire notes: Applicants may bring their own vocalists and instrumentalists or may request to be matched with collaborative partners from SMTD for in-person auditions.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UMich Graduate Auditions / Interviews",
@@ -10266,10 +10298,14 @@
             ]
           },
           "deadlines": {
-            "value": "Most graduate degree application materials are due December 1. Collaborative Piano prescreening materials are uploaded to the SMTD Artistic Profile by the application deadline.",
+            "value": "December 1: application deadline for MM in Performance and SM in Performance. December 1: most graduate degree application materials are due. December 1: MM Collaborative Piano Artistic Profile and prescreening-material deadline. December 14: SMTD must have an unofficial English proficiency score report no later than this date if the applicant could not submit it by December 1. March 1: international students must complete the audition or interview on or before this date to be eligible for SMTD merit scholarship consideration. Late March: admissions decisions are sent to recipients. Early April: merit scholarship decisions are sent to applicants. April 15: non-refundable enrollment deposit deadline.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "UMich SMTD Graduate Admissions",
+                "url": "https://smtd.umich.edu/admissions/graduate/"
+              },
               {
                 "label": "UMich SMTD Graduate Application",
                 "url": "https://smtd.umich.edu/admissions/graduate/apply-grad/"
@@ -10277,13 +10313,17 @@
               {
                 "label": "UMich Graduate Auditions / Interviews",
                 "url": "https://smtd.umich.edu/admissions/graduate/auditions-interviews/"
+              },
+              {
+                "label": "UMich SMTD International Admissions",
+                "url": "https://smtd.umich.edu/admissions/international-admissions/"
               }
             ]
           },
           "englishScores": {
-            "value": "For master's applicants: TOEFL iBT 88, IELTS 6.5, ECPE 650, or MET 56. Scores must be submitted by the application deadline; SMTD does not accept Duolingo.",
+            "value": "Minimum scores: TOEFL iBT, including Home Edition, 88 for master's degree and specialist degree applicants. Minimum scores: IELTS 6.5 for master's degree and specialist degree applicants. Minimum scores: ECPE 650 for all levels of study. Minimum scores: MET 56 for master's degree and specialist degree applicants. Notes: international applicants whose native language is not English must submit a current score, no more than two years old, from TOEFL iBT, IELTS, ECPE, or MET. Notes: the score must be submitted with the application and admission materials due by the application deadline, December 1 for all undergraduate and most graduate programs. Notes: applicants must provide unofficial test results as part of the application; failure to provide scores that meet or exceed the required scores will result in cancellation of the application. Notes: if an applicant cannot take the TOEFL before the application deadline, SMTD must have an unofficial TOEFL, IELTS, ECPE, or MET score report no later than December 14. Notes: enrolling students should have results reported directly by the testing agency to the University of Michigan. Notes: at-home versions of TOEFL or IELTS are allowed. Notes: SMTD does not accept Duolingo exams. Notes: SMTD does not accept TOEFL MyBest superscores. Exemptions: International Master's, Specialist, and Doctoral applicants may qualify for a waiver if they are a native English speaker, completed all undergraduate education and earned a bachelor's degree from an institution where the exclusive language of instruction is English or in a country where English is official, national, or most commonly spoken, or are a current SMTD undergraduate applying for a master's degree. Exemptions: applicants who completed all graduate education of two years or more in English and received a degree may request a waiver only if they also provide a previous TOEFL or IELTS from the past two years close to SMTD requirements; master's and specialist applicants under this pathway must provide TOEFL 82 or IELTS 6.0 or higher. Program note: waiver requests must be submitted before the program application deadline and approval is not guaranteed.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UMich SMTD International Admissions",
@@ -10292,9 +10332,9 @@
             ]
           },
           "applicationFee": {
-            "value": "MM / Specialist Artistic Profile fee: $120. Late fee: $25. Fees are non-refundable.",
+            "value": "Artistic Profile fee: $120 for Master of Music and Specialist in Music applications. Late fee: $25. Notes: all fees are non-refundable and payable by credit card. Notes: currently enrolled SMTD students are assessed a reduced Artistic Profile fee. Notes: fee waivers are available for students with financial need.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UMich SMTD Graduate Application",
@@ -10303,7 +10343,11 @@
             ]
           }
         }
-      }
+      },
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ]
     },
     {
       "id": "university-of-minnesota",
