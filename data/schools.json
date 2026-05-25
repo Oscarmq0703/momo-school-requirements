@@ -6892,39 +6892,55 @@
       ],
       "officialSources": [
         {
+          "label": "OU School of Music Graduate Degrees & Admissions",
+          "url": "https://www.ou.edu/finearts/music/apply/graduate"
+        },
+        {
+          "label": "OU Master of Music in Piano",
+          "url": "https://www.ou.edu/finearts/music/apply/graduate/mm/piano"
+        },
+        {
+          "label": "OU Graduate Piano Auditions",
+          "url": "https://www.ou.edu/finearts/music/areas-ensembles/piano-performance/auditions/graduate"
+        },
+        {
           "label": "OU Graduate College Apply",
           "url": "https://www.ou.edu/gradcollege/apply"
         },
         {
-          "label": "OU Graduate International Applicants",
-          "url": "https://www.ou.edu/gradcollege/apply/international-applicants"
+          "label": "OU Before You Apply",
+          "url": "https://www.ou.edu/gradcollege/apply/before-you-apply"
         },
         {
-          "label": "OU Graduate Piano Auditions",
-          "url": "https://www.ou.edu/finearts/music/areas-ensembles/piano-performance/auditions/graduate.html"
+          "label": "OU International Applicants",
+          "url": "https://www.ou.edu/gradcollege/apply/international-applicants"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through the University of Oklahoma Graduate College application and complete School of Music audition requirements for the piano area.",
+            "value": "Apply through the University of Oklahoma Graduate College online application. The School of Music Graduate Degrees & Admissions page states that prospective students must apply to the OU Graduate College online and that the procedure and required application materials vary by degree. The current Master of Music list includes Piano with concentrations in Piano Performance and Piano Performance and Pedagogy; Collaborative Piano is not listed as a separate OU Master of Music degree or concentration on the current School of Music graduate degrees page. For the Master of Music in Piano, applicants submit the online application and all degree-specific materials. Piano faculty review the application materials, and candidates are invited to audition based on the quality of preliminary recordings, professional materials if applicable, teaching credentials, and completion of the application. Required application materials for all graduate music degrees on the MM Piano page include resume, statement of purpose, and three letters of reference. The statement of purpose should be approximately 2-3 pages, double-spaced, 12-point font, with 1-inch margins, and should address the prompts listed by OU. The reference letters should include at least one from a studio professor, ensemble conductor, chamber coach, or another person with considerable knowledge of the applicant's abilities as a performer or composer, and at least one from a person who can speak to the applicant's abilities as a scholar of music.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "OU School of Music Graduate Degrees & Admissions",
+                "url": "https://www.ou.edu/finearts/music/apply/graduate"
+              },
+              {
+                "label": "OU Master of Music in Piano",
+                "url": "https://www.ou.edu/finearts/music/apply/graduate/mm/piano"
+              },
               {
                 "label": "OU Graduate College Apply",
                 "url": "https://www.ou.edu/gradcollege/apply"
-              },
-              {
-                "label": "OU Graduate Piano Auditions",
-                "url": "https://www.ou.edu/finearts/music/areas-ensembles/piano-performance/auditions/graduate.html"
               }
             ]
           },
           "applicationFee": {
-            "value": "Graduate College application fee is $50 for U.S. citizens and permanent residents and $100 for international applicants; the Graduate College states fee waivers are not currently available.",
+            "value": "Application portal: OU Graduate College online application. Application fee: $50 for U.S. citizen and U.S. permanent resident applicants. Application fee: $100 for international applicants. Notes: the OU Graduate College Apply page states that the application fee is required for Norman and Tulsa campus applicants and that the OU Graduate College does not offer application fee waivers. Notes: applicants may check with academic units to see whether the graduate program offers application fee waivers, and information about availability is usually found on the graduate program website.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "OU Graduate College Apply",
@@ -6933,45 +6949,61 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Graduate piano applicants must audition according to the School of Music piano-area requirements; departmental deadlines should be checked against the Graduate College application deadline; applicants should be prepared for a performance audition and any faculty review steps listed by the piano area.",
+            "value": "The requirements for piano prescreening materials and auditions depend on the degree. For the Master of Music in Piano, the members of the piano faculty review all application materials. Candidates are invited to audition based on the quality of preliminary recordings, professional materials if applicable, teaching credentials, and completion of the application. Individuals invited to audition are contacted by email to schedule a live, on-campus final audition. Prescreening materials must be submitted to the online graduate application system. Prescreening application materials for MM Piano include a repertoire list of significant solo and chamber piano repertoire, including works rehearsed or studied even if not performed in public recitals; copies of program content for all solo recitals planned or performed, as well as solo piano performances; and a video recording of a memorized solo performance of at least 30 minutes. Audio or video files or links to online recordings may be submitted under Digital Portfolio > Upload Media. Applicants to MM Piano Performance and Pedagogy are encouraged to include an online link of their teaching if available, including one or several teaching segments of private lesson or group class. Applicants invited to audition prepare a live, on-campus final audition. The in-person audition may include repertoire submitted in the prescreening video. Applicants will be asked to sight read during the audition. The graduate piano audition page states that, following review of prescreening and application materials, an invitation for an audition will be sent and a date and time will be arranged from the listed audition dates.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
+                "label": "OU Master of Music in Piano",
+                "url": "https://www.ou.edu/finearts/music/apply/graduate/mm/piano"
+              },
+              {
                 "label": "OU Graduate Piano Auditions",
-                "url": "https://www.ou.edu/finearts/music/areas-ensembles/piano-performance/auditions/graduate.html"
+                "url": "https://www.ou.edu/finearts/music/areas-ensembles/piano-performance/auditions/graduate"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Prepare four contrasting pieces representing four historic style periods; sight-reading may be requested.",
+            "value": "Prescreening repertoire: Submit a video recording of a memorized solo performance of at least 30 minutes. Prescreening repertoire: The video must include works of at least three composers, each of a contrasting style or era. Prescreening repertoire: Applicants are encouraged to highlight personal interests by including works of underrepresented composers, groups, cultures, and styles. Final audition repertoire: If invited to audition, prepare 30 minutes of music to perform from memory. Final audition repertoire: The program must include works of at least three composers, each of a contrasting style or era. Final audition repertoire: Applicants are encouraged to highlight personal interests by including works of underrepresented composers, groups, cultures, and styles. Additional repertoire notes: The in-person audition may include repertoire submitted in the prescreening video. Additional repertoire notes: Applicants will be asked to sight read during the audition. Additional repertoire notes: In addition to the performance video, prescreening application materials include a repertoire list of significant solo and chamber piano repertoire, including works rehearsed or studied even if not performed publicly, and copies of program content for all solo recitals planned or performed, as well as solo piano performances.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "OU Graduate Piano Auditions",
-                "url": "https://www.ou.edu/finearts/music/areas-ensembles/piano-performance/auditions/graduate.html"
+                "label": "OU Master of Music in Piano",
+                "url": "https://www.ou.edu/finearts/music/apply/graduate/mm/piano"
               }
             ]
           },
           "deadlines": {
-            "value": "Applicants must submit before both the Graduate College deadline that applies to their citizenship/entry term and the School of Music academic-unit deadline; the public Graduate College page directs applicants to check the academic unit for any stricter deadline.",
+            "value": "December 1: School of Music application deadline to receive full consideration for admission and graduate assistantships. Program note: the School of Music cannot guarantee an audition, interview, admission, or graduate assistantship if the application is received after the deadline. January 31, 2026: piano audition date for Master's or doctoral applicants only. February 7, 2026: piano audition date for all degree programs. February 14, 2026: piano audition date for Master's or doctoral applicants only and the last day for doctoral applicants. February 21, 2026: piano audition date for Master's or undergraduate applicants only and the last day for Master's applicants. February 28, 2026: piano audition date for undergraduate applicants only. Program note: OU Graduate College's general deadline guidance says application deadlines vary by academic program and that applicants should submit by the academic unit's deadline; if an academic program has an earlier deadline than the general international dates, the academic unit deadline takes precedence. Program note: the general deadlines for international students residing outside the U.S. are April 1 for Fall, September 1 for Spring, and February 1 for Summer, but the School of Music's December 1 deadline is the relevant earlier deadline for full consideration in MM Piano.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "OU Graduate College Apply",
-                "url": "https://www.ou.edu/gradcollege/apply"
+                "label": "OU Master of Music in Piano",
+                "url": "https://www.ou.edu/finearts/music/apply/graduate/mm/piano"
+              },
+              {
+                "label": "OU Graduate Piano Auditions",
+                "url": "https://www.ou.edu/finearts/music/areas-ensembles/piano-performance/auditions/graduate"
+              },
+              {
+                "label": "OU Before You Apply",
+                "url": "https://www.ou.edu/gradcollege/apply/before-you-apply"
+              },
+              {
+                "label": "OU International Applicants",
+                "url": "https://www.ou.edu/gradcollege/apply/international-applicants"
               }
             ]
           },
           "englishScores": {
-            "value": "OU accepts TOEFL, IELTS, PTE Academic, and Duolingo English Test for international graduate applicants; posted minimums include IELTS 6.5 overall with 6.0 subscores, PTE Academic 60 overall with 55 subscores, and Duolingo 130 overall with 115 subscores; applicants should verify the TOEFL iBT score scale on the official page because OU has updated language for the 2026 TOEFL score change.",
+            "value": "Minimum scores: TOEFL iBT old scoring system requires composite 79 or higher and minimum subscore 20. Minimum scores: TOEFL iBT new scoring system for TOEFL tests taken after January 21, 2026 requires composite 4.5 or higher and minimum subscore 4.0. Minimum scores: IELTS Academic requires composite 6.5 or higher and minimum subscore 6.0. Minimum scores: Duolingo English Test requires composite 130 or higher and minimum subscore 115 across the reading, listening, speaking, and writing subsections. Minimum scores: PTE Academic requires composite 60 or higher and minimum subscore 55. Notes: MyBest TOEFL scores are not accepted; applicants must earn the required TOEFL scores in a single test instance. Notes: all TOEFL tests taken after January 21, 2026 will be scored with the new scoring system and must meet the new system minimums. Notes: OU does not currently accept TOEFL Essentials. Notes: IELTS One Skill Retake scores are not accepted; applicants must earn the required IELTS scores in a single test instance. Notes: Duolingo English Test is accepted beginning with the Summer 2026 semester and is not accepted for admission in the Spring 2026 semester. Timing: applicants should upload test-taker score reports with the application and request official scores be sent directly to OU Graduate Admissions; admission decisions cannot be finalized until official test scores are sent. Timing: test scores expire after two years; scores over two years old by the beginning of the term in which the applicant wishes to start are not accepted. Notes: TOEFL institution code for OU is 6879. Exemptions: applicants who are not from OU-exempted English-speaking countries must demonstrate English proficiency before admission. Exemptions: English proficiency may also be demonstrated through 24 credit hours completed at an accredited college or university in the U.S.; a bachelor's degree or higher from an accredited university in the U.S. or one of the OU-exempted English-speaking countries; successful completion of the OU Track intensive English language program at OU's Center for English as a Second Language; or successful completion of the Graduate English Pathway Program. Notes: OU's page states that some graduate programs require higher English proficiency scores than the University minimums; Piano is not listed among the programs with higher-than-minimum scores on the reviewed page.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "OU Graduate International Applicants",
+                "label": "OU International Applicants",
                 "url": "https://www.ou.edu/gradcollege/apply/international-applicants"
               }
             ]
