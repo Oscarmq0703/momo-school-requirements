@@ -1,0 +1,151 @@
+{
+  "schools": [
+    {
+      "id": "university-of-washington",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "UW School of Music Graduate Admissions",
+          "url": "https://music.washington.edu/graduate-admissions"
+        },
+        {
+          "label": "UW Graduate Applications: Instrumental and Vocal Performance, Jazz and Improvised Music Degrees",
+          "url": "https://music.washington.edu/graduate-applications-instrumental-and-vocal-performance-jazz-and-improvised-music-degrees"
+        },
+        {
+          "label": "UW Suggested Admissions Audition Repertoire",
+          "url": "https://music.washington.edu/suggested-admissions-audition-repertoire"
+        },
+        {
+          "label": "UW Undergraduate & Graduate Auditions",
+          "url": "https://music.washington.edu/undergraduate-graduate-auditions"
+        },
+        {
+          "label": "UW Audition Sign-ups",
+          "url": "https://music.washington.edu/audition-sign-ups"
+        },
+        {
+          "label": "UW Master of Music",
+          "url": "https://music.washington.edu/master-music"
+        },
+        {
+          "label": "UW Graduate School Requirements",
+          "url": "https://grad.uw.edu/prospective-students/how-to-apply/requirements/"
+        },
+        {
+          "label": "UW Graduate School Apply Now",
+          "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the University of Washington Graduate School online application for the School of Music. The UW Master of Music page lists Piano Performance as an MM area; it does not list Collaborative Piano as an MM degree area. The School of Music graduate applications page for Instrumental and Vocal Performance, Jazz and Improvised Music degrees states that all application materials must be received by the deadline and incomplete applications as of that date will not be considered. The application opens September 1, and the School of Music does not accept applications for summer, winter, or spring quarter. Step 1 application materials include the Graduate Admissions Application, three recommendation letters from people familiar with the applicant's academic and/or professional work, unofficial transcripts from all previously attended colleges or universities, statement of purpose explaining how graduate study in the particular program will contribute to professional and/or personal goals, and optional resume of relevant experience for Graduate Assistantship consideration. Step 2 is the audition; after submitting the application, applicants request an audition online.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UW School of Music Graduate Admissions",
+                "url": "https://music.washington.edu/graduate-admissions"
+              },
+              {
+                "label": "UW Graduate Applications: Instrumental and Vocal Performance, Jazz and Improvised Music Degrees",
+                "url": "https://music.washington.edu/graduate-applications-instrumental-and-vocal-performance-jazz-and-improvised-music-degrees"
+              },
+              {
+                "label": "UW Master of Music",
+                "url": "https://music.washington.edu/master-music"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: University of Washington Graduate School online application. Application fee: $90. Application fee for Graduate Non-Matriculated applications: $75. Notes: each submitted application requires a separate fee. Notes: select applicants who can demonstrate need or are enrolled in specific programs may request an application fee waiver. Notes: the fee is nonrefundable and can be paid only online using a MasterCard or Visa credit/debit card. Notes: the application fee is subject to change without notice.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UW Graduate School Apply Now",
+                "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Piano applicants are required to complete a pre-screening to be considered for a live audition. The graduate application page says piano applicants should submit prescreening materials by December 1, 2026, and the submission form will be available starting September 1, 2026. Once the application has been submitted, applicants request an audition online. Entrance auditions are limited in length to 10 to 15 minutes. All auditions are for entrance in Fall Quarter. New student audition sign-ups for Fall 2027 entrance open November 15, 2026. Instrumental, Vocal, and Music Education entrance auditions are scheduled for January 23, 2027 and February 6, 2027; the February 6 date is for all areas except bassoon. Video auditions are available if an applicant is unable to attend a live audition with School of Music faculty. Repertoire requirements for recorded auditions are the same as for live auditions. Video audition uploads are accepted between November 1, 2026 and January 31, 2027, and uploads are not accepted prior to November 1. Video auditions are not accepted for current UW students auditioning in September.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UW Graduate Applications: Instrumental and Vocal Performance, Jazz and Improvised Music Degrees",
+                "url": "https://music.washington.edu/graduate-applications-instrumental-and-vocal-performance-jazz-and-improvised-music-degrees"
+              },
+              {
+                "label": "UW Undergraduate & Graduate Auditions",
+                "url": "https://music.washington.edu/undergraduate-graduate-auditions"
+              },
+              {
+                "label": "UW Audition Sign-ups",
+                "url": "https://music.washington.edu/audition-sign-ups"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Graduate applicants are required to complete a pre-screening to be considered for a live audition. Prescreening repertoire: Candidates should submit the first movement of a Classical Period Sonata and a contrasting work of period and style by December 1, 2026. Prescreening repertoire: The pre-screening submission form will open on September 1, 2026. Prescreening repertoire: Applicants will be notified of their pre-screening results no later than December 20, 2026. Final audition repertoire: Those invited to audition must prepare all repertoire listed for the intended program. Final audition repertoire: Graduate MM applicants must prepare an entire sonata by Beethoven, Mozart, Haydn, Clementi, or Schubert. Final audition repertoire: Graduate MM applicants must prepare a Bach Prelude and Fugue. Final audition repertoire: Graduate MM applicants must prepare a Romantic or Contemporary work, preferably of a virtuosic nature. Additional repertoire notes: Pieces must be memorized. Additional repertoire notes: Concerto literature is not acceptable. Additional repertoire notes: all students auditioning for any piano degree or non-major private lessons with faculty must memorize audition pieces, though certain exceptions may be made for contemporary pieces. Additional repertoire notes: entrance auditions are limited to 10 to 15 minutes, so applicants may not perform every prepared work in full.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UW Suggested Admissions Audition Repertoire",
+                "url": "https://music.washington.edu/suggested-admissions-audition-repertoire"
+              },
+              {
+                "label": "UW Undergraduate & Graduate Auditions",
+                "url": "https://music.washington.edu/undergraduate-graduate-auditions"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "September 1, 2026: School of Music graduate application opens for the relevant admission cycle. September 1, 2026: piano pre-screening submission form opens. November 1, 2026: video audition uploads open. November 15, 2026: new student audition sign-ups for Fall 2027 entrance open. December 1: online application deadline for Autumn Quarter School of Music admission. December 1, 2026: piano pre-screening materials due. December 20, 2026: piano applicants will be notified of pre-screening results no later than this date. January 23, 2027: Instrumental, Vocal, and Music Education entrance audition date. January 31, 2027: video audition upload period closes. February 6, 2027: Instrumental, Vocal, and Music Education entrance audition date for all areas except bassoon. Program note: the School of Music does not accept applications for summer, winter, or spring quarter; all auditions are for Fall Quarter entrance. Program note: the Audition Sign-ups page currently labels Fall 2027 entrance and gives January 23 and February 6, 2027 audition dates; because one close-date line appears to contain an old year, applicants should use the posted audition-date year and confirm sign-up closing dates in the portal.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UW School of Music Graduate Admissions",
+                "url": "https://music.washington.edu/graduate-admissions"
+              },
+              {
+                "label": "UW Graduate Applications: Instrumental and Vocal Performance, Jazz and Improvised Music Degrees",
+                "url": "https://music.washington.edu/graduate-applications-instrumental-and-vocal-performance-jazz-and-improvised-music-degrees"
+              },
+              {
+                "label": "UW Suggested Admissions Audition Repertoire",
+                "url": "https://music.washington.edu/suggested-admissions-audition-repertoire"
+              },
+              {
+                "label": "UW Undergraduate & Graduate Auditions",
+                "url": "https://music.washington.edu/undergraduate-graduate-auditions"
+              },
+              {
+                "label": "UW Audition Sign-ups",
+                "url": "https://music.washington.edu/audition-sign-ups"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT new score scale effective January 21, 2026 requires 4.0. Minimum scores: TOEFL iBT old score scale requires 80. Minimum scores: TOEFL MyBest requires 80. Minimum scores: Duolingo requires 110. Minimum scores: IELTS requires 6.5. Recommended scores: TOEFL iBT new score scale 4.5 or higher. Recommended scores: TOEFL iBT old score scale 92 or higher. Recommended scores: TOEFL MyBest 92 or higher. Recommended scores: Duolingo 125 or higher. Recommended scores: IELTS 7.0 or higher. Notes: demonstration of English proficiency is required of all non-native English speakers. Notes: applicants who do not meet the minimum required score will not be considered for admission, and UW does not offer conditional admission. Notes: admitted students may be required to take additional English classes during graduate studies. Notes: some graduate programs may require a higher score beyond the minimum and some programs may not accept MyBest scores, so applicants should check with the graduate program. Timing: ETS introduced the new TOEFL iBT 0-6 scoring scale for tests taken on or after January 21, 2026; scores from the previous 0-120 scale remain valid for two years after the test date. Exemptions: additional ways to demonstrate English proficiency are governed by Graduate School Policy 3.2.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UW Graduate School Requirements",
+                "url": "https://grad.uw.edu/prospective-students/how-to-apply/requirements/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
