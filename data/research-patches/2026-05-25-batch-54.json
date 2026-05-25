@@ -1,0 +1,200 @@
+{
+  "schools": [
+    {
+      "id": "university-of-colorado-boulder",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "CU Boulder Graduate Auditions",
+          "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/auditions"
+        },
+        {
+          "label": "CU Boulder Keyboard Audition Information",
+          "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+        },
+        {
+          "label": "CU Boulder College of Music International Applications",
+          "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/international-applications"
+        },
+        {
+          "label": "CU Boulder Graduate Admissions Catalog",
+          "url": "https://catalog.colorado.edu/graduate/admissions/"
+        },
+        {
+          "label": "CU Boulder Graduate School English Proficiency Requirements",
+          "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Graduate applicants apply through the University of Colorado Boulder Graduate School application. The College of Music graduate auditions page says all applicants must apply to the University of Colorado Graduate School. The Keyboard page states that graduate students need only complete the graduate application. All prescreening and recorded audition materials must be uploaded inside the graduate application through the digital portfolio tab. DVD and CD recordings are not accepted.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Graduate Auditions",
+                "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/auditions"
+              },
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate application fee listed in the CU Boulder graduate catalog: $60 for domestic applicants and $80 for international applicants. The fee is non-refundable.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Graduate Admissions Catalog",
+                "url": "https://catalog.colorado.edu/graduate/admissions/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Piano Performance MM applicants submit prescreening videos by December 1 and audition on the department-specific 2026 keyboard audition date, January 31, 2026. The College of Music notes that Keyboard schedules department-specific auditions or interviews on alternate dates rather than only the college-wide audition days. Prescreening and recorded auditions must be uploaded through the digital portfolio tab in the graduate application. Graduate piano performance and piano pedagogy applicants must also apply for the Graduate Assistantship in Accompanying and Teaching by January 1. Applicants are encouraged to demonstrate personal strengths and interests in repertoire choices and to include repertoire by composers from historically underrepresented groups.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              },
+              {
+                "label": "CU Boulder Graduate Auditions",
+                "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/auditions"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: For prescreening videos, MM applicants should prepare a program of at least 45 minutes. Prescreening repertoire: The program should consist of three or more contrasting works representative of a variety of styles. Prescreening repertoire: The repertoire presented for prescreening does not need to be exactly the same as the repertoire offered for the audition. Final audition repertoire: MM applicants should prepare a program of at least 45 minutes, consisting of three or more contrasting works representative of a variety of styles. Final audition repertoire: Applicants are encouraged to demonstrate their personal strengths and interests in their repertoire choices. Final audition repertoire: Applicants are encouraged to include repertoire by composers from historically underrepresented groups. Additional repertoire notes: The 2026 Piano Performance audition date listed on the Keyboard page is January 31, 2026.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: Fall admission deadline for all applicants to submit the application with requested supplemental materials. December 1: Piano Performance MM prescreening deadline on the Keyboard page. January 1: Graduate Assistantship in Accompanying and Teaching form deadline for graduate piano performance and piano pedagogy applicants. January 31, 2026: 2026 Piano Performance MM audition date listed by the Keyboard area. October 1: Spring admission deadline for Music Education only. March 1: Summer admission deadline for Summer MME only. Date note: the College of Music college-wide live audition days are January 17, January 24 and February 7, 2026, but the Auditions page says Keyboard schedules department-specific dates, so Piano Performance should use the Keyboard page date.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Graduate Auditions",
+                "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/auditions"
+              },
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: College of Music Fall 2026 minimums for all master's degree programs are TOEFL 83, IELTS 6.5, and Duolingo English Test 120. Notes: A valid TOEFL, IELTS, or Duolingo English Test is required for international graduate applicants whose native language is not English unless an approved waiver applies. The College of Music does not accept MyBestScore reports. Timing: waiver requests must be emailed to graduate.music@colorado.edu by November 19, and late waiver requests are not considered. Applicants who are not granted a waiver must submit an acceptable score by December 1 for the application to be complete. Exams more than two years old are invalid for admission purposes. Program note: the Graduate School general English proficiency table lists university-wide accepted exams and program-specific minimums, but the College of Music international applications page is the controlling source for College of Music master's applicants. CU Boulder TOEFL code: 4841.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder College of Music International Applications",
+                "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/international-applications"
+              },
+              {
+                "label": "CU Boulder Graduate School English Proficiency Requirements",
+                "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Graduate applicants apply through the University of Colorado Boulder Graduate School application. The Keyboard page states that graduate students need only complete the graduate application, and collaborative piano prescreening recordings are submitted through the Graduate Application. Recordings are not reviewed until the online application and supporting materials have been received. The Keyboard page lists graduate degree sheets for MM Collaborative Piano and DMA Collaborative Piano.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Graduate Auditions",
+                "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/auditions"
+              },
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate application fee listed in the CU Boulder graduate catalog: $60 for domestic applicants and $80 for international applicants. The fee is non-refundable.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Graduate Admissions Catalog",
+                "url": "https://catalog.colorado.edu/graduate/admissions/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Collaborative Piano prescreening is required and due December 1. Prescreening recordings are required for all graduate collaborative piano applicants, including Vocal Coaching applicants. Recordings are not reviewed until the online application and supporting materials have been received. Live auditions are granted to applicants chosen from the recordings, and applicants are notified of the faculty decision no later than December 15. Recordings must be made with instrumental and vocal partners. If invited for a live audition, applicants may choose to present the repertoire previously submitted for prescreening. All auditions must be presented with partners. Applicants may bring partners when possible; otherwise partners are arranged locally, with one rehearsal opportunity for instrumental colleagues before the audition. All vocal selections are performed unrehearsed. The audition includes prepared repertoire, sight-reading, and an interview. Applicants should bring a current repertoire list. Applicants should submit the online Audition Repertoire Form before January 1.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Two contrasting movements of a standard sonata for violin or cello and piano, such as Franck, Brahms, Beethoven or Prokofiev. Prescreening repertoire: Two art songs of contrasting styles and character, one French and the other German. Prescreening repertoire: Recordings must be made with instrumental and vocal partners. Final audition repertoire: One complete standard sonata for stringed instrument and piano, such as Franck, Brahms, Beethoven, or Prokofiev. Final audition repertoire: The first movement of one Mozart concerto, chosen from violin K. 216 in G major, K. 218 in D major, or K. 219 in A major, flute K. 313/285c in G major, oboe K. 314/271k in C major, clarinet K. 622 in A major, bassoon K. 191/186e in B-flat major, or horn K. 217, K. 447, or K. 495 in E-flat major. Final audition repertoire: A group of six art songs of contrasting styles and character, representing the French, German and English languages. Final audition repertoire: Recommended German repertoire includes Brahms Botschaft, Schubert Ganymed or Gretchen am Spinnrade, Schumann Waldesgesprach or Mondnacht, Strauss Allerseelen or Standchen, and Wolf Er ists. Final audition repertoire: Recommended French repertoire includes Debussy Il pleure dans mon coeur or C'est l'extase, Duparc Phidyle or Chanson triste, and Faure Mandoline or Clair de lune. Final audition repertoire: Recommended English repertoire includes Barber St. Ita's Vision or The Monk and His Cat, Copland Heart! We Will Forget Him!, and Vaughan Williams The Vagabond or The Roadside Fire. Additional repertoire notes: If invited for a live audition, applicants may choose to present the repertoire previously submitted for prescreening consideration. Additional repertoire notes: Applicants should indicate repertoire selections using the online Audition Repertoire Form before January 1.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: Fall admission deadline for all applicants to submit the application with requested supplemental materials. December 1: Collaborative Piano prescreening recording deadline. December 15: applicants are notified of the faculty decision no later than this date. January 1: online Audition Repertoire Form due before this date. February 13, 2026: Collaborative Piano live audition date. February 27, 2026: Collaborative Piano live audition date. October 1: Spring admission deadline for Music Education only. March 1: Summer admission deadline for Summer MME only.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder Graduate Auditions",
+                "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/auditions"
+              },
+              {
+                "label": "CU Boulder Keyboard Audition Information",
+                "url": "https://www.colorado.edu/music/academics/departments/piano-keyboard/keyboard-audition-information"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: College of Music Fall 2026 minimums for all master's degree programs are TOEFL 83, IELTS 6.5, and Duolingo English Test 120. Notes: A valid TOEFL, IELTS, or Duolingo English Test is required for international graduate applicants whose native language is not English unless an approved waiver applies. The College of Music does not accept MyBestScore reports. Timing: waiver requests must be emailed to graduate.music@colorado.edu by November 19, and late waiver requests are not considered. Applicants who are not granted a waiver must submit an acceptable score by December 1 for the application to be complete. Exams more than two years old are invalid for admission purposes. Program note: the Graduate School general English proficiency table lists university-wide accepted exams and program-specific minimums, but the College of Music international applications page is the controlling source for College of Music master's applicants. CU Boulder TOEFL code: 4841.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CU Boulder College of Music International Applications",
+                "url": "https://www.colorado.edu/music/admissions/prospective-graduate-students/international-applications"
+              },
+              {
+                "label": "CU Boulder Graduate School English Proficiency Requirements",
+                "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
