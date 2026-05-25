@@ -6719,7 +6719,7 @@
       "city": "Coral Gables",
       "state": "FL",
       "control": "Private",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance"
       ],
@@ -6729,11 +6729,19 @@
           "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/index.html"
         },
         {
+          "label": "Frost Graduate Application & Program Requirements",
+          "url": "https://admissions.frost.miami.edu/graduate/application-program-requirements/index.html"
+        },
+        {
+          "label": "Frost Graduate Degree Programs",
+          "url": "https://admissions.frost.miami.edu/graduate/graduate-degree-programs/index.html"
+        },
+        {
           "label": "Frost Graduate Audition Requirements",
           "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/index.html"
         },
         {
-          "label": "Frost Keyboard Audition Requirements",
+          "label": "Frost Graduate Keyboard Audition Requirements",
           "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/keyboard/index.html"
         },
         {
@@ -6741,87 +6749,131 @@
           "url": "https://piano.frost.miami.edu/degrees/master-of-music/mm-in-keyboard-performance/index.html"
         },
         {
-          "label": "University of Miami Graduate Handbook Admissions",
-          "url": "https://bulletin.miami.edu/graduate-student-handbook-online-students/admissions/"
+          "label": "Frost International Applicants",
+          "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/international-applicants/index.html"
+        },
+        {
+          "label": "University of Miami International Credentials and Applicants",
+          "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through the Frost School of Music graduate application and submit the required supplemental materials; performance applicants complete required prescreening materials before any live audition invitation is issued.",
+            "value": "Official degree-title note: Frost lists the graduate piano performance pathway as Master of Music in Keyboard Performance, and the graduate degree programs page lists Master of Music Keyboard Performance (Classical) and Keyboard Performance and Pedagogy (Classical). Frost does not list a separate M.M. Collaborative Piano program in the current graduate degree programs page. Apply online through the University of Miami graduate application portal. Applications are accepted for the fall term only and for one degree program only. Graduate applicants must have a minimum 3.0 cumulative GPA for consideration and must be in progress toward completing, or have earned, the appropriate prior music degree. Required application materials include the application, resume, statement of purpose, three letters of recommendation, transcripts, and applicable supplemental materials. All performance programs require prescreening before an on-campus audition invitation. International applicants with international transcripts must complete a course-by-course evaluation with GPA.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Frost Graduate How to Apply",
                 "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/index.html"
+              },
+              {
+                "label": "Frost Graduate Application & Program Requirements",
+                "url": "https://admissions.frost.miami.edu/graduate/application-program-requirements/index.html"
+              },
+              {
+                "label": "Frost Graduate Degree Programs",
+                "url": "https://admissions.frost.miami.edu/graduate/graduate-degree-programs/index.html"
+              },
+              {
+                "label": "Frost MM in Keyboard Performance",
+                "url": "https://piano.frost.miami.edu/degrees/master-of-music/mm-in-keyboard-performance/index.html"
               }
             ]
           },
           "applicationFee": {
-            "value": "The Frost how-to-apply page requires an application and fee, but the exact current fee amount was not confirmed on the public page during this pass; verify in the official application before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Application fee: Frost's public graduate admission pages state that prescreening and portfolios are not reviewed until all application materials and applicable fees are received, but they do not publish a current application-fee amount for the Frost graduate degree application. Notes: applicants should confirm and pay the exact required fee inside the official University of Miami graduate application portal. Notes: international applicants are responsible for any international credential evaluation fee charged by the approved evaluation vendor.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Frost Graduate How to Apply",
                 "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/index.html"
+              },
+              {
+                "label": "Frost Graduate Audition Requirements",
+                "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/index.html"
+              },
+              {
+                "label": "Frost International Applicants",
+                "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/international-applicants/index.html"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Fall 2026 auditions are listed as in person; all performance programs require prescreening; prescreen invitations are sent after January 1; graduate applicants invited to audition for Keyboard Performance must audition live in person; applicants seeking teaching-assistantship consideration must audition live on campus; recorded audition requests must use date-stamped audio/video recorded in one current-year session with no substitutions; Keyboard Performance and Pedagogy applicants also submit a teaching sample by January 1.",
+            "value": "Graduate keyboard applicants must audition live in person on one of the published audition dates if invited to audition. The Office of Admission contacts invited applicants to schedule the audition. For teaching assistantship consideration, all graduate applicants must audition live on campus. If an applicant wishes to submit a recorded audition, the recording must include date-stamped audio and video; all repertoire should be recorded in one session; recordings must have been made during the current year; and no repertoire substitutions are allowed. Prescreening is required for all graduate keyboard applicants. Prescreening submissions are accepted online only and should include both audio and video. Faculty review prescreening submissions and extend audition invitations to selected applicants. Applicants should not make travel plans until they receive an audition confirmation. Following the live audition, every M.M. candidate must attend an interview with members of the performance faculty. Applicants to Keyboard Performance and Pedagogy must also submit a teaching sample, but that teaching sample is not listed as required for Keyboard Performance-only applicants.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Frost Graduate Audition Requirements",
                 "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/index.html"
               },
               {
-                "label": "Frost Keyboard Audition Requirements",
+                "label": "Frost Graduate Keyboard Audition Requirements",
                 "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/keyboard/index.html"
+              },
+              {
+                "label": "Frost MM in Keyboard Performance",
+                "url": "https://piano.frost.miami.edu/degrees/master-of-music/mm-in-keyboard-performance/index.html"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: Submit 20 to 30 minutes of varied repertoire representative of musical and pianistic accomplishment; video and audio must be from the current year, recorded in one date-stamped session; prescreen repertoire does not have to be the same as the live audition repertoire; submit a list of learned and performed professional repertoire; prescreen videos and repertoire list are due December 1; Final audition repertoire: Prepare a 40 to 45 minute memorized solo piano program; the program must represent three of the following four categories: Baroque; Classical, including a complete sonata by Haydn, Mozart, Beethoven, or Schubert; Romantic, including a major solo work over 10 minutes; Impressionistic or Contemporary.",
+            "value": "Prescreening repertoire: Prescreening is required of all graduate keyboard applicants. Prescreening repertoire: Applicants submit a prescreening video of 20-30 minutes of varied repertoire that is representative of the applicant's musical and pianistic accomplishment. Prescreening repertoire: The prescreening video must be recorded in one session and date-stamped. Prescreening repertoire: Video and audio recordings must have been made during the current year. Prescreening repertoire: Prescreening repertoire does not necessarily have to be the same as the live audition repertoire. Prescreening repertoire: Applicants must provide a repertoire list of works that have been fully learned and performed and that they consider part of their professional repertoire. Prescreening repertoire: Prescreening videos and the repertoire list must be uploaded by December 1. Prescreening repertoire: Only candidates judged by faculty to be at the highest level will be invited to audition live. Final audition repertoire: Master of Music applicants prepare 40-45 minutes of a memorized solo-piano program. Final audition repertoire: The program must represent three of the following stylistic periods: Baroque; Classical, including a complete sonata by Haydn, Mozart, Beethoven, or Schubert; Romantic, including a major solo work of longer than 10 minutes; and Impressionistic or Contemporary. Additional repertoire notes: Graduate keyboard applicants invited to audition must audition live in person on a published audition date. Additional repertoire notes: For teaching assistantship consideration, all graduate applicants must audition live on campus. Additional repertoire notes: Recorded audition requests require date-stamped audio and video, all repertoire recorded in one session, recordings made during the current year, and no repertoire substitutions. Additional repertoire notes: Every M.M. candidate must attend an interview with members of the performance faculty after the live audition.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Frost Keyboard Audition Requirements",
+                "label": "Frost Graduate Keyboard Audition Requirements",
                 "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/keyboard/index.html"
+              },
+              {
+                "label": "Frost MM in Keyboard Performance",
+                "url": "https://piano.frost.miami.edu/degrees/master-of-music/mm-in-keyboard-performance/index.html"
               }
             ]
           },
           "deadlines": {
-            "value": "December 1: Frost graduate application deadline and performance prescreen deadline; January 1: teaching sample deadline for Keyboard Performance and Pedagogy applicants; February 1: supplemental-material deadline for listed non-performance programs; 2026 on-campus audition dates include February 7, February 14, and February 21, with February 21 listed for classical voice and piano only.",
+            "value": "December 1: graduate application deadline for on-campus programs. December 1: auditions and prescreens deadline for programs requiring prescreening. December 1: all performance programs require prescreening. December 1: resume and statement of purpose are attached to the application at the time of submission. December 1: prescreening videos and repertoire list must be uploaded for graduate keyboard applicants. January 1: portfolio deadline for specified portfolio programs; teaching sample deadline for Keyboard Performance and Pedagogy applicants. February 1: supplemental-material deadline for writing samples where required, three letters of recommendation, domestic transcripts, international transcript evaluations, passport, and TOEFL/IELTS scores. February 7, 2026: on-campus audition date. February 14, 2026: on-campus audition date. February 21, 2026: on-campus audition date for Classical Voice and Piano only. Program note: Frost states prescreening and portfolios will not be reviewed by faculty until all application materials and applicable fees are received.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Frost Graduate How to Apply",
                 "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/index.html"
+              },
+              {
+                "label": "Frost Graduate Application & Program Requirements",
+                "url": "https://admissions.frost.miami.edu/graduate/application-program-requirements/index.html"
               },
               {
                 "label": "Frost Graduate Audition Requirements",
                 "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/index.html"
+              },
+              {
+                "label": "Frost Graduate Keyboard Audition Requirements",
+                "url": "https://admissions.frost.miami.edu/graduate/audition-requirements/keyboard/index.html"
               }
             ]
           },
           "englishScores": {
-            "value": "University graduate admissions require international applicants to satisfy English-language proficiency; Frost lists TOEFL institution code 5815 and IELTS code 4862, but a current Frost-specific minimum score was not confirmed on the public Frost pages during this pass.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Minimum scores: University of Miami graduate English proficiency minimums are TOEFL iBT 80 before January 21, 2026. Minimum scores: University of Miami graduate English proficiency minimums are TOEFL iBT 4.5 after January 21, 2026. Minimum scores: IELTS Academic 6.5. Minimum scores: Duolingo English Test 125. Notes: applicants whose native language is not English must submit TOEFL, IELTS, or Duolingo English Test scores unless they qualify for a waiver. Notes: official TOEFL iBT Home Edition results are acceptable. Notes: TOEFL Essentials results are not accepted. Notes: Frost says TOEFL or IELTS scores must be submitted by February 1. Notes: Frost institution codes are TOEFL 5815 and IELTS 4862. Notes: some programs may have higher minimum score requirements, so applicants should contact the appropriate Admissions Representative for program-specific details. Exemptions: the English proficiency requirement may be waived for applicants who hold an undergraduate or graduate degree from an academic institution within the United States or from one of the listed English-speaking countries. Exemptions: the requirement may also be waived for applicants who hold an undergraduate or graduate degree from an academic institution, regardless of country, where the language of instruction was English, if official documentation confirming English as the language of instruction is submitted with the application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "University of Miami Graduate Handbook Admissions",
-                "url": "https://bulletin.miami.edu/graduate-student-handbook-online-students/admissions/"
+                "label": "Frost International Applicants",
+                "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/international-applicants/index.html"
               },
               {
-                "label": "Frost Graduate How to Apply",
-                "url": "https://admissions.frost.miami.edu/graduate/how-to-apply/index.html"
+                "label": "University of Miami International Credentials and Applicants",
+                "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html"
+              },
+              {
+                "label": "Frost Graduate Application & Program Requirements",
+                "url": "https://admissions.frost.miami.edu/graduate/application-program-requirements/index.html"
               }
             ]
           }
