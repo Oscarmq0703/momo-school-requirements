@@ -1,0 +1,236 @@
+{
+  "schools": [
+    {
+      "id": "university-of-maryland",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "Maryland School of Music Graduate Admissions",
+          "url": "https://music.umd.edu/admissions/graduate"
+        },
+        {
+          "label": "Maryland Graduate Auditions and Program Requirements",
+          "url": "https://music.umd.edu/admissions/auditions-program-requirements/graduate"
+        },
+        {
+          "label": "Maryland Piano Area",
+          "url": "https://music.umd.edu/areas-of-study/piano"
+        },
+        {
+          "label": "Maryland Master of Music",
+          "url": "https://music.umd.edu/academic-programs/master-of-music"
+        },
+        {
+          "label": "UMD Graduate School Apply Now",
+          "url": "https://gradschool.umd.edu/admissions/application-process/apply-now"
+        },
+        {
+          "label": "UMD English Language Proficiency",
+          "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "University of Maryland School of Music graduate admission is a two-part process. Applicants first apply online to the University of Maryland Graduate School through the Graduate School application portal, then submit the separate School of Music application. Both applications are due December 1 unless otherwise specified. For performance and composition degrees, including Music: Non-Education M.M. and D.M.A. under program code MUSC, applicants choose Music: Non-Education M.M. and D.M.A. in the Graduate School application. School of Music application materials include the same statement of purpose required by the Graduate School, resume or curriculum vitae recommended, three recommenders entered in the School of Music application, transcripts, and program-specific materials. Performance applicants should upload a repertoire list. If applying for an area that requires prescreening, applicants upload prescreening materials to the School of Music application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "Maryland Master of Music",
+                "url": "https://music.umd.edu/academic-programs/master-of-music"
+              },
+              {
+                "label": "UMD Graduate School Apply Now",
+                "url": "https://gradschool.umd.edu/admissions/application-process/apply-now"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate School application fee: $75 non-refundable application processing fee for each program. School of Music application fee: $50 for Master's and Ph.D. applications. Notes: the Graduate School application fee must be paid online before the application is processed. Notes: D.M.A. School of Music application fee is $75, but the M.M. fee is $50.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "UMD Graduate School Apply Now",
+                "url": "https://gradschool.umd.edu/admissions/application-process/apply-now"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "UMD Piano Area offers M.M. degrees in solo piano and collaborative piano. Performance graduate degrees require an audition, and all auditions are held in February. Solo Piano M.M. applicants must submit prescreening materials as part of the School of Music application by December 1. The graduate audition requirements page describes the solo piano prescreening as requirements for in-person auditions. Applicants should upload a repertoire list in the School of Music application. For piano teaching assistantship consideration, the applicant should include teaching experience in the resume. The current public graduate audition page does not list a separate recorded-audition procedure for Solo Piano M.M.; applicants needing alternate arrangements should confirm directly with School of Music admissions or the piano area.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "Maryland Piano Area",
+                "url": "https://music.umd.edu/areas-of-study/piano"
+              },
+              {
+                "label": "Maryland Graduate Auditions and Program Requirements",
+                "url": "https://music.umd.edu/admissions/auditions-program-requirements/graduate"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Solo Piano M.M. and D.M.A. applicants submit a video recording of 10-15 minutes worth of music that is representative of their ability. Prescreening repertoire: The video must include a minimum of two contrasting styles. Prescreening repertoire: Excerpts of a longer work may be submitted, but the total amount of music submitted on the recording may not exceed 15 minutes. Prescreening repertoire: The video recording must show the applicant's hands on the keyboard. Final audition repertoire: Solo Piano Master of Music applicants prepare a solo program of at least 45 minutes. Final audition repertoire: The program should represent a variety of styles and historical periods. Final audition repertoire: The program should be equal in difficulty to a Bachelor of Music solo recital. Additional repertoire notes: For piano teaching assistantship consideration, include information in the resume about teaching experience. Additional repertoire notes: For piano accompanying assistantship consideration, upload a statement of collaborative experience, a collaborative repertoire list, and a video recording of one movement of any Mozart or Beethoven piano and violin sonata or three contrasting lieder. Additional repertoire notes: Substitutions for the accompanying assistantship video may be possible with permission only. Additional repertoire notes: Applicants interested in accompanying assistantship consideration should note that sight-reading will be included in the degree audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland Graduate Auditions and Program Requirements",
+                "url": "https://music.umd.edu/admissions/auditions-program-requirements/graduate"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: Graduate School application and separate School of Music application are both due unless otherwise specified. December 1: School of Music application and prescreen recording deadline for applicants to programs requiring prescreening. February: performance graduate degree auditions are held. February 15: to be considered for funding, including assistantships, applicants must meet all requirements for full admission by this date; postponements are considered case by case. Program note: UMD states both applications are due December 1 unless otherwise specified, so applicants should still confirm the current term inside the Graduate School and School of Music applications before submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "Maryland Graduate Auditions and Program Requirements",
+                "url": "https://music.umd.edu/admissions/auditions-program-requirements/graduate"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: School of Music will evaluate auditions for students able to report a MyBest TOEFL, or equivalent IELTS/PTE, score of 88 or higher. Minimum scores: for full admission, School of Music M.A. and M.M. applicants must submit a MyBest TOEFL, or equivalent, score of 92 or higher. Minimum scores: School of Music M.A. and M.M. full-admission TOEFL sectional superscore requirements are Reading 26, Speaking 22, Listening 24, and Writing 20. Minimum scores: Graduate School full-enrollment TOEFL iBT taken January 20, 2026 or before requires Total 96, Reading 26, Listening 24, Speaking 22, and Writing 24; however, the School of Music notes that M.M. applicants are only required to score 20 on the writing section of the TOEFL to qualify for full admission. Minimum scores: Graduate School full-enrollment TOEFL iBT taken January 21, 2026 or after requires Overall 5, Reading 5, Listening 5, Speaking 4.5, and Writing 5. Minimum scores: Graduate School full-enrollment IELTS requires Overall 7, Reading 7, Listening 7, Speaking 6.5, and Writing 7. Minimum scores: Graduate School full-enrollment PTE requires Total 68 and Writing 68. Notes: all non-native English speakers must submit a TOEFL, IELTS, or PTE score unless they meet a School of Music waiver category. Notes: the School of Music requirements are slightly different from the Graduate School's general requirements. Notes: applicants required to submit English scores must have a TOEFL score of at least 88, or equivalent IELTS/PTE, to be scheduled for an audition; a score sufficient for full admission must be received before admission can be processed. Notes: TOEFL reporting code is 5814. Notes: the Graduate School accepts TOEFL iBT Home Edition, IELTS Academic Online, IELTS Indicator Academic, PTE Academic Online, IELTS One-Skill Retake, and TOEFL MyBest scores. Exemptions: School of Music may waive the test for applicants who earned an undergraduate degree from an English-language institution in an approved English-speaking country and completed at least three years of coursework there. Exemptions: School of Music may waive the test for applicants who earned a graduate degree in an academic, non-performance field from an English-language institution in an approved English-speaking country, completed at least two years of coursework there, and wrote and orally defended a capstone thesis in English. Exemptions: graduate degrees in performance, performance certificates or diplomas, and graduate degrees without a full thesis do not exempt an applicant from submitting a score. Program note: international teaching assistantship English requirements are managed separately from admission English requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "UMD English Language Proficiency",
+                "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "University of Maryland School of Music graduate admission is a two-part process. Applicants first apply online to the University of Maryland Graduate School through the Graduate School application portal, then submit the separate School of Music application. Both applications are due December 1 unless otherwise specified. For performance and composition degrees, including Music: Non-Education M.M. and D.M.A. under program code MUSC, applicants choose Music: Non-Education M.M. and D.M.A. in the Graduate School application. UMD Piano Area lists Collaborative Piano as an M.M. and D.M.A. degree. School of Music application materials include the same statement of purpose required by the Graduate School, resume or curriculum vitae recommended, three recommenders, transcripts, a repertoire list for performance applicants, and program-specific prescreening or audition materials.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "Maryland Piano Area",
+                "url": "https://music.umd.edu/areas-of-study/piano"
+              },
+              {
+                "label": "UMD Graduate School Apply Now",
+                "url": "https://gradschool.umd.edu/admissions/application-process/apply-now"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Graduate School application fee: $75 non-refundable application processing fee for each program. School of Music application fee: $50 for Master's and Ph.D. applications. Notes: the Graduate School application fee must be paid online before the application is processed. Notes: D.M.A. School of Music application fee is $75, but the M.M. fee is $50.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "UMD Graduate School Apply Now",
+                "url": "https://gradschool.umd.edu/admissions/application-process/apply-now"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "UMD Piano Area lists Collaborative Piano as an M.M. and D.M.A. degree. Collaborative Piano M.M. applicants submit prescreening materials as part of the School of Music application by December 1. Applicants invited for a live audition will be assigned collaborative partners. For live auditions, applicants will be asked to submit any changes to audition repertoire; musicians will be provided for the applicant to accompany, and rehearsal time will be coordinated with the musicians before the scheduled audition time. Collaborative Piano M.M. audition includes a solo work, five standard art songs, one operatic aria, first two movements from a listed sonata, and demonstrated sight-reading. Applicants should be prepared to sing and play one of the vocal selections. The current public graduate audition page does not list a separate recorded-audition procedure for Collaborative Piano M.M.; applicants needing alternate arrangements should confirm directly with School of Music admissions or the piano area.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "Maryland Piano Area",
+                "url": "https://music.umd.edu/areas-of-study/piano"
+              },
+              {
+                "label": "Maryland Graduate Auditions and Program Requirements",
+                "url": "https://music.umd.edu/admissions/auditions-program-requirements/graduate"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: Collaborative Piano Master of Music applicants submit a solo piece. Prescreening repertoire: Collaborative Piano Master of Music applicants submit a collaborative piece, either songs or instrumental duos. Prescreening repertoire: Applicants invited for a live audition will be assigned collaborative partners. Final audition repertoire: Applicants invited for a live audition will be asked to submit any changes to their audition repertoire. Final audition repertoire: Musicians will be provided for the applicant to accompany, and rehearsal time will be coordinated with the musicians before the scheduled audition time. Final audition repertoire: Prepare a work for solo piano, either one movement or a complete work, which best demonstrates the applicant's musicianship and keyboard technique; memorization is not required. Final audition repertoire: Prepare five standard art songs representing French, German, and English language repertoire. Final audition repertoire: Be prepared to sing and play one of the vocal selections. Final audition repertoire: Prepare one operatic aria. Final audition repertoire: Sonata options: prepare the first two movements from one of the following sonatas: Mozart Violin Sonata K. 454 in Bb Major; Beethoven Violin Sonata No. 4 in A minor, Opus 23; Beethoven Violin Sonata No. 7 in C minor, Opus 30, No. 2; Beethoven Cello Sonata No. 3 in A Major, Op. 69; Beethoven Cello Sonata No. 4 in C Major, Op. 102, No. 1; Brahms Cello Sonata No. 1 in E minor, Opus 38; Brahms Violin Sonata No. 2 in A major, Opus 100; Brahms Violin Sonata No. 3 in D minor, Opus 108; Brahms Viola or Clarinet Sonata No. 1 in F minor, Opus 120, No. 1; Brahms Viola or Clarinet Sonata No. 2 in Eb Major, Opus 120, No. 2; Franck Violin or Cello Sonata in A Major. Final audition repertoire: Demonstrate proficiency in sight-reading. Additional repertoire notes: UMD's Piano Area confirms that Collaborative Piano is offered at the M.M. level. Additional repertoire notes: All applicants to performance graduate degrees should upload a repertoire list through the School of Music application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland Graduate Auditions and Program Requirements",
+                "url": "https://music.umd.edu/admissions/auditions-program-requirements/graduate"
+              },
+              {
+                "label": "Maryland Piano Area",
+                "url": "https://music.umd.edu/areas-of-study/piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1: Graduate School application and separate School of Music application are both due unless otherwise specified. December 1: School of Music application and prescreen recording deadline for applicants to programs requiring prescreening. February: performance graduate degree auditions are held. February 15: to be considered for funding, including assistantships, applicants must meet all requirements for full admission by this date; postponements are considered case by case. Program note: UMD states both applications are due December 1 unless otherwise specified, so applicants should still confirm the current term inside the Graduate School and School of Music applications before submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "Maryland Graduate Auditions and Program Requirements",
+                "url": "https://music.umd.edu/admissions/auditions-program-requirements/graduate"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: School of Music will evaluate auditions for students able to report a MyBest TOEFL, or equivalent IELTS/PTE, score of 88 or higher. Minimum scores: for full admission, School of Music M.A. and M.M. applicants must submit a MyBest TOEFL, or equivalent, score of 92 or higher. Minimum scores: School of Music M.A. and M.M. full-admission TOEFL sectional superscore requirements are Reading 26, Speaking 22, Listening 24, and Writing 20. Minimum scores: Graduate School full-enrollment TOEFL iBT taken January 20, 2026 or before requires Total 96, Reading 26, Listening 24, Speaking 22, and Writing 24; however, the School of Music notes that M.M. applicants are only required to score 20 on the writing section of the TOEFL to qualify for full admission. Minimum scores: Graduate School full-enrollment TOEFL iBT taken January 21, 2026 or after requires Overall 5, Reading 5, Listening 5, Speaking 4.5, and Writing 5. Minimum scores: Graduate School full-enrollment IELTS requires Overall 7, Reading 7, Listening 7, Speaking 6.5, and Writing 7. Minimum scores: Graduate School full-enrollment PTE requires Total 68 and Writing 68. Notes: all non-native English speakers must submit a TOEFL, IELTS, or PTE score unless they meet a School of Music waiver category. Notes: the School of Music requirements are slightly different from the Graduate School's general requirements. Notes: applicants required to submit English scores must have a TOEFL score of at least 88, or equivalent IELTS/PTE, to be scheduled for an audition; a score sufficient for full admission must be received before admission can be processed. Notes: TOEFL reporting code is 5814. Notes: the Graduate School accepts TOEFL iBT Home Edition, IELTS Academic Online, IELTS Indicator Academic, PTE Academic Online, IELTS One-Skill Retake, and TOEFL MyBest scores. Exemptions: School of Music may waive the test for applicants who earned an undergraduate degree from an English-language institution in an approved English-speaking country and completed at least three years of coursework there. Exemptions: School of Music may waive the test for applicants who earned a graduate degree in an academic, non-performance field from an English-language institution in an approved English-speaking country, completed at least two years of coursework there, and wrote and orally defended a capstone thesis in English. Exemptions: graduate degrees in performance, performance certificates or diplomas, and graduate degrees without a full thesis do not exempt an applicant from submitting a score. Program note: international teaching assistantship English requirements are managed separately from admission English requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Maryland School of Music Graduate Admissions",
+                "url": "https://music.umd.edu/admissions/graduate"
+              },
+              {
+                "label": "UMD English Language Proficiency",
+                "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
