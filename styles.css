@@ -119,24 +119,15 @@ select {
 
 .brand-highlight {
   display: block;
-  width: fit-content;
-  position: relative;
-  background: linear-gradient(180deg, #fff7a8 0%, #ffc83d 36%, #ff9500 62%, #de5e00 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: #ffb21a;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: 2px rgba(21, 27, 42, 0.78);
-  font-family:
-    "Cooper Black", "Baloo 2", "Arial Rounded MT Bold", "Avenir Next Rounded", "SF Pro Rounded", "Nunito",
-    "Microsoft YaHei", ui-rounded, system-ui, sans-serif;
-  font-size: 80px;
-  font-weight: 900;
-  letter-spacing: 0.01em;
-  line-height: 0.9;
-  filter:
-    drop-shadow(0 3px 0 rgba(18, 25, 39, 0.98))
-    drop-shadow(0 10px 18px rgba(13, 19, 33, 0.24));
+  width: min(360px, 100%);
+  line-height: 0;
+}
+
+.brand-logo {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
 }
 
 .brand-subtitle {
@@ -693,8 +684,7 @@ select {
   }
 
   .brand-highlight {
-    font-size: clamp(40px, 15vw, 56px);
-    line-height: 0.92;
+    width: min(300px, 76vw);
   }
 
   .brand-subtitle {
@@ -742,7 +732,7 @@ select {
   }
 
   .brand-highlight {
-    font-size: clamp(36px, 17vw, 48px);
+    width: min(260px, 78vw);
   }
 
   .brand-subtitle {

@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-final-review-flags-v64";
+const DATA_VERSION = "2026-05-25-mobile-entry-state-v65";
 
 const state = {
   data: null,
@@ -55,6 +55,7 @@ const els = {
   schoolSelect: document.querySelector("#schoolSelect"),
   searchInput: document.querySelector("#searchInput"),
   detail: document.querySelector("#schoolDetail"),
+  workspace: document.querySelector(".workspace"),
 };
 
 init();
@@ -67,11 +68,11 @@ async function init() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.data = await response.json();
     state.rows = normalizeSchools(state.data.schools);
-    state.selectedId = state.rows[0]?.id ?? null;
     bindEvents();
     render();
   } catch (error) {
     els.dataDate.textContent = "Data unavailable";
+    els.workspace.hidden = false;
     els.detail.innerHTML = `<h2>Data load failed</h2><p>${escapeHtml(error.message)}</p>`;
   }
 }
@@ -102,14 +103,11 @@ function normalizeSchools(schools) {
 
 function render() {
   const filtered = getFilteredRows();
-
-  if (!filtered.some((school) => school.id === state.selectedId)) {
-    state.selectedId = filtered[0]?.id ?? null;
-  }
+  const displaySchool = getDisplaySchool(filtered);
 
   renderMeta();
-  renderSchoolSelect(filtered);
-  renderDetail(state.rows.find((school) => school.id === state.selectedId));
+  renderSchoolSelect(filtered, displaySchool);
+  renderDetail(displaySchool);
 }
 
 function renderMeta() {
@@ -128,7 +126,20 @@ function getFilteredRows() {
   return filtered.sort((a, b) => compare(a.name, b.name));
 }
 
-function renderSchoolSelect(rows) {
+function getDisplaySchool(rows) {
+  const selected = rows.find((school) => school.id === state.selectedId);
+  if (selected) return selected;
+
+  const query = normalizeSearch(state.filters.search);
+  if (!query) return null;
+
+  const exact = rows.find((school) => normalizeSearch(school.name) === query);
+  if (exact) return exact;
+
+  return rows.length === 1 ? rows[0] : null;
+}
+
+function renderSchoolSelect(rows, displaySchool) {
   if (!rows.length) {
     els.schoolSelect.innerHTML = `<option value="">No matching schools</option>`;
     els.schoolSelect.disabled = true;
@@ -136,25 +147,23 @@ function renderSchoolSelect(rows) {
   }
 
   els.schoolSelect.disabled = false;
-  els.schoolSelect.innerHTML = rows
-    .map((school) => {
-      const meta = `${school.city}, ${school.state} | ${school.control}`;
-      return `<option value="${escapeAttribute(school.id)}">${escapeHtml(school.name)} - ${escapeHtml(meta)}</option>`;
-    })
+  els.schoolSelect.innerHTML = [
+    `<option value="">Select a school</option>`,
+    ...rows.map((school) => `<option value="${escapeAttribute(school.id)}">${escapeHtml(school.name)}</option>`),
+  ]
     .join("");
-  els.schoolSelect.value = state.selectedId;
+  els.schoolSelect.value = displaySchool?.id ?? "";
 }
 
 function renderDetail(school) {
   if (!school) {
+    els.workspace.hidden = true;
     els.detail.className = "detail-empty";
-    els.detail.innerHTML = `
-      <h2>No matches</h2>
-      <p>Try another school, city, state, or type.</p>
-    `;
+    els.detail.innerHTML = "";
     return;
   }
 
+  els.workspace.hidden = false;
   els.detail.className = "detail-content";
   const program = school.programTargets.includes(state.activeProgram)
     ? state.activeProgram
@@ -609,6 +618,10 @@ function statusBadge(status) {
 
 function compare(a, b) {
   return a.localeCompare(b, "en", { sensitivity: "base" });
+}
+
+function normalizeSearch(value) {
+  return String(value).trim().replace(/\s+/g, " ").toLowerCase();
 }
 
 function escapeHtml(value) {

@@ -4,20 +4,45 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>MoMo School Requirements Database</title>
-    <link rel="stylesheet" href="./styles.css?v=2026-05-25-final-review-flags-v64" />
+    <link rel="stylesheet" href="./styles.css?v=2026-05-25-mobile-entry-state-v65" />
   </head>
   <body>
     <main class="app-shell">
       <section class="toolbar" aria-label="MoMo header">
         <div>
           <h1 class="brand-title">
-            <span class="brand-highlight">MoMo</span>
+            <span class="brand-highlight" aria-label="MoMo">
+              <svg class="brand-logo" viewBox="0 0 420 118" role="img" aria-hidden="true" focusable="false">
+                <defs>
+                  <linearGradient id="momoLetterFill" x1="0" x2="0" y1="0" y2="1">
+                    <stop offset="0" stop-color="#fff6a9" />
+                    <stop offset="0.36" stop-color="#ffc93d" />
+                    <stop offset="0.66" stop-color="#ff9b0a" />
+                    <stop offset="1" stop-color="#de6100" />
+                  </linearGradient>
+                  <filter id="momoSoftShadow" x="-12%" y="-16%" width="124%" height="140%">
+                    <feDropShadow dx="0" dy="5" stdDeviation="0" flood-color="#121827" flood-opacity="0.95" />
+                    <feDropShadow dx="0" dy="13" stdDeviation="8" flood-color="#111827" flood-opacity="0.22" />
+                  </filter>
+                </defs>
+                <g fill="none" filter="url(#momoSoftShadow)" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M36 88V28L78 84L120 28V88" stroke="#151b2b" stroke-width="34" />
+                  <circle cx="166" cy="60" r="30" stroke="#151b2b" stroke-width="34" />
+                  <path d="M216 88V28L258 84L300 28V88" stroke="#151b2b" stroke-width="34" />
+                  <circle cx="346" cy="60" r="30" stroke="#151b2b" stroke-width="34" />
+                  <path d="M36 88V28L78 84L120 28V88" stroke="url(#momoLetterFill)" stroke-width="23" />
+                  <circle cx="166" cy="60" r="30" stroke="url(#momoLetterFill)" stroke-width="23" />
+                  <path d="M216 88V28L258 84L300 28V88" stroke="url(#momoLetterFill)" stroke-width="23" />
+                  <circle cx="346" cy="60" r="30" stroke="url(#momoLetterFill)" stroke-width="23" />
+                </g>
+              </svg>
+            </span>
             <span class="brand-subtitle">School Requirements Database</span>
           </h1>
         </div>
         <div class="toolbar-side">
           <div class="toolbar-actions">
-            <a class="ghost-link" href="./data/schools.json?v=2026-05-25-final-review-flags-v64" target="_blank" rel="noreferrer">Data</a>
+            <a class="ghost-link" href="./data/schools.json?v=2026-05-25-mobile-entry-state-v65" target="_blank" rel="noreferrer">Data</a>
             <a class="ghost-link" href="./README.md" target="_blank" rel="noreferrer">Notes</a>
           </div>
           <p class="data-date" id="dataDate">Data date: loading</p>
@@ -33,16 +58,13 @@
         </div>
       </section>
 
-      <section class="workspace">
+      <section class="workspace" hidden>
         <aside class="detail" aria-label="Details">
-          <div id="schoolDetail" class="detail-empty">
-            <h2>Select a school</h2>
-            <p>Application portal, audition requirements, repertoire, deadlines, English scores, fees, and official sources will appear here.</p>
-          </div>
+          <div id="schoolDetail" class="detail-empty"></div>
         </aside>
       </section>
     </main>
 
-    <script src="./app.js?v=2026-05-25-final-review-flags-v64" type="module"></script>
+    <script src="./app.js?v=2026-05-25-mobile-entry-state-v65" type="module"></script>
   </body>
 </html>
