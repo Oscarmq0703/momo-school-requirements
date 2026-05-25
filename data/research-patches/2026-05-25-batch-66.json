@@ -1,0 +1,200 @@
+{
+  "schools": [
+    {
+      "id": "university-of-north-carolina-greensboro",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "UNCG School of Music Graduate Admissions",
+          "url": "https://vpa.uncg.edu/music/apply/graduate/"
+        },
+        {
+          "label": "UNCG Graduate Requirements",
+          "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+        },
+        {
+          "label": "UNCG 2026-27 Graduate Admissions Catalog",
+          "url": "https://catalog.uncg.edu/admissions/graduate-admissions/"
+        },
+        {
+          "label": "UNCG International Requirements",
+          "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply through the UNCG Graduate School online application. The School of Music graduate page directs applicants to the Graduate School application and lists the Master's application materials as the $65 application fee, transcripts from all institutions where coursework was completed, two letters of recommendation, and a personal statement. The page states that an undergraduate degree in music is required for all MM degree programs. Additional application requirements and supplemental materials are required for specific degrees. For Master of Music in Performance, the page states that an audition is required. Applicants request an audition/interview date by submitting the Graduate School application. The School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: UNCG Graduate School online application. Application fee: $65 nonrefundable application processing fee. Notes: the School of Music graduate page lists a $65 application fee for Master's applicants. Notes: the Graduate Requirements page states the fee is not required for full-time UNCG employees, excluding student employees, and for McNair Scholars, Guarantee Scholars, MARC U-STAR Scholars, Mellon Mays Undergraduate Fellowship Program participants, RISE Network participants, STAMPS STEM students, TRIO program participants, and Military.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "All students applying to the Master of Music in Performance must request an audition/interview with the performance faculty on one of the posted Saturday dates by submitting the Graduate School application. For 2025-26, the posted audition dates are December 6, 2025; January 31, 2026; February 14, 2026; and February 28, 2026. February 28 is marked as the priority deadline for music scholarship consideration. Important note for international students not living in the United States: complete the application and indicate Other as the selected audition date; area faculty review the submitted items and determine whether a virtual interview will be scheduled. Virtual applicants must submit audition videos no later than the Sunday before the scheduled live audition/interview date. Video recordings should be uploaded to the Portfolio section of the Graduate Application; applicants may upload the original video or provide a YouTube link, and YouTube videos should be Public or Unlisted, not Private. CD/DVD submissions are not accepted. Instrumentalists may choose to perform unaccompanied. Recording guidance: present a professional image, clearly show the face and most of the body, keep the camera fixed without panning or zooming, and use recordings of sufficient quality.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate prescreening repertoire is listed for MM Piano Performance on the UNCG School of Music graduate page. Final audition repertoire: Students should be prepared to present the following minimum repertoire, preferably from memory. Final audition repertoire: Prepare approximately 25 minutes of repertoire representing three contrasting style periods, preferably from memory. Final audition repertoire: Applicants are encouraged to include a work composed after 1950. Final audition repertoire: Applicants are encouraged to include a work by a composer who reflects a different racial, gender, gender-identity, sexual-identity, or cultural tradition than those found in the standard repertoire; this work may be from any period. Additional repertoire notes: UNCG links to aseatatthepiano.com for guidance on repertoire by composers outside the standard repertoire.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "January 15: assistantship-consideration deadline for MM in Performance (All Others). July 1: application deadline for MM in Performance (All Others). December 6, 2025: posted 2025-26 audition date. January 31, 2026: posted 2025-26 audition date. February 14, 2026: posted 2025-26 audition date. February 28, 2026: posted 2025-26 audition date and priority deadline for music scholarship consideration. Program note: the School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks. Program note: to be considered for a Graduate Assistantship, applicants must have submitted a complete Graduate School application and complete an on-campus audition or interview by February 28. Program note: virtual applicants must submit audition videos no later than the Sunday before the scheduled live audition/interview date.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT 79. Minimum scores: TOEFL iBT Special Home Edition 79. Minimum scores: TOEFL Essentials 9. Minimum scores: IELTS 6.5 Band Score. Minimum scores: Duolingo English Test 110. Minimum scores: ELS 112. Minimum scores: Kaplan English Advanced Level. Minimum scores: PTE Academic 67. Notes: use UNCG code 5913 for TOEFL and most exams. Notes: for IELTS, search for University of North Carolina Greensboro Graduate Admissions. Timing: English language proficiency scores must not be more than two years old from the date of application submission. Exemptions: English proficiency may be demonstrated by successful completion of INTERLINK Level 6. Exemptions: an applicant whose native language is not English is considered English proficient if the applicant is from a country where English is recognized as the primary official language, is or will be a graduate of a degree or certificate program from a U.S. regionally accredited university, or is or will be a graduate of a non-U.S. college or university where English is the primary language of instruction. Source note: the 2026-27 UNCG Graduate Admissions Catalog provides the clearest current TOEFL listing as 79 for iBT and iBT Special Home Edition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG 2026-27 Graduate Admissions Catalog",
+                "url": "https://catalog.uncg.edu/admissions/graduate-admissions/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              },
+              {
+                "label": "UNCG International Requirements",
+                "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "Apply through the UNCG Graduate School online application. The School of Music graduate page directs applicants to the Graduate School application and lists the Master's application materials as the $65 application fee, transcripts from all institutions where coursework was completed, two letters of recommendation, and a personal statement. The page states that an undergraduate degree in music is required for all MM degree programs. Additional application requirements and supplemental materials are required for specific degrees. Collaborative Piano is listed within the Master of Music in Performance audition requirements. Applicants request an audition/interview date by submitting the Graduate School application. The School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: UNCG Graduate School online application. Application fee: $65 nonrefundable application processing fee. Notes: the School of Music graduate page lists a $65 application fee for Master's applicants. Notes: the Graduate Requirements page states the fee is not required for full-time UNCG employees, excluding student employees, and for McNair Scholars, Guarantee Scholars, MARC U-STAR Scholars, Mellon Mays Undergraduate Fellowship Program participants, RISE Network participants, STAMPS STEM students, TRIO program participants, and Military.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "All collaborative piano auditions for the Master's section are conducted through video recorded performance. Applicants who have a reason to request a live, in-person audition should contact Dr. James Douglass. Each audition includes an interview, either through Microsoft Teams on a posted audition date or in person on the scheduled audition date. Applicants are welcome to visit campus regardless of interview mode and may schedule a campus meeting with Dr. Douglass for additional information and conversation. Applicants will be asked to sight-read during the interview. Applicants should contact Dr. James Douglass as soon as they have completed the application materials to discuss or confirm audition repertoire and any other audition-process matters.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate prescreening phase is listed for MM Collaborative Piano on the Master's section of the UNCG School of Music graduate page; the posted requirement is a video recorded audition. Final audition repertoire: Video materials should include four to five vocal art songs representing a variety of styles, composers, and historical periods. Final audition repertoire: For the vocal art songs, applicants should include in their scores both a poetic translation and a word-for-word translation of the offered repertoire. Final audition repertoire: Prepare a 15-minute program of instrumental works representing a variety of styles, composers, and historical periods. Final audition repertoire: Choose one of two options: one solo work of approximately five minutes in length, preferably from memory; or an additional five minutes of instrumental works, for a 20-minute instrumental total. Final audition repertoire: Applicants are encouraged to include a work by a composer who reflects a different racial, gender, gender-identity, sexual-identity, or cultural tradition than those found in the standard repertoire; this work may be from any period. Additional repertoire notes: Representation of styles, composers, and historical periods can be achieved across both the vocal and instrumental works, such as German song and French chamber work. Additional repertoire notes: Applicants will sight-read during the interview. Additional repertoire notes: Applicants should contact Dr. James Douglass after completing application materials to discuss or confirm audition repertoire and other audition-process matters.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "January 15: assistantship-consideration deadline for MM in Performance (All Others). July 1: application deadline for MM in Performance (All Others). December 6, 2025: posted 2025-26 audition date. January 31, 2026: posted 2025-26 audition date. February 14, 2026: posted 2025-26 audition date. February 28, 2026: posted 2025-26 audition date and priority deadline for music scholarship consideration. Program note: the School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks. Program note: to be considered for a Graduate Assistantship, applicants must have submitted a complete Graduate School application and complete an on-campus audition or interview by February 28.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG School of Music Graduate Admissions",
+                "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT 79. Minimum scores: TOEFL iBT Special Home Edition 79. Minimum scores: TOEFL Essentials 9. Minimum scores: IELTS 6.5 Band Score. Minimum scores: Duolingo English Test 110. Minimum scores: ELS 112. Minimum scores: Kaplan English Advanced Level. Minimum scores: PTE Academic 67. Notes: use UNCG code 5913 for TOEFL and most exams. Notes: for IELTS, search for University of North Carolina Greensboro Graduate Admissions. Timing: English language proficiency scores must not be more than two years old from the date of application submission. Exemptions: English proficiency may be demonstrated by successful completion of INTERLINK Level 6. Exemptions: an applicant whose native language is not English is considered English proficient if the applicant is from a country where English is recognized as the primary official language, is or will be a graduate of a degree or certificate program from a U.S. regionally accredited university, or is or will be a graduate of a non-U.S. college or university where English is the primary language of instruction. Source note: the 2026-27 UNCG Graduate Admissions Catalog provides the clearest current TOEFL listing as 79 for iBT and iBT Special Home Edition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UNCG 2026-27 Graduate Admissions Catalog",
+                "url": "https://catalog.uncg.edu/admissions/graduate-admissions/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              },
+              {
+                "label": "UNCG International Requirements",
+                "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

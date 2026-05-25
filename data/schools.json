@@ -10595,19 +10595,23 @@
       "city": "Greensboro",
       "state": "NC",
       "control": "Public",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance",
         "mm_collaborative_piano"
       ],
       "officialSources": [
         {
-          "label": "UNCG Music Graduate Apply",
+          "label": "UNCG School of Music Graduate Admissions",
           "url": "https://vpa.uncg.edu/music/apply/graduate/"
         },
         {
           "label": "UNCG Graduate Requirements",
           "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+        },
+        {
+          "label": "UNCG 2026-27 Graduate Admissions Catalog",
+          "url": "https://catalog.uncg.edu/admissions/graduate-admissions/"
         },
         {
           "label": "UNCG International Requirements",
@@ -10617,144 +10621,168 @@
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply through the UNCG Graduate School application for the School of Music; required materials include transcripts, two recommendations, personal statement, and any area-specific audition or interview materials.",
+            "value": "Apply through the UNCG Graduate School online application. The School of Music graduate page directs applicants to the Graduate School application and lists the Master's application materials as the $65 application fee, transcripts from all institutions where coursework was completed, two letters of recommendation, and a personal statement. The page states that an undergraduate degree in music is required for all MM degree programs. Additional application requirements and supplemental materials are required for specific degrees. For Master of Music in Performance, the page states that an audition is required. Applicants request an audition/interview date by submitting the Graduate School application. The School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
               }
             ]
           },
           "applicationFee": {
-            "value": "Graduate application fee is $65; current UNCG students may be eligible for waiver according to the School of Music graduate application page.",
+            "value": "Application portal: UNCG Graduate School online application. Application fee: $65 nonrefundable application processing fee. Notes: the School of Music graduate page lists a $65 application fee for Master's applicants. Notes: the Graduate Requirements page states the fee is not required for full-time UNCG employees, excluding student employees, and for McNair Scholars, Guarantee Scholars, MARC U-STAR Scholars, Mellon Mays Undergraduate Fellowship Program participants, RISE Network participants, STAMPS STEM students, TRIO program participants, and Military.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "After faculty review of the application, selected performance applicants are invited for a live audition and interview; international students outside the United States may select Other as audition date and faculty determine whether a virtual interview will be scheduled.",
+            "value": "All students applying to the Master of Music in Performance must request an audition/interview with the performance faculty on one of the posted Saturday dates by submitting the Graduate School application. For 2025-26, the posted audition dates are December 6, 2025; January 31, 2026; February 14, 2026; and February 28, 2026. February 28 is marked as the priority deadline for music scholarship consideration. Important note for international students not living in the United States: complete the application and indicate Other as the selected audition date; area faculty review the submitted items and determine whether a virtual interview will be scheduled. Virtual applicants must submit audition videos no later than the Sunday before the scheduled live audition/interview date. Video recordings should be uploaded to the Portfolio section of the Graduate Application; applicants may upload the original video or provide a YouTube link, and YouTube videos should be Public or Unlisted, not Private. CD/DVD submissions are not accepted. Instrumentalists may choose to perform unaccompanied. Recording guidance: present a professional image, clearly show the face and most of the body, keep the camera fixed without panning or zooming, and use recordings of sufficient quality.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Piano Performance applicants should prepare approximately 25 minutes of repertoire representing three contrasting style periods, preferably from memory; applicants are encouraged to include a work composed after 1950; applicants are also encouraged to include a work by a composer whose background reflects a different racial, gender, gender-identity, sexual-identity, or cultural tradition than the standard repertoire.",
+            "value": "Prescreening repertoire: No separate prescreening repertoire is listed for MM Piano Performance on the UNCG School of Music graduate page. Final audition repertoire: Students should be prepared to present the following minimum repertoire, preferably from memory. Final audition repertoire: Prepare approximately 25 minutes of repertoire representing three contrasting style periods, preferably from memory. Final audition repertoire: Applicants are encouraged to include a work composed after 1950. Final audition repertoire: Applicants are encouraged to include a work by a composer who reflects a different racial, gender, gender-identity, sexual-identity, or cultural tradition than those found in the standard repertoire; this work may be from any period. Additional repertoire notes: UNCG links to aseatatthepiano.com for guidance on repertoire by composers outside the standard repertoire.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
               }
             ]
           },
           "deadlines": {
-            "value": "January 15: assistantship-consideration deadline for MM Performance All Others; July 1: application deadline for MM Performance All Others; 2025-2026 audition dates include January 17, February 14, and February 28, 2026; February 28 is listed as priority music-scholarship audition date.",
+            "value": "January 15: assistantship-consideration deadline for MM in Performance (All Others). July 1: application deadline for MM in Performance (All Others). December 6, 2025: posted 2025-26 audition date. January 31, 2026: posted 2025-26 audition date. February 14, 2026: posted 2025-26 audition date. February 28, 2026: posted 2025-26 audition date and priority deadline for music scholarship consideration. Program note: the School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks. Program note: to be considered for a Graduate Assistantship, applicants must have submitted a complete Graduate School application and complete an on-campus audition or interview by February 28. Program note: virtual applicants must submit audition videos no later than the Sunday before the scheduled live audition/interview date.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
               }
             ]
           },
           "englishScores": {
-            "value": "UNCG international requirements list proof of English proficiency for non-native English speakers; applicants should verify the current Graduate School test table for accepted TOEFL, IELTS, Duolingo, or waiver options because the admissions page houses the official score details.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Minimum scores: TOEFL iBT 79. Minimum scores: TOEFL iBT Special Home Edition 79. Minimum scores: TOEFL Essentials 9. Minimum scores: IELTS 6.5 Band Score. Minimum scores: Duolingo English Test 110. Minimum scores: ELS 112. Minimum scores: Kaplan English Advanced Level. Minimum scores: PTE Academic 67. Notes: use UNCG code 5913 for TOEFL and most exams. Notes: for IELTS, search for University of North Carolina Greensboro Graduate Admissions. Timing: English language proficiency scores must not be more than two years old from the date of application submission. Exemptions: English proficiency may be demonstrated by successful completion of INTERLINK Level 6. Exemptions: an applicant whose native language is not English is considered English proficient if the applicant is from a country where English is recognized as the primary official language, is or will be a graduate of a degree or certificate program from a U.S. regionally accredited university, or is or will be a graduate of a non-U.S. college or university where English is the primary language of instruction. Source note: the 2026-27 UNCG Graduate Admissions Catalog provides the clearest current TOEFL listing as 79 for iBT and iBT Special Home Edition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG International Requirements",
-                "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+                "label": "UNCG 2026-27 Graduate Admissions Catalog",
+                "url": "https://catalog.uncg.edu/admissions/graduate-admissions/"
               },
               {
                 "label": "UNCG Graduate Requirements",
                 "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              },
+              {
+                "label": "UNCG International Requirements",
+                "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply through the UNCG Graduate School application for the School of Music; required materials include transcripts, two recommendations, personal statement, and collaborative-piano audition/interview materials.",
+            "value": "Apply through the UNCG Graduate School online application. The School of Music graduate page directs applicants to the Graduate School application and lists the Master's application materials as the $65 application fee, transcripts from all institutions where coursework was completed, two letters of recommendation, and a personal statement. The page states that an undergraduate degree in music is required for all MM degree programs. Additional application requirements and supplemental materials are required for specific degrees. Collaborative Piano is listed within the Master of Music in Performance audition requirements. Applicants request an audition/interview date by submitting the Graduate School application. The School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
               }
             ]
           },
           "applicationFee": {
-            "value": "Graduate application fee is $65; current UNCG students may be eligible for waiver according to the School of Music graduate application page.",
+            "value": "Application portal: UNCG Graduate School online application. Application fee: $65 nonrefundable application processing fee. Notes: the School of Music graduate page lists a $65 application fee for Master's applicants. Notes: the Graduate Requirements page states the fee is not required for full-time UNCG employees, excluding student employees, and for McNair Scholars, Guarantee Scholars, MARC U-STAR Scholars, Mellon Mays Undergraduate Fellowship Program participants, RISE Network participants, STAMPS STEM students, TRIO program participants, and Military.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
+              },
+              {
+                "label": "UNCG Graduate Requirements",
+                "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano auditions are conducted by recorded performance, with live or in-person auditions possible by request to Dr. James Douglass; each audition includes an interview through Microsoft Teams on the posted audition date or in person; campus visits are optional; applicants will sight-read during the interview.",
+            "value": "All collaborative piano auditions for the Master's section are conducted through video recorded performance. Applicants who have a reason to request a live, in-person audition should contact Dr. James Douglass. Each audition includes an interview, either through Microsoft Teams on a posted audition date or in person on the scheduled audition date. Applicants are welcome to visit campus regardless of interview mode and may schedule a campus meeting with Dr. Douglass for additional information and conversation. Applicants will be asked to sight-read during the interview. Applicants should contact Dr. James Douglass as soon as they have completed the application materials to discuss or confirm audition repertoire and any other audition-process matters.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: Video materials should include four to five vocal art songs representing a variety of styles, composers, and historical periods, with poetic and word-for-word translations; Prescreening: Include a 15-minute program of instrumental works representing a variety of styles, composers, and historical periods; Prescreening: Choose either a solo work of approximately five minutes, preferably from memory, or an additional five minutes of instrumental works for a 20-minute instrumental total; Prescreening: Applicants are encouraged to include a work by a composer whose background reflects a different racial, gender, gender-identity, sexual-identity, or cultural tradition than the standard repertoire; Final audition repertoire: Official audition phase uses a 25 to 30 minute recital program with representative instrumental and vocal repertoire that does not duplicate the prescreen works; repertoire should represent a variety of styles, composers, and historical periods; sight-reading occurs during the live interview; applicants should contact Dr. Douglass to confirm repertoire.",
+            "value": "Prescreening repertoire: No separate prescreening phase is listed for MM Collaborative Piano on the Master's section of the UNCG School of Music graduate page; the posted requirement is a video recorded audition. Final audition repertoire: Video materials should include four to five vocal art songs representing a variety of styles, composers, and historical periods. Final audition repertoire: For the vocal art songs, applicants should include in their scores both a poetic translation and a word-for-word translation of the offered repertoire. Final audition repertoire: Prepare a 15-minute program of instrumental works representing a variety of styles, composers, and historical periods. Final audition repertoire: Choose one of two options: one solo work of approximately five minutes in length, preferably from memory; or an additional five minutes of instrumental works, for a 20-minute instrumental total. Final audition repertoire: Applicants are encouraged to include a work by a composer who reflects a different racial, gender, gender-identity, sexual-identity, or cultural tradition than those found in the standard repertoire; this work may be from any period. Additional repertoire notes: Representation of styles, composers, and historical periods can be achieved across both the vocal and instrumental works, such as German song and French chamber work. Additional repertoire notes: Applicants will sight-read during the interview. Additional repertoire notes: Applicants should contact Dr. James Douglass after completing application materials to discuss or confirm audition repertoire and other audition-process matters.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
               }
             ]
           },
           "deadlines": {
-            "value": "January 15: assistantship-consideration deadline for MM Performance All Others; July 1: application deadline for MM Performance All Others; 2025-2026 audition dates include January 17, February 14, and February 28, 2026; February 28 is listed as priority music-scholarship audition date.",
+            "value": "January 15: assistantship-consideration deadline for MM in Performance (All Others). July 1: application deadline for MM in Performance (All Others). December 6, 2025: posted 2025-26 audition date. January 31, 2026: posted 2025-26 audition date. February 14, 2026: posted 2025-26 audition date. February 28, 2026: posted 2025-26 audition date and priority deadline for music scholarship consideration. Program note: the School of Music encourages applicants to submit materials at least three weeks before deadlines because Graduate School processing from November through March can take three to four weeks. Program note: to be considered for a Graduate Assistantship, applicants must have submitted a complete Graduate School application and complete an on-campus audition or interview by February 28.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG Music Graduate Apply",
+                "label": "UNCG School of Music Graduate Admissions",
                 "url": "https://vpa.uncg.edu/music/apply/graduate/"
               }
             ]
           },
           "englishScores": {
-            "value": "UNCG international requirements list proof of English proficiency for non-native English speakers; applicants should verify the current Graduate School test table for accepted TOEFL, IELTS, Duolingo, or waiver options because the admissions page houses the official score details.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Minimum scores: TOEFL iBT 79. Minimum scores: TOEFL iBT Special Home Edition 79. Minimum scores: TOEFL Essentials 9. Minimum scores: IELTS 6.5 Band Score. Minimum scores: Duolingo English Test 110. Minimum scores: ELS 112. Minimum scores: Kaplan English Advanced Level. Minimum scores: PTE Academic 67. Notes: use UNCG code 5913 for TOEFL and most exams. Notes: for IELTS, search for University of North Carolina Greensboro Graduate Admissions. Timing: English language proficiency scores must not be more than two years old from the date of application submission. Exemptions: English proficiency may be demonstrated by successful completion of INTERLINK Level 6. Exemptions: an applicant whose native language is not English is considered English proficient if the applicant is from a country where English is recognized as the primary official language, is or will be a graduate of a degree or certificate program from a U.S. regionally accredited university, or is or will be a graduate of a non-U.S. college or university where English is the primary language of instruction. Source note: the 2026-27 UNCG Graduate Admissions Catalog provides the clearest current TOEFL listing as 79 for iBT and iBT Special Home Edition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNCG International Requirements",
-                "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+                "label": "UNCG 2026-27 Graduate Admissions Catalog",
+                "url": "https://catalog.uncg.edu/admissions/graduate-admissions/"
               },
               {
                 "label": "UNCG Graduate Requirements",
                 "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+              },
+              {
+                "label": "UNCG International Requirements",
+                "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
               }
             ]
           }
@@ -10774,12 +10802,28 @@
       ],
       "officialSources": [
         {
-          "label": "UNT Graduate Admissions",
+          "label": "UNT College of Music Graduate Admissions",
           "url": "https://music.unt.edu/admissions/graduate.html"
         },
         {
-          "label": "UNT Graduate Audition Requirements",
+          "label": "UNT College of Music Graduate Audition Requirements",
           "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
+        },
+        {
+          "label": "UNT College of Music Degree-Specific Graduate Requirements",
+          "url": "https://music.unt.edu/admissions/graduate-degree-specific.html"
+        },
+        {
+          "label": "UNT College of Music Admission Deadlines",
+          "url": "https://music.unt.edu/admissions/deadlines.html"
+        },
+        {
+          "label": "UNT Graduate Admissions Steps to Apply",
+          "url": "https://www.unt.edu/admissions/graduate/steps-to-apply.html"
+        },
+        {
+          "label": "UNT Graduate Admissions Deadline & Fees",
+          "url": "https://www.unt.edu/admissions/graduate/deadlines-fees.html"
         },
         {
           "label": "UNT English Language Proficiency",
@@ -10789,71 +10833,99 @@
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply to UNT Graduate Admissions through GradCAS first; after receiving the UNT Student ID, complete the College of Music application through Acceptd, which opens September 1 each year and serves as the application for audition, admission, and music merit awards.",
+            "value": "Apply to UNT Graduate Admissions through UNT Graduate CAS first. After applying to UNT, applicants receive a UNT Student ID number by email; the UNT Admissions Office processes the Student ID number two to three business days after application submission. Applicants cannot submit the College of Music application until they receive the Student ID number. Complete the College of Music application through Acceptd, which opens September 1 each year. The College of Music application is the application for audition, admission, and music merit awards. Applicants select Graduate Degrees as level, select the appropriate area and program, and submit the music application. For MM and DMA Performance, UNT lists required online music application materials as resume or curriculum vitae, repertoire list for the last five years, example of scholarly writing or statement of personal interest, and three letters of recommendation. Candidates for Master's and Doctoral Performance programs must pass an audition on the required repertoire for their instrument or voice. UNT states it no longer requires the GRE or UNT Graduate Writing Exam; admission decisions are made holistically based on the UNT application, College of Music application and supplemental materials, interview or audition, and other materials.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Admissions",
+                "label": "UNT College of Music Graduate Admissions",
                 "url": "https://music.unt.edu/admissions/graduate.html"
+              },
+              {
+                "label": "UNT College of Music Degree-Specific Graduate Requirements",
+                "url": "https://music.unt.edu/admissions/graduate-degree-specific.html"
+              },
+              {
+                "label": "UNT Graduate Admissions Steps to Apply",
+                "url": "https://www.unt.edu/admissions/graduate/steps-to-apply.html"
               }
             ]
           },
           "applicationFee": {
-            "value": "The College of Music application fee is $40; the UNT Graduate Admissions GradCAS application has a separate fee that is charged in GradCAS at submission.",
+            "value": "Application portal: UNT Graduate CAS plus College of Music Acceptd application. UNT Graduate CAS fee: $75 non-refundable application fee. College of Music application fee: $40. Notes: the UNT Graduate Admissions Deadline & Fees page says program application deadlines vary and applicants should refer to the intended program website for departmental deadlines that could be earlier. Notes: the College of Music graduate page says the College of Music application opens September 1 each year and serves as the application for audition, admission, and music merit awards.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Admissions",
+                "label": "UNT College of Music Graduate Admissions",
                 "url": "https://music.unt.edu/admissions/graduate.html"
+              },
+              {
+                "label": "UNT Graduate Admissions Steps to Apply",
+                "url": "https://www.unt.edu/admissions/graduate/steps-to-apply.html"
+              },
+              {
+                "label": "UNT Graduate Admissions Deadline & Fees",
+                "url": "https://www.unt.edu/admissions/graduate/deadlines-fees.html"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "All graduate areas require screening; screening is a preliminary audition round consisting of audition videos submitted through Acceptd; all screening and final audition videos must include both audio and video, be unedited, have no artificial audio enhancement, and be recorded within the past six months; final audition videos must include all required audition materials; some areas may require a live virtual component; for Piano, all graduate applicants submit a video screening recording to determine advancement; the screening repertoire is the same as the live audition repertoire; both on-campus and off-campus auditions are scheduled in January and February; a live audition is recommended for entering graduate performance students; all movements of a multi-movement work should be submitted in one continuous take; proof of UNT English Language Proficiency is required before an MM or DMA piano applicant can be scheduled for an audition or have a final video audition reviewed, and no admission or music award offer can be made until English proficiency is demonstrated.",
+            "value": "Applicants for admission to the MM or DMA degree programs in performance must pass an admission audition before a faculty panel. Live auditions are preferred for both music admission and award consideration. Auditions occur as either live audition/interview on campus in Denton or final video audition for applicants who cannot attend in person and/or who apply after live auditions are full and closed. Following review of a video audition, faculty may require an interview or virtual audition if additional information is needed. A screening, meaning a preliminary video audition, is required for live audition consideration. All graduate areas require screening. Screening videos and final audition videos must include both audio and video, be unedited and without artificial audio enhancement, and be recorded within the past six months. Applicants should check the quality and playability of videos before upload. Unless the instrument specifically indicates otherwise, all classical instrumental applicants are expected to audition without accompaniment. For Piano, all graduate piano applicants must submit a video screening recording to determine advancement in the audition process; the screening repertoire is the same as the live audition repertoire. Both on-campus and off-campus auditions are scheduled in January and February each year. A live audition is recommended for entering graduate performance students. All movements of a multi-movement work should be submitted in one continuous take. Piano English-proficiency note: to be scheduled for an audition or have a final video audition reviewed, all MM and DMA piano applicants must submit proof of UNT English Language Proficiency, either a standardized language test or official transcript of a U.S. degree completed or in progress; no admission or music award offer can be made until UNT English Language Proficiency is demonstrated. All new MM and DMA students who do not hold a BM in Performance from UNT must take the Graduate Piano Literature Examination during new graduate orientation.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Audition Requirements",
+                "label": "UNT College of Music Graduate Admissions",
+                "url": "https://music.unt.edu/admissions/graduate.html"
+              },
+              {
+                "label": "UNT College of Music Graduate Audition Requirements",
                 "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: All graduate piano applicants are required to submit a video screening recording; the repertoire for the screening is the same as the live audition repertoire; all movements of a multi-movement work should be submitted in one continuous take; Final audition repertoire: Master's Level comprises a fifteen-minute program from memory; Final audition repertoire: A Prelude and Fugue of J. S. Bach or a complete Toccata, Suite, or Partita from which the faculty will choose a few movements; Final audition repertoire: A complete Classical-era sonata; Final audition repertoire: A work from the Romantic, Impressionistic, or Contemporary periods.",
+            "value": "Prescreening repertoire: All graduate piano applicants are required to submit a video screening recording to determine advancement in the audition process. Prescreening repertoire: The repertoire for the screening is the same as listed for the live audition. Prescreening repertoire: All movements of a multi-movement work should be submitted in one continuous take. Final audition repertoire: Master's Level comprises a fifteen-minute program from memory, including the following. Final audition repertoire: A Prelude and Fugue of J. S. Bach or a complete Toccata, Suite, or Partita from which the faculty will choose a few movements. Final audition repertoire: A complete Classical-era sonata. Final audition repertoire: A work from the Romantic, Impressionistic, or Contemporary periods.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Audition Requirements",
+                "label": "UNT College of Music Graduate Audition Requirements",
                 "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
               }
             ]
           },
           "deadlines": {
-            "value": "September 1: College of Music application opens each year; November 1: Spring 2026 application deadline if the area accepts spring applications; November 1: Fall 2026 deadline for consideration for live audition/interview on the December audition date; December 1: preference deadline for January or February audition dates; February 1: final deadline to submit music application and video auditions for Piano applicants; mid-March: admission results notification; April 15: deadline to accept or decline admission offer.",
+            "value": "September 1: College of Music application opens each year. November 1: deadline to be considered for a live audition/interview on the December audition date for Fall admission according to the College of Music deadline page. December 1: preference deadline for January or February live audition/interview dates according to the College of Music deadline page. February 15: final deadline to submit the music application and video auditions for most audition areas. February 1: final deadline to submit video auditions/portfolios for Piano, Graduate Voice, Jazz Studies, Commercial Music, Critical Studies, and Electronics. Mid-March: applicants are notified of admission results by email or through Acceptd. April 15: admitted music majors are asked to accept or decline the offer of admission by April 15 each year. Program note: the College of Music Graduate Requirements page lists in-person audition/interview dates as Friday, December 5, 2025; Saturday, January 31, 2026; Saturday, February 7, 2026; Friday, February 20, 2026 for graduate applicants in Ethnomusicology, Musicology, Music Education, Music Theory, Percussion, Piano, Strings, Voice, and DMA Jazz only; and Saturday, February 28, 2026, with Graduate Voice auditions not available on that date. Program note: as of 2026-05-25, UNT's deadline page heading says Spring/Fall 2027 admission, but the posted audition-date list still shows 2025-2026 dates; applicants should confirm the updated audition calendar with the College of Music before relying on exact audition dates.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Admissions",
+                "label": "UNT College of Music Graduate Admissions",
                 "url": "https://music.unt.edu/admissions/graduate.html"
+              },
+              {
+                "label": "UNT College of Music Graduate Audition Requirements",
+                "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
+              },
+              {
+                "label": "UNT College of Music Admission Deadlines",
+                "url": "https://music.unt.edu/admissions/deadlines.html"
               }
             ]
           },
           "englishScores": {
-            "value": "All international applicants must show proof of English language proficiency. Accepted English proficiency exam minimums include TOEFL iBT 79 for exams taken before January 21, 2026, or TOEFL iBT 4 for exams taken on or after January 21, 2026; IELTS Academic 6.0 overall band; PTE 53; Duolingo English Test 100; Michigan English Test four-skill exam section scores of 54; or Cambridge C1 Advanced/C2 Proficiency at C1. TOEFL MyBest is excluded; ETS school code is 6481; tests must generally be taken within two years prior to applying. UNT also accepts listed exemption pathways, including citizenship or qualifying education in an approved English-speaking country, qualifying academic English coursework, and completion of UNT IELI Level 6.",
+            "value": "Minimum scores: TOEFL iBT 79 for exams taken before January 21, 2026. Minimum scores: TOEFL iBT 4 for exams taken on or after January 21, 2026. Minimum scores: IELTS Academic 6.0 overall band. Minimum scores: PTE 53. Minimum scores: Duolingo English Test 100. Minimum scores: Michigan English Test 4-skill exam section scores of 54. Minimum scores: Cambridge C1 Advanced/C2 Proficiency C1. Notes: TOEFL iBT excludes MyBest scores. Notes: submit TOEFL scores electronically through ETS using school code 6481. Notes: SAT 1 with 560 or higher on both Critical Reading and Writing and ACT English 21 or higher are also listed under high school/secondary school exam options. Timing: English proficiency tests must be taken within two years prior to applying, and test scores expire after two years. Notes: expired scores are accepted for students who have been continuously enrolled at a college or university in the U.S. since before the scores expired, but students must submit official score reports. Exemptions: ELP may be demonstrated through citizenship in an approved English-speaking country, qualifying high school/secondary school or college/university study in an approved country, completion of Level 6 at UNT's Intensive English Language Institute, or other listed exams/coursework. Program note: for Piano, proof of UNT English Language Proficiency is required before an MM or DMA applicant can be scheduled for an audition or have a final video audition reviewed, and no admission or music award offer can be made until this information is provided.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UNT English Language Proficiency",
                 "url": "https://www.unt.edu/admissions/international/english-language-requirements.html"
               },
               {
-                "label": "UNT Graduate Audition Requirements",
+                "label": "UNT College of Music Graduate Audition Requirements",
                 "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
               }
             ]
@@ -10861,75 +10933,91 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply to UNT Graduate Admissions through GradCAS first; after receiving the UNT Student ID, complete the College of Music application through Acceptd and select the collaborative piano program/area as instructed.",
+            "value": "Apply to UNT Graduate Admissions through UNT Graduate CAS first. After receiving the UNT Student ID number, complete the College of Music application through Acceptd, which opens September 1 each year and serves as the application for audition, admission, and music merit awards. The applicant should select Graduate Degrees as level and select the relevant keyboard/collaborative piano program or area in the Acceptd music application. Collaborative Piano is listed in the graduate audition requirements as a separate program area. Applicants must submit a completed online application that includes a comprehensive repertoire list for all genres; the audition will not be scheduled until all materials are received.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Admissions",
+                "label": "UNT College of Music Graduate Admissions",
                 "url": "https://music.unt.edu/admissions/graduate.html"
+              },
+              {
+                "label": "UNT College of Music Graduate Audition Requirements",
+                "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
               }
             ]
           },
           "applicationFee": {
-            "value": "The College of Music application fee is $40; the UNT Graduate Admissions GradCAS application has a separate fee that is charged in GradCAS at submission.",
+            "value": "Application portal: UNT Graduate CAS plus College of Music Acceptd application. UNT Graduate CAS fee: $75 non-refundable application fee. College of Music application fee: $40. Notes: the UNT Graduate Admissions Deadline & Fees page says program application deadlines vary and applicants should refer to the intended program website for departmental deadlines that could be earlier. Notes: the College of Music graduate page says the College of Music application opens September 1 each year and serves as the application for audition, admission, and music merit awards.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Admissions",
+                "label": "UNT College of Music Graduate Admissions",
                 "url": "https://music.unt.edu/admissions/graduate.html"
+              },
+              {
+                "label": "UNT Graduate Admissions Steps to Apply",
+                "url": "https://www.unt.edu/admissions/graduate/steps-to-apply.html"
+              },
+              {
+                "label": "UNT Graduate Admissions Deadline & Fees",
+                "url": "https://www.unt.edu/admissions/graduate/deadlines-fees.html"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano applicants submit a completed online application including a comprehensive repertoire list for all genres; the audition will not be scheduled until all materials are received; screening recordings must state the applicant's name and degree sought at the beginning or embed that information in the video; recordings should be unedited, reflect one take as in live performance, and be no more than one year old; screening recordings are due on or before December 1 and are reviewed by collaborative piano faculty; applicants applying for live audition are notified before the end of December; UNT provides partners for all in-person auditions; live audition is strongly recommended; final audition by recording is allowed, but UNT cannot provide partners for recorded auditions and candidates auditioning by recording may be requested to interview via Zoom.",
+            "value": "To be considered for a live audition, Collaborative Piano applicants must submit a completed online application that includes a comprehensive repertoire list for all genres. The audition will not be scheduled until all materials are received. Collaborative piano performance applicants submit screening recordings in the categories listed by UNT. At the beginning of the screening recording, applicants should state their name and degree sought or embed that information in the video itself. Applicants should check both quality and playability before upload. Recordings should be unedited, reflect one take as in live performance, and be no more than one year old at the time of submission. Recordings are to be submitted on or before December 1 and are reviewed by the collaborative piano faculty. Applicants applying for live audition are notified before the end of December of the screening result. UNT provides partners for all in-person auditions, and the listed live-audition repertoire is required. Live audition is strongly recommended, but final audition by recording is allowed. If auditioning via recording, applicants should state at the beginning of the recordings their name, degree and major sought, and that the recording is the final audition. UNT cannot provide partners for recorded auditions. Candidates auditioning by recording may be requested to interview via Zoom. Collaborative Piano English-proficiency note: because of the demands of the program and the importance of effective communication, all MM and DMA applicants must submit proof of English Language Proficiency, either a standardized language test or an official transcript of a U.S. degree completed or in progress, before they can be scheduled for a live audition. No admission or music award offer can be made until this information is provided. Music awards are not available for students who choose to attend IELI. Questions should be directed to Professor Elvia Puccinelli at least two weeks before any deadlines.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Audition Requirements",
+                "label": "UNT College of Music Graduate Audition Requirements",
                 "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening: Master's Level screening materials include 15-30 minutes of instrumental duo repertoire; Prescreening: 10-20 minutes of vocal repertoire representing several styles and languages; Prescreening: One solo work, memorized, 5-10 minutes in length; Prescreening: A video introducing yourself and discussing collaborative experience and professional goals; Prescreening: Optional videos of coaching, conducting, or teaching are welcome, and additional performance recordings may be submitted as supplementary material; Final audition repertoire: Beethoven Cello Sonata Op. 69 in A major, first movement, until recapitulation; Final audition repertoire: Strauss Allerseelen in E-flat; Final audition repertoire: Faure Mandoline in A-flat; Final audition repertoire: Sing and play Barber The Daisies in any key and any octave; Final audition repertoire: One solo work, memorized, 5-10 minutes in length; Final audition repertoire: Sightreading; Final audition repertoire: Discussion of past work and future goals.",
+            "value": "Prescreening repertoire: Master's Level screening materials include 15-30 minutes of instrumental duo repertoire. Prescreening repertoire: Master's Level screening materials include 10-20 minutes of vocal repertoire representing several styles and languages. Prescreening repertoire: Master's Level screening materials include one solo work, memorized, 5-10 minutes in length. Prescreening repertoire: Master's Level screening materials include a video in which the applicant introduces themself and discusses collaborative experience and professional goals. Prescreening repertoire: Optional videos of coaching, conducting, or teaching are welcome. Prescreening repertoire: Additional performance recordings, including individual selections, recital sets or complete performances, may be submitted as supplementary material to give the fullest picture of the applicant's artistry and accomplishments. Final audition repertoire: Beethoven Cello Sonata Op. 69 in A major, first movement, until recapitulation. Final audition repertoire: Strauss Allerseelen in E-flat. Final audition repertoire: Faure Mandoline in A-flat. Final audition repertoire: Sing and play Barber The Daisies in any key, singing in any octave preferred by the applicant. Final audition repertoire: One solo work, memorized, 5-10 minutes in length. Final audition repertoire: Sightreading. Final audition repertoire: Discussion of past work and future goals. Additional repertoire notes: for final audition by recording, the live audition repertoire must be included as part of the total recordings submitted.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Audition Requirements",
+                "label": "UNT College of Music Graduate Audition Requirements",
                 "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
               }
             ]
           },
           "deadlines": {
-            "value": "September 1: College of Music application opens each year; November 1: Spring 2026 application deadline if the area accepts spring applications; November 1: Fall 2026 deadline for consideration for live audition/interview on the December audition date; December 1: Collaborative Piano screening recordings due and preference deadline for January or February audition dates; February 15: final deadline for most areas and recorded final collaborative-piano audition materials if auditioning by recording; mid-March: admission results notification; April 15: deadline to accept or decline admission offer.",
+            "value": "September 1: College of Music application opens each year. November 1: deadline to be considered for a live audition/interview on the December audition date for Fall admission according to the College of Music deadline page. December 1: Collaborative Piano screening recordings are due on or before December 1; December 1 is also the preference deadline for January or February live audition/interview dates according to the College of Music deadline page. Before end of December: applicants applying for live audition are notified of the collaborative piano screening result. February 15: final deadline to submit the music application and video auditions for most audition areas; Collaborative Piano candidates auditioning via recording may submit final audition recordings any time before February 15 by attaching them to a message in Acceptd. Mid-March: applicants are notified of admission results by email or through Acceptd. April 15: admitted music majors are asked to accept or decline the offer of admission by April 15 each year. Program note: the College of Music Graduate Requirements page lists in-person audition/interview dates as Friday, December 5, 2025; Saturday, January 31, 2026; Saturday, February 7, 2026; Friday, February 20, 2026 for specific graduate areas; and Saturday, February 28, 2026, with Graduate Voice auditions not available on that date. Program note: as of 2026-05-25, UNT's deadline page heading says Spring/Fall 2027 admission, but the posted audition-date list still shows 2025-2026 dates; applicants should confirm the updated audition calendar with the College of Music before relying on exact audition dates.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UNT Graduate Admissions",
+                "label": "UNT College of Music Graduate Admissions",
                 "url": "https://music.unt.edu/admissions/graduate.html"
               },
               {
-                "label": "UNT Graduate Audition Requirements",
+                "label": "UNT College of Music Graduate Audition Requirements",
                 "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
+              },
+              {
+                "label": "UNT College of Music Admission Deadlines",
+                "url": "https://music.unt.edu/admissions/deadlines.html"
               }
             ]
           },
           "englishScores": {
-            "value": "All international applicants must show proof of English language proficiency. Accepted English proficiency exam minimums include TOEFL iBT 79 for exams taken before January 21, 2026, or TOEFL iBT 4 for exams taken on or after January 21, 2026; IELTS Academic 6.0 overall band; PTE 53; Duolingo English Test 100; Michigan English Test four-skill exam section scores of 54; or Cambridge C1 Advanced/C2 Proficiency at C1. TOEFL MyBest is excluded; ETS school code is 6481; tests must generally be taken within two years prior to applying. UNT also accepts listed exemption pathways, including citizenship or qualifying education in an approved English-speaking country, qualifying academic English coursework, and completion of UNT IELI Level 6.",
+            "value": "Minimum scores: TOEFL iBT 79 for exams taken before January 21, 2026. Minimum scores: TOEFL iBT 4 for exams taken on or after January 21, 2026. Minimum scores: IELTS Academic 6.0 overall band. Minimum scores: PTE 53. Minimum scores: Duolingo English Test 100. Minimum scores: Michigan English Test 4-skill exam section scores of 54. Minimum scores: Cambridge C1 Advanced/C2 Proficiency C1. Notes: TOEFL iBT excludes MyBest scores. Notes: submit TOEFL scores electronically through ETS using school code 6481. Notes: SAT 1 with 560 or higher on both Critical Reading and Writing and ACT English 21 or higher are also listed under high school/secondary school exam options. Timing: English proficiency tests must be taken within two years prior to applying, and test scores expire after two years. Notes: expired scores are accepted for students who have been continuously enrolled at a college or university in the U.S. since before the scores expired, but students must submit official score reports. Exemptions: ELP may be demonstrated through citizenship in an approved English-speaking country, qualifying high school/secondary school or college/university study in an approved country, completion of Level 6 at UNT's Intensive English Language Institute, or other listed exams/coursework. Program note: for Collaborative Piano, proof of English Language Proficiency is required before all MM and DMA applicants can be scheduled for a live audition, and no admission or music award offer can be made until this information is provided. Music awards are not available for students who choose to attend IELI.",
             "status": "verified",
-            "retrievedAt": "2026-05-22",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UNT English Language Proficiency",
                 "url": "https://www.unt.edu/admissions/international/english-language-requirements.html"
               },
               {
-                "label": "UNT Graduate Audition Requirements",
+                "label": "UNT College of Music Graduate Audition Requirements",
                 "url": "https://music.unt.edu/admissions/graduate-repertoire.html"
               }
             ]
