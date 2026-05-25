@@ -5891,6 +5891,14 @@
           "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/"
         },
         {
+          "label": "Illinois Graduate Degrees",
+          "url": "https://music.illinois.edu/admissions/graduate/graduate-degrees/"
+        },
+        {
+          "label": "Illinois Performance and Literature",
+          "url": "https://music.illinois.edu/admissions/graduate/graduate-degrees/performance-and-literature-voice/"
+        },
+        {
           "label": "Illinois Audition Dates and Requirements",
           "url": "https://music.illinois.edu/admissions/applicant-auditions/"
         },
@@ -5903,43 +5911,55 @@
           "url": "https://music.illinois.edu/admissions/applicant-auditions/keyboard/collaborative-piano/"
         },
         {
-          "label": "Illinois International Graduate Applicants",
+          "label": "Illinois Graduate Application Instructions",
+          "url": "https://www.grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application"
+        },
+        {
+          "label": "Illinois School of Music International Applicants",
+          "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/english-proficiency-exams/"
+        },
+        {
+          "label": "Illinois Graduate College International Applicants",
           "url": "https://grad.illinois.edu/admissions/international-applicants"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Complete the University of Illinois Graduate College application for the School of Music, including transcripts, three letters of reference, academic statement and short personal statements, resume/CV, English proficiency exam where required, and any program-specific requirements.",
+            "value": "Complete the University of Illinois Graduate College application for the School of Music. Required materials include transcripts from every institution from which the applicant has earned a degree, three letters of reference due by the application deadline, one academic statement, short personal statements, resume or CV, English proficiency score if required, and any program-specific requirements. Performance and Literature applicants audition on their primary instrument and upload a repertoire list of all works studied and performed to the Program Specific Question section of the University Graduate Application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Graduate Application Process",
                 "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/"
+              },
+              {
+                "label": "Illinois Performance and Literature",
+                "url": "https://music.illinois.edu/admissions/graduate/graduate-degrees/performance-and-literature-voice/"
               }
             ]
           },
           "applicationFee": {
-            "value": "Graduate College application fee is $90 for both domestic and international applicants for most current graduate applications; confirm exact amount in the Graduate College application before submission.",
+            "value": "Graduate College application fee: $90 for domestic applicants, effective Spring 2026. Graduate College application fee: $90 for international applicants. Notes: Fall 2025 domestic application fee was $70. The fee is paid by credit card after submission, must be paid before the program deadline, is non-refundable, and the application is not reviewed until the fee is processed. Fee waivers or exemptions are listed for eligible domestic applicants; international applicants are generally not eligible unless applying under an approved exchange agreement with an application fee waiver.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Graduate Application Instructions",
                 "url": "https://www.grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application"
-              },
-              {
-                "label": "Illinois College of Education Graduate Apply",
-                "url": "https://education.illinois.edu/programs/grad/how-to-apply"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "All graduate piano applicants submit prescreening recordings by December 1; prescreening recordings are uploaded directly to the Graduate College application; applicants who pass prescreening are invited to an on-campus audition or may submit a final audition recording; applicants choosing recorded audition upload final audition recording to the Graduate College application and should be prepared to play selections in a live online interview with faculty.",
+            "value": "Performance and Literature applicants must audition on their primary instrument. All graduate piano applicants must submit prescreening recordings by December 1 through the Graduate College application. All audition repertoire, including prescreening materials, must be performed from memory. Applicants who pass prescreening are invited to an on-campus audition or may submit a final audition recording. Applicants who choose a recorded final audition upload the final recording to the Graduate College application and should be ready to play selections from that submitted repertoire in a live online interview with faculty. On-campus auditions are strongly encouraged after prescreening. Piano Performance graduate students may also be considered for Vocal Coaching and Accompanying assistantships.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "Illinois Performance and Literature",
+                "url": "https://music.illinois.edu/admissions/graduate/graduate-degrees/performance-and-literature-voice/"
+              },
               {
                 "label": "Illinois Piano Audition Requirements",
                 "url": "https://music.illinois.edu/admissions/applicant-auditions/keyboard/piano-audition-requirements/"
@@ -5947,9 +5967,9 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening requirements: All audition repertoire, including prescreening materials, must be performed from memory; Prescreening requirements: Selections should include repertoire representing three contrasting stylistic periods; Prescreening requirements: Each piece must be performed in a single, unedited take; Prescreening requirements: Works consisting of multiple sections or movements, such as a Bach Well-Tempered Clavier Prelude and Fugue or Brahms Klavierstucke Op. 119, must be recorded in one take; Prescreening requirements: A complete sonata is not required, but if a sonata is part of the program, an Allegro movement must be included; Final audition repertoire: Graduate applicants present an audition program approximately the length of a full recital; Final audition repertoire: Program must include a major work from the Baroque, Classical, Romantic, and contemporary eras, with contemporary defined as twentieth century to the present; Final audition repertoire: Each piece must be performed in a single, unedited take for recordings; Final audition repertoire: Files should be clearly labeled with composer and title, sound should be high quality, piano in tune, lighting proper, and camera positioned to show full range of movement, especially head, hands, and feet.",
+            "value": "Prescreening repertoire: All graduate piano applicants submit prescreening recordings by December 1. Prescreening repertoire: All audition repertoire, including the prescreening material, must be memorized. Prescreening repertoire: Selections should represent three contrasting stylistic periods. Prescreening repertoire: Each piece must be recorded in one unedited take. Prescreening repertoire: Multi-section or multi-movement works, such as a Bach Well-Tempered Clavier Prelude and Fugue or Brahms Klavierstucke Op. 119, must be recorded as one take. Prescreening repertoire: A complete sonata is not required, but if a sonata is included in the program, an Allegro movement must be included. Prescreening repertoire: Prescreening recordings are uploaded directly to the Graduate College application. Final audition repertoire: Applicants who advance through prescreening are strongly encouraged to audition on campus. Final audition repertoire: Graduate applicants present a program of approximately full-recital length. Final audition repertoire: The program must include a major work from each of the Baroque, Classical, Romantic, and contemporary eras. Final audition repertoire: Contemporary means twentieth century to the present. Additional repertoire notes: Applicants submitting a final recorded audition upload the recording to the Graduate College application and should be prepared to play selections from the recorded repertoire in a live online faculty interview. Additional repertoire notes: For prescreening and final recordings, each piece must be performed in one unedited take. Additional repertoire notes: Files should be labeled with composer name and work title; sound should be high quality; the piano should be in tune; lighting should be proper; camera placement should show full movement and use of the instrument, especially head, hands, and feet.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Piano Audition Requirements",
@@ -5958,23 +5978,31 @@
             ]
           },
           "deadlines": {
-            "value": "September 1: Graduate College Music Application opens for Fall 2026; December 1: Application deadline for all programs except Summer-Only MME; December 1: Prescreening deadline for piano performance; January 15: Deadline to upload audition recording for applicants submitting video audition in lieu of live audition; January-March 15: Admission decisions sent on rolling basis; March 15-April 15: Merit-based financial aid notification; April 15: Graduate intent-to-enroll deadline.",
+            "value": "September 1: Graduate College Music Application opens for Fall 2026. December 1: Application deadline for all programs except Summer-Only MME. December 1: Prescreening deadline for conducting, flute, saxophone, piano performance, and voice. January 15: Graduate deadline to upload audition recording for applicants submitting a video audition instead of a live audition. February 15: Summer MME application deadline for Summer 2026. January-March 15: Admission decisions sent on a rolling basis by degree program; most applicants hear by March 15. March 15-April 15: Merit-based financial aid notification sent. April 15: Graduate deadline to submit intent to enroll. Audition dates: on-campus graduate audition dates include December 12-13, 2025; January 23-24, 2026; and February 6-7, 2026, subject to faculty availability.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Graduate Application Process",
                 "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/"
+              },
+              {
+                "label": "Illinois Audition Dates and Requirements",
+                "url": "https://music.illinois.edu/admissions/applicant-auditions/"
               }
             ]
           },
           "englishScores": {
-            "value": "Graduate admission English minimums: TOEFL iBT or Home Edition limited status 79 before January 21, 2026 or 4.0 after January 20, 2026; full status 103 before January 21, 2026 or 5.0 after January 20, 2026; IELTS Academic limited 6.5 and full 7.5; Duolingo limited 115 and full 135; TOEFL Essentials, TOEFL MyBest, and IELTS One Skill Retake are not accepted; teaching assistantship spoken-English requirements are separate.",
+            "value": "Minimum scores: School of Music Master of Music applicants, excluding MME and Musicology, must provide TOEFL iBT 90, IELTS 6.5, or Duolingo 120 unless exempt. Minimum scores: IELTS must include 6 or higher in all sub-sections for Master of Music applicants, excluding MME and Musicology. Timing: Official TOEFL iBT, IELTS, or Duolingo score reports must be submitted by December 1 for full admission consideration. Timing: Scores reported after December 1 may be accepted, but full admission or audition consideration is not guaranteed; scores are not accepted after February 1, 2026. Timing: For Fall 2026, test scores must be dated no earlier than August 24, 2024. Notes: TOEFL/ETS scores should be sent with institution code 1836 and department code 00; IELTS scores should be sent electronically to the University of Illinois Urbana Champaign Graduate account; Duolingo scores should be sent to University of Illinois, Urbana-Champaign Graduate Admissions. Notes: Graduate College general English requirements and placement rules still apply, including possible English Placement Test coursework for students below full-status minimums. Teaching assistantship: applicants seeking teaching assistantship consideration need TOEFL iBT speaking 24 or IELTS speaking 8; Duolingo cannot be used to satisfy the teaching assistant English proficiency requirement. Exemptions: School of Music lists exemptions for some MM, MME, and Artist Diploma applicants with a 4-year bachelor's degree from an approved English-primary country and English-primary institution; teaching-assistantship applicants must still meet TA spoken-English rules.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Illinois International Graduate Applicants",
+                "label": "Illinois School of Music International Applicants",
+                "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/english-proficiency-exams/"
+              },
+              {
+                "label": "Illinois Graduate College International Applicants",
                 "url": "https://grad.illinois.edu/admissions/international-applicants"
               }
             ]
@@ -5982,13 +6010,17 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Complete the University of Illinois Graduate College application for the School of Music; Collaborative Piano M.M. applicants complete prescreening and audition requirements through the graduate application process.",
+            "value": "Complete the University of Illinois Graduate College application for the School of Music. Required materials include transcripts from every institution from which the applicant has earned a degree, three letters of reference due by the application deadline, one academic statement, short personal statements, resume or CV, English proficiency score if required, and program-specific materials. The School of Music audition page lists Collaborative Piano as a Master of Music program under Keyboard Auditions. Collaborative Piano MM applicants submit prescreening materials, a repertoire list, and final audition materials through the graduate application process as described on the Collaborative Piano audition page.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Graduate Application Process",
                 "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/"
+              },
+              {
+                "label": "Illinois Audition Dates and Requirements",
+                "url": "https://music.illinois.edu/admissions/applicant-auditions/"
               },
               {
                 "label": "Illinois Collaborative Piano Audition Requirements",
@@ -5997,25 +6029,25 @@
             ]
           },
           "applicationFee": {
-            "value": "Graduate College application fee is $90 for both domestic and international applicants for most current graduate applications; confirm exact amount in the Graduate College application before submission.",
+            "value": "Graduate College application fee: $90 for domestic applicants, effective Spring 2026. Graduate College application fee: $90 for international applicants. Notes: Fall 2025 domestic application fee was $70. The fee is paid by credit card after submission, must be paid before the program deadline, is non-refundable, and the application is not reviewed until the fee is processed. Fee waivers or exemptions are listed for eligible domestic applicants; international applicants are generally not eligible unless applying under an approved exchange agreement with an application fee waiver.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Graduate Application Instructions",
                 "url": "https://www.grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application"
-              },
-              {
-                "label": "Illinois College of Education Graduate Apply",
-                "url": "https://education.illinois.edu/programs/grad/how-to-apply"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Collaborative Piano M.M. applicants submit a prescreening recording and repertoire list; candidates needing Illinois to provide a collaborator for live audition should contact Dr. Chi-Chen Wu at least two weeks before the audition date; candidates submitting recorded video in lieu of on-campus audition upload final recording to the Graduate College application and should be prepared to play selections from submitted repertoire in a live online interview; a collaborator is not required for the interview; all prospective collaborative piano students who complete an audition are automatically considered for collaborative piano teaching assistantships.",
+            "value": "Collaborative Piano is listed by the School of Music as a Master of Music program under Keyboard Auditions. Applicants submit a prescreening recording and a repertoire list of vocal and instrumental duo music. Live audition applicants choose repertoire from two categories and may bring their own instrumentalist. Applicants who need the school to provide a collaborator, or who have questions, should contact Dr. Chi-Chen Wu at least two weeks before the audition date. Applicants who submit a recorded video instead of an on-campus audition upload the final recording to the Graduate College application and should be ready to play selections from the submitted repertoire in a live online faculty interview. A collaborator is not required for the interview. Prospective Collaborative Piano students who complete an audition are automatically considered for collaborative piano teaching assistantships.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "Illinois Audition Dates and Requirements",
+                "url": "https://music.illinois.edu/admissions/applicant-auditions/"
+              },
               {
                 "label": "Illinois Collaborative Piano Audition Requirements",
                 "url": "https://music.illinois.edu/admissions/applicant-auditions/keyboard/collaborative-piano/"
@@ -6023,9 +6055,9 @@
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening requirements: Applicants submit a prescreening recording with two selections from these choices: one movement of a Beethoven violin or cello sonata and one movement of another duo sonata; Prescreening requirements: Applicants also submit a repertoire list of vocal and instrumental duo music; Final audition repertoire: Live auditions require choosing a selection from each of two categories: one complete Beethoven violin or cello sonata, and the first movement of a Brahms violin, clarinet/viola, or cello sonata; Final audition repertoire: Recorded auditions must include at least 30 minutes of duo music representing a variety of musical styles, including the required repertoire listed for live auditions; Final audition repertoire: Art songs are welcome but not required; Final audition repertoire: The majority, 80 percent, of recorded material should be music written originally for piano and another instrument, such as sonatas and duo pieces, not concerti or arias; Final audition repertoire: Each piece or sonata movement must be performed in a single, unedited take; Final audition repertoire: Every file should be clearly labeled with composer and work title, sound should be high quality, piano in tune, lighting proper, and camera positioned to clearly capture full range of movement of both performers.",
+            "value": "Prescreening repertoire: Applicants must submit a prescreening recording with two selections. Prescreening repertoire: One selection is one movement of a Beethoven violin or cello sonata. Prescreening repertoire: The second selection is one movement of another duo sonata. Prescreening repertoire: Applicants also submit a repertoire list of vocal and instrumental duo music. Final audition repertoire: For live auditions, choose one selection from each of two categories. Final audition repertoire: Category 1 is one complete Beethoven violin or cello sonata. Final audition repertoire: Category 2 is the first movement of a Brahms violin, clarinet/viola, or cello sonata. Final audition repertoire: For recorded auditions, the recording must include at least 30 minutes of duo music in varied musical styles. Final audition repertoire: Recorded audition repertoire must include the required repertoire listed for live auditions. Final audition repertoire: Art songs are welcome but not required. Final audition repertoire: Most of the recorded material, about 80 percent, should be music originally written for piano and another instrument, such as sonatas and duo pieces, rather than concerti or arias. Additional repertoire notes: Each piece or sonata movement must be performed in one unedited take. Additional repertoire notes: Files should be labeled with composer name and work title; sound should be high quality; the piano should be in tune; proper lighting should be used; camera placement should clearly capture both performers' full range of movement.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Collaborative Piano Audition Requirements",
@@ -6034,13 +6066,17 @@
             ]
           },
           "deadlines": {
-            "value": "September 1: Graduate College Music Application opens for Fall 2026; December 1: Application deadline; January 15: Deadline to upload audition recording for applicants submitting video audition in lieu of live audition; January-March 15: Admission decisions sent on rolling basis; March 15-April 15: Merit-based financial aid notification; April 15: Graduate intent-to-enroll deadline.",
+            "value": "September 1: Graduate College Music Application opens for Fall 2026. December 1: Application deadline for all programs except Summer-Only MME. January 15: Graduate deadline to upload audition recording for applicants submitting a video audition instead of a live audition. February 15: Summer MME application deadline for Summer 2026. January-March 15: Admission decisions sent on a rolling basis by degree program; most applicants hear by March 15. March 15-April 15: Merit-based financial aid notification sent. April 15: Graduate deadline to submit intent to enroll. Audition dates: on-campus graduate audition dates include December 12-13, 2025; January 23-24, 2026; and February 6-7, 2026, subject to faculty availability. Collaborative Piano note: if the applicant needs the school to provide a collaborator for the live audition, contact Dr. Chi-Chen Wu at least two weeks before the audition date.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "Illinois Graduate Application Process",
                 "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/"
+              },
+              {
+                "label": "Illinois Audition Dates and Requirements",
+                "url": "https://music.illinois.edu/admissions/applicant-auditions/"
               },
               {
                 "label": "Illinois Collaborative Piano Audition Requirements",
@@ -6049,12 +6085,16 @@
             ]
           },
           "englishScores": {
-            "value": "Graduate admission English minimums: TOEFL iBT or Home Edition limited status 79 before January 21, 2026 or 4.0 after January 20, 2026; full status 103 before January 21, 2026 or 5.0 after January 20, 2026; IELTS Academic limited 6.5 and full 7.5; Duolingo limited 115 and full 135; TOEFL Essentials, TOEFL MyBest, and IELTS One Skill Retake are not accepted; teaching assistantship spoken-English requirements are separate.",
+            "value": "Minimum scores: School of Music Master of Music applicants, excluding MME and Musicology, must provide TOEFL iBT 90, IELTS 6.5, or Duolingo 120 unless exempt. Minimum scores: IELTS must include 6 or higher in all sub-sections for Master of Music applicants, excluding MME and Musicology. Timing: Official TOEFL iBT, IELTS, or Duolingo score reports must be submitted by December 1 for full admission consideration. Timing: Scores reported after December 1 may be accepted, but full admission or audition consideration is not guaranteed; scores are not accepted after February 1, 2026. Timing: For Fall 2026, test scores must be dated no earlier than August 24, 2024. Notes: TOEFL/ETS scores should be sent with institution code 1836 and department code 00; IELTS scores should be sent electronically to the University of Illinois Urbana Champaign Graduate account; Duolingo scores should be sent to University of Illinois, Urbana-Champaign Graduate Admissions. Notes: Graduate College general English requirements and placement rules still apply, including possible English Placement Test coursework for students below full-status minimums. Teaching assistantship: applicants seeking teaching assistantship consideration need TOEFL iBT speaking 24 or IELTS speaking 8; Duolingo cannot be used to satisfy the teaching assistant English proficiency requirement. Exemptions: School of Music lists exemptions for some MM, MME, and Artist Diploma applicants with a 4-year bachelor's degree from an approved English-primary country and English-primary institution; teaching-assistantship applicants must still meet TA spoken-English rules.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "Illinois International Graduate Applicants",
+                "label": "Illinois School of Music International Applicants",
+                "url": "https://music.illinois.edu/admissions/graduate/graduate-application-process/english-proficiency-exams/"
+              },
+              {
+                "label": "Illinois Graduate College International Applicants",
                 "url": "https://grad.illinois.edu/admissions/international-applicants"
               }
             ]
