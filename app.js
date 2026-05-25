@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-university-of-oregon-audit-v59";
+const DATA_VERSION = "2026-05-25-university-of-southern-california-audit-v60";
 
 const state = {
   data: null,

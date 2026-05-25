@@ -11346,156 +11346,188 @@
       "sourceStatus": "verified",
       "officialSources": [
         {
-          "label": "USC Thornton Graduate Application Requirements",
+          "label": "USC Thornton Keyboard Studies Graduate Requirements",
           "url": "https://music.usc.edu/admission/appreqs/keyboard-studies-graduate/"
         },
         {
-          "label": "USC Thornton Keyboard Collaborative Arts",
+          "label": "USC Thornton Keyboard Collaborative Arts Graduate Requirements",
           "url": "https://music.usc.edu/admission/appreqs/keyboard-collaborative-arts-graduate/"
         },
         {
-          "label": "USC Thornton Test Scores",
+          "label": "USC Thornton Application Deadlines",
+          "url": "https://music.usc.edu/admission/deadlines/"
+        },
+        {
+          "label": "USC Thornton Test Score Guidelines",
           "url": "https://music.usc.edu/admission/testscore/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Submit the USC Graduate Application and Thornton SlideRoom materials as instructed by USC Thornton.",
+            "value": "Apply for Fall admission through two required forms: the USC Application for Graduate Admission and the USC Thornton SlideRoom application. The Keyboard Studies graduate requirements apply to MM, Graduate Certificate, and DMA applicants in classical piano; harpsichord applicants are directed to Early Music requirements. All required materials must be received by December 1. Materials are not accepted by mail or email. If both the USC Graduate Application and Thornton SlideRoom form are not submitted by the deadline, the application is removed from consideration. Applicants complete the USC Graduate Application first enough to reach the Program Materials section, where the Thornton SlideRoom portal link appears. The Thornton supplemental materials must be uploaded through SlideRoom, and the SlideRoom form must be submitted before the USC Graduate Application. Applicants then enter the SlideRoom confirmation number in the USC Graduate Application questions tab. Required or relevant Thornton materials include prescreen recorded audition, resume, repertoire list, optional statement of purpose, transcripts uploaded into both USC Graduate Application and SlideRoom, 1-3 recommendation letters, and the Thornton waiver and release of liability form.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Studies graduate requirements",
+                "label": "USC Thornton Keyboard Studies Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-studies-graduate/"
+              },
+              {
+                "label": "USC Thornton Application Deadlines",
+                "url": "https://music.usc.edu/admission/deadlines/"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Prescreening is required for MM Piano. USC Thornton reviews prescreening recordings before inviting applicants to a final audition. Final audition instructions are provided by the department after prescreen review.",
+            "value": "Auditions are required in two rounds. Keyboard Studies applicants must submit prescreen recordings for faculty review; video recordings are required and audio-only recordings are not accepted. Prescreen results determine whether the applicant is invited to a live audition, and results are sent by email in late December. Current USC Thornton students applying for a graduate program are not required to submit a prescreen recording, but must indicate current Thornton status on the application or they will not automatically be scheduled for a live audition. No concerti are accepted as audition pieces, and all audition pieces must be memorized. Applicants who do not prepare the full audition program according to the prescreen guidelines will not be permitted to perform a live audition and will not be offered admission. Each movement of each prescreen piece must be uploaded as a separate file; for example, Bach prelude and fugue must be separate files, and each Beethoven sonata movement must be separate. Each uploaded file must be labeled in SlideRoom with composer, title, and movement if applicable. Invited applicants receive prescreen decision and audition appointment details in the same email in late December. Live auditions typically occur in late January and early February. Applicants should not make travel plans until they receive confirmation of the audition appointment. USC strongly encourages in-person live auditions. Applicants who live more than 100 miles from campus and cannot travel to Los Angeles because of financial hardship may request an online audition in SlideRoom. Applicants living within 100 miles of campus must audition in person. Requested online auditions may occur outside regular audition weekends and are not guaranteed.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Studies graduate requirements",
+                "label": "USC Thornton Keyboard Studies Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-studies-graduate/"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Keyboard Studies graduate piano prescreening and audition repertoire are listed on USC Thornton's official Keyboard Studies graduate application requirements page. Applicants should follow the instrument-specific requirements for their intended program.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Prescreening repertoire: Prescreen recording must include the following works entirely from memory. Prescreening repertoire: A Prelude and Fugue by J.S. Bach from The Well-Tempered Clavier, with a fugue containing 3 or more voices. Prescreening repertoire: A complete sonata by Haydn, Mozart, Schubert, or Beethoven, excluding Beethoven Op. 49 and Op. 79. Prescreening repertoire: A complete work of a 19th-century composer. Prescreening repertoire: One piece or single movement of Contemporary, Modern, or Impressionist style. Prescreening repertoire: An etude of virtuosity at the level of those by Chopin, Liszt, Rachmaninoff, Scriabin, Debussy, Bartok, Stravinsky, or Ligeti. Final audition repertoire: Live audition repertoire for Master of Music and Graduate Certificate applicants is the same category list and must be performed entirely from memory. Final audition repertoire: A Prelude and Fugue by J.S. Bach from The Well-Tempered Clavier, with a fugue containing 3 or more voices. Final audition repertoire: A complete sonata by Haydn, Mozart, Schubert, or Beethoven, excluding Beethoven Op. 49 and Op. 79. Final audition repertoire: A complete work of a 19th-century composer. Final audition repertoire: One piece or single movement of Contemporary, Modern, or Impressionist style. Final audition repertoire: An etude of virtuosity at the level of those by Chopin, Liszt, Rachmaninoff, Scriabin, Debussy, Bartok, Stravinsky, or Ligeti. Additional repertoire notes: no concerti are accepted as audition pieces. Additional repertoire notes: the Keyboard Studies faculty welcomes repertoire composed by members of marginalized or under-represented groups, and the department links to a repertoire list prepared by Dr. Stewart Gordon. Additional repertoire notes: current USC Thornton classical piano students pursuing BM, MM, or DMA piano performance degrees may be eligible for modified audition requirements and should consult the Keyboard Studies Handbook and department coordinator.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Studies graduate requirements",
+                "label": "USC Thornton Keyboard Studies Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-studies-graduate/"
               }
             ]
           },
           "deadlines": {
-            "value": "USC Thornton graduate application materials for Keyboard Studies are submitted through the USC application and SlideRoom according to Thornton's published graduate requirements and deadlines. Recheck the official page for the current cycle deadline before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "December 1, 2025: Fall 2026 application deadline for USC Thornton graduate applicants. December 1: deadline for all required Keyboard Studies application materials, including USC Graduate Application, Thornton SlideRoom application, prescreen recordings, recommendation letters, transcripts, and required Thornton forms. Late December: prescreen results are sent by email. Late January and early February: live auditions typically occur. November 26-30, 2025: USC Thornton offices are closed for Thanksgiving break; Thornton recommends beginning the SlideRoom upload process before the office closure. November 25, 2025 at 5:00 PM Pacific Time: Thornton Office of Admission application support is available until this time before the Thanksgiving break. October 1, 2025: Spring 2026 application deadline, but applicants should review whether the intended graduate program accepts spring entrance. Program note: for Fall 2026, all required materials must be received by December 1 for full consideration, late applications cannot be considered for Thornton admission, and USC is not able to refund application fees.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Studies graduate requirements",
+                "label": "USC Thornton Keyboard Studies Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-studies-graduate/"
+              },
+              {
+                "label": "USC Thornton Application Deadlines",
+                "url": "https://music.usc.edu/admission/deadlines/"
               }
             ]
           },
           "englishScores": {
-            "value": "USC requires English-proficiency scores for many international graduate applicants. Thornton points applicants to USC's official test-score page for TOEFL/IELTS/PTE requirements and accepted tests.",
+            "value": "Minimum scores: TOEFL iBT total score 90 with no less than 20 on any one section for MM, MS, MA, Arts Leadership, and Screen Scoring. Minimum scores: IELTS score 6.5 with no less than 6 on each band score for MM, MS, MA, Screen Scoring, and Arts Leadership. Notes: international applicants to MA, MM, MS, DMA, and PhD programs, as well as Graduate Certificate in Arts Leadership applicants, must submit TOEFL or IELTS scores in addition to all other application and audition requirements. Notes: Duolingo and PTE scores are not accepted for graduate admission purposes. Notes: USC accepts TOEFL iBT Home Edition, iBT Paper Edition, standard in-person TOEFL iBT, IELTS Academic, and IELTS Indicator scores. Notes: IDP IELTS scores are not accepted. Notes: USC does not recognize TOEFL MyBest scores or superscores; the minimum requirement must be achieved in one sitting. Notes: the IELTS minimum score must be achieved in one sitting. Timing: TOEFL and IELTS scores are valid only if earned within two years of the intended first term at USC. Notes: TOEFL official scores must be sent electronically to USC institution code 4852; no department code is required. Exemptions: international applicants who hold a bachelor's degree from a regionally accredited university located in the United States or another Anglophone country where English is both the only language of instruction and the only official language of the country are not required to submit language test scores if the entire undergraduate degree was completed in the qualifying country. Exemptions: if transferred courses from an international college or university are listed on the bachelor's transcript, language test scores are required. Exemptions: applicants who have completed a master's or doctoral degree in a country where English is both the language of instruction and the only official language are not required to submit language test scores, but the degree must already be completed when the USC application is submitted. Exemptions: applicants who earned a bachelor's or master's degree at USC are not required to submit language test scores. Notes: even when TOEFL or IELTS scores are not required during application review, non-native English speakers may be required to demonstrate English proficiency through the International Student English exam administered by USC American Language Institute.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Test Scores",
+                "label": "USC Thornton Test Score Guidelines",
                 "url": "https://music.usc.edu/admission/testscore/"
               }
             ]
           },
           "applicationFee": {
-            "value": "USC Graduate Application fee is handled through the USC application. Confirm the current fee in the USC application portal before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Application portal: USC Graduate Application plus USC Thornton SlideRoom application. Total application fee: $130. USC Graduate Application fee: $105. Thornton SlideRoom media/materials upload fee: $25. Notes: USC Graduate Application fee waivers are available to qualified applicants and must be requested before submitting the USC Graduate Application. USC Thornton advises requesting the waiver at least two weeks before the application deadline. Notes: SlideRoom fee waivers are not available. Notes: late applications cannot be considered for Thornton admission, and USC is not able to refund application fees.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Studies graduate requirements",
+                "label": "USC Thornton Keyboard Studies Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-studies-graduate/"
+              },
+              {
+                "label": "USC Thornton Application Deadlines",
+                "url": "https://music.usc.edu/admission/deadlines/"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Submit the USC Graduate Application and Thornton SlideRoom materials. USC Thornton lists the collaborative area under Keyboard Collaborative Arts.",
+            "value": "Apply for Fall admission through two required forms: the USC Application for Graduate Admission and the USC Thornton SlideRoom application. USC Thornton lists Keyboard Collaborative Arts as a graduate program offering Master of Music, Graduate Certificate, and Doctor of Musical Arts. The Keyboard Collaborative Arts graduate requirements page applies to MM, GCRT, and DMA applicants, including current USC students applying to the program for Fall semester. All required materials must be received by December 1. Materials are not accepted by mail or email. If both required application forms are not submitted by the deadline, the application is removed from consideration. Applicants complete the USC Graduate Application and use the Thornton SlideRoom portal link in the Program Materials section. The SlideRoom form must be submitted before the USC Graduate Application, and the SlideRoom confirmation number is entered in the USC Graduate Application questions tab. Required or relevant Thornton materials include prescreen recorded audition, resume, repertoire list, optional statement of purpose, transcripts uploaded into both USC Graduate Application and SlideRoom, 1-3 recommendation letters, and the Thornton waiver and release of liability form.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Collaborative Arts",
+                "label": "USC Thornton Keyboard Collaborative Arts Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-collaborative-arts-graduate/"
+              },
+              {
+                "label": "USC Thornton Application Deadlines",
+                "url": "https://music.usc.edu/admission/deadlines/"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "USC Thornton's Keyboard Collaborative Arts graduate page lists prescreening and audition requirements for collaborative keyboard applicants. Final audition instructions are communicated by the program after prescreening review.",
+            "value": "Auditions are required in two rounds. Keyboard Collaborative Arts applicants must submit video prescreen recordings for faculty review; audio-only recordings are not accepted. Prescreen results determine whether the applicant is invited to a live audition on the USC campus in Los Angeles, and results are sent by email in late December. All prescreen pieces must be performed with partners, and each complete work should be recorded in one take. Prescreen repertoire may be repeated at the live audition if the applicant is invited. Invited applicants receive prescreen decision and audition appointment details in the same email in late December. Live auditions typically occur in late January and early February. Applicants should not make travel plans until they receive confirmation of the audition appointment. USC strongly encourages in-person live auditions. Applicants more than 100 miles from campus who cannot travel because of financial hardship may request an online audition in SlideRoom, but the online date may differ from regular audition weekends and is not guaranteed. Applicants scheduled for online audition are expected to provide their own partners. Applicants within 100 miles of Los Angeles must audition in person and are expected to provide their own partners. For pianists coming from farther away or new to the area, faculty may play instrumental parts on second piano or sing vocal selections. USC students, singers, and instrumentalists may sometimes participate as audition partners for a fee set by the individual performer, not by the KCA department. Applicants may contact the Keyboard Studies Department Coordinator with repertoire to request a list of potential partners, but partner availability is not guaranteed. Applicants should be prepared for sight-reading and an interview. Faculty may ask for a demonstration of diction and translation skills directly related to the texts of the prepared songs and aria, including reading text aloud in the original language and giving an English translation.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Collaborative Arts",
+                "label": "USC Thornton Keyboard Collaborative Arts Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-collaborative-arts-graduate/"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Keyboard Collaborative Arts prescreening and final audition repertoire are listed on USC Thornton's official Keyboard Collaborative Arts graduate application requirements page.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Prescreening repertoire: The prescreen recordings must include three contrasting art songs from the standard repertoire. Prescreening repertoire: The prescreen recordings must include one complete instrumental sonata from the standard repertoire. Prescreening repertoire: All pieces must be performed with partners. Prescreening repertoire: Each complete work should be recorded in one take. Prescreening repertoire: Prescreen repertoire may be repeated at the live audition if the applicant is invited. Final audition repertoire: Applicants must submit a complete repertoire list for the live audition, including songs, arias, sonatas or multi-movement works, concerti, character pieces, complete operas, solo repertoire, choral repertoire, and ballet repertoire. Final audition repertoire: Two complete, contrasting instrumental sonatas. Final audition repertoire: Four songs representing stylistic and linguistic variety. Final audition repertoire: One aria. Final audition repertoire: Two piano solos from contrasting stylistic periods performed by memory. Final audition repertoire: Individual movements from multi-movement works, such as a single movement from a sonata or suite, are acceptable for the piano solo requirement. Additional repertoire notes: Applicants should be prepared for sight-reading and interview as part of the live audition. Additional repertoire notes: Faculty will ask for a demonstration of diction and translation skills directly related to the texts of the songs and aria prepared for the audition. Additional repertoire notes: Applicants may be asked to read the text aloud in the original language and may be asked to give the text translation in English. Additional repertoire notes: all sonatas are to be performed with an instrumentalist, and all songs and arias with a singer. Additional repertoire notes: it is customary to perform instrumental and vocal literature with scores. Additional repertoire notes: audition repertoire may be selected from but is not limited to the suggested instrumental and vocal repertoire lists on the USC Thornton KCA page. Additional repertoire notes: the Keyboard Collaborative Arts faculty welcomes repertoire composed by members of marginalized or under-represented groups.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Collaborative Arts",
+                "label": "USC Thornton Keyboard Collaborative Arts Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-collaborative-arts-graduate/"
               }
             ]
           },
           "deadlines": {
-            "value": "USC Thornton graduate application materials for Keyboard Collaborative Arts are submitted through the USC application and SlideRoom according to Thornton's published graduate requirements and deadlines. Recheck the official page for the current cycle deadline before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "December 1, 2025: Fall 2026 application deadline for USC Thornton graduate applicants. December 1: deadline for all required Keyboard Collaborative Arts application materials, including USC Graduate Application, Thornton SlideRoom application, prescreen recordings, recommendation letters, transcripts, and required Thornton forms. Late December: prescreen results are sent by email. Late January and early February: live auditions typically occur. November 26-30, 2025: USC Thornton offices are closed for Thanksgiving break; Thornton recommends beginning the SlideRoom upload process before the office closure. November 25, 2025 at 5:00 PM Pacific Time: Thornton Office of Admission application support is available until this time before the Thanksgiving break. October 1, 2025: Spring 2026 application deadline, but applicants should review whether the intended graduate program accepts spring entrance. Program note: for Fall 2026, all required materials must be received by December 1 for full consideration, late applications cannot be considered for Thornton admission, and USC is not able to refund application fees.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Collaborative Arts",
+                "label": "USC Thornton Keyboard Collaborative Arts Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-collaborative-arts-graduate/"
+              },
+              {
+                "label": "USC Thornton Application Deadlines",
+                "url": "https://music.usc.edu/admission/deadlines/"
               }
             ]
           },
           "englishScores": {
-            "value": "USC requires English-proficiency scores for many international graduate applicants. Thornton points applicants to USC's official test-score page for TOEFL/IELTS/PTE requirements and accepted tests.",
+            "value": "Minimum scores: TOEFL iBT total score 90 with no less than 20 on any one section for MM, MS, MA, Arts Leadership, and Screen Scoring. Minimum scores: IELTS score 6.5 with no less than 6 on each band score for MM, MS, MA, Screen Scoring, and Arts Leadership. Notes: international applicants to MA, MM, MS, DMA, and PhD programs, as well as Graduate Certificate in Arts Leadership applicants, must submit TOEFL or IELTS scores in addition to all other application and audition requirements. Notes: Duolingo and PTE scores are not accepted for graduate admission purposes. Notes: USC accepts TOEFL iBT Home Edition, iBT Paper Edition, standard in-person TOEFL iBT, IELTS Academic, and IELTS Indicator scores. Notes: IDP IELTS scores are not accepted. Notes: USC does not recognize TOEFL MyBest scores or superscores; the minimum requirement must be achieved in one sitting. Notes: the IELTS minimum score must be achieved in one sitting. Timing: TOEFL and IELTS scores are valid only if earned within two years of the intended first term at USC. Notes: TOEFL official scores must be sent electronically to USC institution code 4852; no department code is required. Exemptions: international applicants who hold a bachelor's degree from a regionally accredited university located in the United States or another Anglophone country where English is both the only language of instruction and the only official language of the country are not required to submit language test scores if the entire undergraduate degree was completed in the qualifying country. Exemptions: if transferred courses from an international college or university are listed on the bachelor's transcript, language test scores are required. Exemptions: applicants who have completed a master's or doctoral degree in a country where English is both the language of instruction and the only official language are not required to submit language test scores, but the degree must already be completed when the USC application is submitted. Exemptions: applicants who earned a bachelor's or master's degree at USC are not required to submit language test scores. Notes: even when TOEFL or IELTS scores are not required during application review, non-native English speakers may be required to demonstrate English proficiency through the International Student English exam administered by USC American Language Institute.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Test Scores",
+                "label": "USC Thornton Test Score Guidelines",
                 "url": "https://music.usc.edu/admission/testscore/"
               }
             ]
           },
           "applicationFee": {
-            "value": "USC Graduate Application fee is handled through the USC application. Confirm the current fee in the USC application portal before submission.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Application portal: USC Graduate Application plus USC Thornton SlideRoom application. Total application fee: $130. USC Graduate Application fee: $105. Thornton SlideRoom media/materials upload fee: $25. Notes: USC Graduate Application fee waivers are available to qualified applicants and must be requested before submitting the USC Graduate Application. USC Thornton advises requesting the waiver at least two weeks before the application deadline. Notes: SlideRoom fee waivers are not available. Notes: late applications cannot be considered for Thornton admission, and USC is not able to refund application fees.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "USC Thornton Keyboard Collaborative Arts",
+                "label": "USC Thornton Keyboard Collaborative Arts Graduate Requirements",
                 "url": "https://music.usc.edu/admission/appreqs/keyboard-collaborative-arts-graduate/"
+              },
+              {
+                "label": "USC Thornton Application Deadlines",
+                "url": "https://music.usc.edu/admission/deadlines/"
               }
             ]
           }
         }
-      }
+      },
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ]
     },
     {
       "id": "university-of-texas-austin",
