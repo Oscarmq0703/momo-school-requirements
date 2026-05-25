@@ -1,0 +1,212 @@
+{
+  "schools": [
+    {
+      "id": "university-of-cincinnati",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "CCM Graduate Application Instructions",
+          "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+        },
+        {
+          "label": "CCM Important Dates and Deadlines",
+          "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/dates-deadlines.html"
+        },
+        {
+          "label": "CCM Pre-screenings, Auditions and Interviews",
+          "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+        },
+        {
+          "label": "CCM Piano",
+          "url": "https://www.ccm.uc.edu/areas-of-study/academic-units/piano.html"
+        },
+        {
+          "label": "UC Graduate Admission Requirements",
+          "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "CCM graduate applicants apply online through the UC Graduate Admissions application first. After applying to the university, applicants receive an Application ID within 24-48 hours and use that ID to access the CCM Acceptd site, where they upload required prescreening materials for the specific degree program. The UC graduate application and required CCM prescreening materials must be submitted before an audition request or admission decision is released. For Piano MM, CCM's audition page says applicants submit required prescreening materials via getacceptd.com/ccm by the program deadline in order to be invited for an audition and considered for admission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Graduate Application Instructions",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+              },
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "UC graduate application fee: $65 for domestic applicants and $70 for international applicants for most degree programs. CCM graduate application instructions also state that a non-refundable CCM/Acceptd fee is charged after the UC application: $60 CCM fee plus $35 Acceptd fee for majors requiring media uploads, total $95; programs requiring document uploads are charged $20 by Acceptd, total $80. Piano MM uses media prescreening uploads, so applicants should budget for the UC application fee plus the CCM/Acceptd media-upload fee unless the current Acceptd portal shows a different amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UC Graduate Admission Requirements",
+                "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+              },
+              {
+                "label": "CCM Graduate Application Instructions",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Piano MM applicants must submit required prescreening materials through getacceptd.com/ccm on or before December 10 to be invited for an audition and considered for admission. The audition repertoire is the same as the prescreening requirements. Recorded auditions are permitted and must be uploaded to Acceptd by February 1. On-campus audition dates listed for Piano MM/DMA are February 13, February 14, February 19, February 20, and February 21. CCM's graduate application page states that while prescreening is required for all applicants, not all applicants will be invited to audition or interview; in some cases a final admission decision may be based solely on the prescreen submission, while in other cases faculty request an additional audition or interview. For secondary piano graduate assistantship consideration, applicants upload a three-page PDF to the graduate application with general information, experience, and teaching philosophy; interviews are determined after admissions decisions are released.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              },
+              {
+                "label": "CCM Graduate Application Instructions",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: At least three solo pieces from contrasting style periods. Prescreening repertoire: The program must include a complete sonata of Haydn, Mozart, Beethoven excluding Opus 49, or Schubert. Prescreening repertoire: All sonatas, variations, suites, and other individual works written with multiple movements must be prepared in their entirety. Prescreening repertoire: Sets of pieces intended to be performed together must be prepared in their entirety, for example Schumann Carnaval, Davidsbundlertanze, or Kreisleriana, Mussorgsky Pictures at an Exhibition, or Franck Prelude, Chorale and Fugue. Prescreening repertoire: Etudes are encouraged. Prescreening repertoire: Compositions should be performed by memory, with the exception of extraordinarily prohibitive 20th- and 21st-century compositions. Prescreening repertoire: The choice of repertoire should indicate the capacity to thrive artistically in graduate-level piano study. Final audition repertoire: Repertoire is the same as the prescreening requirements.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 8: final deadline for admission application and required materials, including transcripts, test scores, and recommendation letters, according to CCM Important Dates and Deadlines; the application must be fully complete by this deadline for admission and scholarship consideration. December 10: final prescreening submission deadline unless otherwise noted for the specific program; Piano MM and Collaborative Piano MM both list December 10 on the audition page. January 19: deadline for invited applicants to select their preferred audition/interview date. February 1: recorded audition submission deadline for select programs; Piano MM recorded auditions are permitted and due through Acceptd by this date. February 13, February 14, February 19, February 20, and February 21: Piano MM/DMA on-campus audition dates. Date caution: CCM's Graduate Application Instructions page still says the graduate application must be submitted by December 1 and required prescreening materials by December 3 for most programs, while the current Important Dates page and Piano/Collaborative Piano audition sections list December 8 and December 10. For Piano and Collaborative Piano, use the program-specific audition page and current Important Dates page, and confirm the Acceptd portal before final submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Important Dates and Deadlines",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/dates-deadlines.html"
+              },
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              },
+              {
+                "label": "CCM Graduate Application Instructions",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "UC graduate English proficiency minimums for international applicants: TOEFL 4.5 on the 1-6 scale or TOEFL iBT 80 on the 0-120 scale; IELTS Academic 6.5 overall; Duolingo English Test 110; PTE 54. UC accepts in-person and at-home TOEFL and IELTS exams, but TOEFL Essentials, TOEFL MyBest scores, and IELTS One Skill Retake are not accepted; only IELTS Academic is accepted. Official scores must be sent directly from the testing agency to UC. TOEFL school code: 1833. UC notes that some programs may require higher scores, so applicants should also follow any CCM/program-specific instructions in the application portal.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UC Graduate Admission Requirements",
+                "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "CCM graduate applicants apply online through the UC Graduate Admissions application first. After applying to the university, applicants receive an Application ID within 24-48 hours and use that ID to access the CCM Acceptd site, where they upload required prescreening materials for the specific degree program. The UC graduate application and required CCM prescreening materials must be submitted before an audition request or admission decision is released. For Collaborative Piano (Accompanying) MM, CCM's audition page says applicants submit required prescreening materials via getacceptd.com/ccm by the program deadline. The CCM Piano page identifies Collaborative Piano as an MM degree and notes that Collaborative Piano majors receive weekly individual lessons from both Piano Department faculty and collaborative piano faculty.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Graduate Application Instructions",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+              },
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              },
+              {
+                "label": "CCM Piano",
+                "url": "https://www.ccm.uc.edu/areas-of-study/academic-units/piano.html"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "UC graduate application fee: $65 for domestic applicants and $70 for international applicants for most degree programs. CCM graduate application instructions also state that a non-refundable CCM/Acceptd fee is charged after the UC application: $60 CCM fee plus $35 Acceptd fee for majors requiring media uploads, total $95; programs requiring document uploads are charged $20 by Acceptd, total $80. Collaborative Piano MM requires prescreening media uploads, so applicants should budget for the UC application fee plus the CCM/Acceptd media-upload fee unless the current Acceptd portal shows a different amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UC Graduate Admission Requirements",
+                "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+              },
+              {
+                "label": "CCM Graduate Application Instructions",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Collaborative Piano (Accompanying) MM applicants must submit required prescreening materials through getacceptd.com/ccm on or before December 10. Applicants invited to audition must send their repertoire choices from the listed audition repertoire to Professor Kenneth Griffiths at griffikr@ucmail.uc.edu three weeks before the scheduled live audition date. All collaborative piano applicants take two sight-reading tests: sight-reading a piano part from an unfamiliar collaborative work, and either playing and singing or adding the vocal line to the piano part of a song received at the audition. On-campus audition dates listed for Collaborative Piano are February 14 and February 21. Recorded auditions are not permitted. Studio Accompanying Assistantship applicants must also email Professor Griffiths a professional resume or CV, a personal statement indicating interest in collaborating with other musicians, and a complete repertoire list for vocal, instrumental, or both areas; recorded auditions are not permitted for studio accompanying assistantship auditions.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: A solo piano selection, 5-7 minutes in length, performed on a grand piano. Prescreening repertoire: One movement from a sonata for piano and either a wind or string instrument. Prescreening repertoire: Two art songs, one of which must be by Schubert. Prescreening repertoire: One opera aria. Prescreening repertoire: All of these selections are understood to be performed with appropriate partners. Final audition repertoire: Applicants invited to audition must send their choices from the following repertoire to Professor Griffiths three weeks before the scheduled live audition. Final audition repertoire: The first movement of one of these works: Brahms Sonata Op. 120 No. 1 or No. 2 with clarinet, or Beethoven Sonata for Cello and Piano Op. 69 or Op. 102 No. 1. Final audition repertoire: Four of the following art songs: Schubert An den Mond, Holty, D.193; Strauss Ich trage meine Minne, Op. 32 No. 1; Barber St. Ita's Vision from Hermit Songs; Duparc Serenade florentine; Ravel Le grillon from Histoires naturelles; Puccini Musetta's aria Quando m'en vo from La Boheme. Final audition repertoire: Applicants especially interested in instrumental collaboration may substitute the first movement of Rachmaninov's Sonata for Cello and Piano instead of the listed Brahms or Beethoven options, and offer two art songs plus the opera selection above. Final audition repertoire: All collaborative piano applicants take two sight-reading tests: sight-reading a piano part from an unfamiliar collaborative work, and playing and singing or adding the vocal line to the piano part of a song received at the audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 8: final deadline for admission application and required materials, including transcripts, test scores, and recommendation letters, according to CCM Important Dates and Deadlines; the application must be fully complete by this deadline for admission and scholarship consideration. December 10: final prescreening submission deadline unless otherwise noted for the specific program; Collaborative Piano MM lists December 10 on the audition page. January 19: deadline for invited applicants to select their preferred audition/interview date. Three weeks before the scheduled live audition: invited Collaborative Piano applicants must send repertoire choices from the required audition repertoire to Professor Griffiths. February 14 and February 21: Collaborative Piano on-campus audition dates. Recorded auditions are not permitted. Date caution: CCM's Graduate Application Instructions page still says the graduate application must be submitted by December 1 and required prescreening materials by December 3 for most programs, while the current Important Dates page and Piano/Collaborative Piano audition sections list December 8 and December 10. For Piano and Collaborative Piano, use the program-specific audition page and current Important Dates page, and confirm the Acceptd portal before final submission.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "CCM Important Dates and Deadlines",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/dates-deadlines.html"
+              },
+              {
+                "label": "CCM Pre-screenings, Auditions and Interviews",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/auditions.html"
+              },
+              {
+                "label": "CCM Graduate Application Instructions",
+                "url": "https://www.ccm.uc.edu/admissions-and-aid/admissions/apply/graduate-application.html"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "UC graduate English proficiency minimums for international applicants: TOEFL 4.5 on the 1-6 scale or TOEFL iBT 80 on the 0-120 scale; IELTS Academic 6.5 overall; Duolingo English Test 110; PTE 54. UC accepts in-person and at-home TOEFL and IELTS exams, but TOEFL Essentials, TOEFL MyBest scores, and IELTS One Skill Retake are not accepted; only IELTS Academic is accepted. Official scores must be sent directly from the testing agency to UC. TOEFL school code: 1833. UC notes that some programs may require higher scores, so applicants should also follow any CCM/program-specific instructions in the application portal.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "UC Graduate Admission Requirements",
+                "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
