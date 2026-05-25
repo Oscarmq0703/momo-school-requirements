@@ -1,0 +1,115 @@
+{
+  "schools": [
+    {
+      "id": "university-of-hartford",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance"
+      ],
+      "officialSources": [
+        {
+          "label": "Hartt Admission",
+          "url": "https://www.hartford.edu/academics/schools-colleges/hartt/admission/default.aspx"
+        },
+        {
+          "label": "Hartt Application Process",
+          "url": "https://www.hartford.edu/academics/schools-colleges/hartt/admission/apply/default.aspx"
+        },
+        {
+          "label": "Hartt Piano",
+          "url": "https://www.hartford.edu/academics/schools-colleges/hartt/academics/music/music-instrumental-performance/piano.aspx"
+        },
+        {
+          "label": "University of Hartford Graduate Admission",
+          "url": "https://www.hartford.edu/admission/graduate-admission/default.aspx"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Graduate applicants complete the University of Hartford application and complete an audition and interview through The Hartt School process. Hartt says all graduate applicants have an interview within their major department or with their audition panel. Supporting documents are submitted within two weeks of applying and include a letter of intent, performance or professional resume, repertoire list required for all auditioning applicants, preliminary video and portfolio submission where required, three letters of recommendation, transcripts from all higher education institutions attended, and the required fees. Applicants may also choose to submit audition and profile materials through Acceptd, which requires a fee paid directly to Acceptd, but they must still submit a complete University of Hartford application to be considered for acceptance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Hartt Admission",
+                "url": "https://www.hartford.edu/academics/schools-colleges/hartt/admission/default.aspx"
+              },
+              {
+                "label": "Hartt Application Process",
+                "url": "https://www.hartford.edu/academics/schools-colleges/hartt/admission/apply/default.aspx"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "University of Hartford graduate application fee: $50. Hartt School applicants also pay a $40 audition/interview fee. Hartt's graduate application checklist lists the total Hartt graduate fee as $90, made up of the $50 application fee plus the $40 audition/interview fee. Applicants who use Acceptd for audition/profile materials may pay an additional fee directly to Acceptd.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Hartt Admission",
+                "url": "https://www.hartford.edu/academics/schools-colleges/hartt/admission/default.aspx"
+              },
+              {
+                "label": "University of Hartford Graduate Admission",
+                "url": "https://www.hartford.edu/admission/graduate-admission/default.aspx"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "All graduate Hartt applicants complete an audition and interview, and all applicants have an interview within their major department or with the audition panel. Auditions and interviews are scheduled after completion of the University application and upload of all Hartt documents. In order to audition, students must apply to the University of Hartford; after the University application is submitted, applicants receive an email to register for an on-campus audition/interview. Applicants applying for programs that require a prescreen cannot register for an audition until they have passed the prescreen process. For MM Piano Performance, Hartt's piano page does not list a separate prescreening requirement; the December 1 prescreen deadline on Hartt's admission timeline applies to DMA, PhD, conducting degrees, BFA Actor Training, and BFA Music Theatre. Virtual auditions/interviews are listed on the audition schedule for some music programs, and applicants should confirm virtual availability with Hartt Admission when they cannot attend on campus.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Hartt Admission",
+                "url": "https://www.hartford.edu/academics/schools-colleges/hartt/admission/default.aspx"
+              },
+              {
+                "label": "Hartt Piano",
+                "url": "https://www.hartford.edu/academics/schools-colleges/hartt/academics/music/music-instrumental-performance/piano.aspx"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Final audition repertoire: A Prelude & Fugue by Bach or a larger scale work by Bach containing a fugue. Final audition repertoire: A complete Classical Sonata, excluding Beethoven Op. 14, Op. 49, and Op. 79. Final audition repertoire: A large-scale Romantic work. Final audition repertoire: An Impressionistic or post-1900 work. Additional repertoire notes: Hartt lists these audition requirements under Master of Music & Graduate Professional Diploma. Additional repertoire notes: The Piano page encourages applicants to contact Hartt faculty through harttadm@hartford.edu if they want to discuss audition repertoire.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Hartt Piano",
+                "url": "https://www.hartford.edu/academics/schools-colleges/hartt/academics/music/music-instrumental-performance/piano.aspx"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "December 1, 2025: Prescreen deadline for DMA, PhD, conducting degrees, BFA Actor Training, and BFA Music Theatre; this is not listed as an MM Piano Performance prescreen deadline. December 14, 2025: On-campus Early Action and graduate music auditions for all instruments and voice. January 24, 2026: On-campus audition date including Piano. February 1, 2026: Graduate Application deadline for Hartt and University of Hartford graduate admission table priority deadline for Master of Music. February 15, 2026: On-campus audition date including Piano. Applications submitted after the respective program deadline are reviewed on a space-available basis; applicants should contact harttadm@hartford.edu about late availability. No late prescreens are reviewed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "Hartt Admission",
+                "url": "https://www.hartford.edu/academics/schools-colleges/hartt/admission/default.aspx"
+              },
+              {
+                "label": "University of Hartford Graduate Admission",
+                "url": "https://www.hartford.edu/admission/graduate-admission/default.aspx"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT 80 for tests taken before January 21, 2026, or TOEFL 4.5 for tests taken on or after January 21, 2026. Minimum scores: IELTS 6.5 overall. Minimum scores: Duolingo 110 combined. Minimum scores: PTE 58. Notes: These graduate-level English proficiency minimums apply to non-native English speakers, excluding Master of Science in Computer Science and master's-level engineering applicants, who have separate lower minimums. The University of Hartford school code is 3436. Exemptions: Applicants may qualify for an English proficiency waiver if their native language is English or if they hold a bachelor's or master's degree from a country where the native language is English.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "University of Hartford Graduate Admission",
+                "url": "https://www.hartford.edu/admission/graduate-admission/default.aspx"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
