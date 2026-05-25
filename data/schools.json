@@ -9459,7 +9459,7 @@
       "city": "Houston",
       "state": "TX",
       "control": "Public",
-      "sourceStatus": "needs_review",
+      "sourceStatus": "verified",
       "programTargets": [
         "mm_piano_performance",
         "mm_collaborative_piano"
@@ -9470,43 +9470,47 @@
           "url": "https://www.uh.edu/kgmca/admissions-aid/msm.php"
         },
         {
-          "label": "UH Graduate Audition Requirements PDF",
-          "url": "https://www.uh.edu/kgmca/music/admissions/graduate-admissions/grad-audition-requirements-2024-2025.pdf"
+          "label": "UH Moores School Piano",
+          "url": "https://www.uh.edu/kgmca/msm/degrees-programs/areas-of-study/piano.php"
         },
         {
-          "label": "UH Graduate School Admissions",
-          "url": "https://www.uh.edu/graduate-school/admissions/"
+          "label": "UH Moores Graduate Audition & Application Requirements PDF",
+          "url": "https://www.uh.edu/kgmca/_files/msm/msm_graduate_audition_requirements.pdf"
+        },
+        {
+          "label": "UH Graduate School How to Apply",
+          "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
         },
         {
           "label": "UH Graduate English Proficiency",
-          "url": "https://uh.edu/graduate-school/international-students/english-proficiency/"
+          "url": "https://www.uh.edu/graduate-school/admissions/international-applicants/english-proficiency/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Complete the University of Houston Graduate School application and Moores School of Music supplemental application; All music majors must apply separately to Moores and pass an audition in addition to meeting UH admission requirements.",
+            "value": "Applicants complete the University of Houston Graduate School application through ApplyWeb and also complete the Moores School of Music supplemental application through the Moores application portal. Moores states that graduate applicants must meet University of Houston Graduate School requirements, apply separately to the Moores School, and pass an audition on the principal instrument or voice. Graduate applicants submit three letters of recommendation, official transcripts to UH Graduate Admissions, the Moores supplemental application, and any required high-quality video recording or supplemental materials in the Moores portal. Graduate assistantship application is optional through the Moores School of Music application.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UH Moores School Admissions & Auditions",
                 "url": "https://www.uh.edu/kgmca/admissions-aid/msm.php"
               },
               {
-                "label": "UH Graduate School Admissions",
-                "url": "https://www.uh.edu/graduate-school/admissions/"
+                "label": "UH Graduate School How to Apply",
+                "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
               }
             ]
           },
           "applicationFee": {
-            "value": "University of Houston Graduate School application fee is paid through CollegeNET/ApplyWeb; the retrieved current Graduate School page did not expose an amount, so verify in the application portal; Moores School of Music application may also have supplemental fees.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "UH Graduate School application fee: $50 for domestic applicants, $80 for international applicants, and $25 for non-degree certificate-based programs. Limited application fee waivers are available, and applicants should check with the program regarding eligibility. Moores School of Music also requires a separate supplemental application through its portal; the public Moores page does not list a separate supplemental fee amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UH Graduate School Admissions",
-                "url": "https://www.uh.edu/graduate-school/admissions/"
+                "label": "UH Graduate School How to Apply",
+                "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
               },
               {
                 "label": "UH Moores School Admissions & Auditions",
@@ -9515,35 +9519,35 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Moores School applicants must pass an audition; Moores requires a high-quality video recording for all performance, collaborative piano, music education, and conducting applicants; specific video and audition guidelines are provided through the Moores School application portal; supplemental materials are required for certain programs; Graduate assistantship application is optional through Moores.",
+            "value": "Moores School of Music applicants must pass an audition on the principal instrument or voice. The Moores graduate admissions page requires a high-quality video recording for all performance, collaborative piano, music education, and conducting applicants, with specific video and audition requirements in the Moores application portal. The current Moores Graduate Audition & Application Requirements PDF, Rev. 250919, lists piano prescreening and audition requirements. Prescreening applicants upload at least 10 minutes of music that best represents their playing, with selections from any part of the audition repertoire. Applicants are notified if they pass the prescreening round and are invited to a live audition. Both live and video-recorded auditions are used as the audition for scholarships. The MM Piano audition may include an examination of sight-reading skills.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UH Moores School Admissions & Auditions",
                 "url": "https://www.uh.edu/kgmca/admissions-aid/msm.php"
+              },
+              {
+                "label": "UH Moores Graduate Audition & Application Requirements PDF",
+                "url": "https://www.uh.edu/kgmca/_files/msm/msm_graduate_audition_requirements.pdf"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: The retrieved 2024-2025 official graduate audition requirements PDF contains keyboard collaborative arts requirements but did not expose a current public MM Piano Performance repertoire list in searchable text; confirm current piano performance repertoire in the Moores application portal before advising a student.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Prescreening repertoire: Applicants should upload at least 10 minutes of music that best represents their playing. Prescreening repertoire: Selections can be from any part of the audition repertoire. Prescreening repertoire: Applicants will be notified if they pass the prescreening round and are invited to a live audition. Final audition repertoire: Master of Music in Piano Performance or Piano Performance & Pedagogy applicants prepare three fully memorized selections from the standard classical piano repertoire. Final audition repertoire: The selections must represent contrasting musical periods and styles. Final audition repertoire: The audition should be approximately 20 minutes in length. Final audition repertoire: Some examination of sight-reading skills may also be part of the audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UH Graduate Audition Requirements PDF",
-                "url": "https://www.uh.edu/kgmca/music/admissions/graduate-admissions/grad-audition-requirements-2024-2025.pdf"
-              },
-              {
-                "label": "UH Moores School Admissions & Auditions",
-                "url": "https://www.uh.edu/kgmca/admissions-aid/msm.php"
+                "label": "UH Moores Graduate Audition & Application Requirements PDF",
+                "url": "https://www.uh.edu/kgmca/_files/msm/msm_graduate_audition_requirements.pdf"
               }
             ]
           },
           "deadlines": {
-            "value": "Moores School application portal is the official source for current deadlines; current retrieved page points applicants to the Moores application portal for details, deadlines, and application requirements, including specific video and audition guidelines.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Moores public admissions page does not publish a static calendar date for the current graduate priority music application deadline. It states that applicants should submit the Moores supplemental application by the priority deadline, recommended, and that specific pre-screening video and audition requirements, details, deadlines, and application requirements are in the Moores application portal. Applicants should use the Moores application portal as the official source for current submission and audition deadlines. Both live and video-recorded auditions are used as the audition for scholarships, so scholarship-sensitive applicants should follow the portal priority deadline rather than waiting for later availability.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UH Moores School Admissions & Auditions",
@@ -9552,41 +9556,49 @@
             ]
           },
           "englishScores": {
-            "value": "UH Graduate School requires English proficiency for all graduate applicants unless exempt; minimums: TOEFL iBT 79, TOEFL pBT 550, IELTS 6.5, Duolingo 105, PTE 53, or completion of Level 6 of UH Language and Culture Center where accepted by the graduate program; TOEFL code 6870; scores must be valid and reportable at submission.",
+            "value": "Minimum scores: TOEFL iBT 79 or higher. Minimum scores: TOEFL paper-based 550 or higher. Minimum scores: IELTS 6.5 overall. Minimum scores: Duolingo English Test 105. Minimum scores: PTE overall 53 or higher. Notes: All graduate applicants, regardless of citizenship status, must demonstrate proficiency in English unless exempt. Test scores must be valid and reportable at the time of application submission, within the last two years for TOEFL, IELTS, Pearson, or Duolingo. TOEFL scores must be received directly from ETS, and the University of Houston ETS institutional code is 6870. Completion of Level 6 of UH's Language and Culture Center may satisfy the requirement only where accepted by the graduate program. Departments may require higher minimum TOEFL or IELTS scores.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UH Graduate English Proficiency",
-                "url": "https://uh.edu/graduate-school/international-students/english-proficiency/"
+                "url": "https://www.uh.edu/graduate-school/admissions/international-applicants/english-proficiency/"
+              },
+              {
+                "label": "UH Graduate School How to Apply",
+                "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
               }
             ]
           }
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "University of Houston lists the related master's area as Master of Music in Keyboard Collaborative Arts; Complete the UH Graduate School application and Moores School of Music supplemental application.",
+            "value": "University of Houston's Moores School Piano page describes Keyboard Collaborative Arts as available at the MM and DMA levels and says the collaborative piano degrees prepare graduates for solo performance, instrumental and vocal collaboration, choral accompanying, vocal coaching, and collegiate accompanist work. Applicants complete the University of Houston Graduate School application through ApplyWeb and also complete the Moores School of Music supplemental application through the Moores application portal. The current Moores audition PDF uses the program label Master of Music in Keyboard Collaborative Arts for this pathway.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
+              {
+                "label": "UH Moores School Piano",
+                "url": "https://www.uh.edu/kgmca/msm/degrees-programs/areas-of-study/piano.php"
+              },
               {
                 "label": "UH Moores School Admissions & Auditions",
                 "url": "https://www.uh.edu/kgmca/admissions-aid/msm.php"
               },
               {
-                "label": "UH Graduate Audition Requirements PDF",
-                "url": "https://www.uh.edu/kgmca/music/admissions/graduate-admissions/grad-audition-requirements-2024-2025.pdf"
+                "label": "UH Moores Graduate Audition & Application Requirements PDF",
+                "url": "https://www.uh.edu/kgmca/_files/msm/msm_graduate_audition_requirements.pdf"
               }
             ]
           },
           "applicationFee": {
-            "value": "University of Houston Graduate School application fee is paid through CollegeNET/ApplyWeb; the retrieved current Graduate School page did not expose an amount, so verify in the application portal; Moores School of Music application may also have supplemental fees.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "UH Graduate School application fee: $50 for domestic applicants, $80 for international applicants, and $25 for non-degree certificate-based programs. Limited application fee waivers are available, and applicants should check with the program regarding eligibility. Moores School of Music also requires a separate supplemental application through its portal; the public Moores page does not list a separate supplemental fee amount.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UH Graduate School Admissions",
-                "url": "https://www.uh.edu/graduate-school/admissions/"
+                "label": "UH Graduate School How to Apply",
+                "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
               },
               {
                 "label": "UH Moores School Admissions & Auditions",
@@ -9595,35 +9607,35 @@
             ]
           },
           "auditionRequirements": {
-            "value": "Moores requires a high-quality video recording for all performance, collaborative piano, music education, and conducting applicants; specific video and audition guidelines are provided through the Moores School application portal; M.M. Keyboard Collaborative Arts applicants audition with representative collaborative works; official PDF notes sight-reading of instrumental repertoire and sight-reading of vocal music with the vocal line incorporated into accompaniment may also be evaluated.",
+            "value": "Moores requires a high-quality video recording for all performance, collaborative piano, music education, and conducting applicants, with specific video and audition requirements in the Moores application portal. The Moores Graduate Audition & Application Requirements PDF, Rev. 250919, lists prescreening requirements for Keyboard Collaborative Arts. Prescreening applicants upload at least 10 minutes of music that best represents their playing, with selections from any part of the audition repertoire, and are notified if they pass the prescreening round and are invited to a live audition. If applicants for the Collaborative Arts program are unable to perform with collaborative partners, they should notify Professor Timothy Hester. At the audition, applicants must present a full transcript of the academic career, a musical vita, and a repertoire list. Sight-reading of instrumental repertoire, sight-reading of vocal music with the vocal line incorporated into the accompaniment, and transposition of a song up or down a half or whole step may also be evaluated.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UH Moores School Admissions & Auditions",
                 "url": "https://www.uh.edu/kgmca/admissions-aid/msm.php"
               },
               {
-                "label": "UH Graduate Audition Requirements PDF",
-                "url": "https://www.uh.edu/kgmca/music/admissions/graduate-admissions/grad-audition-requirements-2024-2025.pdf"
+                "label": "UH Moores Graduate Audition & Application Requirements PDF",
+                "url": "https://www.uh.edu/kgmca/_files/msm/msm_graduate_audition_requirements.pdf"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Final audition repertoire: Applicants auditioning for the M.M. in Keyboard Collaborative Arts must prepare three representative works in different styles and varied instrumentation; Final audition repertoire examples: a Baroque flute sonata, a Romantic string sonata, and a modern vocal work.",
+            "value": "Prescreening repertoire: Applicants should upload at least 10 minutes of music that best represents their playing. Prescreening repertoire: Selections can be from any part of the audition repertoire. Prescreening repertoire: Applicants will be notified if they pass the prescreening round and are invited to a live audition. Final audition repertoire: Applicants auditioning for the M.M. in Keyboard Collaborative Arts must prepare three representative works in different styles and varied instrumentation. Final audition repertoire: Examples include a Baroque flute sonata, a Romantic string sonata, and a modern vocal work. Additional repertoire notes: If applicants are unable to perform with collaborative partners, they should notify Professor Timothy Hester. Additional repertoire notes: The following may also be evaluated: sight-reading of instrumental repertoire; sight-reading of vocal music, incorporating the playing of the vocal line into the accompaniment; transposition of a song up or down a half or whole step.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UH Graduate Audition Requirements PDF",
-                "url": "https://www.uh.edu/kgmca/music/admissions/graduate-admissions/grad-audition-requirements-2024-2025.pdf"
+                "label": "UH Moores Graduate Audition & Application Requirements PDF",
+                "url": "https://www.uh.edu/kgmca/_files/msm/msm_graduate_audition_requirements.pdf"
               }
             ]
           },
           "deadlines": {
-            "value": "Moores School application portal is the official source for current deadlines; current retrieved page points applicants to the Moores application portal for details, deadlines, and application requirements, including specific video and audition guidelines.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Moores public admissions page does not publish a static calendar date for the current graduate priority music application deadline. It states that applicants should submit the Moores supplemental application by the priority deadline, recommended, and that specific pre-screening video and audition requirements, details, deadlines, and application requirements are in the Moores application portal. Applicants should use the Moores application portal as the official source for current submission and audition deadlines. Both live and video-recorded auditions are used as the audition for scholarships, so scholarship-sensitive applicants should follow the portal priority deadline rather than waiting for later availability.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UH Moores School Admissions & Auditions",
@@ -9632,13 +9644,17 @@
             ]
           },
           "englishScores": {
-            "value": "UH Graduate School requires English proficiency for all graduate applicants unless exempt; minimums: TOEFL iBT 79, TOEFL pBT 550, IELTS 6.5, Duolingo 105, PTE 53, or completion of Level 6 of UH Language and Culture Center where accepted by the graduate program; TOEFL code 6870; scores must be valid and reportable at submission.",
+            "value": "Minimum scores: TOEFL iBT 79 or higher. Minimum scores: TOEFL paper-based 550 or higher. Minimum scores: IELTS 6.5 overall. Minimum scores: Duolingo English Test 105. Minimum scores: PTE overall 53 or higher. Notes: All graduate applicants, regardless of citizenship status, must demonstrate proficiency in English unless exempt. Test scores must be valid and reportable at the time of application submission, within the last two years for TOEFL, IELTS, Pearson, or Duolingo. TOEFL scores must be received directly from ETS, and the University of Houston ETS institutional code is 6870. Completion of Level 6 of UH's Language and Culture Center may satisfy the requirement only where accepted by the graduate program. Departments may require higher minimum TOEFL or IELTS scores.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UH Graduate English Proficiency",
-                "url": "https://uh.edu/graduate-school/international-students/english-proficiency/"
+                "url": "https://www.uh.edu/graduate-school/admissions/international-applicants/english-proficiency/"
+              },
+              {
+                "label": "UH Graduate School How to Apply",
+                "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
               }
             ]
           }

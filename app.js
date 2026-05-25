@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-university-of-hartford-audit-v45";
+const DATA_VERSION = "2026-05-25-university-of-houston-audit-v46";
 
 const state = {
   data: null,
