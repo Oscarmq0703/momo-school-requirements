@@ -9262,86 +9262,102 @@
       ],
       "officialSources": [
         {
-          "label": "UGA Graduate Admissions Overview",
+          "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
           "url": "https://www.music.uga.edu/graduate-admissions-overview"
         },
         {
           "label": "UGA Graduate Piano Audition Requirements",
-          "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+          "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
         },
         {
-          "label": "UGA English Language Proficiency",
+          "label": "UGA Graduate School Application Fee",
+          "url": "https://grad.uga.edu/admissions/requirements/application-fee/"
+        },
+        {
+          "label": "UGA English Language Proficiency Requirement",
           "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/"
         }
       ],
       "fields": {
         "mm_piano_performance": {
           "applicationPortal": {
-            "value": "Apply to UGA Graduate School, then apply to Hugh Hodgson School of Music; the School of Music application includes statement of purpose, CV, reflective essay, prescreening/supplemental materials as required, optional assistantship application, three recommendations, UGA ID number, and School of Music application fee.",
+            "value": "Applicants complete the UGA Graduate School application and the Hugh Hodgson School of Music graduate application. The School of Music application includes a statement of purpose, CV, reflective essay, prescreening or supplemental materials where required, optional assistantship application, three recommendations, the UGA ID number, and the School of Music application fee. For programs with prescreening, the prescreening materials and repertoire list are submitted with the School of Music application by December 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA Graduate Admissions Overview",
+                "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
                 "url": "https://www.music.uga.edu/graduate-admissions-overview"
+              },
+              {
+                "label": "UGA Graduate Piano Audition Requirements",
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
               }
             ]
           },
           "applicationFee": {
-            "value": "UGA Graduate School application fee: $75 for domestic and international applicants; School of Music application fee: $20.",
+            "value": "UGA Graduate School application fee: $75 for the first application. Additional applications submitted in the same semester require a $25 fee each. Hugh Hodgson School of Music graduate application fee: $20.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA Graduate Admissions Overview",
+                "label": "UGA Graduate School Application Fee",
+                "url": "https://grad.uga.edu/admissions/requirements/application-fee/"
+              },
+              {
+                "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
                 "url": "https://www.music.uga.edu/graduate-admissions-overview"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Prescreening is required for all graduate piano programs; prescreening materials and repertoire list are due December 1; results communicated by December 19; most graduate auditions are expected in person for Fall 2026, but video auditions are accepted for applicants unable to travel; live audition candidates are invited after passing prescreening; final audition includes sight-reading; applicants are encouraged to include teaching/accompanying experience on resume and be prepared to discuss this experience during final-round interviews; prerecorded video auditions are due February 1 and should be recent, made no earlier than August 1, 2024.",
+            "value": "Prescreening is required for all graduate piano programs. Prescreening materials and a repertoire list are due December 1, with results communicated by December 19. Most graduate auditions are expected to be in person for Fall 2026, but video auditions are accepted for applicants unable to travel to Athens. Live audition candidates are invited after passing prescreening. Video auditions are due February 1 and should consist of recent recordings made no earlier than August 1, 2024. Final auditions include sight-reading. Applicants are encouraged to include teaching and accompanying experience on the resume and be prepared to discuss that experience during final-round interviews. Applicants must submit a teaching portfolio and 10- to 20-minute teaching sample in the School of Music application if they want to be considered for music teaching assistantships.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UGA Graduate Piano Audition Requirements",
-                "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
+              },
+              {
+                "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
+                "url": "https://www.music.uga.edu/graduate-admissions-overview"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening requirements: MM in Performance applicants submit 20 minutes; Prescreening requirements: MM in Performance must include at least three different solo selections; Prescreening requirements: All solo performances must be memorized; Prescreening requirements: Recordings should have been made within the past two years; Prescreening requirements: Single movements are acceptable if minimum time limit is met; Prescreening requirements: No editing is permitted within a single movement, but different selections can be recorded at different times and combined into one video file or separated by selection; Final audition repertoire: MM in Performance applicants prepare a memorized program of not less than 40 minutes that includes contrasting works from at least three different style periods; Final audition repertoire: Sight-reading will also be evaluated.",
+            "value": "Prescreening repertoire: MM in Performance applicants submit 20 minutes of recorded repertoire. Prescreening repertoire: The prescreening must include at least three different solo selections. Prescreening repertoire: All solo performances must be memorized. Prescreening repertoire: Recordings should have been made within the past two years. Prescreening repertoire: Single movements are acceptable if the minimum time limit is met. Prescreening repertoire: No editing is permitted within a single movement, but different selections may be recorded at different times and combined into one video file or separated by selection. Final audition repertoire: MM in Performance applicants prepare a memorized program of not less than 40 minutes. Final audition repertoire: The program must include contrasting works from at least three different style periods. Final audition repertoire: Sight-reading will also be evaluated.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UGA Graduate Piano Audition Requirements",
-                "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
               }
             ]
           },
           "deadlines": {
-            "value": "December 1, 2025: Priority fall deadline and deadline for programs requiring prescreening or assistantship consideration; December 1: Prescreening materials due; December 19: Prescreening results communicated; January 24, February 1, February 3, and February 7, 2026: Live graduate piano audition dates; February 1: Video auditions due; October 15, 2025: International spring deadline; November 15, 2025: Domestic spring deadline.",
+            "value": "October 15, 2025: International spring deadline. November 15, 2025: Domestic spring deadline. December 1, 2025: Priority fall deadline and deadline for programs requiring prescreening or graduate assistantship consideration. December 1: Graduate piano prescreening materials and repertoire list due. December 19: Prescreening results communicated. January 24, 2026: live graduate piano audition date. February 1, 2026: live graduate piano audition date and video audition due date. February 3, 2026: live graduate piano audition date. February 7, 2026: live graduate piano audition date. August 1, 2024: earliest acceptable recording date for Fall 2026 video audition recordings.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA Graduate Admissions Overview",
+                "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
                 "url": "https://www.music.uga.edu/graduate-admissions-overview"
               },
               {
                 "label": "UGA Graduate Piano Audition Requirements",
-                "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
               }
             ]
           },
           "englishScores": {
-            "value": "UGA Graduate School accepts TOEFL or IELTS for English proficiency; Duolingo is no longer accepted as a language proficiency exam as of Fall 2024 admissions cycle; applicants should verify current TOEFL/IELTS minimums on the Graduate School English Language Proficiency page for the term.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Minimum scores: TOEFL iBT total score 80, with at least 20 on speaking and writing. Minimum scores: IELTS overall band-width 6.5, with no single band below 6.0. Notes: UGA Graduate School accepts TOEFL or IELTS for English language proficiency. Duolingo English Test is no longer accepted as a language proficiency exam as of the Fall 2024 admissions cycle. Scores submitted to UGA must be official and must not be more than two years old. Exemptions: Applicants whose primary language is English and applicants who received a bachelor's degree or higher from an accredited institution in the U.S. or from an institution in an approved English-speaking country are not required to submit English language proficiency scores.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA English Language Proficiency",
+                "label": "UGA English Language Proficiency Requirement",
                 "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/"
               }
             ]
@@ -9349,75 +9365,79 @@
         },
         "mm_collaborative_piano": {
           "applicationPortal": {
-            "value": "Apply to UGA Graduate School, then apply to Hugh Hodgson School of Music; UGA's graduate piano audition page includes MM in Collaborative Piano requirements.",
+            "value": "Applicants complete the UGA Graduate School application and the Hugh Hodgson School of Music graduate application. UGA's graduate piano audition requirements page includes MM in Collaborative Piano requirements. The School of Music application includes the required prescreening or supplemental materials, three recommendations, UGA ID number, and School of Music application fee. For programs with prescreening, the prescreening materials and repertoire list are submitted with the School of Music application by December 1.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA Graduate Admissions Overview",
+                "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
                 "url": "https://www.music.uga.edu/graduate-admissions-overview"
               },
               {
                 "label": "UGA Graduate Piano Audition Requirements",
-                "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
               }
             ]
           },
           "applicationFee": {
-            "value": "UGA Graduate School application fee: $75 for domestic and international applicants; School of Music application fee: $20.",
+            "value": "UGA Graduate School application fee: $75 for the first application. Additional applications submitted in the same semester require a $25 fee each. Hugh Hodgson School of Music graduate application fee: $20.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA Graduate Admissions Overview",
+                "label": "UGA Graduate School Application Fee",
+                "url": "https://grad.uga.edu/admissions/requirements/application-fee/"
+              },
+              {
+                "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
                 "url": "https://www.music.uga.edu/graduate-admissions-overview"
               }
             ]
           },
           "auditionRequirements": {
-            "value": "Prescreening is required for all graduate piano programs; prescreening materials and repertoire list are due December 1; results communicated by December 19; most graduate auditions are expected in person for Fall 2026, but video auditions are accepted for applicants unable to travel; sight-reading will be evaluated; depending on repertoire, a collaborative partner may be provided for live audition; recorded auditions should be with a partner; applicants may request exceptions by contacting Dr. Liza Stepanova; special opera assistantship audition requirements are listed separately.",
+            "value": "Prescreening is required for all graduate piano programs. Prescreening materials and a repertoire list are due December 1, with results communicated by December 19. Most graduate auditions are expected to be in person for Fall 2026, but video auditions are accepted for applicants unable to travel to Athens. Video auditions are due February 1 and should consist of recent recordings made no earlier than August 1, 2024. Collaborative Piano applicants may request exceptions to recorded-audition partner requirements by contacting Dr. Liza Stepanova. Depending on repertoire, a collaborative partner may be provided for a live audition. Recorded auditions should be performed with a partner. Sight-reading will be evaluated. Special opera assistantship audition requirements are listed separately on the graduate piano audition page.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UGA Graduate Piano Audition Requirements",
-                "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
               }
             ]
           },
           "repertoireRequirements": {
-            "value": "Prescreening requirements: MM in Collaborative Piano applicants submit 20 minutes; Prescreening requirements: Must include at least three different selections; Prescreening requirements: Ideally one selection should be with an instrumental partner, one with a singer, and one solo; Prescreening requirements: If unable to organize this, substitutions are fine if at least one selection is recorded with a partner, vocal or instrumental, and the remaining two selections can be solo or collaborative repertoire performed without a partner; Prescreening requirements: Collaborative repertoire is the exception to the memorization requirement; Final audition repertoire: A memorized work for solo piano from standard repertoire that best demonstrates musicianship and keyboard technique; Final audition repertoire: A group of three vocal works from standard art song and/or aria repertoire; Final audition repertoire: Two contrasting movements from an instrumental sonata selected from the Classical or Romantic period; Final audition repertoire: Either two movements from the same sonata or from two different sonatas are acceptable; Final audition repertoire: Sight-reading will also be evaluated.",
+            "value": "Prescreening repertoire: MM in Collaborative Piano applicants submit 20 minutes of recorded repertoire. Prescreening repertoire: The prescreening must include at least three different selections. Prescreening repertoire: Ideally one selection should be with an instrumental partner, one with a singer, and one solo. Prescreening repertoire: If the applicant cannot organize this, substitutions are allowed as long as at least one selection is recorded with a partner, vocal or instrumental, and the remaining two selections may be solo or collaborative repertoire performed without a partner. Prescreening repertoire: Collaborative repertoire is the exception to the memorization requirement. Prescreening repertoire: Recordings should have been made within the past two years. Prescreening repertoire: No editing is permitted within a single movement, but different selections may be recorded at different times and combined into one video file or separated by selection. Final audition repertoire: A memorized work for solo piano from standard repertoire that best demonstrates musicianship and keyboard technique. Final audition repertoire: A group of three vocal works from standard art song and/or aria repertoire. Final audition repertoire: Two contrasting movements from an instrumental sonata selected from the Classical or Romantic period. Final audition repertoire: The two movements may be from the same sonata or from two different sonatas. Final audition repertoire: Sight-reading will also be evaluated.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
                 "label": "UGA Graduate Piano Audition Requirements",
-                "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
               }
             ]
           },
           "deadlines": {
-            "value": "December 1, 2025: Priority fall deadline and deadline for prescreening/assistantship consideration; December 1: Prescreening materials due; December 19: Prescreening results communicated; January 24, February 1, February 3, and February 7, 2026: Live graduate piano audition dates; February 1: Video auditions due; October 15, 2025: International spring deadline; November 15, 2025: Domestic spring deadline.",
+            "value": "October 15, 2025: International spring deadline. November 15, 2025: Domestic spring deadline. December 1, 2025: Priority fall deadline and deadline for programs requiring prescreening or graduate assistantship consideration. December 1: Graduate piano prescreening materials and repertoire list due. December 19: Prescreening results communicated. January 24, 2026: live graduate piano audition date. February 1, 2026: live graduate piano audition date and video audition due date. February 3, 2026: live graduate piano audition date. February 7, 2026: live graduate piano audition date. August 1, 2024: earliest acceptable recording date for Fall 2026 video audition recordings.",
             "status": "verified",
-            "retrievedAt": "2026-05-21",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA Graduate Admissions Overview",
+                "label": "UGA Hugh Hodgson School of Music Graduate Admissions Overview",
                 "url": "https://www.music.uga.edu/graduate-admissions-overview"
               },
               {
                 "label": "UGA Graduate Piano Audition Requirements",
-                "url": "https://music.uga.edu/graduate-piano-audition-requirements"
+                "url": "https://www.music.uga.edu/graduate-piano-audition-requirements"
               }
             ]
           },
           "englishScores": {
-            "value": "UGA Graduate School accepts TOEFL or IELTS for English proficiency; Duolingo is no longer accepted as a language proficiency exam as of Fall 2024 admissions cycle; applicants should verify current TOEFL/IELTS minimums on the Graduate School English Language Proficiency page for the term.",
-            "status": "needs_review",
-            "retrievedAt": "2026-05-21",
+            "value": "Minimum scores: TOEFL iBT total score 80, with at least 20 on speaking and writing. Minimum scores: IELTS overall band-width 6.5, with no single band below 6.0. Notes: UGA Graduate School accepts TOEFL or IELTS for English language proficiency. Duolingo English Test is no longer accepted as a language proficiency exam as of the Fall 2024 admissions cycle. Scores submitted to UGA must be official and must not be more than two years old. Exemptions: Applicants whose primary language is English and applicants who received a bachelor's degree or higher from an accredited institution in the U.S. or from an institution in an approved English-speaking country are not required to submit English language proficiency scores.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
             "sources": [
               {
-                "label": "UGA English Language Proficiency",
+                "label": "UGA English Language Proficiency Requirement",
                 "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/"
               }
             ]
