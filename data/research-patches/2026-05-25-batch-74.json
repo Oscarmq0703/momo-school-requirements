@@ -1,0 +1,208 @@
+{
+  "schools": [
+    {
+      "id": "west-virginia-university",
+      "sourceStatus": "verified",
+      "programTargets": [
+        "mm_piano_performance",
+        "mm_collaborative_piano"
+      ],
+      "officialSources": [
+        {
+          "label": "WVU School of Music Graduate Programs",
+          "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+        },
+        {
+          "label": "WVU School of Music Graduate Level Program Requirements",
+          "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+        },
+        {
+          "label": "WVU First-Time Graduate Applicant",
+          "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant"
+        },
+        {
+          "label": "WVU English Language Proficiency Requirements",
+          "url": "https://graduateadmissions.wvu.edu/how-to-apply/international-graduate-applicant/english-language-proficiency-requirements"
+        },
+        {
+          "label": "WVU School of Music Graduate Application",
+          "url": "https://www.cognitoforms.com/westvirginiauniversity2/officialgraduateapplicationfortheschoolofmusicgraduatestudiesprogramatwestvirginiauniversity"
+        }
+      ],
+      "fields": {
+        "mm_piano_performance": {
+          "applicationPortal": {
+            "value": "Apply to West Virginia University through the WVU graduate application and complete the separate WVU School of Music Graduate Application. The School of Music Graduate Programs page lists Performance MMus and Piano Pedagogy MMus among the graduate music degrees. Prospective graduate students in music are required to have completed the appropriate undergraduate degree in music at an accredited institution. WVU's graduate music page outlines a five-step process: apply to West Virginia University, request official transcripts, review audition requirements, submit the WVU School of Music Graduate Application and schedule the audition, and provide three recommendation letters. The School of Music application is required to proceed in the admissions process and lets applicants select the audition within the application. The graduate music page says three recommendations must be provided from individuals who can speak to the applicant's credentials as a musician and as a student. The graduate audition document says piano MM Performance applicants must complete two applications, one for the University and one for the School of Music, include three letters of recommendation, and include a list of solo and collaborative repertoire studied and performed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              },
+              {
+                "label": "WVU School of Music Graduate Level Program Requirements",
+                "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+              },
+              {
+                "label": "WVU First-Time Graduate Applicant",
+                "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: WVU graduate application plus WVU School of Music Graduate Application. Application fee: $75. Notes: the School of Music Graduate Programs page says the WVU application includes a $75 application fee. Notes: the First-Time Graduate Applicant page says applicants create an account, complete the graduate application, pay the $75 application fee, and submit the application. Notes: application fee waivers are available for current WVU and WVU Medicine employees, United States active military personnel and veterans, and AmeriCorps and Peace Corps members.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              },
+              {
+                "label": "WVU First-Time Graduate Applicant",
+                "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "Applicants must review the School of Music graduate audition requirements and submit the WVU School of Music Graduate Application to proceed in the admissions process. Applicants may select the audition within the School of Music application. The official Graduate Level Program Requirements document lists Piano MM in Performance audition requirements. Piano applicants must complete two applications, one for the University and one for the School of Music. Three letters of recommendation should be included. Applicants must include a list of solo and collaborative repertoire studied and performed. The piano MM audition may be submitted as video links of performances within the past year. Video links through YouTube or other file-sharing sites are recommended and should not require passwords. The School of Music graduate page says the priority deadline for assistantship consideration is March 1 and the final application deadline is July 1.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              },
+              {
+                "label": "WVU School of Music Graduate Level Program Requirements",
+                "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate prescreening repertoire is listed for Piano MM in Performance in WVU's current Graduate Level Program Requirements document. Final audition repertoire: Solo piano audition repertoire requires a minimum of 50-60 minutes of solo piano music representing at least three contrasting styles. Additional repertoire notes: The audition may be submitted as video links of performances within the past year. Additional repertoire notes: Video links through YouTube or other file-sharing sites are recommended, with no passwords. Additional repertoire notes: To apply, students must complete two applications, one for the University and one for the School of Music. Additional repertoire notes: Three letters of recommendation should be included. Additional repertoire notes: Applicants should include a list of solo and collaborative repertoire studied and performed.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Level Program Requirements",
+                "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "March 1: priority deadline for assistantship consideration. March 1: priority consideration for graduate awards is given to students who have completed admission files by this date. July 1: final application deadline. Program note: the School of Music graduate page lists March 1 as the priority deadline for assistantship consideration and July 1 as the final application deadline. Program note: the School of Music application is required to proceed in the admissions process and applicants may select the audition within that application.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT through January 2026, including Home Edition, requires 79. Minimum scores: TOEFL iBT after January 2026, including Home Edition, requires 4.0. Minimum scores: Academic IELTS requires 6.5. Minimum scores: TOEFL Essentials requires 9.0. Minimum scores: Duolingo English Test requires 105. Minimum scores: PTE Academic requires 53. Notes: WVU does not section or sub-score requirements for regular admission when the overall or total score is met. Notes: WVU does not accept expired scores, scores it cannot verify, General IELTS, or institutional TOEFLs including TOEFL ITP. Notes: graduate programs may set higher score requirements, and applicants should check with the program contact in the graduate program database. Exemptions: applicants with citizenship or a bachelor's degree from a qualifying exempt country do not need to submit scores to meet the English language proficiency requirement. Exemptions: qualifying exempt countries include the United States and its territories, United Kingdom, Canada, Australia, New Zealand, Republic of Ireland, India, and other countries listed on WVU's English proficiency page. Notes: applicants may report score verification in the application or applicant portal; if WVU can verify the scores, official results do not have to be sent, but if verification problems occur, scores must be sent directly from the testing agency. Notes: WVU offers Intensive English Program conditional admission consideration for many applicants, but not all applicants or programs are eligible. Program note: Graduate Teaching Assistantship eligibility may require additional spoken English requirements, including TOEFL speaking 22 through January 2026, TOEFL speaking 4.5 after January 2026, or IELTS speaking 7.5; applicants with PTE or Duolingo scores or lower TOEFL/IELTS speaking scores must pass a WVU administrator interview.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU English Language Proficiency Requirements",
+                "url": "https://graduateadmissions.wvu.edu/how-to-apply/international-graduate-applicant/english-language-proficiency-requirements"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "applicationPortal": {
+            "value": "WVU does not list a separate Collaborative Piano MMus degree on the School of Music Graduate Programs page; however, the official Graduate Level Program Requirements document includes a specific Piano MM in Performance pathway for students who want to prioritize collaborative piano audition repertoire. Apply through the WVU graduate application and the separate WVU School of Music Graduate Application. Students following the collaborative-priority piano audition route must complete two applications, one for the University and one for the School of Music, include three letters of recommendation, and include a list of solo and collaborative repertoire studied and performed. The recommendation letters should describe solo and collaborative performance as well as sight reading and music learning abilities.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              },
+              {
+                "label": "WVU School of Music Graduate Level Program Requirements",
+                "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+              },
+              {
+                "label": "WVU First-Time Graduate Applicant",
+                "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant"
+              }
+            ]
+          },
+          "applicationFee": {
+            "value": "Application portal: WVU graduate application plus WVU School of Music Graduate Application. Application fee: $75. Notes: the School of Music Graduate Programs page says the WVU application includes a $75 application fee. Notes: the First-Time Graduate Applicant page says applicants create an account, complete the graduate application, pay the $75 application fee, and submit the application. Notes: application fee waivers are available for current WVU and WVU Medicine employees, United States active military personnel and veterans, and AmeriCorps and Peace Corps members.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              },
+              {
+                "label": "WVU First-Time Graduate Applicant",
+                "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant"
+              }
+            ]
+          },
+          "auditionRequirements": {
+            "value": "WVU's official Graduate Level Program Requirements document lists collaborative-priority repertoire inside the Piano MM in Performance section, not as a separate collaborative piano degree. The audition, including collaborative works, may be submitted as video links from performances within the past year. Video links through YouTube or other file-sharing sites are recommended and should not require passwords. Applicants must complete two applications, one for the University and one for the School of Music. Three recommendation letters should be included, and these letters should describe solo and collaborative performance as well as sight reading and music learning abilities. Applicants should include a list of solo and collaborative repertoire studied and performed. Sight reading may also be included in the audition.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Level Program Requirements",
+                "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+              },
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              }
+            ]
+          },
+          "repertoireRequirements": {
+            "value": "Prescreening repertoire: No separate prescreening repertoire is listed for the collaborative-priority Piano MM in Performance pathway in WVU's current Graduate Level Program Requirements document. Final audition repertoire: Students who want to prioritize collaborative piano audition repertoire should prepare two contrasting solo works, memorized. Final audition repertoire: Prepare one movement of an instrumental sonata from the standard repertoire and two contrasting art songs from the standard repertoire. Final audition repertoire: Sight reading may also be included. Additional repertoire notes: The audition, including collaborative works, may be submitted as video links from performances within the past year. Additional repertoire notes: Video links through YouTube or other file-sharing sites are recommended, with no passwords. Additional repertoire notes: WVU's School of Music graduate degree list does not identify this as a separate Collaborative Piano MMus degree; it is listed as a collaborative-priority repertoire option under Piano MM in Performance.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Level Program Requirements",
+                "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "March 1: priority deadline for assistantship consideration. March 1: priority consideration for graduate awards is given to students who have completed admission files by this date. July 1: final application deadline. Program note: the School of Music graduate page lists March 1 as the priority deadline for assistantship consideration and July 1 as the final application deadline. Program note: the collaborative-priority repertoire is part of the Piano MM in Performance audition requirements, and the School of Music application is required to proceed in the admissions process.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU School of Music Graduate Programs",
+                "url": "https://creativeartsandmedia.wvu.edu/school-of-music/music-graduate"
+              },
+              {
+                "label": "WVU School of Music Graduate Level Program Requirements",
+                "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vSMsyRkNLNZCZbWcE6kZmHWD_gUf7hZ1F3QXI1zcM-YuaIQmgPMR_MlZoDEZLk-xmSeOYzYUlBGZJg-/pub"
+              }
+            ]
+          },
+          "englishScores": {
+            "value": "Minimum scores: TOEFL iBT through January 2026, including Home Edition, requires 79. Minimum scores: TOEFL iBT after January 2026, including Home Edition, requires 4.0. Minimum scores: Academic IELTS requires 6.5. Minimum scores: TOEFL Essentials requires 9.0. Minimum scores: Duolingo English Test requires 105. Minimum scores: PTE Academic requires 53. Notes: WVU does not section or sub-score requirements for regular admission when the overall or total score is met. Notes: WVU does not accept expired scores, scores it cannot verify, General IELTS, or institutional TOEFLs including TOEFL ITP. Notes: graduate programs may set higher score requirements, and applicants should check with the program contact in the graduate program database. Exemptions: applicants with citizenship or a bachelor's degree from a qualifying exempt country do not need to submit scores to meet the English language proficiency requirement. Exemptions: qualifying exempt countries include the United States and its territories, United Kingdom, Canada, Australia, New Zealand, Republic of Ireland, India, and other countries listed on WVU's English proficiency page. Notes: applicants may report score verification in the application or applicant portal; if WVU can verify the scores, official results do not have to be sent, but if verification problems occur, scores must be sent directly from the testing agency. Notes: WVU offers Intensive English Program conditional admission consideration for many applicants, but not all applicants or programs are eligible. Program note: Graduate Teaching Assistantship eligibility may require additional spoken English requirements, including TOEFL speaking 22 through January 2026, TOEFL speaking 4.5 after January 2026, or IELTS speaking 7.5; applicants with PTE or Duolingo scores or lower TOEFL/IELTS speaking scores must pass a WVU administrator interview.",
+            "status": "verified",
+            "retrievedAt": "2026-05-25",
+            "sources": [
+              {
+                "label": "WVU English Language Proficiency Requirements",
+                "url": "https://graduateadmissions.wvu.edu/how-to-apply/international-graduate-applicant/english-language-proficiency-requirements"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

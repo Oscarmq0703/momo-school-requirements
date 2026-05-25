@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-university-of-washington-audit-v62";
+const DATA_VERSION = "2026-05-25-west-virginia-university-audit-v63";
 
 const state = {
   data: null,
