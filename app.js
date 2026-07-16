@@ -38,7 +38,7 @@ const STATUS_CLASS = {
   verified: "verified",
 };
 
-const DATA_VERSION = "2026-05-25-new-banner-v68";
+const DATA_VERSION = "2026-07-16-first-ten-refresh-v69";
 
 const state = {
   data: null,

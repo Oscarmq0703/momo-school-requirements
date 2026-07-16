@@ -1,0 +1,192 @@
+{
+  "schools": [
+    {
+      "id": "arizona-state-university",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_piano_performance": {
+          "auditionRequirements": {
+            "value": "Piano Solo MM audition dates: November 14, 2026 on campus for spring admission only; January 23, 2027 on campus; February 6, 2027 on campus; February 20, 2027 on campus and reserved for out-of-state applicants; recorded audition due February 1, 2027 and requires attendance at Virtual Experience Day on February 13, 2027. The recorded audition option is only available to master's applicants; in-person audition is highly recommended for scholarship and teaching-assistantship consideration. Recorded audition applicants join a large group meeting with keyboard faculty on February 13, 2027 and do not need to play piano on the virtual day. Recorded auditions are submitted in the music application through YouTube or Vimeo links and must follow ASU recording/submission guidelines. Applicants interested in a class-piano teaching assistantship must select Yes in the music application and upload a piano teaching demonstration in English with two complete lessons, preferably students at different levels; recommendation letters should address teaching ability.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application deadline: Spring 2027 MM Performance: Voice, Music Theatre and Opera, Piano deadline is October 1, 2026. Application deadline: Fall 2027 Performance: Conducting, Instrumental, Keyboard, Voice, Music Theatre and Opera deadline is December 1, 2026. Application deadline: ASU asks applicants to submit the Graduate Application, Music Application, and Proof of English Proficiency by the program application deadline. Recorded audition deadline: Fall 2027 recorded auditions for performance, pedagogy, and therapy applicants are due February 1, 2027, but the fully submitted music application is still due by December 1, 2026. Spring 2027 recorded-audition note: the official ASU table is under Spring 2027 but still displays November 1, 2025 in the recorded-audition row; confirm the spring recorded-audition date with ASU before relying on it. Audition dates: Piano Solo on-campus dates are November 14, 2026 for spring admission only, January 23, 2027, February 6, 2027, and February 20, 2027 for out-of-state applicants. Decision deadline: April 15 is the national deadline for graduate admission decisions when an offer is made.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
+              },
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "auditionRequirements": {
+            "value": "Collaborative Piano MM audition dates: November 14, 2026 on campus for spring admission only; January 30, 2027 on campus; February 13, 2027 on campus. An audition is required. The ASU graduate music application page lists MM Piano Solo/Collaborative as live and in-person or uploaded recorded audition, and Fall 2027 recorded auditions are due February 1, 2027; the Collaborative Piano audition page separately lists the on-campus dates and partner logistics as the area-specific instructions. Applicants must email audition repertoire choices to the Collaborative Piano faculty by January 10 for fall admission. Applicants may bring their own collaborative partner or use one provided by ASU; if using ASU partners, repertoire substitutions are not allowed. Exact rehearsal and audition times are sent one week before the audition day. Tests in sight-reading and foreign languages are given. Applicants are asked about prior language study and assessed on pronunciation in French, German, and Italian.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              },
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Application deadline: Spring 2027 MM Performance: Voice, Music Theatre and Opera, Piano deadline is October 1, 2026. Application deadline: Fall 2027 Performance: Conducting, Instrumental, Keyboard, Voice, Music Theatre and Opera deadline is December 1, 2026. Application deadline: ASU asks applicants to submit the Graduate Application, Music Application, and Proof of English Proficiency by the program application deadline. Collaborative Piano repertoire-choice email deadline: January 10 for fall admission. Audition dates: Collaborative Piano on-campus dates are November 14, 2026 for spring admission only, January 30, 2027, and February 13, 2027. Recorded audition deadline: Fall 2027 recorded auditions for performance, pedagogy, and therapy applicants are due February 1, 2027, but the Collaborative Piano audition page specifically lists on-campus audition dates and partner logistics. Decision deadline: April 15 is the national deadline for graduate admission decisions when an offer is made.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "ASU Graduate Music Admission",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission"
+              },
+              {
+                "label": "ASU Graduate Music Audition / Interview",
+                "url": "https://musicdancetheatre.asu.edu/admission/graduate-music-admission/audition-interview"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ball-state-university",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_piano_performance": {
+          "auditionRequirements": {
+            "value": "Performance applicants must complete an audition for admission to the School of Music. For piano degree programs, Ball State strongly encourages a live audition but accepts recorded auditions. Published graduate audition dates for the 2027 cycle are Sunday February 7, Monday February 15, Saturday February 20, and Sunday February 21, 2027. For on-campus auditions, applicants submit the completed School of Music application, including preferred audition date, by January 1. Video audition applicants select Recorded Audition in the application; faculty may follow up with a video interview. Applicants unable to attend published audition days may email musicaudition@bsu.edu about an ad hoc audition. For full graduate assistantship consideration, Ball State advises submitting the application and completing the audition by March 1.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Program application deadline for Music (MM) - Performance: February 1 to start in Fall; December 1 to start in Spring; for Summer, the application must be completed two weeks before the semester begins. On-campus School of Music audition scheduling deadline: January 1 for the completed School of Music application with preferred audition date. Listed on-campus graduate audition dates for the 2027 cycle: February 7, February 15, February 20, and February 21, 2027. Graduate assistantship full-consideration advisory date: submit the application and complete the audition by March 1. International applicants must submit all materials by the earliest applicable deadline, either the international deadline or the program deadline; Ball State lists international application deadlines as June 15 for Fall, November 15 for Spring, and March 15 for Summer.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "Ball State Music MM Performance Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-performance"
+              },
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              },
+              {
+                "label": "Ball State International Steps to Admission",
+                "url": "https://www.bsu.edu/admissions/international/steps-to-admission"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "auditionRequirements": {
+            "value": "Piano Accompany applicants must complete an audition/portfolio for admission to the School of Music. For piano degree programs, Ball State strongly encourages a live audition but accepts recorded auditions. Published graduate audition dates for the 2027 cycle are Sunday February 7, Monday February 15, Saturday February 20, and Sunday February 21, 2027. For on-campus auditions, applicants submit the completed School of Music application, including preferred audition date, by January 1. Video audition applicants select Recorded Audition in the application; faculty may follow up with a video interview. Applicants unable to attend published audition days may email musicaudition@bsu.edu about an ad hoc audition. For full graduate assistantship consideration, Ball State advises submitting the application and completing the audition by March 1.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              },
+              {
+                "label": "Ball State Music MM Piano Accompany Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-piano"
+              }
+            ]
+          },
+          "deadlines": {
+            "value": "Program application deadline for Music (MM) - Piano Accompany: February 1 to start in Fall; December 1 to start in Spring; for Summer, the application must be completed two weeks before the semester begins. On-campus School of Music audition scheduling deadline: January 1 for the completed School of Music application with preferred audition date. Listed on-campus graduate audition dates for the 2027 cycle: February 7, February 15, February 20, and February 21, 2027. Graduate assistantship full-consideration advisory date: submit the application and complete the audition by March 1. International applicants must submit all materials by the earliest applicable deadline, either the international deadline or the program deadline; Ball State lists international application deadlines as June 15 for Fall, November 15 for Spring, and March 15 for Summer.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "Ball State Music MM Piano Accompany Application",
+                "url": "https://www.bsu.edu/admissions/graduate/apply?dyno=masters-music-mm-piano"
+              },
+              {
+                "label": "Ball State Graduate Auditions",
+                "url": "https://www.bsu.edu/academics/collegesanddepartments/music/auditions-and-admissions/graduate-auditions"
+              },
+              {
+                "label": "Ball State International Steps to Admission",
+                "url": "https://www.bsu.edu/admissions/international/steps-to-admission"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "boston-conservatory-at-berklee",
+      "sourceStatus": "verified",
+      "fields": {
+        "mm_piano_performance": {
+          "auditionRequirements": {
+            "value": "Prescreening: Piano requires a pre-screen; all piano applicants must submit a pre-screen video recording by the application deadline before they can be considered for a live audition. Scheduling: after the application is submitted, applicants receive instructions to register for an audition in the application portal under My Events; if the major requires a pre-screen, the pre-screen must be submitted by the deadline first. Audition format: Boston Conservatory strongly encourages in-person auditions when possible, but offers regional and online alternatives as permitted; online auditions are held live on Zoom and use the same audition requirements as in-person auditions. 2027 Piano audition dates: January 17, 2027 on campus; February 7, 2027 on campus; February 14, 2027 on campus; February 21, 2027 on campus.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "Boston Conservatory Audition Process",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-process"
+              },
+              {
+                "label": "Boston Conservatory Audition Dates and Locations",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-dates-and-locations"
+              },
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          }
+        },
+        "mm_collaborative_piano": {
+          "auditionRequirements": {
+            "value": "Prescreening: Collaborative Piano does not require a pre-screen. On-campus audition logistics: for auditions in Boston, the Conservatory provides a violinist and singers for the live audition, plus a rehearsal period before the audition. Scheduling: after the application is submitted, applicants receive instructions to register for an audition in the application portal under My Events. Audition format: Boston Conservatory strongly encourages in-person auditions when possible, but offers regional and online alternatives as permitted; online auditions are held live on Zoom and use the same audition requirements as in-person auditions. 2027 Collaborative Piano audition date: February 15, 2027 on campus.",
+            "status": "verified",
+            "retrievedAt": "2026-07-16",
+            "sources": [
+              {
+                "label": "Boston Conservatory Audition Process",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-process"
+              },
+              {
+                "label": "Boston Conservatory Audition Dates and Locations",
+                "url": "https://bostonconservatory.berklee.edu/admissions/audition-dates-and-locations"
+              },
+              {
+                "label": "Boston Conservatory Graduate Music Audition Requirements",
+                "url": "https://bostonconservatory.berklee.edu/admissions/graduate-music-audition-requirements"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
